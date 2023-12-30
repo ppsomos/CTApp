@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Grooming MCQS
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - 'There are 3 workers working for the same pay rate. The 1st one has worked for
+    2 days in total, the 2nd for 3 days and the 3rd for 5 days. Their employer will
+    provide 900 euros for all of them, depending on the days each one of the workers
+    has worked. How many euros will the 3rd worker get? '
+  - What number should replace the question mark? 14, 16, 28, 32, 42, 48, 56, 64,
+    ?, ?
+  - What number is missing?
+  - Doctor - Hospital. Which of the following has the same relationship with that?
+  - Which one is the most suitable answer?
+  - Which one is the most suitable answer?
+  - 'What number is missing? '
+  - What does an arrow represent in a FLOWCHART?
+  - A monkey is trying to climb up a wall of 20 m height. In one jump, it goes up
+    by 3 m but slips down by 2 m. In how many jumps it will get to the top. After
+    getting to the top the money won't slip down.
+  - What comes next in the sequence?
+  - What replaces the question mark?
+  - This is the London undergrounds station map. How many stops are there between
+    Dido Elizabeth Belle and Katherine Auker using only the dark blue line?
+  - "An employee\u2019s weekly pay depends on the pay rate and the number of worked
+    hours per week. The minimum worked hours is one hour per week, and the maximum
+    is 60. An employee who works more than 40 hours is paid 1.5 times the normal
+    pay rate for all hours worked over 40. Normal pay is $10/hour. Below is a flow
+    diagram to calculate and output the weekly pay for any employee. What is the
+    output if the input is 45 hours? "
+  - '10 items with prices (5, 1, 1, 10, 8, 10, 5, 3, 2, 8) are available in an auction.
+    There is a special offer in this auction: buy 3 devices and get the device with
+    the lowest price among these 3 devices for free. What is the minimum total cost
+    to buy all 10 devices in this auction? '
+  - You want to solve a puzzle. Where do you start?
+  - 'Read the following sentences and choose the response that best suit a halthy
+    conversation: "I just got a bad grade on my Computational thinking quiz"'
+  - 'Read the following sentences and choose the response that is not constructive
+    criticism skill.:'
+  - 'Read the following sentences and choose the answer that does not contain ONLY
+    basic life support. Tips: The explanation of basic life support can be simplified
+    by saying that is "a set of techniques that helps with rapid response to emergency
+    life-threatening situations"'
+  - You are in a company meeting and the leader is talking about ways to achieve
+    their goals. What would an autocratic leader do? What would a democratic leader
+    do? What would a laissez-faire leader do?  Choose the answer that is incorrect
+    and wrong for this scenario.
+  - 'When starting to learn to form sentences in a foreign language, you should:'
+  - 'The fastest correct method to add up all the integers from 1 to 10 in your head
+    is:'
+  - 'To add up all the integers from 1 to 20 in 10 seconds, in memory only, you should:'
+  - 'To draw a green square 150px x 150px the program must go through the following
+    steps in the order given:'
+  - How should the knight (a chess figure that can move two fields horizontally and
+    one vertically, or two vertically and one horizontally) move from the middle
+    field of the 5x5 board to the top right corner of the board?
+  - "A colony of beavers is travelling through a dark forest. The path is narrow,
+    so they travel in a row without passing. Sometimes there is a hole in the path.
+    A hole is passed in the following manner: \u2022 First as many beavers jump into
+    the hole as fit in. \u2022 The entire colony will then pass across the hole.
+    \u2022 The beavers that jumped in will then climb out. Question: A colony of
+    7 beavers passed through the forest. They pass over 3 holes. The first hole fits
+    4 beavers, the second fits 2, and in the last hole fit 3 beavers. What order
+    do the beavers find themselves after they have passed the third hole?"
+  Question_Explanation:
+  - Let's think about this problem in a more simplified way. So, the employer wants
+    to offer 900 euros for all of the workers, and each one of them will get paid
+    based on the number of days they have worked (have in mind that all of them work
+    for the same pay rate). So, in total, all of them have completed 10 days worth
+    of work (2+3+5=10 working days). If we want to find how much each working day
+    will cost, we will divide the total amount to be paid with the number of working
+    days.That means that each day costs 90 euros (900 euros/10 days = 90 euros).
+    Therefore, the 3rd worker, who has worked for 5 days, will get 90x5=450 euros!
+  - "This is all about finding the pattern! There are 2 sequences here, which are
+    interwined. The first is adding 14 (14, 28, 42, 56, 70,\u2026,) and the second
+    is adding 16 (16, 32, 48, 64, 80,\u2026,)"
+  - Lets find the pattern here! The pattern is that each number consists of the last
+    three digits of the previous one (in first order) plus the first two digits of
+    the previous one (in last order). Thus, since the previous number is 67428, the
+    missing number will be 42867
+  - How are the words doctor and hospital related? The doctor works at the hospital.
+    In the same sense, the farmer works at the farm.
+  - In this example, the first word is a part of the second word. Just like the tree
+    is part of the whole forest, the flower is part of the bouquet!
+  - The verbs running and talking indicate a fast pace, while the verbs walking and
+    spelling a slower pace.
+  - The correct number is 6! That is because each number from the upper row is multiplied
+    with its previous integer and the second row is the sum, for example, 7x6=42
+  - An arrow can guide us along the flowcharting path.
+  - 'So, let''s start by simplifying the question. So, the monkey goes with one jump
+    3 feet up but slips down by 2 feet. So in one jump he actually gets to the height
+    of 1 foot. So, let''s count how many jumps he will need to reach the top of the
+    wall. Counting? Finished? when he reaches 17 feet and when he makes the 18th
+    jump of 3 feet, he will reach the top of the wall and will not slip down. If
+    you want to use math, the calculation is simple => every jump for the monkey
+    is actually 3-2=1 on reaching 3 feet. 20-3=17 feet. He has to jump for 17/1=17
+    jumps, on the jump of 18, he will get to the top.  '
+  - Try to understand the pattern that each elemnets follow and then check them together.
+    What changes? how changes?The circles inside and outside the box switch color
+    after each turn. The line movement follows the direction between the two circles,
+    with the dot point to the outside circle direction. Considering patterns mentioned,
+    after the last box, the white circle should be inside the gray box and the dot
+    point should always follow the same direction. So, the only correct answer following
+    the sequence is box E. The answer to the question is d.
+  - The sum of the sides of all the figures increases with each tile. A circle counts
+    as one side. The central shape changes colour with each tile. The correct answer
+    is F.
+  - 'First, find the two stops mentioned in the question. Once found, keep following
+    the dark blue line. One tip is to not miss the stops without the dot.  '
+  - 'The weekly pay equals to the multiplication between the pay rates and the total
+    worked hours. Keep in mind that the hour pay rate is different atfer 40 hours. '
+  - To solve this question, it's better to order the items from the highest to lowest
+    price. The order will be 10, 10, 8, 8, 5, 5, 3, 2, 1, 1. So, in this auction,
+    you can buy three devices and get the one with the lowest price for free. Try
+    to write down scenarios. Start from the first 3, 10 + 10 + 8 (will be free) =
+    20, 8 + 5 + 5 (will be free) = 13, ... write down the rest and sum all.
+  - The correct answer is either A or C, they are both acceptable. However, C is
+    the perfect answer ans it is considering all the possible problems and solutions.
+  - The correct answer is D. Answer A is empathetic but does not follow up. Answer
+    B is quiestioning the reason behind the problem but nothing more. Answer C is
+    inspirational but not empathetic. Answer D is empathetic, inspirational, apologetic
+    and looking for the reason
+  - The correct answer is B as this is destructive criticism. All the other answers
+    are fostering constructive critisim skills.
+  - The correct answer is D because it does not contain a basic life support action
+    plan.  Defribiliation is basic life support -however - walking away is exactly
+    the opposite. In fact, you cannot walk away as it is an omission of support.
+  - The answer to choose is C as this is the only incorrect and wrong answer for
+    the scenario.  All the other answers are correct.
+  - Learning languages is like brewing tea. In order to write/say something according
+    to the grammar, you need to know the language guide. Grammar can be compared
+    to a cooking recipe, explaining all the steps needed to prepare a dish. But first
+    of all, we need to know the ingredients!  The ingredients in language grammar
+    are, for example, the subject and the verb.  Dividing sentences into ingredients
+    will improve your learning - try it! The same goes for learning how to build
+    structures
+  - 'If you were to add ten tens, it would be easy. The sum would be 100. This looks
+    interesting, so try to start the addition with the last number, that is, 10.
+    Add to it the sum of the first and the second-to-last, that is, 1 + 9 and proceed
+    like this. The addition would then look like this:  10 + 1 + 9 + 2 + 8 + 3 +
+    7 + 4 + 6.  You have five rows and in each the sum is 10. You have thus decomposed
+    a complex arithmetic operation into a series of simple components. Five tens,
+    is 50, and 50, is half of 100. That is, 100 / 2. You are left with 5 more to
+    add. All together, it is 100 / 2 + 5, or 55. Can you see the pattern now that
+    will simplify the calculations? Now check if 55 is a good result by adding all
+    the numbers from 1 to 10 one by one. '
+  - If you add up the first and last number you have to add, which is 1 + 20, you
+    get 21. You have 10 such pairs. These are the building blocks you discovered
+    by decomposing a complex computation. So 10 x 21 = 210. This is the pattern for
+    such calculations. Now check if 210 is a good result by adding all the numbers
+    from 1 to 20 one by one on a piece of paper, in a calculator or on a computer.
+    You can also try in memory :)
+  - 'The rationale behind the given sequence of steps to draw a green square 150px
+    x 150px is based on the principles of computational thinking.   Computational
+    thinking is a problem-solving approach that involves breaking down a complex
+    problem into smaller, more manageable parts, and then systematically analyzing
+    and solving each part. It involves a series of steps, such as problem decomposition,
+    pattern recognition, abstraction, algorithm design, and evaluation.   In this
+    case, the problem is to draw a green square of size 150px x 150px. To solve this
+    problem using computational thinking, we can break it down into smaller steps
+    and design an algorithm to perform those steps in a specific order.   The given
+    sequence of steps follows the following rationale:  a) Go to the starting place:
+    This step ensures that the program starts drawing the square from the desired
+    position on the canvas. Without this step, the square may be drawn in an unintended
+    location on the canvas.  b) Set the color of the pen to green: This step sets
+    the color of the pen to green, which will be used to draw the square. Without
+    this step, the pen may use a different color, which will not result in a green
+    square.  c) Move 150px: This step moves the pen 150px in a straight line, which
+    will form one side of the square. This step is repeated three times in total
+    to draw all four sides of the square.  d) Rotate clockwise 90 degrees: This step
+    rotates the pen 90 degrees clockwise, which will orient the pen to draw the next
+    side of the square at a right angle to the previous side. Without this step,
+    the pen would draw the next side in the same direction as the previous side,
+    resulting in a rectangle instead of a square.  e) Repeat the above two steps
+    3 times: This step repeats the previous two steps (move 150px and rotate 90 degrees)
+    three times to draw all four sides of the square. Without this step, the program
+    would only draw one side of the square, leaving it incomplete.  Therefore, the
+    given sequence of steps is essential to draw a green square of size 150px x 150px
+    in the intended location and orientation.'
+  - 'To reach the upper right corner on a 5x5 board starting from the central square
+    position, the knight should move in a particular sequence of moves. The optimal
+    moves to take are:  1. Move 2 squares down and 1 square right. 2. Move 2 squares
+    left and 1 square up. 3. Move 2 squares up and 1 square right. 4. Move 2 squares
+    right and 1 square up. OR 1. Move 2 squares up and 1 square right. 2. Move 2
+    squares down and 1 square right. 3. Move 2 squares left and 1 square up. 4. Move
+    2 squares right and 1 square up.  There are a couple of reasons why these moves
+    are the optimal solution to reach the upper right corner from the central square
+    position.  First, the initial move of 2 squares down and 1 square right (or 2
+    squares up and 1 square right) is the most efficient move to get the knight closer
+    to the corner. It moves the knight 2 squares towards the corner while maintaining
+    its position on the board.  Next, the sequence of moves that follow are designed
+    to get the knight as close to the upper right corner as possible. By moving 2
+    squares left and 1 square up, the knight moves closer to the upper edge of the
+    board. The subsequent move of 2 squares up and 1 square right moves the knight
+    closer to the corner once again. Finally, the move of 2 squares right and 1 square
+    up gets the knight to the upper right corner.  This sequence of moves ensures
+    that the knight always moves towards the corner while remaining on the board.
+    By using these optimal moves, the knight can reach the upper right corner in
+    the shortest number of moves possible from the central square position.  Overall,
+    the optimal sequence of moves to reach the upper right corner on a 5x5 board
+    starting from the central square position involves careful planning and consideration
+    of the knight''s movement rules. By analyzing the possible moves and evaluating
+    their efficiency, we can determine the optimal solution to the problem.  This
+    sequence of moves ensures that the knight always moves towards the corner while
+    remaining on the board. By using these optimal moves, the knight can reach the
+    upper right corner in the shortest number of moves possible from the central
+    square position.  Overall, the optimal sequence of moves to reach the upper right
+    corner on a 5x5 board starting from the central square position involves careful
+    planning and consideration of the knight''s movement rules. By analyzing the
+    possible moves and evaluating their efficiency, we can determine the optimal
+    solution to the problem.  From a computational thinking perspective, finding
+    the optimal sequence of moves for a knight to reach the upper right corner of
+    a 5x5 board starting from the central square position involves several important
+    computational thinking concepts:      Decomposition: To solve the problem, we
+    need to decompose it into smaller sub-problems. Specifically, we need to identify
+    the possible moves that a knight can make and evaluate each move''s efficiency
+    in terms of getting the knight closer to the target location.      Pattern recognition:
+    We can apply pattern recognition skills to identify the moves that are most efficient
+    for the knight to reach the upper right corner. Specifically, we can recognize
+    that the moves that involve moving 2 squares down and 1 square right or 2 squares
+    up and 1 square right are the most efficient because they move the knight towards
+    the target location while also maintaining the knight''s position on the board.     
+    Abstraction: We can abstract the problem by treating the chessboard as a 5x5
+    grid of cells and the knight''s moves as a set of rules that dictate how the
+    knight can move between cells. This abstraction allows us to simplify the problem
+    and focus on the essential elements necessary to solve it.      Algorithmic thinking:
+    To find the optimal sequence of moves for the knight to reach the upper right
+    corner, we need to develop a systematic and repeatable approach. Specifically,
+    we need to evaluate each of the eight possible moves the knight can make and
+    choose the moves that move the knight towards the target location while also
+    keeping the knight on the board.      Evaluation: Finally, we need to apply logical
+    reasoning skills to evaluate each move''s efficiency and choose the best moves
+    for the knight to make. This involves understanding the rules for how the knight
+    can move on the board, identifying the goal of the problem, and using evaluation
+    to determine the optimal solution.  Overall, the problem of finding the optimal
+    sequence of moves for a knight to reach the upper right corner of a 5x5 board
+    starting from the central square position involves applying several key computational
+    thinking concepts and skills, including decomposition, pattern recognition, abstraction,
+    algorithmic thinking, and evaluation. By applying these skills, we can determine
+    the most efficient sequence of moves for the knight to reach its destination.'
+  - "Step 1: Decomposition To solve the problem, we need to break it down into smaller
+    parts. We need to determine the order in which the beavers will come out of the
+    third hole. To do this, we need to analyze each hole and how it affects the order
+    of the beavers.  Step 2: Pattern Recognition We need to look for patterns in
+    the way the beavers pass the holes. For each hole, the beavers that jump in will
+    come out last. The beavers that pass the hole before the ones that jump in will
+    come out first, followed by the ones that jump in. The beavers that pass the
+    hole after the ones that jump in will be first.  Step 3: Abstraction We need
+    to abstract the information we have gathered and keep track of the order of the
+    beavers after passing each hole based on the number of beavers that jump in and
+    the order of the beavers before and after each hole.  Let's abstract the idea
+    of solution. General steps of abstraction can be noted as follows:      We need
+    to keep track of the order of the beavers after passing each hole.     For each
+    hole, we need to determine which beavers jump in and which ones pass the hole.    
+    We need to determine the order of the beavers that pass the hole before and after
+    the ones that jump in.  Step 4: Algorithm design Based on the information in
+    the problem, we can determine the order of the beavers after passing the third
+    hole. We can start by looking at the order of the beavers before passing the
+    first hole. Since 4 beavers jump into the first hole, the first four beavers
+    in the original order will be the last ones to come out of the first hole. We
+    also have to remember about reversing the orger of beavers leaving the hole.
+    Repeating this steps for each hole will provide the solution.   Let's check the
+    algorithm:   Initially the line is 1 2 3 4 5 6 7 Then after the first hole of
+    depth 4 we have: 5 6 7 4 3 2 1 After the second hole (depth 2) we have: 7 4 3
+    2 1 6 5 After the third hole (depth 3) we get: 2 1 6 5 3 4 7 Organising data
+    in a structured way is important in computer science and there are many different
+    data structures that can be used for this purpose. This task shows an example
+    of a structure called a stack, which works similarly to stacking plates on top
+    of each other. You always add new plates on top of the stack and have to remove
+    them from the top one at a time. This type of structure is commonly referred
+    to as a LIFO-structure \u2013 the objects that have been added last are the first
+    to be removed. (LIFO = Last In First Out). "
+  Op1:
+  - 180
+  - '70, 80 '
+  - 67428
+  - Firefighter - Fire
+  - Flowerpot
+  - Babbling
+  - 8
+  - Data flow
+  - 17
+  - B
+  - C
+  - 6
+  - 475
+  - 39
+  - 1 try a piece 2 the piece fits, move on to the next piece
+  - I am really sorry to hear that
+  - That was a good try, but you are not quite there yet. Try this and see if it
+    works.
+  - 'D - Check for Danger R - Check for a Response '
+  - The Autocratic would not consult the rest of the team and set their own goals
+    and assume that the group members would achieve them up to their expectations.
+  - break the sentence down into subparts like subject, verb, etc.
+  - add 1, 2, 3, 4, etc., up to 10
+  - multiply 10 by 21
+  - go to the starting place, set the color of the pen to green, move 150 px, rotate
+    clockwise 90 degrees, repeat the above two steps 3 times
+  - move 2 squares up and 1 square right, 2 down 1 right, 2 left 1 up, 2 right, 1
+    up
+  - 4756123
+  Op2:
+  - ' 450'
+  - 75, 98
+  - 42768
+  - Fisherman - Fish
+  - Bouquet
+  - Singing
+  - 9
+  - Start
+  - 16
+  - C
+  - D
+  - 8
+  - 415
+  - 41
+  - 1 try a piece 2 returnthe piece to the pile and look for a different piece to
+    try 3 the piece fits move on to the next piece
+  - Why do you think you got a bad grade?
+  - You have got a long way to go, it is like you do not even want to get better.
+  - S - Send for Help A- Open the Airway
+  - 'The Laissez-faire would not set long term goals for the group to achieve and
+    allow members to work at their own pace and independently. '
+  - place subparts like subject, verb, etc. in the right order
+  - multiply 10 by 5 and add 1
+  - add 1, 2, 3, 4, and so on, but really fast
+  - go to the start location; turn right 90 degrees; set pen color to green; move
+    150 px; repeat two above steps 3 times
+  - 'move: 2 squares down and 1 square right, 2 left 1 up, 2 up 1 right, 2 right
+    1 up'
+  - 6574321
+  Op3:
+  - 270
+  - 89, 102
+  - 28647
+  - 'Police officer - Siren '
+  - Petals
+  - Spelling
+  - 6
+  - ' Decision'
+  - 18
+  - D
+  - E
+  - 9
+  - 450
+  - 49
+  - 1 try a piece 2 the piece does not fit, rotate and try all orientations 3 return
+    the piece to the pile and look for a different piece to try 4 the piece fits,
+    move on to the next piece
+  - It was not a hard quiz. I am sure you will do better next time.
+  - 'Even though you did not make it, you were close! '
+  - B - Check for Breathing C - CPR (Cardiopulmonary Resuscitation)
+  - The Autocratic would consult the rest of the team and set their own goals and
+    assume that the group members would achieve them up to their expectations.
+  - name the components like subject, verb etc.
+  - divide 100 by 2 and add 5
+  - add 20, 19, 18, 17 and so on, but very quickly
+  - set the color of the pen to green; move 150 px; rotate clockwise by 90 degrees;
+    go to the starting place; repeat the above two steps 3 times
+  - both of the above steps are correct
+  - 2165347
+  Op4:
+  - 'None of the above '
+  - 82, 98
+  - 42867
+  - Farmer - Farm
+  - Branches
+  - Hushing
+  - 5
+  - Process
+  - 19
+  - E
+  - F
+  - 10
+  - 425
+  - 53
+  - 1 try a piece 2 the piece does not fit, rotate and try all orientations 3 the
+    piece fits, move on to the next piece
+  - I am really sorry to hear that, I am sure you will do better next time but why
+    do you think you got a bad grade?
+  - There are a few things that you can start doing differently. Let me know if you
+    would like me to help.
+  - D- Attach a Defribillation W - Walk away
+  - A Democratic leader would discuss with the group members the goals that would
+    be obtainable. For instance usign the SMART goals (Specific, Measurable, Achieavable,
+    Relevant, Timely)
+  - mix the components such as subject, verb etc. in any order and check comprehension
+  - 'calculate: ((1 + 10 ) x 10) / 2'
+  - add 20, 1, 19, 2, 18, 3, and so on, but really fast
+  - go to the starting place; set the color of the pen to green; ; repeat the above
+    two steps 3 times; move 150 px; rotate right 90 degrees
+  - none of the above solutions is correct
+  - 5761432
+  answersIndex: 01000000000000000300000003000000010000000200000002000000000000000200000003000000030000000100000000000000000000000100000003000000010000000300000002000000000000000200000000000000000000000200000002000000

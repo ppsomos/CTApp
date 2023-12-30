@@ -1,0 +1,341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UILocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UILocalizationTable
+  m_TableCollectionNameGuidString: 8b4c231037f156342b7f2595af6a3e8d
+  m_Entries:
+  - m_Id: 32931401728
+    m_Key: Game Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 885998309376
+    m_Key: GameInfo1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 891635453952
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 900024061952
+    m_Key: GameInfo2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993957265408
+    m_Key: GameInfo3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2004124258304
+    m_Key: Personalization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505859485696
+    m_Key: Enter Name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508141187072
+    m_Key: Choose Your Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508912939008
+    m_Key: 'Language '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3524962111488
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3526971183104
+    m_Key: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3527780683776
+    m_Key: Italian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3935697719296
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3939019608064
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591678476288
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4593532358656
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4595537235968
+    m_Key: Select Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286188109824
+    m_Key: Game Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5288029409280
+    m_Key: Are You Sure You Want To Exit ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6815779475456
+    m_Key: Select Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6816588976128
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6817457197056
+    m_Key: Loading..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7302952079360
+    m_Key: Game Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304042598400
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7823544897536
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7825302310912
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7826095034368
+    m_Key: Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8487448694784
+    m_Key: Projector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8489390657536
+    m_Key: Explanation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8825736089600
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8829594849280
+    m_Key: WrongAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8832681857024
+    m_Key: CorrectAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9206578892800
+    m_Key: Level Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9481217724416
+    m_Key: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9484707385344
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9769383186432
+    m_Key: Congratulations! You have unlocked the next room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9950304489472
+    m_Key: VR Glasses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10332720156672
+    m_Key: Portable GameDevice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10335102521344
+    m_Key: Biometric Scanner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10340769026048
+    m_Key: Congratulations! You have unlocked all Rooms.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10733288771584
+    m_Key: Loading Game Asset...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10738217078784
+    m_Key: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112109805195264
+    m_Key: Language Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113724196999168
+    m_Key: Player1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113726310928384
+    m_Key: Player2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113733021814784
+    m_Key: 'Your Score is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123093571686400
+    m_Key: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123098403524608
+    m_Key: Your Term is Complete now its second player term
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123378750803968
+    m_Key: Match Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124003765014528
+    m_Key: Correct Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124007485362176
+    m_Key: Wrong Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128460519198720
+    m_Key: You need a minimum 50% score to complete the level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030807709634560
+    m_Key: Click to see Image
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11210044051640320
+    m_Key: Congratulations! You have unlocked All rooms.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324995361656832
+    m_Key: 'Total Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324999119753216
+    m_Key: 'Level 1 Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325002378727424
+    m_Key: 'Level 2 Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325011568447488
+    m_Key: 'Level 3 Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325840899788800
+    m_Key: 'Level 4 Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328732947468288
+    m_Key: Start Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12681884146159616
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226368725700608
+    m_Key: Rank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226372236333056
+    m_Key: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226376401276928
+    m_Key: WinMatches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227415170994176
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227650244956160
+    m_Key: MatchPlayed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227656448331776
+    m_Key: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228516909797376
+    m_Key: Leaderboards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228521036992512
+    m_Key: Create Leaderboard ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229159670108160
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229163293986816
+    m_Key: Enter ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230078142992384
+    m_Key: Enter Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230084618997760
+    m_Key: Enter LeaderBoard Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15897670046273536
+    m_Key: Search the leaderboard ID above or create a new one below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898033268805632
+    m_Key: Leaderboard ID is not matched create a new one below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898855843123200
+    m_Key: No records found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15936062389833728
+    m_Key: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15958515434475520
+    m_Key: Rooms Complete
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3264233026131066955
+  references:
+    version: 2
+    RefIds:
+    - rid: 3264233026131066955
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1698750935177

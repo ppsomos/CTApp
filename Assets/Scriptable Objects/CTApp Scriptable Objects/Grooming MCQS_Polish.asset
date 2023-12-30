@@ -1,0 +1,489 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Grooming MCQS_Polish
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - "Za tak\u0105 sam\u0105 stawk\u0119 wynagrodzenia pracuje 3 pracownik\xF3w. Pierwszy
+    z nich pracowa\u0142 \u0142\u0105cznie przez 2 dni, drugi przez 3 dni, a trzeci
+    przez 5 dni. Ich pracodawca zapewni im wszystkim 900 euro, w zale\u017Cno\u015Bci
+    od dni, kt\xF3re ka\u017Cdy z pracownik\xF3w przepracowa\u0142. Ile euro otrzyma
+    trzeci pracownik? "
+  - "Jaka liczby powinny zast\u0105pi\u0107 znaki zapytania? 14, 16, 28, 32, 42,
+    48, 56, 64, ?, ?"
+  - Jakiej liczby brakuje?
+  - "Lekarz - szpital. Pmi\u0119dzy, kt\xF3rymi z poni\u017Cszych element\xF3w zachodzi
+    taki sam zwi\u0105zek?"
+  - "Kt\xF3ra z poni\u017Cszych jest najw\u0142a\u015Bciwsz\u0105 odpowiedzi\u0105?"
+  - " Kt\xF3ra z poni\u017Cszych jest najw\u0142a\u015Bciwsz\u0105 odpowiedzi\u0105?"
+  - Jakiego numeru brakuje?
+  - "Co symbolizuje strza\u0142ka we FLOWCHARCIE? "
+  - "Ma\u0142pa pr\xF3buje wspi\u0105\u0107 si\u0119 na \u015Bcian\u0119 o wysoko\u015Bci
+    20 m. W jednym skoku podnosi si\u0119 o 3 m, ale zsuwa si\u0119 o 2 m. Po ilu
+    skokach dotrze na szczyt?"
+  - "Co jest nast\u0119pne w kolejno\u015Bci?"
+  - "Jaki kszta\u0142t nale\u017Cy wstawi\u0107 w miejsce znaku zapytania?"
+  - "To jest mapa stacji metra w Londynie. Ile przystank\xF3w dzieli Dido Elizabeth
+    Belle od Katherine Auker je\u015Bli b\u0119dziemy pod\u0105\u017Ca\u0107 tylko
+    lini\u0105 granatow\u0105? "
+  - "Tygodniowe wynagrodzenie pracownika zale\u017Cy od stawki wynagrodzenia i liczby
+    przepracowanych godzin w tygodniu. Minimalna liczba przepracowanych godzin to
+    jedna godzina tygodniowo, a maksymalna to 60. Pracownik, kt\xF3ry pracuje wi\u0119cej
+    ni\u017C 40 godzin otrzymuje 1,5-krotno\u015B\u0107 normalnej stawki za wszystkie
+    godziny przepracowane powy\u017Cej 40. Normalna p\u0142aca to $10/h. Poni\u017Cej
+    znajduje si\u0119 diagram przep\u0142ywu, kt\xF3ry pozwala obliczy\u0107 i wyprowadzi\u0107
+    tygodniow\u0105 p\u0142ac\u0119 dla dowolnego pracownika. Ile zarobi pracownik
+    je\u017Celi b\u0119dzie pracowa\u0107 45h?"
+  - "W aukcji dost\u0119pnych jest 10 urz\u0105dze\u0144 o cenach (5, 1, 1, 10, 8,
+    10, 5, 3, 2, 8) $. Na tej aukcji jest specjalna oferta: kup 3 urz\u0105dzenia
+    i otrzymaj za darmo urz\u0105dzenie o najni\u017Cszej cenie spo\u015Br\xF3d tych
+    3 urz\u0105dze\u0144. Jaki jest minimalny \u0142\u0105czny koszt zakupu wszystkich
+    10 urz\u0105dze\u0144 w tej aukcji?  "
+  - "Chcesz u\u0142o\u017Cy\u0107 puzle. Kt\xF3ra z poni\u017Cszych odpowiedzi obejmuje
+    WSZYSTKIE mo\u017Cliwe kwestie, kt\xF3re mog\u0105 si\u0119 pojawi\u0107 w trakcie
+    realizacji tego zadania."
+  - "Przeczytaj poni\u017Csze zdania i wybierz \"najzdrowsz\u0105\" reakcj\u0119
+    na wypowied\u017A: \"W\u0142a\u015Bnie dosta\u0142em z\u0142\u0105 ocen\u0119
+    z mojego quizu o my\u015Bleniu obliczeniowym\"."
+  - "Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra nie wskazuje
+    na umiej\u0119tno\u015B\u0107 konstruktywnej krytyki."
+  - "Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra zawiera TYLKO
+    podstawowe wzory zachowa\u0144 ratuj\u0105ce \u017Cycie w razie zawa\u0142u"
+  - "Jeste\u015B na spotkaniu firmowym i lider m\xF3wi o sposobach realizacji cel\xF3w.
+    Co zrobi\u0142by przyw\xF3dca autokratyczny? Co zrobi\u0142by lider demokratyczny?
+    Co zrobi\u0142by przyw\xF3dca leseferystyczny?  Wybierz odpowied\u017A, kt\xF3ra
+    jest nieprawid\u0142owa i niew\u0142a\u015Bciwa dla tego scenariusza."
+  - "Rozpoczynaj\u0105c nauk\u0119 tworzenia zda\u0144 w j\u0119zyku obcym nale\u017Cy:"
+  - "Najszybsz\u0105 poprawn\u0105 metod\u0105 zsumowania w pami\u0119ci wszystkich
+    liczb ca\u0142kowitych od 1 do 10 jest:"
+  - "Aby zsumowa\u0107 wszystkie liczby ca\u0142kowite od 1 do 20 w ci\u0105gu 10
+    sekund, tylko w pami\u0119ci nale\u017Cy:"
+  - "\u017Beby narysowa\u0107 zielony pole 150px x 150px program musi przej\u015B\u0107
+    nast\u0119puj\u0105ce kroki w podanej kolejno\u015Bci:"
+  - "W jaki spos\xF3b skoczek (figura szachowa, kt\xF3ra mo\u017Ce porusza\u0107
+    si\u0119 o dwa pola w poziomie i jedno w pionie lub dwa w pionie i jedno w poziomie)
+    powinien przej\u015B\u0107 ze \u015Brodkowego pola planszy 5x5 do prawego g\xF3rnego
+    rogu planszy?"
+  - "Kolonia bobr\xF3w przemierza ciemny las. \u015Acie\u017Cka jest w\u0105ska,
+    wi\u0119c podr\xF3\u017Cuj\u0105 w rz\u0119dzie, nie mijaj\u0105c si\u0119. Czasami
+    na \u015Bcie\u017Cce pojawia si\u0119 dziura. Dziur\u0119 pokonuje si\u0119 w
+    nast\u0119puj\u0105cy spos\xF3b: - Najpierw do dziury wskakuje tyle bobr\xF3w,
+    ile si\u0119 w niej zmie\u015Bci. - Nast\u0119pnie ca\u0142a kolonia przechodzi
+    przez dziur\u0119. - Ostatecznie bobry, kt\xF3re wskoczy\u0142y do \u015Brodka,
+    wyjchodz\u0105 na zewn\u0105trz. Pytanie: Przez las przesz\u0142a kolonia 7 bobr\xF3w.
+    Przechodz\u0105 nad 3 otworami. W pierwszym otworze zmie\u015Bci\u0142y si\u0119
+    4 bobry, w drugim 2, a w ostatnim 3 bobry. W jakiej kolejno\u015Bci znajduj\u0105
+    si\u0119 bobry po przej\u015Bciu przez trzeci otw\xF3r?"
+  Question_Explanation:
+  - "Zastan\xF3wmy si\u0119 nad tym problemem w uproszczony spos\xF3b. Pracodawca
+    chce zaoferowa\u0107 900 euro dla wszystkich pracownik\xF3w, a ka\u017Cdy z nich
+    otrzyma wynagrodzenie w zale\u017Cno\u015Bci od liczby przepracowanych dni (pami\u0119tajmy,
+    \u017Ce wszyscy pracuj\u0105 za t\u0119 sam\u0105 stawk\u0119 wynagrodzenia).
+    \u0141\u0105cznie pracownicy wykonywali prac\u0119 przez 10 dni (2+3+5=10 dni
+    roboczych). Je\u015Bli chcemy dowiedzie\u0107 si\u0119, ile b\u0119dzie kosztowa\u0142
+    ka\u017Cdy dzie\u0144 pracy, podzielimy ca\u0142kowit\u0105 kwot\u0119 do zap\u0142aty
+    przez liczb\u0119 dni pracy.Oznacza to, \u017Ce ka\u017Cdy dzie\u0144 kosztuje
+    90 euro (900 euro/10 dni = 90 euro). Zatem 3. pracownik, kt\xF3ry pracowa\u0142
+    przez 5 dni, otrzyma 90x5=450 euro!"
+  - "Wszystko sprowadza si\u0119 do znalezienia wzoru! Mamy tu 2 sekwencje, kt\xF3re
+    s\u0105 ze sob\u0105 powi\u0105zane. Pierwsza to dodawanie 14 (14, 28, 42, 56,
+    70,...,) a druga to dodawanie 16 (16, 32, 48, 64, 80,...,)"
+  - "Znajd\u017Amy tutaj wz\xF3r! Wz\xF3r polega na tym, \u017Ce ka\u017Cda liczba
+    sk\u0142ada si\u0119 z trzech ostatnich cyfr poprzedniej (w pierwszej kolejno\u015Bci)
+    plus dwie pierwsze cyfry poprzedniej (w ostatniej kolejno\u015Bci). Tak wi\u0119c,
+    skoro poprzednia liczba to 67428, to brakuj\u0105c\u0105 liczb\u0105 b\u0119dzie
+    42867"
+  - "Jak powi\u0105zane s\u0105 s\u0142owa lekarz i szpital? Lekarz pracuje w szpitalu.
+    W tym samym sensie rolnik pracuje na gospodarstwie."
+  - "W tym przyk\u0142adzie pierwsze s\u0142owo jest cz\u0119\u015Bci\u0105 drugiego
+    s\u0142owa w danym rz\u0119dzie. Tak jak drzewo jest cz\u0119\u015Bci\u0105 ca\u0142ego
+    lasu, tak kwiat jest cz\u0119\u015Bci\u0105 bukietu!"
+  - "Czasowniki bieganie i m\xF3wienie wskazuj\u0105 na szybkie tempo, natomiast
+    czasowniki chodzenie i literowanie na wolniejsze tempo."
+  - "Prawid\u0142owa liczba to 6! Dzieje si\u0119 tak, poniewa\u017C ka\u017Cda liczba
+    z g\xF3rnego rz\u0119du jest mno\u017Cona przez poprzedni\u0105 liczb\u0119 ca\u0142kowit\u0105,
+    a drugi rz\u0105d jest sum\u0105, np. 7x6=42"
+  - "Flowchart to rodzaj diagramu przedstawiaj\u0105cego przep\u0142yw pracy (workflow)
+    lub proces. Mo\u017Cna go r\xF3wnie\u017C zdefiniowa\u0107 jako podej\u015Bcie
+    krok po kroku do rozwi\u0105zania zadania. Flowchart pokazuje kroki jako pola,
+    a ich kolejno\u015B\u0107 poprzez po\u0142\u0105czenie p\xF3l strza\u0142kami.
+    Dlatego strza\u0142ka mo\u017Ce prowadzi\u0107 nas wzd\u0142u\u017C \u015Bcie\u017Cki
+    flowchartu."
+  - "Zacznijmy od uproszczenia pytania. A wi\u0119c ma\u0142pa idzie jednym skokiem
+    3 m w g\xF3r\u0119, ale zsuwa si\u0119 w d\xF3\u0142 o 2 m. Czyli w jednym skoku
+    tak naprawd\u0119 przemieszcza si\u0119 w g\xF3r\u0119 o 1m. Policzmy wi\u0119c,
+    ile skok\xF3w b\u0119dzie potrzebowa\u0107, aby dotrze\u0107 na szczyt \u015Bciany.
+    Uda\u0142o si\u0119? Gdy ma\u0142pa dostanie si\u0119 na wysoko\u015B\u0107 17
+    m i wykona 18 skok o d\u0142ugo\u015Bci 3m osi\u0105gnie szczyt \u015Bciany i,
+    jak by\u0142o podkre\u015Blone w pytaniu, nie zsunie si\u0119 ju\u017C w d\xF3\u0142.
+    Poprawna odpowied\u017A to c."
+  - "Spr\xF3buj zrozumie\u0107 wz\xF3r, wed\u0142ug kt\xF3rego dzia\u0142aj\u0105
+    poszczeg\xF3lne elementy, a nast\u0119pnie sprawd\u017A je razem. Co si\u0119
+    zmienia? Jak si\u0119 zmienia? Okr\u0119gi wewn\u0105trz i na zewn\u0105trz pude\u0142ka
+    zmieniaj\u0105 kolor po ka\u017Cdym obrocie. Ruch linii jest zgodny z kierunkiem
+    pomi\u0119dzy dwoma okr\u0119gami, a kropka wskazuje kierunek na zewn\u0105trz
+    okr\u0119gu.Bior\u0105c pod uwag\u0119 wspomniane wzorce, po ostatnim polu bia\u0142e
+    k\xF3\u0142ko powinno znajdowa\u0107 si\u0119 wewn\u0105trz szarego pola, a kropka
+    powinna zawsze pod\u0105\u017Ca\u0107 w tym samym kierunku. Zatem jedyn\u0105
+    poprawn\u0105 odpowiedzi\u0105 zgodnie z sekwencj\u0105 jest pole E. Odpowiedzi\u0105
+    na pytanie jest d."
+  - "Suma bok\xF3w wszystkich figur ro\u015Bnie z ka\u017Bdym kafelkiem. Ko\u0142o
+    liczy si\u0119 jako jeden bok. \u015Arodkowy kszta\u0142t zmienia kolor z ka\u017Cdym
+    kafelkiem. Poprawna odpowied\u017A to F."
+  - "Najpierw znajd\u017A dwa przystanki wymienione w pytaniu. Po ich znalezieniu
+    pod\u0105\u017Caj dalej za ciemnoniebiesk\u0105 lini\u0105. Pami\u0119taj, aby
+    nie przegapi\u0107 przystank\xF3w bez kropki. Poprawna odpowied\u017A to b."
+  - "Wynagrodzenie tygodniowe jest r\xF3wne iloczynowi stawek p\u0142acowych i ca\u0142kowitej
+    liczby przepracowanych godzin. Nale\u017Cy pami\u0119ta\u0107, \u017Ce stawka
+    godzinowa jest inna po przekroczeniu 40 godzin. Prawid\u0142owa odpowied\u017A
+    to a. Schemat rozwi\u0105zania >> Za 1 h pracownik otrzymuje 10$. Za wi\u0119cej
+    ni\u017C 40 godzin, otrzymuje 10$* 1,5 = 15$. Zatem pracownik, kt\xF3ry pracuje
+    45 godzin tygodniowo, otrzymuje >> 40h*10$=400$ + (5h*15) = 475$. "
+  - "Aby odpowiedzie\u0107 na to pytanie, najlepiej jest zam\xF3wi\u0107 przedmioty
+    od najwy\u017Cszej do najni\u017Cszej ceny (10, 10, 8, 8, 5, 5, 3, 2, 1, 1) $.
+    W tej aukcji mo\u017Cesz kupi\u0107 trzy urz\u0105dzenia i dosta\u0107 za darmo
+    to, kt\xF3re ma najni\u017Csz\u0105 cen\u0119. Spr\xF3buj spisa\u0107 scenariusze.
+    Zacznij od pierwszych trzech scenariuszy, 10 + 10 + 8 (b\u0119dzie za darmo)
+    = 20, 8 + 5 + 5 (b\u0119dzie za darmo) = 13, ... zapisz reszt\u0119 i zsumuj
+    wszystkie. Poprawna odpowied\u017A to a."
+  - "Poprawna odpowied\u017A to A lub C, obie s\u0105 do przyj\u0119cia. Jednak C
+    jest idealn\u0105 odpowiedzi\u0105 jako \u017Ce bierze pod uwag\u0119 wszystkie
+    mo\u017Cliwe problemy i rozwi\u0105zania."
+  - "Poprawn\u0105 odpowiedzi\u0105 jest D. Odpowied\u017A A jest pe\u0142na empatii,
+    ale nie podejmuje dalszych dzia\u0142a\u0144. Odpowied\u017A B zawiera pytania
+    o przyczyn\u0119 problemu, ale nic wi\u0119cej. Odpowied\u017A C jest inspiruj\u0105ca,
+    ale nie empatyczna. Odpowied\u017A D jest empatyczna, inspiruj\u0105ca, usprawidliwiaj\u0105ca
+    i szuka przyczyny."
+  - "Poprawna odpowied\u017A to B, poniewa\u017C jest to krytyka dekonstruktywna.
+    Wszystkie pozosta\u0142e odpowiedzi wskazuj\u0105 na umiej\u0119tno\u015B\u0107
+    konstruktywnej krytyki."
+  - "Prawid\u0142owa odpowied\u017A to D. Pod\u0142\u0105czenie defibrylatora to
+    zachowanie pozwalaj\u0105ce na uratowanie \u017Cycia. Z kolei odej\u015Bcie od
+    poszkodowanego to co\u015B zupe\u0142nie przeciwnego. Zaniechanie udzielenia
+    wsparcia jest wr\u0119cz karalne."
+  - "Odpowied\u017A, kt\xF3r\u0105 nale\u017Cy wybra\u0107 to C, poniewa\u017C jest
+    to jedyna niepoprawna i b\u0142\u0119dna odpowied\u017A dla tego scenariusza. 
+    Wszystkie pozosta\u0142e odpowiedzi s\u0105 poprawne."
+  - "Z nauk\u0105 j\u0119zyk\xF3w obcych jest jak z parzeniem herbaty. Aby napisa\u0107/m\xF3wi\u0107
+    co\u015B zgodnie z gramatyk\u0105 nale\u017Cy pozna\u0107 poradnik j\u0119zykowy.
+    Gramatyk\u0119 mo\u017Cna por\xF3wna\u0107 do przepisu kulinarnego, wyja\u015Bniaj\u0105cego
+    wszystkie kroki niezb\u0119dne do przygotowania dania. Ale przede wszystkim musimy
+    zna\u0107 sk\u0142adniki!   Sk\u0142adniki w gramatyce j\u0119zykowej to na przyk\u0142ad
+    podmiot i czasownik.  Dzielenie zda\u0144 na cz\u0119\u015Bci sk\u0142adowe usprawni
+    Twoj\u0105 nauk\u0119 - spr\xF3buj!"
+  - "Gdyby\u015B mia\u0142 doda\u0107 dziesi\u0119\u0107 dziesi\u0105tek, by\u0142oby
+    \u0142atwo. Suma wynios\u0142aby 100. To wygl\u0105da ciekawie, spr\xF3buj wi\u0119c
+    zacz\u0105\u0107 dodawanie od ostatniej liczby, czyli od 10. Dodaj do niej sum\u0119
+    pierwszej i przedostatniej, czyli 1 + 9 i tak dalej. Dodawane b\u0119dzie wi\u0119c
+    wygl\u0105da\u0142o tak:  10 + 1 + 9 + 2 + 8  + 3 + 7  + 4 + 6.  Masz pi\u0119\u0107
+    wierszy i w ka\u017Cdym suma wynosi 10. Zdekomponowa\u0142e\u015B w ten spos\xF3b
+    z\u0142o\u017Con\u0105 operacj\u0119 arytmetyczna na szereg prostych element\xF3w
+    sk\u0142adowych. Pi\u0119\u0107 dziesi\u0105tek, to 50, a 50, to po\u0142owa
+    100. Czyli 100 / 2. Zosta\u0142o ci do dodania jeszcze 5. Wszystko razem, to
+    100 / 2 + 5, czyli 55. Widzisz teraz wzorzec, kt\xF3ra upro\u015Bci obliczenia?
+    Sprawd\u017A teraz, czy 55 to dobry wynik, dodaj\u0105c po kolei wszystkie liczby
+    od 1 do 10. "
+  - "Je\u017Celi zsumujesz pierwsz\u0105 i ostatnia liczb\u0119 kt\xF3r\u0105 masz
+    doda\u0107, czyli 1 + 20, to uzyskasz 21. Masz 10 takich par. To s\u0105 elementy
+    sk\u0142adowe, kt\xF3re odkry\u0142e\u015B, dekomponuj\u0105c z\u0142o\u017Cone
+    obliczenie. Czyli 10 x 21 = 210. To wzorzec dla takich oblicze\u0144. Sprawd\u017A
+    teraz, czy 210 to dobry wynik, dodaj\u0105c po kolei wszystkie liczby od 1 do
+    20 na kartce, w kalkulatorze lub w komputerze. Mo\u017Cesz te\u017C spr\xF3bowa\u0107
+    w pami\u0119ci :) "
+  - "Uzasadnienie podanej sekwencji krok\xF3w do narysowania zielonego kwadratu o
+    wymiarach 150px x 150px opiera si\u0119 na zasadach my\u015Blenia komputacyjnego.  
+    My\u015Blenie komputacyjne jest podej\u015Bciem do rozwi\u0105zywania problem\xF3w,
+    kt\xF3re polega na rozbiciu z\u0142o\u017Conego problemu na mniejsze, bardziej
+    wykonalne cz\u0119\u015Bci, a nast\u0119pnie systematycznym analizowaniu i rozwi\u0105zywaniu
+    ka\u017Cdej z nich. Obejmuje ono szereg krok\xF3w, takich jak dekompozycja problemu,
+    rozpoznawanie wzorc\xF3w, abstrakcja, projektowanie algorytm\xF3w i ocena.  
+    W tym przypadku problemem jest narysowanie zielonego kwadratu o wymiarach 150px
+    x 150px. Aby rozwi\u0105za\u0107 ten problem za pomoc\u0105 my\u015Blenia komputacyjnego,
+    mo\u017Cemy podzieli\u0107 go na mniejsze kroki i zaprojektowa\u0107 algorytm,
+    kt\xF3ry wykona te kroki w okre\u015Blonej kolejno\u015Bci.   Podana kolejno\u015B\u0107
+    krok\xF3w wynika z nast\u0119puj\u0105cego rozumowania:  a) Przejd\u017A do miejsca
+    startu: Ten krok zapewnia, \u017Ce program rozpoczyna rysowanie kwadratu od \u017C\u0105danej
+    pozycji na p\u0142\xF3tnie. Bez tego kroku pole mo\u017Ce zosta\u0107 narysowany
+    w niezamierzonym miejscu na p\u0142\xF3tnie.  b) Ustaw kolor pi\xF3ra na zielony:
+    Ten krok ustawia kolor pi\xF3ra na zielony, kt\xF3ry b\u0119dzie u\u017Cywany
+    do rysowania kwadratu. Bez tego kroku pi\xF3ro mo\u017Ce u\u017Cywa\u0107 innego
+    koloru, co nie spowoduje narysowania zielonego kwadratu.  c) Przesu\u0144 o 150px:
+    Ten krok przesuwa pi\xF3ro o 150px w linii prostej, kt\xF3ra utworzy jeden bok
+    kwadratu. Ten krok jest powtarzany w sumie trzy razy, aby narysowa\u0107 wszystkie
+    cztery boki kwadratu.  d) Obr\xF3\u0107 zgodnie z ruchem wskaz\xF3wek zegara
+    o 90 stopni: Ten krok obraca pi\xF3ro o 90 stopni zgodnie z ruchem wskaz\xF3wek
+    zegara, co ukierunkuje pi\xF3ro na rysowanie kolejnego boku kwadratu pod k\u0105tem
+    prostym do poprzedniego boku. Bez tego kroku pi\xF3ro rysowa\u0142oby nast\u0119pny
+    bok w tym samym kierunku co poprzedni, co skutkowa\u0142oby prostok\u0105tem
+    zamiast kwadratu.  e) Powt\xF3rz powy\u017Csze dwa kroki 3 razy: Ten krok powtarza
+    poprzednie dwa kroki (przesu\u0144 o 150px i obr\xF3\u0107 o 90 stopni) trzy
+    razy, aby narysowa\u0107 wszystkie cztery boki kwadratu. Bez tego kroku program
+    narysowa\u0142by tylko jeden bok kwadratu, pozostawiaj\u0105c go niekompletnym. 
+    Podana sekwencja krok\xF3w jest niezb\u0119dna do narysowania zielonego kwadratu
+    o wymiarach 150px x 150px w zamierzonym miejscu i orientacji."
+  - "Aby osi\u0105gn\u0105\u0107 prawy g\xF3rny r\xF3g na planszy 5x5 startuj\u0105c
+    z pozycji centralnej kwadratu, skoczek powinien porusza\u0107 si\u0119 w okre\u015Blonej
+    sekwencji ruch\xF3w. Optymalne ruchy, kt\xF3re nale\u017Cy wykona\u0107 to: 
+    1. Przesun\u0105\u0107 si\u0119 o 2 pola w d\xF3\u0142 i o 1 pole w prawo. 2.
+    Przesun\u0105\u0107 si\u0119 o 2 pola w lewo i 1 pole w g\xF3r\u0119. 3. Przesun\u0105\u0107
+    si\u0119 o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 4. Przesun\u0105\u0107 si\u0119
+    o 2 pola w prawo i 1 pole w g\xF3r\u0119. LUB 1. Przesun\u0105\u0107 si\u0119
+    o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 2. Przesun\u0105\u0107 si\u0119 o 2
+    pola w d\xF3\u0142 i 1 pole w prawo. 3. Przesun\u0105\u0107 si\u0119 o 2 pola
+    w lewo i 1 pole w g\xF3r\u0119. 4. Przesun\u0105\u0107 si\u0119 o 2 pola w prawo
+    i 1 pole w g\xF3r\u0119.  Istnieje kilka powod\xF3w, dla kt\xF3rych te ruchy
+    s\u0105 optymalnym rozwi\u0105zaniem, aby osi\u0105gn\u0105\u0107 prawy g\xF3rny
+    r\xF3g z pozycji centralnego pola.  Po pierwsze, pocz\u0105tkowy ruch o 2 pola
+    w d\xF3\u0142 i 1 pole w prawo (lub 2 pola w g\xF3r\u0119 i 1 pole w prawo) jest
+    najbardziej efektywnym ruchem przybli\u017Caj\u0105cym skoczka do naro\u017Cnika.
+    Przesuwa on skoczka o 2 pola w kierunku rogu, zachowuj\u0105c jego pozycj\u0119
+    na planszy.  Kolejne ruchy maj\u0105 na celu zbli\u017Cenie skoczka do prawego
+    g\xF3rnego rogu. Przesuwaj\u0105c si\u0119 o 2 pola w lewo i 1 pole w g\xF3r\u0119,
+    skoczek zbli\u017Ca si\u0119 do g\xF3rnej kraw\u0119dzi planszy. Kolejny ruch
+    o 2 pola w g\xF3r\u0119 i 1 pole w prawo ponownie przybli\u017Ca skoczka do naro\u017Cnika.
+    Wreszcie ruch o 2 pola w prawo i 1 pole w g\xF3r\u0119 doprowadza skoczka do
+    prawego g\xF3rnego rogu.  Taka sekwencja ruch\xF3w sprawia, \u017Ce skoczek zawsze
+    zbli\u017Ca si\u0119 do naro\u017Cnika, pozostaj\u0105c na planszy. Dzi\u0119ki
+    tym optymalnym ruchom skoczek mo\u017Ce dotrze\u0107 do prawego g\xF3rnego rogu
+    w najkr\xF3tszym mo\u017Cliwym czasie z pozycji \u015Brodkowego pola.  Og\xF3lnie
+    rzecz bior\u0105c, optymalna sekwencja ruch\xF3w w celu osi\u0105gni\u0119cia
+    prawego g\xF3rnego rogu na planszy 5x5, zaczynaj\u0105c od pozycji centralnego
+    pola, wymaga starannego planowania i rozwa\u017Cenia zasad ruchu skoczka. Analizuj\u0105c
+    mo\u017Cliwe ruchy i oceniaj\u0105c ich efektywno\u015B\u0107, mo\u017Cemy wyznaczy\u0107
+    optymalne rozwi\u0105zanie problemu.  Ta sekwencja ruch\xF3w zapewnia, \u017Ce
+    skoczka zawsze porusza si\u0119 w kierunku naro\u017Cnika, pozostaj\u0105c na
+    planszy. Dzi\u0119ki tym optymalnym ruchom skoczek mo\u017Ce dotrze\u0107 do
+    prawego g\xF3rnego rogu w najkr\xF3tszym mo\u017Cliwym czasie z pozycji centralnego
+    pola.  Og\xF3lnie rzecz bior\u0105c, optymalna sekwencja ruch\xF3w w celu osi\u0105gni\u0119cia
+    prawego g\xF3rnego rogu na planszy 5x5, zaczynaj\u0105c od pozycji centralnego
+    pola, wymaga starannego planowania i rozwa\u017Cenia zasad ruchu skoczka. Analizuj\u0105c
+    mo\u017Cliwe ruchy i oceniaj\u0105c ich efektywno\u015B\u0107, mo\u017Cemy wyznaczy\u0107
+    optymalne rozwi\u0105zanie problemu.  Z punktu widzenia my\u015Blenia komputacyjnego,
+    znalezienie optymalnej sekwencji ruch\xF3w dla skoczka, aby osi\u0105gn\u0105\u0107
+    prawy g\xF3rny r\xF3g planszy 5x5, zaczynaj\u0105c od pozycji centralnego pola,
+    obejmuje kilka wa\u017Cnych koncepcji tego procesu my\u015Blenia:      Dekompozycja:
+    Aby rozwi\u0105za\u0107 problem, musimy go zdekomponowa\u0107 na mniejsze podproblemy.
+    W szczeg\xF3lno\u015Bci musimy zidentyfikowa\u0107 mo\u017Cliwe ruchy, kt\xF3re
+    mo\u017Ce wykona\u0107 skoczek i oceni\u0107 efektywno\u015B\u0107 ka\u017Cdego
+    z nich pod wzgl\u0119dem przybli\u017Cenia skoczka do miejsca docelowego.     
+    Rozpoznawanie wzorc\xF3w: Mo\u017Cemy zastosowa\u0107 umiej\u0119tno\u015Bci
+    rozpoznawania wzorc\xF3w, aby zidentyfikowa\u0107 ruchy, kt\xF3re s\u0105 najbardziej
+    efektywne dla skoczka, aby osi\u0105gn\u0105\u0107 prawy g\xF3rny r\xF3g. W szczeg\xF3lno\u015Bci
+    mo\u017Cemy rozpozna\u0107, \u017Ce ruchy polegaj\u0105ce na przesuni\u0119ciu
+    si\u0119 o 2 kwadraty w d\xF3\u0142 i 1 kwadrat w prawo lub 2 kwadraty w g\xF3r\u0119
+    i 1 kwadrat w prawo s\u0105 najbardziej efektywne, poniewa\u017C przybli\u017Caj\u0105
+    skoczka do miejsca docelowego, a jednocze\u015Bnie utrzymuj\u0105 jego pozycj\u0119
+    na planszy.      Abstrakcja: Mo\u017Cemy wyabstrahowa\u0107 problem, traktuj\u0105c
+    szachownic\u0119 jako siatk\u0119 kom\xF3rek o wymiarach 5x5, a ruchy skoczka
+    jako zbi\xF3r regu\u0142, kt\xF3re dyktuj\u0105, jak skoczek mo\u017Ce porusza\u0107
+    si\u0119 mi\u0119dzy kom\xF3rkami. Taka abstrakcja pozwala nam upro\u015Bci\u0107
+    problem i skupi\u0107 si\u0119 na istotnych elementach niezb\u0119dnych do jego
+    rozwi\u0105zania.      My\u015Blenie algorytmiczne: Aby znale\u017A\u0107 optymaln\u0105
+    sekwencj\u0119 ruch\xF3w dla skoczka w celu dotarcia do prawego g\xF3rnego rogu,
+    musimy opracowa\u0107 systematyczne i powtarzalne podej\u015Bcie. W szczeg\xF3lno\u015Bci
+    musimy oceni\u0107 ka\u017Cdy z o\u015Bmiu mo\u017Cliwych ruch\xF3w, kt\xF3re
+    mo\u017Ce wykona\u0107 skoczek i wybra\u0107 te ruchy, kt\xF3re przesuwaj\u0105
+    t\u0119 figur\u0119 w kierunku docelowego miejsca, a jednocze\u015Bnie utrzymuj\u0105
+    j\u0105 na planszy.      Ocena: Na koniec musimy zastosowa\u0107 umiej\u0119tno\u015Bci
+    logicznego rozumowania, aby oceni\u0107 efektywno\u015B\u0107 ka\u017Cdego ruchu
+    i wybra\u0107 najlepsze ruchy dla skoczka. Wi\u0105\u017Ce si\u0119 to ze zrozumieniem
+    zasad dotycz\u0105cych tego, jak skoczek mo\u017Ce porusza\u0107 si\u0119 po
+    planszy, okre\u015Bleniem celu problemu i zastosowaniem logicznego rozumowania
+    w celu oceny optymalnego rozwi\u0105zania.  Og\xF3lnie rzecz bior\u0105c, problem
+    znalezienia optymalnej sekwencji ruch\xF3w dla skoczka, aby dotrze\u0107 do prawego
+    g\xF3rnego rogu planszy 5x5, zaczynaj\u0105c od pozycji centralnego kwadratu,
+    wymaga zastosowania kilku kluczowych koncepcji i umiej\u0119tno\u015Bci my\u015Blenia
+    komputacyjnego, w tym dekompozycji, rozpoznawania wzorc\xF3w, abstrakcji, algorytmizacji
+    i dodatkowo ewaluacji. Stosuj\u0105c te umiej\u0119tno\u015Bci, mo\u017Cemy okre\u015Bli\u0107
+    najbardziej efektywn\u0105 sekwencj\u0119 ruch\xF3w dla skoczka, aby dotrze\u0107
+    do celu."
+  - "Krok 1: Dekompozycja Aby rozwi\u0105za\u0107 problem, musimy go rozbi\u0107
+    na mniejsze cz\u0119\u015Bci. Musimy okre\u015Bli\u0107 kolejno\u015B\u0107,
+    w jakiej bobry wyjd\u0105 z trzeciej dziury. Aby to zrobi\u0107, musimy przeanalizowa\u0107
+    ka\u017Cd\u0105 dziur\u0119 i to, jak jej pokonanie w podany w zadaniu spos\xF3b
+    wp\u0142ywa na kolejno\u015B\u0107 wyj\u015Bcia bobr\xF3w.  Krok 2: Rozpoznawanie
+    wzorc\xF3w Musimy szuka\u0107 wzorc\xF3w sposobu, w jaki bobry przechodz\u0105
+    przez dziury. Dla ka\u017Cdej dziury bobry, kt\xF3re skacz\u0105 do \u015Brodka,
+    wyjd\u0105 ostatnie. Bobry, kt\xF3re przechodz\u0105 przez dziur\u0119 przed
+    tymi, kt\xF3re skacz\u0105 do \u015Brodka, wyjd\u0105 pierwsze, a nast\u0119pnie
+    te, kt\xF3re skacz\u0105 do \u015Brodka. Bobry, kt\xF3re przechodz\u0105 przez
+    dziur\u0119 po tych, kt\xF3re skoczy\u0142y do \u015Brodka, b\u0119d\u0105 pierwsze. 
+    Krok 3: Abstrakcja Musimy uog\xF3lni\u0107 informacje, kt\xF3re zebrali\u015Bmy
+    i \u015Bledzi\u0107 kolejno\u015B\u0107 bobr\xF3w po przej\u015Bciu przez ka\u017Cd\u0105
+    dziur\u0119 w oparciu o liczb\u0119 bobr\xF3w, kt\xF3re skacz\u0105 do \u015Brodka,
+    oraz kolejno\u015B\u0107 bobr\xF3w przed i po ka\u017Cdej dziurze.  Uog\xF3lnijmy
+    ide\u0119 rozwi\u0105zania. Og\xF3lne kroki abstrakcji mo\u017Cna sformu\u0142owa\u0107
+    nast\u0119puj\u0105co:  - Musimy \u015Bledzi\u0107 kolejno\u015B\u0107 bobr\xF3w
+    po przej\u015Bciu przez ka\u017Cd\u0105 dziur\u0119. - Dla ka\u017Cdej dziury
+    musimy okre\u015Bli\u0107, kt\xF3re bobry skacz\u0105 do \u015Brodka, a kt\xF3re
+    przechodz\u0105 przez dziur\u0119. - Musimy okre\u015Bli\u0107 kolejno\u015B\u0107
+    bobr\xF3w, kt\xF3re przechodz\u0105 przez dziur\u0119 przed i po tych, kt\xF3re
+    skacz\u0105 do \u015Brodka.  Krok 4: Projektowanie algorytmu Na podstawie informacji
+    zawartych w problemie mo\u017Cemy okre\u015Bli\u0107 kolejno\u015B\u0107 bobr\xF3w
+    po przej\u015Bciu przez trzeci\u0105 dziur\u0119. Mo\u017Cemy zacz\u0105\u0107
+    od patrzenia na kolejno\u015B\u0107 bobr\xF3w przed przej\u015Bciem przez pierwsz\u0105
+    dziur\u0119. Poniewa\u017C 4 bobry skacz\u0105 do pierwszej dziury, pierwsze
+    cztery bobry w oryginalnej kolejno\u015Bci b\u0119d\u0105 ostatnimi, kt\xF3rzy
+    wyjd\u0105 z pierwszej dziury. Musimy r\xF3wnie\u017C pami\u0119ta\u0107 o odwr\xF3ceniu
+    kolejno\u015Bci bobr\xF3w wychodz\u0105cych z dziury. Powtarzanie tych krok\xF3w
+    dla ka\u017Cdej dziury dostarczy rozwi\u0105zanie.  Sprawd\u017Amy algorytm: 
+    Pocz\u0105tkowa kolejno\u015B\u0107, to: 1 2 3 4 5 6 7 Nast\u0119pnie po pierwszym
+    otworze o g\u0142\u0119boko\u015Bci 4 mamy: 5 6 7 4 3 2 1 Po drugim otworze (g\u0142\u0119boko\u015B\u0107
+    2) mamy: 7 4 3 2 1 6 5 Po trzecim otworze (g\u0142\u0119boko\u015B\u0107 3) otrzymujemy:
+    2 1 6 5 3 4 7 Organizowanie danych w spos\xF3b uporz\u0105dkowany jest wa\u017Cne
+    w informatyce i istnieje wiele r\xF3\u017Cnych struktur danych, kt\xF3re mo\u017Cna
+    wykorzysta\u0107 do tego celu.  To zadanie pokazuje przyk\u0142ad struktury zwanej
+    stosem, kt\xF3ra dzia\u0142a podobnie jak uk\u0142adanie talerzyk\xF3w jeden
+    na drugim. Zawsze dodajesz nowe p\u0142ytki na wierzchu stosu i musisz je po
+    kolei usuwa\u0107 z wierzchu. Ten typ struktury jest powszechnie okre\u015Blany
+    jako LIFO-struktura - obiekty, kt\xF3re zosta\u0142y dodane jako ostatnie, s\u0105
+    usuwane jako pierwsze. (LIFO = Last In First Out). "
+  Op1:
+  - 180
+  - '70, 80 '
+  - ' 67428'
+  - "Stra\u017Cak - Po\u017Car"
+  - Doniczka
+  - "Be\u0142kotanie"
+  - 8
+  - " Przep\u0142yw danych"
+  - 17
+  - B
+  - C
+  - 6
+  - 475$
+  - 39
+  - "1 przy\u0142\xF3\u017C puzel 2 je\u017Celi pasuje, przejd\u017A do nast\u0119pnego"
+  - "Naprawd\u0119 przykro mi to s\u0142ysze\u0107"
+  - "To by\u0142a dobra pr\xF3ba, ale to jeszcze nie do ko\u0144ca to. Spr\xF3buj
+    tego i zobacz, czy to dzia\u0142a."
+  - "N - Sprawd\u017A jakie jest niebezpiecze\u0144stwo R - Dobierz w\u0142a\u015Bciw\u0105
+    reakcj\u0119 "
+  - "Autokratyczny lider nie konsultowa\u0142by si\u0119 z reszt\u0105 zespo\u0142u,
+    wyznacza\u0142by w\u0142asne cele i zak\u0142ada\u0142, \u017Ce cz\u0142onkowie
+    grupy osi\u0105gn\u0105 je na miar\u0119 jego oczekiwa\u0144."
+  - "podzieli\u0107 zdanie na cz\u0119\u015Bci podrz\u0119dne typu podmiot, czasownik
+    itp."
+  - dodajemy 1, 2, 3, 4, itd. do 10
+  - "pomno\u017Cy\u0107 10 przez 21"
+  - "przejd\u017A do miejsca startu, ustaw kolor pisaka na zielony, przesu\u0144
+    o 150 px, obr\xF3\u0107 w prawo o 90 stopni, powt\xF3rz dwie powy\u017Csze czynno\u015Bci
+    3 razy"
+  - "przejd\u017A 2 pola w g\xF3r\u0119 i 1 pole w prawo, 2 w d\xF3\u0142 1 w prawo,
+    2 w lewo 1 w g\xF3r\u0119, 2 w prawo, 1 w g\xF3r\u0119"
+  - 4756123
+  Op2:
+  - 450
+  - 75, 98
+  - 42768
+  - Rybak - Ryba
+  - Bukiet
+  - " \u015Apiewanie"
+  - 9
+  - "Pocz\u0105tek"
+  - 16
+  - C
+  - D
+  - 8
+  - 415$
+  - 41
+  - "1. przy\u0142\xF3\u017C puzel 2 od\u0142\xF3\u017C puzel na kupk\u0119 i poszukaj
+    kolejnego puzla 3. przy\u0142\xF3\u017C ten puzel, je\u017Celi pasuje, przejd\u017A
+    do kolejnego"
+  - "Jak my\u015Blisz, dlaczego dosta\u0142e\u015B z\u0142\u0105 ocen\u0119?"
+  - "Masz przed sob\u0105 d\u0142ug\u0105 drog\u0119. Sprawiasz wra\u017Cenie, \u017Ce
+    nawet nie chcesz si\u0119 poprawi\u0107."
+  - "W- Wezwij Pomoc O- Udro\u017Cnij drogi Oddechowe"
+  - "Lider leseferystyczny nie wyznacza\u0142by d\u0142ugoterminowych cel\xF3w do
+    osi\u0105gni\u0119cia przez grup\u0119 i pozwala\u0142by cz\u0142onkom pracowa\u0107
+    we w\u0142asnym tempie i niezale\u017Cnie. "
+  - "umie\u015Bci\u0107 we w\u0142a\u015Bciwej kolejno\u015Bci cz\u0119\u015Bci sk\u0142adowe,
+    takie jak podmiot, czasownik itp."
+  - "pomno\u017Cy\u0107 10 przez 5 i doda\u0107 1"
+  - dodaj 1, 2, 3, 4 i tak dalej, ale bardzo szybko
+  - "przejd\u017A do miejsca startu; obr\xF3\u0107 si\u0119 w prawo o 90 stopni;
+    ustaw kolor pisaka na zielony; przesu\u0144 o 150 px; powt\xF3rz dwie powy\u017Csze
+    czynno\u015Bci 3 razy"
+  - "id\u017A: 2 pola w d\xF3\u0142 i 1 pole w prawo, 2 w lewo 1 w g\xF3r\u0119,
+    2 w g\xF3r\u0119 1 w prawo, 2 w prawo 1 w g\xF3r\u0119"
+  - 6574321
+  Op3:
+  - 270
+  - 89, 102
+  - 28647
+  - Policjant - Syrena
+  - "P\u0142atki"
+  - Literowanie
+  - 6
+  - Decyzja
+  - 18
+  - D
+  - E
+  - 9
+  - 450$
+  - 49
+  - "1. przy\u0142\xF3\u017C puzel 2. je\u017Celi nie pasuje obr\xF3\u0107 go, pr\xF3buj\u0105c
+    wszystkich orientacji, 3. od\u0142\xF3\u017C puzel na kupk\u0119 i poszukaj kolejnego
+    puzla, 4. je\u017Celi ten puzel pasuje, przejd\u017A do kolejnego "
+  - "To nie by\u0142 trudny quiz. Jestem jednak pewna, \u017Ce nast\u0119pnym razem
+    p\xF3jdzie Ci lepiej."
+  - "Nawet je\u015Bli tym razem si\u0119 nie uda\u0142o, to by\u0142e\u015B blisko!"
+  - "O - Sprawd\u017A oddech R - Zastosuj resuscytacj\u0119 kr\u0105\u017Ceniowo-oddechow\u0105"
+  - "Autokratyczny przyw\xF3dca  konsultowa\u0142by si\u0119 z reszt\u0105 zespo\u0142u
+    i wyznacza\u0142by w\u0142asne cele oraz zak\u0142ada\u0142, \u017Ce cz\u0142onkowie
+    grupy osi\u0105gn\u0105 je na miar\u0119 jego oczekiwa\u0144."
+  - "nazwa\u0107 cz\u0119\u015Bci sk\u0142adowe jak podmiot, czasownik itp."
+  - "podzieli\u0107 100 przez 2 i doda\u0107 5"
+  - "doda\u0107 20, 19, 18, 17 i tak dalej, ale bardzo szybko"
+  - "ustaw kolor pisaka na zielony; przesu\u0144 150 px; obr\xF3\u0107 w prawo o
+    90 stopni; przejd\u017A do miejsca startu; powt\xF3rz dwa powy\u017Csze kroki
+    3 razy"
+  - "obie powy\u017Csze czynno\u015Bci s\u0105 prawid\u0142owe"
+  - 2165347
+  Op4:
+  - "\u017Badne z powy\u017Cszych"
+  - 82, 98
+  - 42867
+  - Rolnik - Gospodarstwo
+  - "Ga\u0142\u0119zie"
+  - Uciszanie
+  - 5
+  - Proces
+  - 19
+  - E
+  - F
+  - 10
+  - 425$
+  - 53
+  - "1. przy\u0142\xF3\u017C puzel, 2. puzel nie pasuje, obr\xF3\u0107 go, pr\xF3buj\u0105c
+    wszystkich mo\u017Cliwych orientacji,  3. puzel pasuje, przejd\u017A do kolejnego"
+  - "Naprawd\u0119 przykro mi to s\u0142ysze\u0107, jestem pewna, \u017Ce nast\u0119pnym
+    razem p\xF3jdzie ci lepiej, ale jak my\u015Blisz, dlaczego dosta\u0142e\u015B
+    z\u0142\u0105 ocen\u0119?"
+  - "Jest kilka rzeczy, kt\xF3re mo\u017Cesz zacz\u0105\u0107 robi\u0107 inaczej.
+    Daj mi zna\u0107, je\u015Bli chcia\u0142by\u015B, \u017Cebym Ci pom\xF3g\u0142."
+  - "D - Pod\u0142\u0105cz defibrylator O - Odejd\u017A"
+  - "Demokratyczny lider om\xF3wi z cz\u0142onkami grupy cele, kt\xF3re b\u0119d\u0105
+    mo\u017Cliwe do osi\u0105gni\u0119cia. Na przyk\u0142ad u\u017Cywaj\u0105c cel\xF3w
+    SMART (Specific, Measurable, Achieavable, Relevant, Timely)."
+  - "wymiesza\u0107 cz\u0119\u015Bci sk\u0142adowe takie jak podmiot, czasownik itp.
+    w dowolnej kolejno\u015Bci i sprawdzi\u0107 zrozumienie"
+  - "obliczy\u0107: ((1 + 10 ) x 10) / 2"
+  - "doda\u0107 20, 1, 19, 2, 18, 3, i tak dalej, ale naprawd\u0119 szybko"
+  - "przejd\u017A do miejsca startu; ustaw kolor pisaka na zielony; ; powt\xF3rz
+    dwa powy\u017Csze kroki 3 razy; przesu\u0144 o 150 px; obr\xF3t w prawo o 90
+    stopni"
+  - "\u017Cadne z powy\u017Cszych rozwi\u0105za\u0144 nie jest poprawne"
+  - 5761432
+  answersIndex: 01000000000000000300000003000000010000000200000002000000000000000200000003000000030000000100000000000000000000000200000003000000010000000300000002000000000000000200000000000000000000000200000002000000

@@ -1,0 +1,341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UILocalizationTable_it-IT
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it-IT
+  m_SharedData: {fileID: 11400000, guid: 8b4c231037f156342b7f2595af6a3e8d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32931401728
+    m_Localized: Informazioni del gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 885998309376
+    m_Localized: "In questo gioco, imparerai e avrai l'opportunit\xE0 di acquisire
+      conoscenze di base e anche di migliorare le tue capacit\xE0 di pensiero computazionale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 891635453952
+    m_Localized: Prossima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 900024061952
+    m_Localized: "Cos\u2019\xE8 il pensiero computazionale? Il pensiero computazionale
+      \xE8 la nuova alfabetizzazione ed \xE8 diventato molto importante nella nostra
+      societ\xE0."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993957265408
+    m_Localized: "Tuttavia, le capacit\xE0 di pensiero computazionale sono molto
+      utili anche per comprendere come funzionano i computer e i dispositivi tecnologici
+      di prossima generazione, il che offre agli esperti un netto vantaggio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2004124258304
+    m_Localized: Personalizzazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505859485696
+    m_Localized: Inserisci il nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508141187072
+    m_Localized: Scegli il tuo avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508912939008
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3524962111488
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3526971183104
+    m_Localized: Inglese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3527780683776
+    m_Localized: Italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3935697719296
+    m_Localized: Inizio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3939019608064
+    m_Localized: Impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591678476288
+    m_Localized: Suono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4593532358656
+    m_Localized: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4595537235968
+    m_Localized: Seleziona la lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286188109824
+    m_Localized: Uscita dal gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5288029409280
+    m_Localized: Sei sicuro di voler uscire ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6815779475456
+    m_Localized: Seleziona livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6816588976128
+    m_Localized: Livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6817457197056
+    m_Localized: Caricamento..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7302952079360
+    m_Localized: Gioco in pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304042598400
+    m_Localized: Casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7823544897536
+    m_Localized: Ricomincia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7825302310912
+    m_Localized: Riprendere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7826095034368
+    m_Localized: Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8487448694784
+    m_Localized: Proiettore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8489390657536
+    m_Localized: Spiegazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8825736089600
+    m_Localized: Prossimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8829594849280
+    m_Localized: Risposta sbagliata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8832681857024
+    m_Localized: Risposta corretta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9206578892800
+    m_Localized: Livello completato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9481217724416
+    m_Localized: Riprova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9484707385344
+    m_Localized: Riprova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9769383186432
+    m_Localized: Congratulazioni! Hai sbloccato la stanza successiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9950304489472
+    m_Localized: Occhiali VR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10332720156672
+    m_Localized: Dispositivo di gioco portatile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10335102521344
+    m_Localized: Scanner biometrico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10340769026048
+    m_Localized: Congratulazioni! Hai sbloccato tutte le stanze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10733288771584
+    m_Localized: Caricamento risorsa di gioco...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10738217078784
+    m_Localized: "\rMultijugadora"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112109805195264
+    m_Localized: Impostazione della lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113724196999168
+    m_Localized: Giocatore1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113726310928384
+    m_Localized: Giocatore2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113733021814784
+    m_Localized: "Il tuo punteggio \xE8: "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123093571686400
+    m_Localized: 'Punteggio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123098403524608
+    m_Localized: "Il tuo mandato \xE8 completo ora \xE8 il suo secondo mandato da
+      giocatore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123378750803968
+    m_Localized: Partita completata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124003765014528
+    m_Localized: Risposta corretta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124007485362176
+    m_Localized: Risposta sbagliata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128460519198720
+    m_Localized: Hai bisogno di un punteggio minimo del 50% per completare il livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030807709634560
+    m_Localized: Fare clic per vedere l'immagine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11210044051640320
+    m_Localized: Congratulazioni! Hai sbloccato tutte le stanze.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324995361656832
+    m_Localized: 'Punteggio totale:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324999119753216
+    m_Localized: 'Punteggio livello 1:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325002378727424
+    m_Localized: 'Punteggio livello 2:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325011568447488
+    m_Localized: 'Punteggio livello 3:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325840899788800
+    m_Localized: 'Punteggio livello 4:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328732947468288
+    m_Localized: Inizia il quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12681884146159616
+    m_Localized: Classifica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226368725700608
+    m_Localized: "\rRango"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226372236333056
+    m_Localized: Nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226376401276928
+    m_Localized: "WinMatch\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227415170994176
+    m_Localized: Punto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227650244956160
+    m_Localized: Partita giocata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227656448331776
+    m_Localized: Creare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228516909797376
+    m_Localized: Classifiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228521036992512
+    m_Localized: Crea ID classifica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229159670108160
+    m_Localized: Invia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229163293986816
+    m_Localized: "\rInserisci l'ID"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230078142992384
+    m_Localized: Inserisci il nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230084618997760
+    m_Localized: "\rInserisci il nome della classifica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15897670046273536
+    m_Localized: Cerca l'ID della classifica sopra o creane uno nuovo qui sotto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898033268805632
+    m_Localized: L'ID della classifica non corrisponde, creane uno nuovo di seguito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898855843123200
+    m_Localized: Nessun record trovato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15936062389833728
+    m_Localized: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15958515434475520
+    m_Localized: Camere complete
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

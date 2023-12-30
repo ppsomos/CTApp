@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "289523454760",
+    "firebase_url": "https://ctapp-9226c-default-rtdb.firebaseio.com",
+    "project_id": "ctapp-9226c",
+    "storage_bucket": "ctapp-9226c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289523454760:android:18f7990f8d91627d36361d",
+        "android_client_info": {
+          "package_name": "com.bgs.ctapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefcc9zyryTS9Hdf4Bje6MlqKA9Kpw8zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

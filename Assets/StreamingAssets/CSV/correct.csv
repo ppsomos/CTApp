@@ -1,0 +1,256 @@
+questions,Question_Explanation,Op1,Op2,Op3,Op4,answersIndex
+Rozpoczynając naukę tworzenia zdań w języku obcym należy,Z nauką języków obcych jest jak z parzeniem herbaty Aby napisać/mówić coś zgodnie z gramatyką należy poznać poradnik językowy Gramatykę można porównać do przepisu kulinarnego wyjaśniającego wszystkie kroki niezbędne do przygotowania dania Ale przede wszystkim musimy znać składniki Składniki w gramatyce językowej to na przykład podmiot i czasownik Dzielenie zdań na części składowe usprawni Twoją naukę - spróbuj,podzielić zdanie na części podrzędne typu podmiot czasownik itp,umieścić we właściwej kolejności części składowe takie jak podmiot czasownik itp,nazwać części składowe jak podmiot czasownik itp,wymieszać części składowe takie jak podmiot czasownik itp w dowolnej kolejności i sprawdzić zrozumienie,2
+Najszybszą poprawną metodą zsumowania w pamięci wszystkich liczb całkowitych od 1 do 10 jest,Gdybyś miał dodać dziesięć dziesiątek byłoby łatwo Suma wyniosłaby 100 To wygląda ciekawie spróbuj więc zacząć dodawanie od ostatniej liczby czyli od 10 Dodaj do niej sumę pierwszej i przedostatniej czyli 1 + 9 i tak dalej Dodawane będzie więc wyglądało tak 10 +1 + 9 +2 + 8 +3 + 7 +4 + 6 Masz pięć wierszy i w każdym suma wynosi 10 Zdekomponowałeś w ten sposób złożoną operację arytmetyczna na szereg prostych elementów składowych Pięć dziesiątek to 50 a 50 to połowa 100 Czyli 100 / 2 Zostało ci do dodania jeszcze 5 Wszystko razem to 100 / 2 + 5 czyli 55 Widzisz teraz wzorzec która uprości obliczenia? Sprawdź teraz czy 55 to dobry wynik dodając po kolei wszystkie liczby od 1 do 10,dodajemy 1 2 3 4 itd do 10,pomnożyć 10 przez 5 i dodać 1,podzielić 100 przez 2 i dodać 5,obliczyć ((1 + 10 ) x 10) / 2,2
+Aby zsumować wszystkie liczby całkowite od 1 do 20 w ciągu 10 sekund tylko w pamięci należy,Jeżeli zsumujesz pierwszą i ostatnia liczbę którą masz dodać czyli 1 + 20 to uzyskasz 21 Masz 10 takich par To są elementy składowe które odkryłeś dekomponując złożone obliczenie Czyli 10 x 21 = 210 To wzorzec dla takich obliczeń Sprawdź teraz czy 210 to dobry wynik dodając po kolei wszystkie liczby od 1 do 20 na kartce w kalkulatorze lub w komputerze Możesz też spróbować w pamięci ),pomnożyć 10 przez 21,dodaj 1 2 3 4 i tak dalej ale bardzo szybko,dodać 20 19 18 17 i tak dalej ale bardzo szybko,dodać 20 1 19 2 18 3 i tak dalej ale naprawdę szybko,2
+Aby zsumować wszystkie liczby całkowite od 1 do X w ciągu 10 sekund wyłącznie w pamięci powinieneś obliczyć,Na początek przykład Dodawanie liczb od 1 do 10 czyli do X = 10 jest na początku łatwe 1 + 2 to po prostu 3 a 3 + 3 to 6 itd Wyobraź sobie jednak dodawanie od 1 do 140 Dodając kolejne coraz większe liczby w pamięci łatwo się pomylić Spróbuj znaleźć ogólne rozwiązanie zmieniając w tym celu tok myślenia Dodaj na przykład nie pierwszą i drugą liczbę ale pierwszą i ostatnią 1 + 10 = 11 Kolejna para daje taki sam wynik 2 + 9 = 11 Zdekomponowałeś dane na proste powtarzalne elementy W kolejnych parach suma także wyniesie 11 Rozpoznałeś więc wzorzec łatwego sumowania A ile będzie takich par które dają identyczne sumy? Kolejne pary to 1+10 2+9 3+8 4+7 i 5+6 Liczba par to 5 czyli połowa liczb które masz zsumować Możesz to zapisać tak że przy 10 liczbach jest 10 / 2 = 5 - pięć par Możesz teraz uogólnić ideę rozwiązania używając symboli arytmetycznych i ułożyć algorytm opisujący kroki rozwiązania dla dowolnych danych Przy X liczb masz X / 2 par a wartości do zsumowania wynoszą 1 + X Algorytm wygląda więc tak X/2+(1+X) Sprawdź teraz czy ten algorytm da poprawne wyniki także dla liczb od 1 do 11 do 20 czy dla dowolnej innej liczby Spróbuj też uogólnić ten algorytm na dowolną parę liczb z przedziału <X Y> gdzie X<Y,X/2 * (X+1),X*2 / (X+1),(X+1) / X*2,2X * X,3
+Aby oprzeć się niechcianym naciskom na robienie złych rzeczy powinieneś wykonać te kroki w podanej kolejności,Komputacyjne myślenie polega na dzieleniu złożonych problemów na mniejsze bardziej zarządzalne części i stosowaniu logicznego podejścia do ich rozwiązywania To samo podejście można zastosować w celu oporu przeciwko niechcianym naciskom do popełnienia czegoś złego Kroki polegające na nazwaniu elementów sytuacji rozpoznaniu ryzykownego kontekstu zastosowaniu praw asertywności i opuszczeniu miejsca/sytuacji opierają się na systematycznym podejściu do rozwiązywania problemów a każdy kolejny krok opiera się na poprzednim Oto jak te kroki mają zastosowanie w oporze przeciwko niechcianym naciskom Nazwanie elementów sytuacji Pierwszym krokiem w oporze przeciwko niechcianym naciskom jest zidentyfikowanie i zrozumienie różnych elementów sytuacji W tym należy zrozumieć motywy osoby lub osób wywierających naciski potencjalne konsekwencje ustępstw dla ich żądań oraz etyczne implikacje Twoich działań Rozpoznanie ryzykownego kontekstu Po zidentyfikowaniu różnych elementów sytuacji następnym krokiem jest rozpoznanie kiedy kontekst staje się ryzykowny W tym należy zrozumieć kiedy wywierane naciski są nieodpowiednie lub nieetyczne a kiedy mogą prowadzić do szkody dla zdrowia lub innych negatywnych konsekwencji dla Ciebie lub innych osób Zastosowanie praw asertywności Po rozpoznaniu że kontekst stał się ryzykowny kolejnym krokiem jest odwołanie się do swoich praw i obrona swojego stanowiska Wymaga to jasnego przekazywania swoich granic i oczekiwań osobie lub osobom wywierającym naciski oraz odmowy ustępstw dla ich żądań Opuszczenie miejsca/sytuacji Jeśli naciski nadal trwają i nie możesz rozwiązać sytuacji ostatnim krokiem jest opuszczenie miejsca lub sytuacji Może to obejmować fizyczne usunięcie się z sytuacji szukanie pomocy od innych lub podjęcie innych kroków aby zapewnić swoje bezpieczeństwo i dobre samopoczucie Postępując według tych kroków możesz podejść do problemu niechcianych nacisków w logiczny i systematyczny sposób co zwiększa Twoje szanse na skuteczne przeciwstawienie się presji,nazwij elementy sytuacji rozpoznaj ryzykowny kontekst zastosuj prawa asertywności opuść miejsce/sytuację,opuść miejsce/sytuację nazwij elementy sytuacji rozpoznaj ryzykowny kontekst zastosuj prawa asertywności,zastosować prawa asertywności opuścić miejsce/sytuację nazwać elementy sytuacji rozpoznać ryzykowny kontekst,rozpoznać ryzykowny kontekst opuścić miejsce/sytuację zastosować prawa asertywności nazwać elementy sytuacji,1
+Aby nauczyć robota jak sprzątać pokój powinieneś przejść następujące kroki w podanej kolejności,Myślenie obliczeniowe polega na rozbijaniu złożonych zadań na mniejsze bardziej przystępne części oraz na logicznym podejściu do ich rozwiązywania To samo podejście można zastosować w przypadku nauczania robota jak sprzątać pokój Kroki polegające na wymienieniu wszystkich elementów pokoju rozpoznaniu obszarów łączących elementy zdefiniowaniu zasad które mają być zastosowane oraz przygotowaniu instrukcji krok po kroku opisane są na podstawie systematycznego podejścia do rozwiązywania problemów gdzie każdy krok buduje na poprzednim Oto jak te kroki mogą być zastosowane w nauczaniu robota jak sprzątać pokój Wymień wszystkie elementy pokoju Pierwszym krokiem w nauczaniu robota jak sprzątać pokój jest wymienienie wszystkich elementów pokoju z którymi robot musi się zetknąć Obejmuje to meble ściany podłogi i wszelkie inne przedmioty lub funkcje które mogą być obecne Rozpoznaj obszary łączące elementy Po zidentyfikowaniu wszystkich elementów pokoju następnym krokiem jest rozpoznanie obszarów które łączą te elementy Na przykład obszar między ścianami a podłogą lub obszar pod meblami Rozpoznając te obszary można opracować bardziej efektywną strategię sprzątania dla robota Zdefiniuj zasady które mają być zastosowane Po rozpoznaniu obszarów łączących elementy kolejnym krokiem jest zdefiniowanie zasad których robot powinien przestrzegać podczas sprzątania pokoju Na przykład robot może musieć unikać zderzania się z meblami lub ścianami lub może musieć dokładniej czyścić niektóre obszary niż inne Przygotuj instrukcje krok po kroku Po zdefiniowaniu zasad ostatnim krokiem jest przygotowanie instrukcji krok po kroku które robot będzie mógł stosować aby sprzątać pokój w sposób wydajny Instrukcje te powinny uwzględniać elementy pokoju obszary je łączące oraz zasady które zostały zdefiniowane Śledząc te kroki w określonej kolejności można podejść do zadania nauczania robota jak sprzątać pokój w sposób logiczny i systematyczny zwiększając szanse na wydajne i skuteczne wykonanie zadania przez robota,wymienić wszystkie elementy pomieszczenia rozpoznać obszary łączące elementy określić zasady które należy zastosować przygotować instrukcję krok po kroku,określić zasady do zastosowania przygotować instrukcje krok po kroku wymienić wszystkie elementy pomieszczenia rozpoznać obszary łączące elementy,wymienić wszystkie elementy pomieszczenia określić zasady które należy zastosować przygotować instrukcję krok po kroku rozpoznać obszary łączące elementy,wymienić wszystkie elementy pomieszczenia przygotować instrukcję krok po kroku określić zasady które należy zastosować rozpoznać obszary łączące elementy,1
+Lista rzeczy do zrobienia podczas sprzątania pokoju powinna zawierać następujące informacje,Myślenie komputacyjne polega na dzieleniu złożonych zadań na mniejsze łatwiejsze do zarządzania części oraz opracowywaniu logicznego podejścia do rozwiązywania problemów Ten sam podejście można zastosować w celu stworzenia listy zadań do sprzątania pokoj Zawarcie na liście wszystkich elementów do sprzątania kategorie elementów w pokoju łączących się ze sobą oraz ogólne zalecenia dotyczące porządku i dokładności sprzątania grup/typów elementów pomaga w ustanowieniu klarownego i zorganizowanego planu sprzątania pokoju Dzięki podziałowi procesu sprzątania na mniejsze części łatwiej jest zarządzać i skutecznie wykonać zadanie Dodatkowo udzielanie szczegółowych instrukcji dotyczących sprzątania grup i elementów takich jak meble elektronika i inne elementy w odpowiedniej kolejności zapewnia dokładne i konsekwentne przeprowadzenie procesu sprzątania To podejście również pomaga zminimalizować ryzyko przeoczenia jakichkolwiek elementów lub obszarów podczas procesu sprzątania,listę wszystkich przedmiotów do sprzątania zasadę łączącą kategorie przedmiotów w pokoju w grupy/rodzaje ogólne zalecenia dotyczące kolejności i dokładności sprzątania grup/rodzajów przedmiotów,konkretne instrukcje dotyczące sprzątania grup i przedmiotów takich jak meble (krzesło biurko szafa itp) sprzęt elektroniczny (telewizor komputer soundbar itp) w odpowiedniej kolejności,oba powyższe,żadne z powyższych,1
+Pełne naładowanie telefonu komórkowego trwa 2 godziny Jaki jest najkrótszy czas pełnego naładowania 3 telefonów komórkowych przy pomocy 2 ładowarek?,"Pożądanym rezultatem jest pełne naładowanie trzech telefonów komórkowych przy użyciu dwóch ładowarek w jak najkrótszym czasie
+ 
+ Należy zauważyć że jeśli spróbujemy naładować wszystkie 3 telefony komórkowe jednocześnie przy użyciu 2 ładowarek czas ładowania będzie dłuższy niż 2 godziny dla każdego telefonu Dzieje się tak dlatego że moc dostarczana przez ładowarki zostanie podzielona pomiędzy 3 telefony więc każdy telefon otrzyma mniej niż pełną moc ładowania której potrzebuje
+ 
+ 
+ Zamiast tego możemy naładować 2 telefony komórkowe za pomocą obu ładowarek jednocześnie a następnie naładować trzeci telefon osobno gdy jeden z pierwszych 2 telefonów jest w pełni naładowany W ten sposób możemy mieć dwa telefony ładujące się z pełną mocą ładowania przez 2 godziny co w pełni je naładuje Następnie możemy użyć jednej z ładowarek do ładowania trzeciego telefonu przez 2 godziny aż zostanie on w pełni naładowany
+ 
+ Całkowity czas ładowania wszystkich 3 telefonów wyniesie wówczas 2 godziny dla dwóch pierwszych telefonów + 2 godziny dla trzeciego telefonu = 4 godziny
+ 
+ Powyższa metoda również nie jest najszybsza Przedstawione rozwiązanie i wyjaśnienie możemy porównać z innymi możliwymi odpowiedziami znalezionymi w wyniku myślenia obliczeniowego Pierwszym krokiem myślenia obliczeniowego jest dekompozycja problemu jeden z etapów myślenia obliczeniowego Dekompozycja problemu polega na rozbiciu złożonego problemu na mniejsze łatwiej rozwiązywalne i możliwe do wtórnego przeorganizowania podproblemy które można rozwiązać indywidualnie a następnie połączyć w celu rozwiązania większego problemu 
+ 
+ Ogólny problem ładowania 3 telefonów 2 ładowarkani możemy zdekomponować na cztery prostsze podproblemy ładowanie dwóch telefonów przez 2 godziny za pomocą dwóch ładowarek ładowanie jednego telefonu przez 2 godziny za pomocą jednej ładowarki ładowanie jednego telefonu przez 1 godzinę za pomocą jednej ładowarki i przełączanie jednego telefonu z jednej ładowarki na drugą
+ 
+ Teraz korzystając z tych podproblemów i łącząc wydrębnione warianty w nowy sposób możemy zobaczyć że możemy zacząć od ładowania pierwszego telefonu przez 2 godziny pierwszą z ładowarek W tym samym czasie możemy rozpocząć ładowanie drugiego telefonu drugą ładowarką ale odłączyć go po 1 godzinie i podłączyć do drugiej ładowarki trzeci telefon na 2 godziny Po całkowitym naładowaniu pierwszego telefonu za pomocą pierwszej ładowarki możemy z kolei podłączyć do tej ładowarki drugi telefon na 1 godzinę W ten sposób pełne naładowanie wszystkich trzech telefonów przy użyciu dwóch ładowarek zajmie łącznie 3 godziny
+ 
+ Jest to najkrótszy możliwy czas ponieważ używamy dwóch ładowarek jednocześnie i optymalizujemy czas ładowania dla każdego telefonu Gdybyśmy mieli ładować wszystkie trzy telefony przez 2 godziny przy użyciu jednej ładowarki pełne naładowanie wszystkich trzech telefonów zajęłoby łącznie 6 godzin Dlatego rozwiązanie polegające na ładowaniu jednego telefonu przez 1 godzinę a następnie przełączeniu go na drugą ładowarkę podczas ładowania pozostałych dwóch telefonów przez 2 godziny jest najbardziej efektywnym podejściem co jest korzyścią z zastosowania myślenia komputacyjnego",3,4,6,2,3
+Pisząc program do robienia zakupów w Internecie należy wybrać odpowiednią kolejność zadań które będzie on wykonywał,"Model myślenia obliczeniowego polega na podzieleniu problemu na mniejsze bardziej zarządzalne części i zaprojektowaniu rozwiązań wykorzystujących algorytmy i struktury danych Stosując ten model do procesu pisania programu do robienia zakupów online można przedstawić następujące uzasadnienie dla kolejności zadań
+ 
+ Krok 1 - Wyszukiwanie przedmiotu Pierwszym krokiem w każdym programie do zakupów online jest umożliwienie użytkownikowi wyszukiwania przedmiotów które chce kupić Polega to na udostępnieniu pola wyszukiwania lub listy kategorii do przeglądania a następnie zastosowaniu algorytmów do przeszukiwania bazy produktów w celu znalezienia tych które odpowiadają kryteriom wyszukiwania użytkownika
+ 
+ Krok 2 - Dodanie przedmiotu do koszyka Gdy użytkownik znajdzie już przedmiot który chce kupić kolejnym krokiem jest dodanie go do koszyka Wymaga to utworzenia struktury danych która może przechowywać szczegóły przedmiotu takie jak jego nazwa cena i ilość a następnie dodania go do koszyka użytkownika Koszyk może również śledzić całkowity koszt użytkownika i wyświetlać go dla niego Nie można dodać przedmiotu do koszyka nie wiedząc czy produkt znajduje się w bazie danych (krok 1) 
+ 
+ Krok 3 - Wprowadzenie adres dostawy Po tym jak użytkownik dodał do koszyka wszystkie przedmioty które chce kupić kolejnym krokiem jest wprowadzenie adresu dostawy Wiąże się to z udostępnieniem formularza w którym użytkownik może wprowadzić swoje imię i nazwisko adres numer telefonu i inne istotne szczegóły Informacje te mogą być przechowywane w bazie danych lub wysyłane do usługi zewnętrznej w celu weryfikacji Konieczna jest znajomość liczby i rozmiaru / wagi wszystkich zakupionych przedmiotów (krok 2) aby ocenić właściwą formę i cenę dostawy 
+ 
+ Krok 4 - Zapłata za przedmiot Ostatecznie po wprowadzeniu przez użytkownika adresu dostawy ostatnim krokiem jest umożliwienie mu zapłaty za przedmiot Wiąże się to z integracją z bramką płatniczą taką jak np PayPal lub Przelewy24 w celu przetworzenia płatności użytkownika Program powinien również zapewnić stronę potwierdzającą która pokazuje użytkownikowi szczegóły zamówienia adres dostawy i całkowity koszt Konieczne jest poznanie wszystkich zamówionych przedmiotów i odległości dostawy aby poznać Aby obliczyć cenę całkowitą musisz znać wszystkie wybrane przedmioty formularz i odległość dostawy (kroki 1 - 3) zanim poprosisz o płatność
+ 
+ Ogólnie rzecz biorąc przestrzeganie tej sekwencji zadań w programie zapewnia że użytkownik może wyszukiwać wybierać i kupować żądane przedmioty w sposób płynny i logiczny a jednocześnie zapewnia niezbędne struktury danych i algorytmy dzięki którym program działa sprawnie",zapłać za przedmiot wpisz adres dostawy wyszukaj przedmiot dodaj przedmiot do koszyka,dodaj artykuł do koszyka zapłać za artykuł wyszukaj artykuł wpisz adres dostawy,wpisz adres dostawy dodaj artykuł do koszyka zapłać za artykuł wyszukaj artykuł,wyszukaj przedmiot dodaj przedmiot do koszyka podaj adres dostawy zapłać za przedmiot,1
+Żeby narysować zielony pole 150px x 150px program musi przejść następujące kroki w podanej kolejności,"Uzasadnienie podanej sekwencji kroków do narysowania zielonego kwadratu o wymiarach 150px x 150px opiera się na zasadach myślenia komputacyjnego 
+ 
+ Myślenie komputacyjne jest podejściem do rozwiązywania problemów które polega na rozbiciu złożonego problemu na mniejsze bardziej wykonalne części a następnie systematycznym analizowaniu i rozwiązywaniu każdej z nich Obejmuje ono szereg kroków takich jak dekompozycja problemu rozpoznawanie wzorców abstrakcja projektowanie algorytmów i ocena 
+ 
+ W tym przypadku problemem jest narysowanie zielonego kwadratu o wymiarach 150px x 150px Aby rozwiązać ten problem za pomocą myślenia komputacyjnego możemy podzielić go na mniejsze kroki i zaprojektować algorytm który wykona te kroki w określonej kolejności 
+ 
+ Podana kolejność kroków wynika z następującego rozumowania
+ 
+ a) Przejdź do miejsca startu Ten krok zapewnia że program rozpoczyna rysowanie kwadratu od żądanej pozycji na płótnie Bez tego kroku pole może zostać narysowany w niezamierzonym miejscu na płótnie
+ 
+ b) Ustaw kolor pióra na zielony Ten krok ustawia kolor pióra na zielony który będzie używany do rysowania kwadratu Bez tego kroku pióro może używać innego koloru co nie spowoduje narysowania zielonego kwadratu
+ 
+ c) Przesuń o 150px Ten krok przesuwa pióro o 150px w linii prostej która utworzy jeden bok kwadratu Ten krok jest powtarzany w sumie trzy razy aby narysować wszystkie cztery boki kwadratu
+ 
+ d) Obróć zgodnie z ruchem wskazówek zegara o 90 stopni Ten krok obraca pióro o 90 stopni zgodnie z ruchem wskazówek zegara co ukierunkuje pióro na rysowanie kolejnego boku kwadratu pod kątem prostym do poprzedniego boku Bez tego kroku pióro rysowałoby następny bok w tym samym kierunku co poprzedni co skutkowałoby prostokątem zamiast kwadratu
+ 
+ e) Powtórz powyższe dwa kroki 3 razy Ten krok powtarza poprzednie dwa kroki (przesuń o 150px i obróć o 90 stopni) trzy razy aby narysować wszystkie cztery boki kwadratu Bez tego kroku program narysowałby tylko jeden bok kwadratu pozostawiając go niekompletnym
+ 
+ Podana sekwencja kroków jest niezbędna do narysowania zielonego kwadratu o wymiarach 150px x 150px w zamierzonym miejscu i orientacji",przejdź do miejsca startu ustaw kolor pisaka na zielony przesuń o 150 px obróć w prawo o 90 stopni powtórz dwie powyższe czynności 3 razy,przejdź do miejsca startu obróć się w prawo o 90 stopni ustaw kolor pisaka na zielony przesuń o 150 px powtórz dwie powyższe czynności 3 razy,ustaw kolor pisaka na zielony przesuń 150 px obróć w prawo o 90 stopni przejdź do miejsca startu powtórz dwa powyższe kroki 3 razy,przejdź do miejsca startu ustaw kolor pisaka na zielonypowtórz dwa powyższe kroki 3 razy przesuń o 150 px obrót w prawo o 90 stopni,2
+Jaki jest błąd w poniższym programie który powinien narysować raz pole o wymiarach 100px x 100px zaczynając od lewego górnego rogu w prawo powtórz 4 razy blok w nawiasie [przesuń 100px] obróć się w prawo o 90 stopni,"Błąd w programie polega na tym że narysuje on cztery razy boki kwadratu ale jako jedną prostą linię i nie uzupełni kwadratu poprzez połączenie ostatniego boku z pierwszym Zamiast tego program zakończy się obróceniem pióra o 90 stopni w prawo po narysowaniu czwartego boku ale bez przesuwania pióra do punktu początkowego kwadratu Dlatego ostateczny rysunek będzie miał kształt litery ""I"" zamiast kwadratu Błąd wynika z faktu że polecenie obrotu o 90 stopni w prawo znajduje się poza pętlą 
+ 
+ Aby poprawić program polecenie obrotu o 90 stopni zgodnie z ruchem wskazówek zegara powinno znaleźć się wewnątrz pętli co spowoduje że pióro znajdzie się w punkcie początkowym kwadratu Konkretnie program powinien zostać zmodyfikowany tak aby ustawić blok w nawiasie jako [przesuń 100px obróć w prawo o 90 stopni] przed ponownym powtórzeniem bloku W ten sposób po narysowaniu każdego boku kwadratu pióro obróci się w prawo i w końcu przejdzie do punktu początkowego kwadratu a rysunek będzie kompletnym kwadratem Poprawiony program miałby taką postać
+ 
+ powtórz 4 razy [przesuń 100px obróć w prawo o 90 stopni]
+ 
+ Korekta błędu programu jest przykładem zastosowania zasad myślenia komputacyjnego do zadania programistycznego W szczególności korekta polega na zastosowaniu myślenia algorytmicznego i debugowania w celu zidentyfikowania i rozwiązania błędu logicznego w programie
+ 
+ Proces myślenia algorytmicznego polega na rozbiciu programu na sekwencję kroków i przeanalizowaniu jakie rezultaty dają te kroki W ten sposób staje się jasne że oryginalny program narysuje cztery boki kwadratu jako pojedynczą prostą linię i nie dokończy kwadratu poprzez połączenie ostatniego boku z pierwszym
+ 
+ Proces debugowania polega na zidentyfikowaniu błędu w logice programu a następnie zmodyfikowaniu programu w celu poprawienia błędu W tym przypadku błąd został zidentyfikowany jako nieumieszczenie wewnątrz pętli polecenia obrotu w prawo o 90 stopni tak aby pióro wróciło do punktu początkowego kwadratu Poprawiony program został zmodyfikowany poprzez przeniesienie polecenia obrotu w prawo o 90 stopni do wewnątrz pętli w celu ukończenia kwadratu
+ 
+ Ogólnie rzecz biorąc ta korekta pokazuje znaczenie myślenia algorytmicznego i debugowania w zadaniach programistycznych Stosując te zasady myślenia komputacyjnego programiści mogą zidentyfikować i poprawić błędy w swoich programach aby uzyskać pożądane rezultaty wyjściowe","pętla ""repeat"" powinna powtórzyć się 2 razy","blok ""obróć w prawo"" powinien znajdować się wewnątrz pętli za blokiem ""przesuń""","blok ""move"" powinien znajdować się poza pętlą","blok ""obróć w prawo"" powinien znajdować się wewnątrz pętli przed blokiem ""przenieś""",3
+W jaki sposób skoczek (figura szachowa która może poruszać się o dwa pola w poziomie i jedno w pionie lub dwa w pionie i jedno w poziomie) powinien przejść ze środkowego pola planszy 5x5 do prawego górnego rogu planszy?,"Aby osiągnąć prawy górny róg na planszy 5x5 startując z pozycji centralnej kwadratu skoczek powinien poruszać się w określonej sekwencji ruchów Optymalne ruchy które należy wykonać to
+ 
+ 1 Przesunąć się o 2 pola w dół i o 1 pole w prawo
+ 2 Przesunąć się o 2 pola w lewo i 1 pole w górę
+ 3 Przesunąć się o 2 pola w górę i 1 pole w prawo
+ 4 Przesunąć się o 2 pola w prawo i 1 pole w górę
+ LUB
+ 1 Przesunąć się o 2 pola w górę i 1 pole w prawo
+ 2 Przesunąć się o 2 pola w dół i 1 pole w prawo
+ 3 Przesunąć się o 2 pola w lewo i 1 pole w górę
+ 4 Przesunąć się o 2 pola w prawo i 1 pole w górę
+ 
+ Istnieje kilka powodów dla których te ruchy są optymalnym rozwiązaniem aby osiągnąć prawy górny róg z pozycji centralnego pola
+ 
+ Po pierwsze początkowy ruch o 2 pola w dół i 1 pole w prawo (lub 2 pola w górę i 1 pole w prawo) jest najbardziej efektywnym ruchem przybliżającym skoczka do narożnika Przesuwa on skoczka o 2 pola w kierunku rogu zachowując jego pozycję na planszy
+ 
+ Kolejne ruchy mają na celu zbliżenie skoczka do prawego górnego rogu Przesuwając się o 2 pola w lewo i 1 pole w górę skoczek zbliża się do górnej krawędzi planszy Kolejny ruch o 2 pola w górę i 1 pole w prawo ponownie przybliża skoczka do narożnika Wreszcie ruch o 2 pola w prawo i 1 pole w górę doprowadza skoczka do prawego górnego rogu
+ 
+ Taka sekwencja ruchów sprawia że skoczek zawsze zbliża się do narożnika pozostając na planszy Dzięki tym optymalnym ruchom skoczek może dotrzeć do prawego górnego rogu w najkrótszym możliwym czasie z pozycji środkowego pola
+ 
+ Ogólnie rzecz biorąc optymalna sekwencja ruchów w celu osiągnięcia prawego górnego rogu na planszy 5x5 zaczynając od pozycji centralnego pola wymaga starannego planowania i rozważenia zasad ruchu skoczka Analizując możliwe ruchy i oceniając ich efektywność możemy wyznaczyć optymalne rozwiązanie problemu
+ 
+ Ta sekwencja ruchów zapewnia że skoczka zawsze porusza się w kierunku narożnika pozostając na planszy Dzięki tym optymalnym ruchom skoczek może dotrzeć do prawego górnego rogu w najkrótszym możliwym czasie z pozycji centralnego pola
+ 
+ Ogólnie rzecz biorąc optymalna sekwencja ruchów w celu osiągnięcia prawego górnego rogu na planszy 5x5 zaczynając od pozycji centralnego pola wymaga starannego planowania i rozważenia zasad ruchu skoczka Analizując możliwe ruchy i oceniając ich efektywność możemy wyznaczyć optymalne rozwiązanie problemu
+ 
+ Z punktu widzenia myślenia komputacyjnego znalezienie optymalnej sekwencji ruchów dla skoczka aby osiągnąć prawy górny róg planszy 5x5 zaczynając od pozycji centralnego pola obejmuje kilka ważnych koncepcji tego procesu myślenia
+ 
+Dekompozycja Aby rozwiązać problem musimy go zdekomponować na mniejsze podproblemy W szczególności musimy zidentyfikować możliwe ruchy które może wykonać skoczek i ocenić efektywność każdego z nich pod względem przybliżenia skoczka do miejsca docelowego
+ 
+Rozpoznawanie wzorców Możemy zastosować umiejętności rozpoznawania wzorców aby zidentyfikować ruchy które są najbardziej efektywne dla skoczka aby osiągnąć prawy górny róg W szczególności możemy rozpoznać że ruchy polegające na przesunięciu się o 2 kwadraty w dół i 1 kwadrat w prawo lub 2 kwadraty w górę i 1 kwadrat w prawo są najbardziej efektywne ponieważ przybliżają skoczka do miejsca docelowego a jednocześnie utrzymują jego pozycję na planszy
+ 
+Abstrakcja Możemy wyabstrahować problem traktując szachownicę jako siatkę komórek o wymiarach 5x5 a ruchy skoczka jako zbiór reguł które dyktują jak skoczek może poruszać się między komórkami Taka abstrakcja pozwala nam uprościć problem i skupić się na istotnych elementach niezbędnych do jego rozwiązania
+ 
+Myślenie algorytmiczne Aby znaleźć optymalną sekwencję ruchów dla skoczka w celu dotarcia do prawego górnego rogu musimy opracować systematyczne i powtarzalne podejście W szczególności musimy ocenić każdy z ośmiu możliwych ruchów które może wykonać skoczek i wybrać te ruchy które przesuwają tę figurę w kierunku docelowego miejsca a jednocześnie utrzymują ją na planszy
+ 
+Ocena Na koniec musimy zastosować umiejętności logicznego rozumowania aby ocenić efektywność każdego ruchu i wybrać najlepsze ruchy dla skoczka Wiąże się to ze zrozumieniem zasad dotyczących tego jak skoczek może poruszać się po planszy określeniem celu problemu i zastosowaniem logicznego rozumowania w celu oceny optymalnego rozwiązania
+ 
+ Ogólnie rzecz biorąc problem znalezienia optymalnej sekwencji ruchów dla skoczka aby dotrzeć do prawego górnego rogu planszy 5x5 zaczynając od pozycji centralnego kwadratu wymaga zastosowania kilku kluczowych koncepcji i umiejętności myślenia komputacyjnego w tym dekompozycji rozpoznawania wzorców abstrakcji algorytmizacji i dodatkowo ewaluacji Stosując te umiejętności możemy określić najbardziej efektywną sekwencję ruchów dla skoczka aby dotrzeć do celu",przejdź 2 pola w górę i 1 pole w prawo 2 w dół 1 w prawo 2 w lewo 1 w górę 2 w prawo 1 w górę,idź 2 pola w dół i 1 pole w prawo 2 w lewo 1 w górę 2 w górę 1 w prawo 2 w prawo 1 w górę,obie powyższe czynności są prawidłowe,żadne z powyższych rozwiązań nie jest poprawne,2
+Figura szachowa - skoczek znajduje się na środkowym polu planszy 5x5 Skoczek może poruszyć się o dwa pola w poziomie i jedno w pionie lub o dwa w pionie i jedno w poziomie Jaka jest najmniejsza liczba ruchów aby dostać się do jednego z rogów?,"Aby znaleźć najmniejszą liczbę ruchów dla skoczka który ma dostać się do jednego z rogów szachownicy 5x5 ze środkowego pola możemy użyć algorytmu wyszukiwania takiego jak breadth-first search lub algorytm Dijkstry Ponieważ jednak przestrzeń poszukiwań jest stosunkowo niewielka możemy również rozwiązać ten problem ręcznie analizując możliwe ruchy
+ 
+ Po pierwsze możemy zauważyć że istnieje tylko osiem możliwych ruchów które skoczek może wykonać z centralnego pola
+ 
+ 1 Przesunąć się 2 pola w dół i 1 pole w prawo
+ 2 Przesunąć się 2 pola w dół i 1 pole w lewo
+ 3 Przesunąć się 2 pola w górę i 1 pole w prawo
+ 4 Przesunąć się 2 pola w górę i 1 pole w lewo
+ 5 Przesunąć się 2 pola w lewo i 1 pole w dół
+ 6 Przesunąć się 2 pola w lewo i 1 pole w górę
+ 7 Przesunąć się 2 pola w prawo i 1 pole w dół
+ 8 Przesunąć się 2 pola w prawo i 1 pole w górę
+ 
+ Wykonując którykolwiek z tych ośmiu ruchów skoczek znajdzie się na polu obok jednego z narożników planszy W związku z tym minimalna liczba ruchów wymagana do osiągnięcia przez skoczka jednego z narożników wynosi cztery Dzieje się tak ponieważ skoczek musi wykonać co najmniej trzy ruchy aby dotrzeć do pola obok którego sie znajduje lub do pola lustrzanego
+ 
+ Na przykład załóżmy że skoczek zaczyna na środkowym polu i chce dotrzeć do prawego górnego pola Optymalną sekwencją ruchów byłoby
+ 
+ 1 Przesunąć się o 2 pola w dół i o 1 pole w prawo
+ 2 Przesunąć się o 2 pola w lewo i 1 pole w górę
+ 3 Przesunąć się o 2 pola w górę i 1 pole w prawo
+ 4 Przesunąć się o 2 pola w prawo i 1 pole w górę
+ 
+ LUB
+ 1 Przesunąć się o 2 pola w górę i 1 pole w prawo
+ 2 Przesunąć się o 2 pola w dół i 1 pole w prawo
+ 3 Przesunąć się o 2 pola w lewo i 1 pole w górę
+ 4 Przesunąć się o 2 pola w prawo i 1 pole w górę
+ 
+ W sumie ta sekwencja ruchów doprowadza skoczka do prawego górnego rogu planszy w zaledwie czterech ruchach co jest minimalną wymaganą liczbą ruchów 
+ 
+ Z punktu widzenia myślenia obliczeniowego rozwiązanie problemu znalezienia najmniejszej liczby ruchów dla skoczka aby dostać się do jednego z rogów szachownicy 5x5 zaczynając od centralnego kwadratu można rozbić na serię kroków
+ 
+ 1 Zdefiniowanie problemu Problemem jest znalezienie najkrótszej drogi jaką może przebyć rycerz aby dotrzeć do jednego z rogów szachownicy 5x5 startując z centralnego kwadratu biorąc pod uwagę że skoczek musi poruszać się w układzie litery L
+ 
+ 2 Przeanalizuj problem Pierwszym krokiem w analizie problemu jest zrozumienie ograniczeń W tym przypadku skoczek musi poruszać się w kształcie litery L co oznacza że może poruszyć się o dwa kwadraty w jednym kierunku a następnie o jeden kwadrat w kierunku prostopadłym Szachownica jest siatką 5x5 co oznacza że jest na niej 25 kwadratów Pozycją startową jest centralny kwadrat który znajduje się na przecięciu trzeciego rzędu i trzeciej kolumny
+ 
+ 3 Zaprojektuj rozwiązanie Aby zaprojektować rozwiązanie możemy użyć algorytmu przeszukiwania aby zbadać wszystkie możliwe ścieżki które może przebyć skoczek aby dotrzeć do jednego z rogów szachownicy Powszechnie stosowany algorytm wyszukiwania dla problemów takich jak ten nazywa się breadth-first search (BFS) BFS zaczyna się od pozycji startowej i bada wszystkie możliwe ruchy z tej pozycji Następnie przechodzi do następnego poziomu drzewa wyszukiwania i bada wszystkie możliwe ruchy z tych pozycji Proces ten trwa do momentu znalezienia rozwiązania
+ 
+ 4 Implementacja rozwiązania Implementacja rozwiązania polega na napisaniu kodu wykonującego wyszukiwanie BFS na szachownicy Algorytm powinien śledzić dotychczas znalezione najkrótsze ścieżki i zaprzestać przeszukiwania po znalezieniu drogi do jednego z narożników
+ 
+ 5 Testowanie rozwiązania Aby przetestować rozwiązanie możemy uruchomić kod na różnych przypadkach testowych takich jak start z różnych pozycji na szachownicy lub zmiana rozmiaru szachownicy Powinniśmy również przetestować rozwiązanie na przypadkach brzegowych takich jak sytuacja gdy pozycja startowa znajduje się już w rogu szachownicy
+ 
+ Z tej perspektywy widać że minimalna liczba ruchów wymaganych do tego aby skoczek dotarł do jednego z narożników szachownicy 5x5 zaczynając od centralnego kwadratu wynosi 4 Można to udowodnić analizując wszystkie możliwe ruchy jakie może wykonać skoczek i znajdując najkrótszą ścieżkę do narożnika",4,3,5,niemożliwe - nieskończenie wiele,3
+W celu przygotowania dobrego przepisu na ciasto należy wykonać następujące czynności w podanej kolejności,"Z perspektywy myślenia obliczeniowego wykonywanie kroków w podanej kolejności podczas przygotowywania przepisu na ciasto jest niezbędne do zapewnienia dobrego wyniku Oto dlaczego
+ 
+ 1 Dekompozycja Pierwszym krokiem w przygotowaniu przepisu na ciasto jest rozbicie zadania na mniejsze podzadania Obejmuje to wypisanie wszystkich składników opisanie jak należy je łączyć dla każdego składnika wyjaśnienie możliwych modyfikacji przepisu oraz opisanie wszystkich kroków potrzebnych do wykonania ciasta Taka dekompozycja pozwala nam lepiej zrozumieć problem i skupić się na każdym pojedynczym zadaniu
+ 
+ 2 Rozpoznawanie wzorców Kiedy już zdekomponujemy zadanie możemy zidentyfikować wzorce w przepisie Na przykład możemy zauważyć że przepis zaczyna się od wymienienia składników następnie przechodzi do opisu sposobu ich połączenia po czym następują możliwe modyfikacje przepisu a na końcu kroki potrzebne do wykonania ciasta Rozpoznanie tych wzorców pomaga nam zrozumieć przepływ przepisu i zależności pomiędzy poszczególnymi krokami
+ 
+ 3 Abstrakcja Po zidentyfikowaniu wzorców w przepisie możemy wyabstrahować szczegóły każdego kroku i skupić się na koncepcjach wysokiego poziomu Oznacza to że możemy myśleć o przepisie w kategoriach ogólnego procesu a nie grzęznąć w poszczególnych składnikach lub pomiarach
+ 
+ 4 Projektowanie algorytmu Mając na uwadze koncepcje wysokopoziomowe możemy zaprojektować algorytm przygotowania przepisu na ciasto Algorytm ten powinien wykonywać kroki w podanej kolejności zaczynając od wymienienia składników następnie opisując jak należy je łączyć dla każdego składnika następnie wyjaśniając możliwe modyfikacje przepisu a na końcu opisując wszystkie kroki potrzebne do wykonania ciasta Postępowanie zgodnie z kolejnością gwarantuje że nie pominiemy żadnych ważnych kroków i że ciasto wyjdzie zgodnie z oczekiwaniami
+ 
+ 5 Testowanie Wreszcie możemy przetestować przepis postępując zgodnie z zaprojektowanym przez nas algorytmem i wprowadzając modyfikacje w razie potrzeby Testowanie pomaga nam zidentyfikować wszelkie błędy w przepisie i udoskonalić algorytm do wykorzystania w przyszłości
+ 
+ Ogólnie rzecz biorąc wykonywanie kroków w kolejności podczas przygotowywania przepisu na ciasto jest ważne ponieważ zapewnia że wszystkie niezbędne składniki są zawarte i że przepis jest wykonywany prawidłowo Dzieląc przepis na mniejsze zadania rozpoznając wzorce abstrahując od szczegółów projektując algorytm i testując przepis możemy mieć pewność że ciasto za każdym razem wyjdzie pyszne",opisać wszystkie kroki potrzebne do wykonania tortu opisać w jaki sposób należy zebrać składniki do każdego z nich wymienić wszystkie składniki wyjaśnić możliwe modyfikacje przepisu,wymień wszystkie składniki wyjaśnij możliwe modyfikacje przepisu opisz wszystkie kroki potrzebne do wykonania ciasta opisz jak należy łączyć składniki dla każdego z nich,wymień wszystkie składniki opisz wszystkie kroki potrzebne do wykonania ciasta opisz jak należy łączyć składniki dla każdego z nich wyjaśnij możliwe modyfikacje przepisu,wymień wszystkie składniki opisz jak należy je łączyć dla każdego z nich wyjaśnij możliwe modyfikacje przepisu opisz wszystkie kroki potrzebne do wykonania tortu,1
+Aby zobaczyć obiekt na obrazie stereograficznym (zobaczyć dwuwymiarową grafikę w trzech wymiarach jak widać z perspektywy) należy wykonać następujące czynności w podanej kolejności,"Widzenie stereoskopowe to zdolność naszych oczu do oglądania tego samego obiektu z nieco różnych perspektyw ze względu na ich nieco inne pozycje na naszej twarzy Nasz mózg łączy następnie te dwa obrazy aby stworzyć trójwymiarowe postrzeganie obiektu 
+ 
+ Obraz stereograficzny wykorzystuje to naturalne zjawisko prezentując dwa nieco odmienne obrazy obok siebie Przy prawidłowym oglądaniu nasz mózg łączy te dwa obrazy tworząc iluzję obrazu trójwymiarowego
+ 
+ Kroki wymienione w pytaniu są metodą treningu dla naszych oczu i mózgu aby zobaczyć obraz 3D w stereogramie 
+ 
+ Z perspektywy myślenia komputacyjnego możemy myśleć o tych krokach jako o procesie szkolenia naszego systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego Proces ten obejmuje serię działań które pozwalają nam przezwyciężyć naturalne uprzedzenia poznawcze i dostosować nasz system percepcji wzrokowej do tworzenia iluzji obrazu 3D
+ 
+ Podejście oparte na myśleniu komputacyjnym polega na rozbiciu problemu na serię mniejszych kroków i algorytmów które można wykonać w logicznej kolejności W przypadku oglądania stereogramu kroki wymienione w pytaniu pomagają nam trenować nasz system percepcji wzrokowej
+ 
+ Pierwszy krok rozluźnienie oczu może być postrzegany jako dekompozycja przezwyciężanie naturalnej tendencji do skupiania się na jednym punkcie Rozluźniając oczy jesteśmy w stanie zobaczyć obrazy w stereogramie których wcześniej nie widzieliśmy nie skupiając się na żadnym z nich
+ 
+ Drugi krok patrzenie poza obraz może być postrzegany jako przezwyciężania naturalnej poznawczej tendencji do skupiania się na obiektach w naszym polu widzenia Patrząc poza obraz jesteśmy w stanie objąć oba obrazy w stereogramie nie skupiając się na żadnym z nich To właśnie w chwili patrzenia poza obraz dostrzegamy zwykle obraz ukryty w stereogramie co można określić mianem rozpoznania struktury 
+ 
+ Trzeci krok oddalenie stereogramu/głowy może być postrzegany jako dostosowanie naszego systemu percepcji wzrokowej do dwóch obrazów w stereogramie Oddalając stereogram/głowę jesteśmy w stanie dostosować naszą perspektywę wzrokową tak aby dwa obrazy były prawidłowo wyrównane Widząc nowo rozpoznany obraz przestrzenny dostrzegamy jego trójwymiarowe tło i rozumiemy ogólną zasadę i procedurę widzenia stereoskopowego 
+ 
+ Czwarty krok przybliżanie i oddalanie się od stereogramu może być postrzegany jako dopracowanie algorytmu wyrównania dwóch obrazów dla uzyskania percepcji głębi Poprzez przybliżanie lub oddalanie się od stereogramu jesteśmy w stanie dostosować odległość pomiędzy naszymi oczami a obrazem co wpływa na postrzeganą głębię
+ 
+ Ogólnie rzecz biorąc kroki wymienione w pytaniu mogą być uznane za algorytm szkolenia naszego systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego Wykonując te kroki jesteśmy w stanie przezwyciężyć naturalne uprzedzenia poznawcze i dostosować nasz system percepcji wzrokowej do tworzenia iluzji obrazu 3D",rozluźnić oczy spojrzeć poza stereogram podnieść stereogram/głowę zbliżyć się i oddalić od niego,podnieść stereogram/głowę spojrzeć poza stereogram zbliżyć się i oddalić od niego rozluźnić oczy,przybliżać i oddalać głowę od stereogramu rozluźnić oczy podnieść stereogram/głowę patrzeć poza niego,rozluźnić oczy podnieść stereogram/głowę spojrzeć poza niego zbliżyć się i oddalić od niego,3
+"Isla gra w Mastermind na swoim komputerze Komputer wymyśla hasło z czterech różnych cyfr Gracz może podać kolejno kilka możliwych odgadnięć tego hasła Za każdym razem komputer odpowiada liczbą poprawnych cyfr które pojawiają się zarówno w próbie odgadnięcia jak i w haśle Komputer informuje też gracza czy umieścił te cyfry w odpowiednich miejscach Isla dokonała kilku odgadnięć (?) Z podanych odpowiedzi udało jej się odkryć hasło
+ ? ? ? ?
+ 5 7 2 0 Jedna z cyfr jest poprawna i znajduje się we właściwej pozycji
+ 6 0 3 1 Jedna z cyfr jest poprawna ale nie jest na właściwej pozycji
+ 1 4 8 5 Dwie cyfry są poprawne ale nie są na właściwych pozycjach
+ 1 5 9 6 Żadna z cyfr nie jest prawidłowa
+ 8 1 2 5 Jedna z cyfr jest poprawna ale nie jest na właściwej pozycji
+ Pytanie Jakie jest hasło","Aby dojść do rozwiązania musimy systematycznie postępować zgodnie z dostępnymi informacjami Proces ten musi być iteracyjny Jednym ze sposobów jego rozwiązania jest podzielenie problemu na części i najpierw próba odkrycia cyfr a następnie ich właściwej kolejności
+ 
+ Krok 1 Dekompozycja
+ Aby rozwiązać problem musimy rozbić go na mniejsze części Musimy przeanalizować każde odgadnięcie i odpowiedź komputera aby zawęzić możliwe wartości dla każdej cyfry w haśle
+ 
+ Krok 2 Rozpoznawanie wzorców
+ Musimy szukać wzorców w odgadnieciach i odpowiedziach Na przykład w pierwszym przypuszczalnym odgadnięciu jedna cyfra jest na właściwym miejscu co oznacza że odpowiadająca cyfra w haśle musi być jedną z przypuszczalnych odgadywanych cyfr Wiemy też że w haśle są 4 niepowtarzające się cyfry 
+ 
+ Krok 3 Abstrakcja
+ Musimy zastosować abstrakcję dla zebranych informacji i śledzić możliwe wartości dla każdej cyfry w haśle na podstawie udzielonych odpowiedzi
+ 
+ Wybstrahujmy pomysł rozwiązania Ogólne kroki abstrakcji można zapisać następująco
+ 
+Problem można uogólnić jako grę w zgadywanie z ograniczoną informacją zwrotną
+Celem jest wykorzystanie informacji zwrotnej do wyeliminowania niepoprawnych możliwości i stopniowe zawężanie przestrzeni poszukiwań
+Problem polega na znalezieniu kombinacji czterech różnych cyfr które spełniają określone warunki
+Musimy utworzyć tabelę aby śledzić możliwe wartości dla każdej cyfry w haśle na podstawie udzielonych odpowiedzi przez komputer
+Ostatnim krokiem jest iteracja musimy porównywać informacje w każdym wierszu szukając kombinacji czterech różnych cyfr które spełniają określone warunki
+ 
+ Krok 4 Projektowanie algorytmu
+ Na podstawie informacji w tabeli możemy zawęzić możliwe wartości dla każdej cyfry w haśle Możemy zacząć od patrzenia na cyfry które pojawiają się w kilku odgadnięciach i próbować wydedukować ich pozycję w haśle w kilku iteracjach
+ 
+ Szczegółowe kroki działania algorytmu to
+ 
+ Z pierwszego rzędu (zgadywanie Isli plus odpowiedź komputera) wiemy że tylko jedna z podanych cyfr jest częścią hasła Drugi i trzeci rząd dostarczają podobnych informacji
+ Następnie czwarty rząd pomaga wydobyć więcej informacji z rzędów od pierwszego do trzeciego Możemy odrzucić 5 z pierwszego odgadnięcia 6 z drugiego odgadnięcia oraz 1 i 5 z trzeciego odgadnięcia Z tego ostatniego kroku wiemy że 4 i 8 są częściami hasła W takim razie poprawną cyfrą w piątym odgadnięciu jest 8 i na tej podstawie możemy możemy wywnioskować z odpowiedzi komputera z rzędu 5 że 1 2 i 5 nie są częściami hasła
+ Jeśli wrócimy do rzędów pierwszego i drugiego to możliwe poprawne liczby to 7 lub 0 w rzędzie pierwszym oraz 3 lub 0 w rzędzie drugim Mamy więc 5 możliwych liczb 0347 i 8 Jeśli 0 było w haśle wtedy zarówno 7 i 3 musiałyby być odrzucone biorąc pod uwagę że tylko jedna liczba jest poprawna dla rzędów pierwszego i drugiego Pozostawiłoby to tylko 048 jako możliwe liczby w haśle Biorąc pod uwagę że hasło musi zawierać cztery unikalne liczby 0 nie może być poprawne Dlatego pozostałe cyfry które uzupełniają kod to 3 i 7
+ Teraz rozpatrujemy informację o pozycji lub kolejności Z rzędów trzeciego i piątego wiemy że 8 może być na pozycji 2 lub 4 
+ ?-8-?-8
+ oraz że 4 może być na wszystkich pozycjach oprócz 2
+ 4-?-4-4
+ Z rzędu pierwszego wiemy że 7 musi być na pozycji 2 wtedy 8 musi być na pozycji 4 Z rzędu drugiego wiemy że 3 nie może być na pozycji 3 więc musi być na pozycji 1 Stąd 4 jest na pozycji 3 To daje jedyną możliwą opcję dla hasła którą jest
+ 3-7-4-8",5182,3210,2835,3748,3
+"Kolonia bobrów przemierza ciemny las Ścieżka jest wąska więc podróżują w rzędzie nie mijając się Czasami na ścieżce pojawia się dziura Dziurę pokonuje się w następujący sposób
+ - Najpierw do dziury wskakuje tyle bobrów ile się w niej zmieści
+ - Następnie cała kolonia przechodzi przez dziurę
+ - Ostatecznie bobry które wskoczyły do środka wyjchodzą na zewnątrz
+ Pytanie
+ Przez las przeszła kolonia 7 bobrów Przechodzą nad 3 otworami W pierwszym otworze zmieściły się 4 bobry w drugim 2 a w ostatnim 3 bobry W jakiej kolejności znajdują się bobry po przejściu przez trzeci otwór?","Krok 1 Dekompozycja
+ Aby rozwiązać problem musimy go rozbić na mniejsze części Musimy określić kolejność w jakiej bobry wyjdą z trzeciej dziury Aby to zrobić musimy przeanalizować każdą dziurę i to jak jej pokonanie w podany w zadaniu sposób wpływa na kolejność wyjścia bobrów
+ 
+ Krok 2 Rozpoznawanie wzorców
+ Musimy szukać wzorców sposobu w jaki bobry przechodzą przez dziury Dla każdej dziury bobry które skaczą do środka wyjdą ostatnie Bobry które przechodzą przez dziurę przed tymi które skaczą do środka wyjdą pierwsze a następnie te które skaczą do środka Bobry które przechodzą przez dziurę po tych które skoczyły do środka będą pierwsze
+ 
+ Krok 3 Abstrakcja
+ Musimy uogólnić informacje które zebraliśmy i śledzić kolejność bobrów po przejściu przez każdą dziurę w oparciu o liczbę bobrów które skaczą do środka oraz kolejność bobrów przed i po każdej dziurze
+ 
+ Uogólnijmy ideę rozwiązania Ogólne kroki abstrakcji można sformułować następująco
+ 
+ - Musimy śledzić kolejność bobrów po przejściu przez każdą dziurę
+ - Dla każdej dziury musimy określić które bobry skaczą do środka a które przechodzą przez dziurę
+ - Musimy określić kolejność bobrów które przechodzą przez dziurę przed i po tych które skaczą do środka
+ 
+ Krok 4 Projektowanie algorytmu
+ Na podstawie informacji zawartych w problemie możemy określić kolejność bobrów po przejściu przez trzecią dziurę Możemy zacząć od patrzenia na kolejność bobrów przed przejściem przez pierwszą dziurę Ponieważ 4 bobry skaczą do pierwszej dziury pierwsze cztery bobry w oryginalnej kolejności będą ostatnimi którzy wyjdą z pierwszej dziury Musimy również pamiętać o odwróceniu kolejności bobrów wychodzących z dziury Powtarzanie tych kroków dla każdej dziury dostarczy rozwiązanie
+ 
+ Sprawdźmy algorytm
+ 
+ Początkowa kolejność to 1 2 3 4 5 6 7
+ Następnie po pierwszym otworze o głębokości 4 mamy
+ 5 6 7 4 3 2 1
+ Po drugim otworze (głębokość 2) mamy
+ 7 4 3 2 1 6 5
+ Po trzecim otworze (głębokość 3) otrzymujemy
+ 2 1 6 5 3 4 7
+ Organizowanie danych w sposób uporządkowany jest ważne w informatyce i istnieje wiele różnych struktur danych które można wykorzystać do tego celu
+ 
+ To zadanie pokazuje przykład struktury zwanej stosem która działa podobnie jak układanie talerzyków jeden na drugim Zawsze dodajesz nowe płytki na wierzchu stosu i musisz je po kolei usuwać z wierzchu Ten typ struktury jest powszechnie określany jako LIFO-struktura - obiekty które zostały dodane jako ostatnie są usuwane jako pierwsze (LIFO = Last In First Out)",4756123,6574321,2165347,5761432,2

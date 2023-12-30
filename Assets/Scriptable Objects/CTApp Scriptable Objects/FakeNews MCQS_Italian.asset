@@ -1,0 +1,727 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: FakeNews MCQS_Italian
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 2
+  questions:
+  - "Che cos'\xE8 il pensiero computazionale?"
+  - " Perch\xE9 \xE8 importante coltivare le tue capacit\xE0 di  pensiero computazionale?"
+  - " Quale dei seguenti non \xE8 una tecnica di pensiero  computazionale?"
+  - "Quale dei seguenti \xE8 un esempio di pensiero  computazionale?"
+  - "Quale di questi \xE8 un esempio di decomposizione?"
+  - "Quale di questi non \xE8 un esempio di pensiero  algoritmico?"
+  - ' Il riconoscimento del modello ti aiuta a  riconoscere uno schema o caratteristiche
+    simili  aiutano a scomporre il problema. Quale numero  arriva dopo quanto segue:
+    30, 35, 40'
+  - "Quale abilit\xE0 \xE8 rompere un problema o un  sistema complessi in pi\xF9
+    piccoli, pi\xF9 parti gestibili?"
+  - "Qual \xE8 il processo di identificazione delle  somiglianze e contrasti tra
+    parti di a problema?"
+  - "Qualche abilit\xE0 si concentra solo sulle  informazioni importanti, ignorando
+    i dettagli  irrilevanti?"
+  - "Quale abilit\xE0 aiuta a sviluppare una soluzione  passo-passo per risolvere
+    un problema?"
+  - " Quale abilit\xE0 aiuta a elaborare una soluzione in  modo generale per soddisfare
+    una serie di problemi?"
+  - "Quale abilit\xE0 pone le azioni nel giusto ordine?"
+  - " Quale abilit\xE0 aiuta a riconoscere, eliminare e  correggere errori?"
+  - "Quali sono le abilit\xE0 fondamentali del pensiero  computazionale?"
+  - "Quale non \xE8 un'abilit\xE0 di pensiero  computazionale?"
+  - "Le capacit\xE0 di pensiero computazionale possono  essere utilizzate nella vita
+    di tutti i giorni, ad  esempio l'assemblaggio di un mobile. \xC8 un esempio 
+    della seguente abilit\xE0."
+  - 'Quando inizi a imparare a formare frasi in una lingua  straniera, dovresti:'
+  - "Il metodo corretto pi\xF9 veloce per sommare tutti i  numeri interi da 1 a 10
+    nella tua testa \xE8:"
+  - 'Per sommare tutti i numeri interi da 1 a 20 in 10  secondi, solo in memoria,
+    dovresti:'
+  - 'Per sommare tutti i numeri interi da 1 a X in 10  secondi, usando solo la tua
+    memoria, dovresti  calcolare:'
+  - 'Per resistere a pressioni indesiderate per fare la cosa  sbagliata, dovresti
+    seguire questi passaggi nell''ordine  indicato:'
+  - 'Per insegnare al robot come pulire una stanza  dovresti seguire i seguenti passaggi
+    nell''ordine  fornito:'
+  - 'L''elenco delle cose da fare per la pulizia di una stanza  dovrebbe includere
+    le seguenti informazioni:'
+  - "Ci vogliono 2 ore per caricare completamente un  telefono cellulare. Qual \xE8
+    il tempo pi\xF9 breve per  caricare completamente 3 telefoni cellulari usando
+    2  caricabatterie?"
+  - "Quando si scrive un programma di shopping online, \xE8 necessario scegliere
+    l'ordine giusto delle attivit\xE0 che  eseguir\xE0:"
+  - 'Per disegnare un quadrato verde 150px x 150px, il  programma deve passare attraverso
+    i seguenti  passaggi nell''ordine fornito:'
+  - "Qual \xE8 l'errore nel seguente programma, che  dovrebbe disegnare un quadrato
+    100px x 100px una  volta, a partire dall'angolo in alto a sinistra a destra: 
+    ripeti 4 volte il blocco tra parentesi [sposta 100px],  girare a destra di 90
+    gradi."
+  - "Come dovrebbe il cavaliere (una figura di scacchi che  pu\xF2 spostare due campi
+    in orizzontale e uno  verticalmente o due in verticale e uno  orizzontalmente)
+    dal campo centrale della scheda  5x5 nell'angolo in alto a destra della tavola?"
+  - "La figura degli scacchi: il cavaliere si trova sul campo  centrale della scheda
+    5x5. Il cavaliere pu\xF2 spostare  due campi orizzontalmente e uno in verticale
+    o due  in verticale e uno in orizzontale. Qual \xE8 il minimo  numero di mosse
+    per raggiungere uno degli angoli?"
+  - 'Per preparare una buona ricetta per la torta, seguire i  passaggi nell''ordine
+    fornito:'
+  - "Per vedere un oggetto in un'immagine stereografica  (per vedere un grafico bidimensionale
+    in tre  dimensioni, come visto da una prospettiva), \xE8  necessario fare quanto
+    segue nell'ordine indicato:"
+  Question_Explanation:
+  - "Il pensiero computazionale \xE8  un'area scientifica con molte  definizioni.
+    Una parte comune  che possiamo trovare nella  maggior parte delle definizioni 
+    \xE8 il collegamento con le  tecniche di risoluzione dei  problemi."
+  - Il calcolo ThinkIG ci supporta  nel processo di risoluzione dei  problemi, comprendi
+    un  problema e cerca di risolverlo  sviluppando soluzioni.
+  - "Il pensiero computazionale e la  codifica sono concetti correlati  ma la codifica
+    non \xE8 una  tecnica di pensiero  computazionale. La codifica \xE8 la  traduzione
+    della logica o delle  razionali in un linguaggio di  programmazione."
+  - "Un design dettagliato in questo  esempio di un percorso fa parte  del pensiero
+    algoritmico,  un'abilit\xE0 di pensiero  computazionale."
+  - "Rompere un problema in parti  pi\xF9 piccole \xE8 un esempio di  decomposizione."
+  - "Il pensiero algoritmico \xE8 il  termine sciolti di particolati che  scende
+    per raggiungere una  soluzione."
+  - "Poich\xE9 il modello richiede  l'aggiunta di 5, il numero  successivo \xE8 45."
+  - "La decomposizione sta  rompendo un problema  complesso in parti pi\xF9 piccole."
+  - Attraverso il riconoscimento dei  pattern, possiamo identificare  somiglianze
+    o contrasti durante  un processo di risoluzione dei  problemi e anche costruire
+    un  costrutto come percorso per la  soluzione.
+  - "L'astrazione \xE8 il processo di  filtraggio delle caratteristiche  dei modelli
+    che non sono  importanti per risolvere un  problema."
+  - "Il pensiero algoritmico \xE8 un  modo per arrivare a una  soluzione attraverso
+    la  definizione di gradini. Per  esempio: le istruzioni di una  ricetta di cottura."
+  - La generalizzazione sta  risolvendo nuovi problemi in  base ai problemi precedenti 
+    che abbiamo risolto.
+  - "La sequenza \xE8 l'ordine in cui  vengono eseguite le istruzioni.  Ad esempio:
+    nella  programmazione, le istruzioni  vengono eseguite una dopo  l'altra."
+  - "Il debug \xE8 il processo che  prevede la ricerca e la  fissazione di errori
+    se i passaggi  non portano alla soluzione  desiderata"
+  - "Le caratteristiche fondamentali  del pensiero computazionale  sono le seguenti:
+    \u03B1bstraction,  pensiero algoritmico,  riconoscimento del modello,  decomposizione"
+  - "Le caratteristiche fondamentali  del pensiero computazionale  sono le seguenti:
+    \u03B1bstraction,  pensiero algoritmico,  riconoscimento dei pattern,  decomposizione.
+    La creativit\xE0 \xE8  un'abilit\xE0 del 21 \xB0 secolo."
+  - "Poich\xE9 il pensiero algoritmico \xE8  il termine che descrive le  misure devono
+    raggiungere una  soluzione. L'assemblaggio di un  mobile \xE8 un processo che 
+    richiede istruzioni passo dopo  passo."
+  - "Imparare le lingue \xE8 come preparare il t\xE8. Per scrivere/dire qualcosa
+    secondo la grammatica, \xE8 necessario conoscere la guida linguistica. La grammatica
+    pu\xF2 essere paragonata a una ricetta di cucina, che spiega tutti i passaggi
+    necessari per preparare un piatto. Ma prima di tutti, dobbiamo conoscere gli
+    ingredienti! Gli ingredienti della grammatica linguistica sono, ad esempio, il
+    soggetto e il verbo. Dividere le frasi in ingredienti migliorer\xE0 il tuo apprendimento
+    - provalo! Lo stesso vale per imparare a costruire strutture"
+  - "Se dovessi aggiungere dieci decine, sarebbe facile. La somma sarebbe 100. Sembra
+    interessante, quindi prova a iniziare l'addizione con l'ultimo numero, cio\xE8
+    10. Aggiungi ad esso la somma del primo e del dal penultimo, cio\xE8 1 + 9 e
+    procedi in questo modo.L'addizione sar\xE0 quindi cos\xEC: 10 + 1+9+ 2+8+ 3+7+
+    4 + 6. Hai cinque righe e in ognuna la somma \xE8 10. Hai cos\xEC scomposto un'operazione
+    aritmetica complessa in una serie di componenti semplici. Cinque decine, \xE8
+    50, e 50, \xE8 la met\xE0 di 100. Cio\xE8, 100 / 2. Ti rimangono altri 5 da aggiungere.
+    Tutti insieme, \xE8 100 / 2 + 5, o 55. Riesci a vedere lo schema ora che semplificher\xE0
+    i calcoli? Ora controlla se 55 \xE8 un buon risultato sommando tutti i numeri
+    da 1 a 10 uno per uno. "
+  - "Se sommi il primo e l'ultimo numero che devi sommare, che \xE8 1 + 20, ottieni
+    21. Hai 10 di queste coppie. Questi sono gli elementi costitutivi che hai scoperto
+    scomponendo un calcolo complesso. Quindi 10 x 21 = 210. Questo \xE8 lo schema
+    per tali calcoli. Ora controlla se 210 \xE8 un buon risultato sommando tutti
+    i numeri da 1 a 20 uno per uno su un pezzo di carta, in una calcolatrice o su
+    un computer. Puoi anche provare a memoria :)"
+  - "Per cominciare, un esempio. Sommare i numeri da 1 a 10, cio\xE8 a X = 10, all'inizio
+    \xE8 facile. 1 + 2 fa solo 3, e 3 + 3 fa 6, ecc. Ma immagina di sommare da 1
+    a 140. Man mano che aggiungi sempre pi\xF9 numeri nella tua mente, \xE8 facile
+    confondersi. Prova a trovare una soluzione generale cambiando il tuo modo di
+    pensare. Aggiungi, ad esempio, non il primo e il secondo numero, ma il primo
+    e l'ultimo. 1 + 10 = 11. La coppia successiva d\xE0 lo stesso risultato: 2 +
+    9 = 11. Hai scomposto i dati in elementi semplici e ripetibili. Nelle coppie
+    successive, anche la somma sar\xE0 11. Quindi hai riconosciuto lo schema della
+    sommatoria facile. Quante coppie avranno la stessa somma? Le coppie successive
+    sono: 1+10, 2+9, 3+8, 4+7 e 5+6. Il numero di coppie \xE8 5, che \xE8 la met\xE0
+    dei numeri da sommare. Puoi scriverlo in modo che con 10 numeri ci sia 10/2 =
+    5 - cinque coppie. Ora puoi astrarre l'idea usando simboli aritmetici e organizzare
+    un algoritmo, descrivendo i passaggi della soluzione per qualsiasi dato. Con
+    X numeri, hai X / 2 coppie e i valori di somma sono 1 + X. Quindi l'algoritmo
+    \xE8 questo: X/2+(1+X). Ora controlla se questo algoritmo fornisce risultati
+    corretti anche per i numeri da 1 a 11, a 20 o per qualsiasi altro numero. Inoltre,
+    prova a generalizzare questo algoritmo a qualsiasi coppia di numeri <X; Y> dove
+    X<Y."
+  - "Il pensiero computazionale prevede la scomparsa di problemi complessi in parti
+    pi\xF9 piccole e pi\xF9 gestibili e l'utilizzo di un approccio logico per risolverli.
+    Questo stesso approccio pu\xF2 essere applicato per resistere alla pressione
+    indesiderata per fare la cosa sbagliata.  I passaggi di denominazione degli elementi
+    della situazione, riconoscendo il contesto rischioso, applicando i diritti di
+    assertivit\xE0 e lasciare il luogo/situazione si basano su un approccio sistematico
+    alla risoluzione dei problemi e ogni fase si basa su quello precedente.  Ecco
+    come si applicano questi passaggi per resistere alla pressione indesiderata:     
+    Elementi di denominazione della situazione: il primo passo per resistere alla
+    pressione indesiderata \xE8 identificare e comprendere i diversi elementi della
+    situazione. Ci\xF2 include la comprensione dei motivi della persona o delle persone
+    che ti premevano, le potenziali conseguenze del cedere alle loro esigenze e le
+    implicazioni etiche delle tue azioni.      Riconoscere il contesto rischioso:
+    una volta identificato i diversi elementi della situazione, il passo successivo
+    \xE8 riconoscere quando il contesto diventa rischioso. Ci\xF2 include la comprensione
+    quando la pressione da applicare \xE8 inappropriata o non etica e quando pu\xF2
+    portare a danni o conseguenze negative per te o per gli altri.      Applicare
+    i diritti di assertivit\xE0: dopo aver riconosciuto che il contesto \xE8 diventato
+    rischioso, il prossimo passo \xE8 far valere i tuoi diritti e difenderti. Ci\xF2
+    implica chiaramente comunicare i tuoi confini e le tue aspettative alla persona
+    o alle persone che ti fanno pressioni e si rifiutano di cedere alle loro richieste.     
+    Lasciando il luogo/situazione: se la pressione continua e non sei in grado di
+    risolvere la situazione, il passo finale \xE8 lasciare il luogo o la situazione.
+    Ci\xF2 pu\xF2 comportare la rimozione fisica dalla situazione, la ricerca di
+    aiuto dagli altri o l'adozione di altri passi per garantire la sicurezza e il
+    benessere.  Seguendo questi passaggi in ordine, \xE8 possibile affrontare il
+    problema della pressione indesiderata in modo logico e sistematico e aumentare
+    le possibilit\xE0 di resistere con successo. "
+  - "Il pensiero computazionale prevede la scomparsa di attivit\xE0 complesse in
+    parti pi\xF9 piccole e pi\xF9 gestibili e l'utilizzo di un approccio logico per
+    risolverle. Questo stesso approccio pu\xF2 essere applicato per insegnare a un
+    robot come pulire una stanza.  I passaggi dell'elenco di tutti gli elementi della
+    stanza, riconoscere le aree che collegano gli elementi, definire le regole da
+    applicare e preparare le istruzioni passo-passo si basano su un approccio sistematico
+    alla risoluzione dei problemi e ogni fase si basa sul precedente.  Ecco come
+    si applicano questi passaggi per insegnare a un robot come pulire una stanza:     
+    Elenca tutti gli elementi della stanza: il primo passo per insegnare a un robot
+    come pulire una stanza \xE8 elencare tutti gli elementi della stanza con cui
+    il robot ha bisogno per interagire. Ci\xF2 include mobili, pareti, pavimenti
+    e qualsiasi altro oggetto o caratteristiche che possono essere presenti.     
+    Riconosci le aree che collegano gli elementi: una volta identificati tutti gli
+    elementi della stanza, il passo successivo \xE8 riconoscere le aree che collegano
+    questi elementi insieme. Ad esempio, l'area tra le pareti e il pavimento o l'area
+    sotto i mobili. Riconoscendo queste aree, \xE8 possibile sviluppare una strategia
+    di pulizia pi\xF9 efficiente per il robot.      Definire le regole da applicare:
+    dopo aver riconosciuto le aree che collegano gli elementi, il passo successivo
+    \xE8 definire le regole che il robot dovrebbe seguire durante la pulizia della
+    stanza. Ad esempio, il robot potrebbe essere necessario evitare di sbattere in
+    mobili o pareti, oppure potrebbe essere necessario pulire determinate aree in
+    modo pi\xF9 accurato di altre.      Preparare le istruzioni passo-passo: una
+    volta definite le regole, il passaggio finale \xE8 quello di preparare le istruzioni
+    passo-passo che il robot pu\xF2 seguire per pulire la stanza in modo efficiente.
+    Queste istruzioni dovrebbero tenere conto degli elementi della stanza, delle
+    aree che li collegano e le regole che sono state definite.  Seguendo questi passaggi
+    in ordine, \xE8 possibile avvicinarti al compito di insegnare a un robot come
+    pulire una stanza in modo logico e sistematico e aumentare le possibilit\xE0
+    che il robot esegui l'attivit\xE0 in modo efficiente ed efficace."
+  - "Il pensiero computazionale prevede la scomparsa di compiti complessi in parti
+    pi\xF9 piccole e pi\xF9 gestibili e lo sviluppo di un approccio logico per risolvere
+    i problemi. Questo stesso approccio pu\xF2 essere applicato alla creazione di
+    un elenco di cose da fare per la pulizia di una stanza.  Compreso un elenco di
+    tutti gli articoli da pulire, una regola che combina categorie di articoli nella
+    stanza in gruppi/tipi e raccomandazioni generali per l'ordine e la completezza
+    dei gruppi di pulizia/tipi di articoli, aiuta a stabilire un piano chiaro e organizzato
+    per la pulizia la stanza. Abbattendo il processo di pulizia in parti pi\xF9 piccole,
+    diventa pi\xF9 facile gestire e completare l'attivit\xE0 in modo efficiente. 
+    Inoltre, fornendo istruzioni specifiche per gruppi di pulizia e articoli, come
+    mobili, elettronica e altri articoli nell'ordine corretto, garantisce che il
+    processo di pulizia venga eseguito accuratamente e coerentemente. Questo approccio
+    aiuta anche a ridurre al minimo la probabilit\xE0 di perdere qualsiasi oggetto
+    o aree durante il processo di pulizia. "
+  - "Il risultato desiderato \xE8 di caricare completamente tre telefoni cellulari
+    usando due caricabatterie nel pi\xF9 breve tempo possibile.  Possiamo prima notare
+    che se proviamo a caricare tutti e 3 i telefoni cellulari contemporaneamente
+    usando 2 caricabatterie, il tempo di ricarica sar\xE0 pi\xF9 lungo di 2 ore per
+    ogni telefono. Questo perch\xE9 la potenza fornita dai caricabatterie sar\xE0
+    divisa tra i 3 telefoni, quindi ogni telefono ricever\xE0 meno della potenza
+    di ricarica completa di cui ha bisogno.  Invece, possiamo caricare 2 dei telefoni
+    cellulari usando entrambi i caricabatterie contemporaneamente, quindi caricare
+    il terzo telefono separatamente una volta che uno dei primi 2 telefoni \xE8 completamente
+    caricato. In questo modo, possiamo far ricaricare due telefoni alla piena potenza
+    di ricarica per 2 ore, il che li caricher\xE0 completamente. Quindi, possiamo
+    usare uno dei caricabatterie per caricare il terzo telefono per 2 ore fino a
+    quando non \xE8 completamente carico.  Quindi, il tempo di ricarica totale per
+    tutti e 3 i telefoni sar\xE0 di 2 ore per i primi due telefoni + 2 ore per il
+    terzo telefono = 4 ore.  Anche il metodo sopra non \xE8 il pi\xF9 veloce. Possiamo
+    confrontare la soluzione presentata e la spiegazione con altre possibili risposte
+    trovate a seguito del pensiero computazionale. Il primo passo del pensiero computazionale
+    \xE8 la decomposizione del problema, uno dei passaggi di pensiero computazionale.
+    La decomposizione del problema prevede la rompere un problema complesso in sotto-problemi
+    pi\xF9 piccoli e gestibili che possono essere risolti individualmente e quindi
+    combinati per risolvere il problema pi\xF9 grande.  Possiamo decomporre il problema
+    generale di ricaricare 3 telefoni con 2 caricabatterie in quattro sotto-problemi
+    pi\xF9 semplici: caricare due telefoni per 2 ore con due caricabatterie, caricando
+    un telefono per 2 ore con un caricabatterie, caricando un telefono per 1 ora
+    con un caricabatterie e Passa un telefono da un caricabatterie all'altro.  Ora,
+    usando questi sotto-problemi e combinando le varianti estratte in un modo nuovo,
+    possiamo vedere che possiamo iniziare caricando il primo telefono per 2 ore con
+    il primo caricabatterie. Allo stesso tempo, possiamo iniziare a caricare il secondo
+    telefono con il secondo caricabatterie, ma scollegarlo dopo 1 ora e collegare
+    il terzo telefono al secondo caricabatterie per 2 ore. Una volta che il primo
+    telefono \xE8 stato completamente addebitato con il primo caricabatterie, possiamo
+    a sua volta collegare il secondo telefono a questo caricabatterie per 1 ora.
+    In questo modo, ci vorranno un totale di 3 ore per caricare completamente tutti
+    e tre i telefoni usando i due caricabatterie.  Questo \xE8 il tempo pi\xF9 breve
+    possibile perch\xE9 stiamo usando due caricabatterie contemporaneamente e ottimizzando
+    il tempo di ricarica per ogni telefono. Se dovessimo caricare tutti e tre i telefoni
+    per 2 ore usando un caricabatterie, ci vorrebbero un totale di 6 ore per caricare
+    completamente tutti e tre i telefoni. Pertanto, la soluzione di ricaricare un
+    telefono per 1 ora e quindi passare all'altro caricabatterie durante la ricarica
+    degli altri due telefoni per 2 ore \xE8 l'approccio pi\xF9 efficiente, che \xE8
+    il vantaggio dell'utilizzo del pensiero computazionale."
+  - "Il modello di pensiero computazionale prevede di abbattere un problema in parti
+    pi\xF9 piccole e gestibili e di progettazione di soluzioni che utilizzano algoritmi
+    e strutture di dati. Applicando questo modello al processo di scrittura di un
+    programma di shopping online, la seguente logica pu\xF2 essere fornita per l'ordine
+    delle attivit\xE0:  Passaggio 1 - Cerca un articolo: il primo passo in qualsiasi
+    programma di acquisto online \xE8 consentire all'utente di cercare gli articoli
+    che desiderano acquistare. Ci\xF2 comporta la fornitura di una casella di ricerca
+    o un elenco di categorie da sfogliare e quindi utilizzare algoritmi per cercare
+    attraverso un database di prodotti per trovare quelli che corrispondono ai criteri
+    di ricerca dell'utente.  Passaggio 2 - Aggiungi l'articolo al carrello: una volta
+    che l'utente ha trovato un articolo che desidera acquistare, il passo successivo
+    \xE8 aggiungerlo al carrello. Ci\xF2 comporta la creazione di una struttura di
+    dati in grado di archiviare i dettagli dell'articolo, come il suo nome, il prezzo
+    e la quantit\xE0, e quindi aggiungerla al carrello dell'utente. Il carrello della
+    spesa pu\xF2 anche tenere traccia del costo totale dell'utente e visualizzarlo
+    per loro. Non \xE8 possibile aggiungere l'articolo al carrello senza sapere se
+    il prodotto \xE8 nel database (passaggio 1).  Passaggio 3 - Immettere l'indirizzo
+    di consegna: dopo che l'utente ha aggiunto tutti gli articoli che desiderano
+    acquistare al loro carrello, il passo successivo \xE8 inserire il proprio indirizzo
+    di consegna. Ci\xF2 comporta la fornitura di un modulo in cui l'utente pu\xF2
+    inserire il proprio nome, indirizzo, numero di telefono e altri dettagli pertinenti.
+    Queste informazioni possono essere archiviate in un database o inviate a un servizio
+    di terze parti per la verifica. \xC8 necessario conoscere il numero e la dimensione
+    / peso di tutti gli articoli acquistati (passaggio 2) per valutare la forma corretta
+    e il prezzo della consegna.  Passaggio 4 - Pagare l'articolo: infine, una volta
+    che l'utente ha inserito il proprio indirizzo di consegna, l'ultimo passo \xE8
+    consentire loro di pagare l'articolo. Ci\xF2 comporta l'integrazione con un gateway
+    di pagamento, come PayPal o Stripe, per elaborare il pagamento dell'utente. Il
+    programma dovrebbe inoltre fornire una pagina di conferma che mostra all'utente
+    i dettagli dell'ordine, l'indirizzo di consegna e il costo totale. \xC8 necessario
+    conoscere tutti gli articoli ordinati e la distanza di consegna per conoscere
+    il prezzo totale necessario per conoscere tutti gli articoli selezionati, il
+    modulo e la distanza di consegna (passaggi 1 - 3) prima di chiedere il pagamento. 
+    Nel complesso, seguendo questa sequenza di attivit\xE0 nel programma assicura
+    che l'utente possa cercare, selezionare e acquistare gli articoli che desiderano
+    in modo regolare e logico, fornendo al contempo le strutture di dati e gli algoritmi
+    necessari per rendere il programma in modo efficiente il programma."
+  - "La logica dietro la sequenza data di passaggi per disegnare un quadrato verde
+    150px x 150px si basa sui principi del pensiero computazionale.  Il pensiero
+    computazionale \xE8 un approccio di risoluzione dei problemi che prevede la scomparsa
+    di un problema complesso in parti pi\xF9 piccole e gestibili e quindi analizzando
+    e risolvendo sistematicamente ogni parte. Implica una serie di passaggi, come
+    la decomposizione dei problemi, il riconoscimento dei pattern, l'astrazione,
+    la progettazione di algoritmo e la valutazione.  In questo caso, il problema
+    \xE8 disegnare un quadrato verde di dimensioni 150px x 150px. Per risolvere questo
+    problema usando il pensiero computazionale, possiamo scomporlo in passaggi pi\xF9
+    piccoli e progettare un algoritmo per eseguire quei passaggi in un ordine specifico. 
+    La sequenza dei passaggi indicata segue la seguente logica:  A) Vai al luogo
+    di partenza: questo passaggio garantisce che il programma inizi a disegnare il
+    quadrato dalla posizione desiderata sulla tela. Senza questo passaggio, il quadrato
+    pu\xF2 essere disegnato in una posizione non intenzionale sulla tela.  b) Impostare
+    il colore della penna su verde: questo passaggio imposta il colore della penna
+    su verde, che verr\xE0 utilizzato per disegnare il quadrato. Senza questo passaggio,
+    la penna pu\xF2 usare un colore diverso, che non si tradurr\xE0 in un quadrato
+    verde.  c) Sposta 150px: questo passaggio sposta la penna 150px in linea retta,
+    che former\xE0 un lato del quadrato. Questo passaggio si ripete tre volte in
+    totale per disegnare tutti e quattro i lati della piazza.  d) Ruotare in senso
+    orario 90 gradi: questo passaggio ruota la penna di 90 gradi in senso orario,
+    che orienta la penna per disegnare il lato successivo del quadrato ad angolo
+    retto rispetto al lato precedente. Senza questo passaggio, la penna disegnerebbe
+    il lato successivo nella stessa direzione del lato precedente, risultando in
+    un rettangolo anzich\xE9 in un quadrato.  e) Ripetere i due passaggi precedenti
+    3 volte: questo passaggio ripete i due passaggi precedenti (spostare 150px e
+    ruotare di 90 gradi) tre volte per disegnare tutti e quattro i lati del quadrato.
+    Senza questo passaggio, il programma disegnerebbe solo un lato della piazza,
+    lasciandolo incompleto.  Pertanto, la sequenza data di passaggi \xE8 essenziale
+    per disegnare un quadrato verde di dimensioni 150px x 150px nella posizione e
+    nell'orientamento previsti."
+  - "L'errore nel programma \xE8 che disegner\xE0 quattro volte i lati del quadrato,
+    ma come una linea di stretta e non completer\xE0 il quadrato collegando l'ultimo
+    lato al primo lato. Invece, il programma finir\xE0 per girare la penna di 90
+    gradi a destra dopo aver disegnato il quarto lato, ma senza spostare la penna
+    sul punto di partenza del quadrato. Pertanto, il disegno finale sar\xE0 una forma
+    \"io\" invece di un quadrato. L'errore \xE8 dovuto al fatto che il comando di
+    rotazione in senso orario a 90 gradi \xE8 al di fuori del ciclo.  Per correggere
+    il programma, il comando di rotazione in senso orario a 90 gradi dovrebbe essere
+    all'interno del ciclo, ci\xF2 che porta la penna sul punto di partenza del quadrato.
+    In particolare, il programma dovrebbe essere modificato per impostare il blocco
+    tra parentesi come [sposta 100px, girare a destra di 90 gradi] prima di ripetere
+    nuovamente il blocco. In questo modo, dopo aver disegnato ogni lato del quadrato,
+    la penna gira a destra e infine si sposter\xE0 nel punto di partenza del quadrato
+    e il disegno sar\xE0 un quadrato completo. Il programma corretto sarebbe:  Ripeti
+    4 volte: [Sposta 100px, girare a destra di 90 gradi]  La correzione dell'errore
+    del programma \xE8 un esempio dell'applicazione dei principi di pensiero computazionale
+    a un'attivit\xE0 di programmazione. In particolare, la correzione prevede l'uso
+    del pensiero algoritmico e del debug per identificare e risolvere un errore logico
+    nel programma.  Il processo di pensiero algoritmico prevede la rompere il programma
+    in una sequenza di passaggi e l'analisi di come tali passaggi produrranno l'output
+    desiderato. In questo modo, diventa chiaro che il programma originale disegner\xE0
+    quattro lati di un quadrato come una singola linea di stretta e non riesce a
+    completare il quadrato collegando l'ultimo lato al primo lato.  Il processo di
+    debug prevede l'identificazione dell'errore nella logica del programma e quindi
+    la modifica del programma per correggere l'errore. In questo caso, l'errore viene
+    identificato come il comando di posizionamento a destra di 90 gradi al di fuori
+    del ciclo non riportando la penna al punto di partenza del quadrato. Il programma
+    corretto viene quindi modificato spostando il comando di giro a destra di 90
+    gradi all'interno del loop per completare il quadrato.  Nel complesso, questa
+    correzione dimostra l'importanza del pensiero algoritmico e del debug nelle attivit\xE0
+    di programmazione. Applicando questi principi di pensiero computazionale, i programmatori
+    possono identificare e risolvere errori nei loro programmi per produrre l'output
+    desiderato."
+  - "Per trovare il minor numero di mosse per un cavaliere per raggiungere uno degli
+    angoli di una scacchiera 5x5 dal campo centrale, possiamo usare un algoritmo
+    di ricerca come la prima ricerca o l'algoritmo di Dijkstra. Tuttavia, poich\xE9
+    lo spazio di ricerca \xE8 relativamente piccolo, possiamo anche risolvere questo
+    problema analizzando le possibili mosse.  Innanzitutto, possiamo osservare che
+    ci sono solo quattro possibili mosse che il cavaliere pu\xF2 fare dalla piazza
+    centrale:  1. Spostare 2 quadrati verso il basso e 1 quadrato a destra 2. Spostare
+    2 quadrati verso il basso e 1 quadrato a sinistra 3. Spostare 2 quadrati in alto
+    e 1 quadrato a destra 4. Spostare 2 quadrati in alto e 1 quadrato a sinistra 
+    Facendo una di queste quattro mosse, il cavaliere sar\xE0 posizionato sullo stesso
+    diagonale di uno degli angoli della tavola. Pertanto, il numero minimo di mosse
+    richieste affinch\xE9 il cavaliere raggiunga uno degli angoli \xE8 tre. Questo
+    perch\xE9 il cavaliere pu\xF2 spostarsi in un quadrato sulla diagonale e quindi
+    fare un'altra mossa per raggiungere l'angolo.  Ad esempio, supponiamo che il
+    cavaliere inizi sulla piazza centrale e voglia raggiungere l'angolo in alto a
+    destra. La sequenza ottimale di mosse sarebbe:  1. Spostare 2 quadrati verso
+    il basso e 1 quadrato a destra. 2. Spostare 2 quadrati a sinistra e 1 quadrato
+    verso l'alto. 3. Spostare 2 quadrati verso l'alto e 1 quadrato a destra. 4. Spostare
+    2 quadrati a destra e 1 quadrato verso l'alto.  Nel complesso, questa sequenza
+    di mosse porta il cavaliere nell'angolo in alto a destra della tavola in sole
+    quattro mosse, che \xE8 il numero minimo di mosse richieste.  Dal punto di vista
+    del pensiero computazionale, risolvere il problema di trovare il minimo numero
+    di mosse per un cavaliere per raggiungere uno degli angoli di una scacchiera
+    5x5 a partire dalla piazza centrale pu\xF2 essere suddivisa in una serie di passaggi: 
+    1. Definire il problema: il problema \xE8 trovare il percorso pi\xF9 corto che
+    un cavaliere pu\xF2 prendere per raggiungere uno degli angoli di una scacchiera
+    5x5 a partire dalla piazza centrale, dato che il cavaliere deve muoversi in un
+    motivo a forma di L.  2. Analizzare il problema: il primo passo nell'analisi
+    del problema \xE8 comprendere i vincoli. In questo caso, il cavaliere deve muoversi
+    in un motivo a forma di L, il che significa che pu\xF2 muovere due quadrati in
+    una direzione e poi un quadrato in una direzione perpendicolare. La scacchiera
+    \xE8 una griglia 5x5, il che significa che ci sono 25 quadrati. La posizione
+    di partenza \xE8 il quadrato centrale, che si trova all'intersezione della terza
+    riga e della terza colonna.  3. Progettare una soluzione: per progettare una
+    soluzione, possiamo utilizzare un algoritmo di ricerca per esplorare tutti i
+    percorsi possibili che il cavaliere pu\xF2 prendere per raggiungere uno degli
+    angoli della scacchiera. Un algoritmo di ricerca comune utilizzato per problemi
+    come questo \xE8 chiamato prima ricerca (BFS). BFS inizia dalla posizione di
+    partenza ed esplora tutte le possibili mosse da quella posizione. Quindi si sposta
+    al livello successivo dell'albero di ricerca ed esplora tutte le possibili mosse
+    da tali posizioni. Questo processo continua fino a quando non viene trovata la
+    soluzione.  4. Implementare la soluzione: l'implementazione della soluzione prevede
+    la scrittura di codice per eseguire una ricerca BFS sulla scacchiera. L'algoritmo
+    dovrebbe tenere traccia del percorso pi\xF9 breve trovato finora e smettere di
+    cercare quando si trova un percorso verso uno degli angoli.  5. Prova la soluzione:
+    per testare la soluzione, possiamo eseguire il codice su diversi casi di test,
+    come a partire da diverse posizioni sulla scacchiera o modificare le dimensioni
+    della scacchiera. Dovremmo anche testare la soluzione sui casi di bordo, come
+    quando la posizione di partenza \xE8 gi\xE0 in un angolo della scacchiera.  Da
+    questo punto di vista, \xE8 chiaro che il numero minimo di mosse richieste affinch\xE9
+    il cavaliere raggiunga uno degli angoli della scacchiera 5x5 a partire dalla
+    piazza centrale \xE8 4. Questo pu\xF2 essere dimostrato analizzando tutte le
+    possibili mosse che il cavaliere pu\xF2 fare e trovare il percorso pi\xF9 breve
+    verso un angolo."
+  - "La visione stereoscopica \xE8 la capacit\xE0 dei nostri occhi di vedere lo stesso
+    oggetto da prospettive leggermente diverse, a causa delle loro posizioni leggermente
+    diverse sul nostro viso. Il nostro cervello combina quindi queste due immagini
+    per creare una percezione tridimensionale dell'oggetto.  Un'immagine stereografica
+    sfrutta questo fenomeno naturale presentando due immagini leggermente diverse
+    fianco a fianco. Se visto correttamente, il nostro cervello combina queste due
+    immagini per creare l'illusione di un'immagine tridimensionale.  I passaggi menzionati
+    nella domanda sono un metodo di allenamento per i nostri occhi e il cervello
+    per vedere l'immagine 3D in stereogramma.  Dal punto di vista del pensiero computazionale,
+    possiamo pensare a questi passaggi come un processo di formazione del nostro
+    sistema di percezione visiva per elaborare un'immagine stereografica. Questo
+    processo prevede una serie di passaggi che ci consentono di superare i pregiudizi
+    cognitivi naturali e adattare il nostro sistema di percezione visiva per creare
+    l'illusione di un'immagine 3D.  Un approccio di pensiero computazionale prevede
+    di abbattere un problema in una serie di passaggi e algoritmi pi\xF9 piccoli
+    che possono essere eseguiti in un ordine logico. Nel caso di visualizzazione
+    di uno stereogramma, i passaggi elencati nella domanda ci aiutano ad addestrare
+    il nostro sistema di percezione visiva.  Il primo passo, rilassando gli occhi,
+    pu\xF2 essere visto come una decomposizione, superando la naturale tendenza a
+    concentrarsi su un punto. Rilassando gli occhi, siamo in grado di vedere immagini
+    in uno stereogramma che non abbiamo mai visto prima, senza concentrarci su nessuno
+    di essi.  Il secondo passo, guardando oltre l'immagine, pu\xF2 essere visto come
+    superare la naturale tendenza cognitiva a concentrarsi sugli oggetti nel nostro
+    campo visivo. Guardando oltre l'immagine, siamo in grado di comprendere entrambe
+    le immagini in uno stereogramma senza concentrarci su nessuno dei due. \xC8 quando
+    guardiamo oltre l'immagine che di solito percepiamo l'immagine nascosta nello
+    stereogramma, che pu\xF2 essere definita riconoscimento del pattern.  Il terzo
+    passo, spostando lo stereogramma/testa, pu\xF2 essere visto come una regolazione
+    del nostro sistema di percezione visiva sulle due immagini nello stereogramma.
+    Spostando lo stereogramma/testa, siamo in grado di regolare la nostra prospettiva
+    visiva in modo che le due immagini siano correttamente allineate. Vedendo l'immagine
+    spaziale appena riconosciuta, percepiamo il suo background tridimensionale e
+    astratto: comprendere il principio generale e la procedura della visione stereoscopica. 
+    Il quarto passo, zoom dentro e fuori dallo stereogramma, pu\xF2 essere visto
+    come un perfezionamento dell'algoritmo per allineare le due immagini per la percezione
+    della profondit\xE0. Ingrandendosi dentro o fuori dallo stereogramma, siamo in
+    grado di regolare la distanza tra i nostri occhi e l'immagine, che influenza
+    la profondit\xE0 percepita.  Nel complesso, i passaggi menzionati nella domanda
+    possono essere considerati come un algoritmo per la formazione del nostro sistema
+    di percezione visiva per elaborare un'immagine stereografica. Seguendo questi
+    passaggi, siamo in grado di superare i pregiudizi cognitivi naturali e adattare
+    il nostro sistema di percezione visiva per creare l'illusione di un'immagine
+    3D."
+  - "Per arrivare a questo numero dobbiamo seguire sistematicamente una procedura
+    in base alle informazioni disponibili. Questo processo deve essere iterativo.
+    Uno dei modi per risolverlo \xE8 suddividere il problema e prima provare a scoprire
+    le cifre e quindi l'ordine corretto.  In termini di pensiero computazionale significa
+    che dobbiamo passare 4 passaggi:  Passaggio 1: decomposizione Per risolvere il
+    problema, dobbiamo scomporlo in parti pi\xF9 piccole. Dobbiamo analizzare ogni
+    ipotesi e la sua risposta per restringere i possibili valori per ciascuna cifra
+    nella password.  Passaggio 2: riconoscimento del modello Dobbiamo cercare modelli
+    nelle ipotesi e nelle risposte. Ad esempio, nella prima ipotesi, una cifra \xE8
+    nella posizione giusta, il che significa che la cifra corrispondente nella password
+    deve essere una delle cifre nell'ipotesi. Sappiamo anche che la password \xE8
+    composta da quattro cifre distinte.  Passaggio 3: astrazione Dobbiamo astrarre
+    le informazioni che abbiamo raccolto e tenere traccia dei possibili valori per
+    ogni cifra nella password in base alle risposte fornite.  Abstraciamo l'idea
+    della soluzione. Le fasi generali di astrazione possono essere annotate come
+    segue: - Il problema pu\xF2 essere astratto come gioco di ipotesi con un feedback
+    limitato. - L'obiettivo \xE8 utilizzare il feedback per eliminare le possibilit\xE0
+    errate e restringere gradualmente lo spazio di ricerca. - Il problema prevede
+    la ricerca di una combinazione di quattro cifre distinte che soddisfano determinate
+    condizioni. - Dobbiamo creare una tabella per tenere traccia dei possibili valori
+    per ciascuna cifra nella password in base alle risposte fornite dal computer.
+    - L'ultimo passo \xE8 iterativo: dobbiamo confrontare le informazioni in ogni
+    riga che trova una combinazione di quattro cifre distinte che soddisfano determinate
+    condizioni.  Passaggio 4: design dell'algoritmo Sulla base delle informazioni
+    nella tabella, possiamo restringere i possibili valori per ciascuna cifra nella
+    password. Possiamo iniziare guardando le cifre che appaiono in pi\xF9 ipotesi
+    e provare a dedurre la loro posizione nella password in un paio di iterazioni. 
+    I passaggi dettagliati dell'algoritmo sul lavoro sono:  Dalla prima riga (indovina
+    pi\xF9 risposta) sappiamo che solo una delle cifre indicate fa parte della password.
+    La seconda e la terza riga forniscono informazioni simili.  La quarta riga aiuta
+    quindi a estrarre pi\xF9 informazioni dalle righe da una a tre: possiamo scartare
+    5 dalla prima ipotesi, 6 dalla seconda ipotesi e 1 e 5 dalla terza ipotesi. Da
+    quest'ultimo passaggio sappiamo che 4 e 8 sono parti della password. Quindi la
+    cifra corretta nella quinta ipotesi \xE8 8; Da ci\xF2 possiamo concludere dalla
+    riga cinque che 1, 2 e 5 non sono parti della password.  Se torniamo alle righe
+    uno e due, i numeri possibilmente corretti sono 7 o 0 nella riga uno e 3 o 0
+    nella riga due. Pertanto, abbiamo 5 possibili numeri 0,3,4,7 e 8. Se 0 fosse
+    nella password, sia 7 che 3 dovrebbero essere scartati dato che solo un numero
+    \xE8 corretto per le righe uno e due. Ci\xF2 lascerebbe solo 0,4,8 come numeri
+    possibili nella password. Dato che la password deve contenere quattro numeri
+    univoci, 0 non pu\xF2 essere corretto. Pertanto, le altre cifre che completano
+    il codice devono essere 3 e 7. Ora consideriamo le informazioni della posizione
+    o dell'ordine. Dalle file tre e cinque, sappiamo che 8 possono essere in posizioni
+    2 o 4: ? -8-?-8 E quel 4 pu\xF2 essere in tutte le posizioni ma 2: 4-?-4-4 Dalla
+    riga uno sappiamo che 7 deve essere in posizione 2; quindi, 8 deve essere nella
+    posizione 4. Dalla seconda riga sappiamo che 3 non pu\xF2 essere in posizione
+    3, quindi deve essere nella posizione 1. Quindi, 4 \xE8 in posizione 3. Questo
+    d\xE0 l'unica opzione possibile per la password che \xE8 : 3-7-4-8"
+  - "Passaggio 1: decomposizione Per risolvere il problema, dobbiamo scomporlo in
+    parti pi\xF9 piccole. Dobbiamo determinare l'ordine in cui i castori usciranno
+    dalla terza buca. Per fare ci\xF2, dobbiamo analizzare ogni foro e come influisce
+    sull'ordine dei castori.  Passaggio 2: riconoscimento del modello Dobbiamo cercare
+    motivi nel modo in cui i castori passano i buchi. Per ogni buca, i castori che
+    saltano fuori usciranno per ultimo. I castori che passano il buco prima di quelli
+    che saltano dentro usciranno per primi, seguiti da quelli che saltano dentro.
+    I castori che passano il buco dopo quelli che saltano dentro saranno i primi. 
+    Passaggio 3: astrazione Dobbiamo astrarre le informazioni che abbiamo raccolto
+    e tenere traccia dell'ordine dei castori dopo aver superato ogni buca in base
+    al numero di castori che saltano dentro e all'ordine dei castori prima e dopo
+    ogni buca.  Abstraciamo l'idea della soluzione. Le fasi generali di astrazione
+    possono essere annotate come segue:      Dobbiamo tenere traccia dell'ordine
+    dei castori dopo aver superato ogni buca.     Per ogni buco, dobbiamo determinare
+    in quali castori saltano dentro e quali passano il buco.     Dobbiamo determinare
+    l'ordine dei castori che passano il buco prima e dopo quelli che saltano dentro. 
+    Passaggio 4: design dell'algoritmo Sulla base delle informazioni nel problema,
+    possiamo determinare l'ordine dei castori dopo aver superato il terzo foro. Possiamo
+    iniziare guardando l'ordine dei Beavers prima di passare la prima buca. Poich\xE9
+    4 castori saltano nella prima buca, i primi quattro castori nell'ordine originale
+    saranno gli ultimi a uscire dalla prima buca. Dobbiamo anche ricordare di invertire
+    l'orger di castori che lasciano il buco. La ripetizione di questi passaggi per
+    ogni foro fornir\xE0 la soluzione.  Controlliamo l'algoritmo:  Inizialmente la
+    linea \xE8 1 2 3 4 5 6 7 Quindi dopo il primo foro di profondit\xE0 4 abbiamo:
+    5 6 7 4 3 2 1 Dopo la seconda buca (profondit\xE0 2) abbiamo: 7 4 3 2 1 6 5 Dopo
+    il terzo foro (profondit\xE0 3) otteniamo: 2 1 6 5 3 4 7 L'organizzazione dei
+    dati in modo strutturato \xE8 importante nell'informatica e ci sono molte diverse
+    strutture di dati che possono essere utilizzate a tale scopo. Questo compito
+    mostra un esempio di una struttura chiamata stack, che funziona in modo simile
+    per impilare piastre l'una sull'altra. Aggiungi sempre nuovi piatti sopra lo
+    stack e devi rimuoverle dalla parte superiore alla volta. Questo tipo di struttura
+    \xE8 comunemente indicato come una struttura di vita: gli oggetti che sono stati
+    aggiunti per ultimi sono i primi ad essere rimossi. (Lifo = ultimo in primo luogo)."
+  Op1:
+  - Istruire con l'uso di un computer  come seguire alcuni passaggi
+  - Il pensiero computazionale ci  supporta nella programmazione
+  - Riconoscimento del modello
+  - Pianificazione del percorso prima  di incontrare qualcuno in un luogo  particolare
+  - "Abbattere il problema  dell'organizzazione di un evento in  parti pi\xF9 piccole
+    e gestibili, come chi \xE8 responsabile del processo di  registrazione, dei tag
+    del nome, dei  volantini, dei microfoni, il presentazioni ecc."
+  - "Durante la risoluzione di un  problema matematico, gli studenti  cercano di
+    elaborare una procedura  passo-passo di ci\xF2 che pu\xF2  successivamente essere
+    applicata a  problemi comparabili"
+  - 32
+  - composizione
+  - Riconoscimento del modello
+  - ' astrazione'
+  - astrazione
+  - Riconoscimento del modello
+  - composizione
+  - Generalizzazione
+  - astrazione, pensiero algoritmico,  riconoscimento del modello
+  - "creativit\xE0"
+  - Generalizzazione
+  - suddividere la frase in sottoparti come soggetto, verbo, ecc.
+  - aggiungi 1, 2, 3, 4, ecc., fino a 10
+  - moltiplicare 10 per 21
+  - X/2 * (X+1)
+  - "nominare elementi della situazione; riconoscere il contesto rischioso; applicare
+    i diritti di assertivit\xE0; lasciare il luogo/situazione"
+  - Elenca tutti gli elementi della stanza; riconoscere le aree che collegano gli
+    elementi; definire le regole da applicare; Prepara le istruzioni passo passo
+  - un elenco di tutti gli articoli da pulire; una regola che combina categorie di
+    oggetti nella stanza in gruppi/tipi; Raccomandazioni generali per l'ordine e
+    la completezza dei gruppi di pulizia/tipi di articoli
+  - 3
+  - Paga per l'articolo, inserisci l'indirizzo di consegna, cerca l'articolo, aggiungi
+    l'articolo al carrello
+  - Vai al punto di partenza, imposta il colore della penna su verde, sposta 150
+    px, ruota in senso orario di 90 gradi, ripeti i due passaggi sopra 3 volte
+  - ripetere il ciclo dovrebbe ripetere 2 volte
+  - "Sposta 2 quadrati in alto e 1 quadrato a destra, 2 gi\xF9 1 a destra, 2 sinistra
+    1 su, 2 destra, 1 su"
+  - 4
+  - Descrivi tutti i passaggi necessari per fare la torta, descrivi come raccogliere
+    gli ingredienti per ogni passo, elencare tutti gli ingredienti, spiegare possibili
+    modifiche alla ricetta
+  - "Rilassati gli occhi; Guarda oltre; sollevare lo stereogramma/testa; avvicinarsi
+    sempre pi\xF9 lontano da esso"
+  Op2:
+  - ' Imparare a pensare come un computer'
+  - ' Il pensiero computazionale ci supporta  nel affrontare problemi difficili per
+    trovare  una soluzione'
+  - Coding
+  - vagare fino a quando non trovi il posto
+  - Organizzare un evento e chiedersi come  possiamo organizzarlo nel modo migliore
+    possibile.
+  - Gli studenti scrivono linee guida per  risolvere un problema matematico, che
+    un  altro alunno deve quindi usare Per risolvere lo stesso compito.
+  - 38
+  - Pensiero algoritmico
+  - Decomposizione
+  - Riconoscimento del modello
+  - Decomposizione
+  - Decomposizione
+  - generalizzazione
+  - Decomposizione
+  - debug, flusso di controllo, astrazione,  sequenziamento
+  - Decomposizione
+  - Decomposizione
+  - suddividere la frase in sottoparti come soggetto, verbo, ecc.
+  - moltiplica 10 per 5 e aggiungi 1
+  - "aggiungi 1, 2, 3, 4 e cos\xEC via, ma molto velocemente"
+  - X*2 / (X+1)
+  - "abbandonare il luogo/situazione; nominare elementi della situazione; riconoscere
+    il contesto rischioso; applicare i diritti di assertivit\xE0"
+  - definire le regole da applicare; Preparare le istruzioni passo passo; Elenca
+    tutti gli elementi della stanza; riconoscere le aree che collegano gli elementi
+  - Istruzioni specifiche per gruppi di pulizia e articoli come mobili (sedia, scrivania,
+    armadio, ecc.), Elettronica (TV, computer, soundbar, ecc.) Nell'ordine corretto
+  - 4
+  - Aggiungi articolo al carrello, paga per l'articolo, cerca un articolo, inserisci
+    l'indirizzo di consegna
+  - Vai alla posizione iniziale; girare a destra di 90 gradi; Imposta il colore della
+    penna sul verde; sposta 150 px; Ripeti due passaggi sopra 3 volte
+  - Il blocco "girare a destra" dovrebbe essere all'interno del ciclo, dopo il blocco
+    "spostamento"
+  - 'move: 2 steps down and 1 step right, 2 left 1 up, 2 up 1 right, 2 right 1 upSposta:
+    2 quadrati verso il basso e 1 quadrato a destra, 2 sinistra 1 su, 2 su 1 destra,
+    2 destra 1 su'
+  - 3
+  - list all ingredients, explain possible modifications of the receip, describe
+    all steps necessary to do a cake, describe how ingredients should be assembled
+    for each
+  - "sollevare lo stereogramma/testa; Guarda oltre; avvicinarsi sempre di pi\xF9
+    da esso; Rilassati gli occhi"
+  Op3:
+  - Risoluzione di un problema utilizzando  le tecniche per supportarti
+  - CT ci aiuta a imparare a pensare come  un computer
+  - ' Pensiero algoritmico'
+  - Chiedere a un amico o a un membro  della famiglia di pianificare il tuo percorso 
+    per te
+  - pensando a diversi modi per  organizzare l'evento.
+  - "Gli studenti descrivono una serie di  eventi storici pi\xF9 piccoli che hanno 
+    portato a un evento molto pi\xF9 grande."
+  - 45
+  - abstrazione
+  - Pensiero algoritmico
+  - Decomposizione
+  - Generalizzazione
+  - Generalizzazione
+  - sequenziamento
+  - Debbuging
+  - "\u03B1bstraction, pensiero algoritmico,  riconoscimento del modello,  decomposizione"
+  - sequenziamento
+  - Debbuging
+  - dai un nome ai componenti come soggetto, verbo ecc.
+  - dividi 100 per 2 e aggiungi 5
+  - "aggiungi 20, 19, 18, 17 e cos\xEC via, ma molto velocemente"
+  - (X+1) / X*2
+  - "applicare le leggi dell'assertivit\xE0; abbandonare il luogo/situazione; nominare
+    gli elementi della situazione; riconoscere un contesto rischioso"
+  - Elenca tutti gli elementi della stanza; identificare le regole da applicare;
+    Preparare le istruzioni passo-passo; riconoscere le aree che collegano gli elementi
+  - Entrambi sopra
+  - 6
+  - Immettere l'indirizzo di consegna, aggiungere articolo al carrello, pagare per
+    l'articolo, cercare l'articolo
+  - Imposta il colore della penna su verde; sposta 150 px; ruotare in senso orario
+    di 90 gradi; vai al luogo di partenza; Ripeti i due passaggi sopra 3 volte
+  - Il blocco "mossa" dovrebbe essere al di fuori del ciclo
+  - Entrambi i passaggi precedenti sono corretti
+  - 5
+  - Elenca tutti gli ingredienti, descrivi tutti i passaggi necessari per creare
+    l'impasto, descrivi come gli ingredienti dovrebbero essere combinati per ciascun
+    ingrediente, spiega possibili modifiche alla ricetta
+  - "Sposta la testa pi\xF9 vicina e pi\xF9 lontano dallo stereogramma; Rilassa gli
+    occhi; sollevare lo stereogramma/testa; Guarda oltre"
+  Op4:
+  - ' Programmazione di un  computer'
+  - Il pensiero computazionale ci  aiuta ad imparare la codifica
+  - ' astrazione'
+  - ' Nessuno dei precedenti'
+  - Nessuno dei precedenti.
+  - Gli studenti pensano a diversi  modi per risolvere un problema.
+  - 42
+  - generalizzazione
+  - Abstraction
+  - ' Pensiero algoritmico'
+  - ' Pensiero algoritmico'
+  - Abstraction
+  - Nessuno dei precedenti
+  - ' Nessuno dei precedenti'
+  - ' Nessuno dei precedenti'
+  - Abstraction
+  - Pensiero algoritmico
+  - mescolare i componenti come soggetto, verbo ecc. in qualsiasi ordine e verificare
+    la comprensione
+  - 'calcola: ((1 + 10 ) x 10) / 2'
+  - "aggiungi 20, 1, 19, 2, 18, 3 e cos\xEC via, ma molto velocemente"
+  - 2X * X
+  - "riconoscere un contesto rischioso; abbandonare il luogo/situazione; applicare
+    le leggi dell'assertivit\xE0; nominare gli elementi della situazione"
+  - Nomina tutti gli elementi della stanza; Preparare le istruzioni passo-passo;
+    identificare le regole da applicare; riconoscere le aree che collegano gli elementi
+  - nessuna delle precedenti
+  - 2
+  - Cerca un articolo; Aggiungi l'oggetto al carrello della spesa; Immettere l'indirizzo
+    di consegna; Paga l'articolo
+  - vai al luogo di partenza; Imposta il colore della penna su verde; ; ripetere
+    i due passaggi precedenti 3 volte; sposta 150 px; Ruota a destra di 90 gradi
+  - Il blocco "Ruota a destra" dovrebbe essere all'interno del ciclo, prima del blocco
+    "spostamento".
+  - "Nessuna delle soluzioni di cui sopra \xE8 corretta"
+  - Impossibile - Numero infinito
+  - Elenca tutti gli ingredienti, descrivi come dovrebbero essere combinati per ciascun
+    ingrediente, spiega possibili modifiche alla ricetta, descrivi tutti i passaggi
+    necessari per fare la torta
+  - "Rilassa gli occhi; sollevare lo stereogramma/testa; Guarda oltre; avvicinarsi
+    sempre pi\xF9 lontano da esso"
+  answersIndex: 0200000001000000010000000000000000000000030000000100000000000000000000000000000003000000020000000200000002000000020000000000000003000000000000000200000000000000000000000000000000000000020000000000000003000000000000000100000002000000000000000300000000000000

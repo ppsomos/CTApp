@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8522af02b6ecdd44a3c8c6ed47a89f3, type: 3}
+  m_Name: GData
+  m_EditorClassIdentifier: 
+  isFirstTime: 1
+  isPlayFirstTime: 1
+  isSound: 1
+  isMusic: 1
+  isVibrate: 1
+  isMultiplayer: 1
+  selectedLanguage: 0
+  roomLockedIndex: 0
+  MultiplayerroomUnlocked: 3
+  selectedAvater: 0
+  IsSelectAvatar: 0
+  playerName: 
+  SelectedLevel: 1
+  ukData:
+    score: 0
+    scoreItalian: 0
+    completedHist: 0
+    completedHistItalian: 0
+    completedGeo: 0
+    completedGeoItalian: 0
+    completedHistpolish: 0
+    completedHistGreek: 0
+    completedGeoPolish: 0
+    completedGeoGreek: 0
+    scorepolish: 0
+    scoreGreek: 0
+  belgiumData:
+    score: 0
+    scoreItalian: 0
+    completedHist: 0
+    completedHistItalian: 0
+    completedGeo: 0
+    completedGeoItalian: 0
+    completedHistpolish: 0
+    completedHistGreek: 0
+    completedGeoPolish: 0
+    completedGeoGreek: 0
+    scorepolish: 0
+    scoreGreek: 0
+  greeceData:
+    score: 0
+    scoreItalian: 0
+    completedHist: 0
+    completedHistItalian: 0
+    completedGeo: 0
+    completedGeoItalian: 0
+    completedHistpolish: 0
+    completedHistGreek: 0
+    completedGeoPolish: 0
+    completedGeoGreek: 0
+    scorepolish: 0
+    scoreGreek: 0
+  polandData:
+    score: 0
+    scoreItalian: 0
+    completedHist: 0
+    completedHistItalian: 0
+    completedGeo: 0
+    completedGeoItalian: 0
+    completedHistpolish: 0
+    completedHistGreek: 0
+    completedGeoPolish: 0
+    completedGeoGreek: 0
+    scorepolish: 0
+    scoreGreek: 0
+  RightAnswer: 0
+  FirstLevelScore: 0
+  SceondLevelScore: 0
+  ThirdtLevelScore: 0
+  ForthLevelScore: 0
+  Multi_Player:
+  - PlayerName: 
+    SelectedAvatar: 0
+    RightAnswer: 0
+    WrongAnswer: 0
+    score: 0
+    winMatch: 0
+    TimeTaken: 0
+  - PlayerName: 
+    SelectedAvatar: 0
+    RightAnswer: 0
+    WrongAnswer: 0
+    score: 0
+    winMatch: 0
+    TimeTaken: 0
+  LeaderBoardID: 3214
+  LeaderBoardName: braingame
+  IsselectLeaderboard: 0

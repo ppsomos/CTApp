@@ -1,0 +1,448 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Cyberbullying MCQS_Italain
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - Quale numero dovrebbe sostituire il punto interrogativo?
+  - Un database scolastico ha molte informazioni sugli studenti, il gestore dei dati
+    deve utilizzare l'astrazione. Quali dati dovrebbe lasciare fuori?
+  - Quale numero dovrebbe sostituire il punto interrogativo?
+  - "In un negozio, i robot A, B e C lavorano insieme. Questi robot si muovono contemporaneamente
+    nella stessa direzione. Seguendo le indicazioni fornite, i robot raccolgono gli
+    oggetti sulla superficie. Ad esempio, quando le direzioni sono date come &quot;N,
+    N, S, S, E&quot;, allora il robot A prende un cono, il robot B prende un anello
+    e il robot C prende un cono. Domanda: Quali direzioni devono essere seguite affinch\xE9
+    i robot A, B e C prendano rispettivamente sfera, anello e cono?"
+  - 'Come continua la sequenza? '
+  - "Stai sfogliando un mazzo di carte seguendo questa semplice regola: gira una
+    carta. Se la carta \xE8 un cuore, scarti (senza guardare) un numero di carte
+    pari al numero totale di carte cuore che hai gi\xE0 girato. Continui a ripetere
+    questo passaggio finch\xE9 non finisci le carte. Quale dei seguenti algoritmi
+    implementa la tua regola? "
+  - 'Stai cucinando e il tuo cibo si rivela essere anche: A- troppo salato B- troppo
+    piccante C- Troppo dolce D- troppo acido Cosa fai in quei casi?'
+  - "Vuoi creare un tracker di abilit\xE0 di coping per ansia e stress. Leggi le
+    seguenti frasi e scegli la risposta che non ti aiuta a creare un tracker di abilit\xE0
+    di coping."
+  - "Hai bisogno di un vestito per partecipare a un evento di fantasia. Qual \xE8
+    il piano pi\xF9 efficace da prendere per assicurarti di avere un outfit appropriato
+    in tempo?"
+  - 'Per sommare tutti i numeri interi da 1 a X in 10 secondi, usando solo la tua
+    memoria, dovresti calcolare:'
+  - "Ci vogliono 2 ore per caricare completamente un telefono cellulare. Qual \xE8
+    il tempo pi\xF9 breve per caricare completamente 3 telefoni cellulari usando
+    2 caricabatterie?"
+  - "Qual \xE8 l'errore nel seguente programma, che dovrebbe disegnare un quadrato
+    100px x 100px una volta, a partire dall'angolo in alto a sinistra a destra: ripeti
+    4 volte il blocco tra parentesi [sposta 100px], ruota in senso orario di 90 gradi."
+  - "La figura degli scacchi - il cavaliere - si trova sul campo centrale della scheda
+    5x5. Il cavaliere si pu\xF2 spostare due campi orizzontalmente e uno in verticale
+    o due in verticale e uno in orizzontale. Qual \xE8 il minimo numero di mosse
+    per raggiungere uno degli angoli?"
+  - "Per vedere un oggetto in un'immagine stereografica (per vedere un grafico bidimensionale
+    in tre dimensioni, come visto da una prospettiva), \xE8 necessario fare quanto
+    segue nell'ordine indicato:"
+  - "Isla sta riproducendo la mente sul suo computer: il computer costituisce una
+    password da quattro cifre distinte. Il giocatore pu\xF2 inviare diverse ipotesi
+    di questa password. Ogni volta, il computer risponde con il numero di cifre corrette,
+    che appaiono sia nell'ipotesi che nella password. Inoltre, dice al giocatore
+    se hanno messo queste cifre nelle giuste posizioni. Isla ha fatto alcune ipotesi
+    (?). Dalle risposte fornite, \xE8 stata in grado di scoprire la password. ? ?
+    ? ? 5 7 2 0 una delle cifre \xE8 corretta e nella posizione corretta. 6 0 3 1
+    Una delle cifre \xE8 corretta, ma non nella posizione corretta. 1 4 8 5 Due cifre
+    sono corrette, ma non sono nelle posizioni appropriate. 1 5 9 6 Nessuna delle
+    cifre \xE8 corretta. 8 1 2 5 Una delle cifre \xE8 corretta, ma non nella posizione
+    corretta. Domanda: qual \xE8 la password?"
+  Question_Explanation:
+  - "C'\xE8 uno schema qui! Prova a sottrarre il numero pi\xF9 piccolo da quello
+    pi\xF9 grande in ciascuna parte esterna del cerchio pi\xF9 grande. Moltiplica
+    quello che ottieni con 3 e troverai il numero nella parte corrispondente del
+    cerchio pi\xF9 piccolo. Ad esempio, per le due parti superiori del cerchio pi\xF9
+    grande: 12-8 = 4, 4x3 = 12 e 14-10 = 4, 4x3 = 12"
+  - Sicuramente il colore degli occhi! Tutte le altre informazioni possono essere
+    abbastanza utili per gli insegnanti e il preside ad un certo punto.
+  - "Guarda le colonne e le righe. Prova a vedere se riesci a trovare uno schema.
+    Tieni presente che in questo tipo di domande, la colonna o la riga presenteranno
+    quasi sempre il risultato delle altre colonne e righe. Con questo in mente, prova
+    a utilizzare un approccio matematico. Inizia con la matematica semplice. Somma
+    la prima e la terza colonna e dividile per la seconda. Vedi uno schema? Si tratta
+    di riconoscere schemi e trovare lo schema giusto attraverso la matematica. Se
+    la somma non funziona, continua  sottraendo, moltiplicando, ecc. In questo caso,
+    sottraiamo. Questo \xE8 lo schema che segue: (1a colonna \u2013 3a colonna) =
+    Y >> Y = 2a colonna + surplus. La risposta \xE8 3 come mostrato nella figura
+    sottostante."
+  - "Questa domanda richiede anzitutto la tua attenzione per il riconoscimento dello
+    schema. Questi tre robot seguono la stessa direzione. Seguono lo stesso ordine.
+    Quindi, come nell'esempio menzionato nella domanda, prova a semplificarlo considerando
+    che N \xE8 in alto, S \xE8 in basso, E \xE8 a destra e W \xE8 a sinistra. Quindi
+    l'ordine di N, N, S, S, E \xE8 su, su, gi\xF9, gi\xF9, destra. Fatto? Ora,  la
+    domanda ci dice che il Robot A dovrebbe prendere la Sfera, il Robot B dovrebbe
+    prendere l'anello e il Robot C dovrebbe prendere il cono, quindi quale sarebbe
+    lo schema migliore da seguire per tutti loro? Controlla la sfera pi\xF9 vicina
+    ad A, l'anello pi\xF9 vicino a B e il cono pi\xF9 vicino a C. Annota lo schema
+    che ritieni sia il migliore per ciascuno di essi. La risposta corretta \xE8 b."
+  - "Cerca di capire lo schema seguito da ogni elemento e poi controllali insieme.
+    Cosa cambia? Come cambia? Qual \xE8 la direzione in cui va? Il numero indicato
+    nei punti della lancetta dell'orologio della prima casella, indica il numero
+    di volte che il cerchio blu dovrebbe spostarsi nella casella successiva. La risposta
+    coretta quindi \xE8 b."
+  - "carte cuore che hai girato e anche il numero di carte che verranno scartate.
+    \xC8 uguale a 0 dall'inizio. -> n = 0 Quando la carta \xE8 nel mazzo, la giri
+    -> mentre ci sono carte nel mazzo:      capovolgere la carta Se la carta \xE8
+    un cuore per la prima volta, il numero di carte cuore girate ora \xE8 1. Scarti
+    1 carta. -> Se la carta \xE8 un cuore:      n = n + 1 Se la carta \xE8 un cuore
+    per la seconda volta, il numero di carte cuore sar\xE0 1+1. Scarti 2 carte. ->
+    ripeti n volte:      carta da scartare Ripeti di nuovo il processo girando il
+    resto del mazzo. -> capovolgere la carta"
+  - "La risposta corretta \xE8 a. Assues C e D sono sbagliati perch\xE9 non aggiungi
+    mai sale se il cibo \xE8 troppo dolce; La risposta B \xE8 sbagliata perch\xE9
+    non aggiungi zucchero se il cibo \xE8 salato."
+  - "La risposta corretta \xE8 C in quanto questa risposta spiega cos'\xE8 un tracker
+    ma non ti aiuta a creare un tracker di abilit\xE0 di coping per ansia e stress.
+    Tutte le altre risposte sono frasi che possono essere implementate nel tracker
+    delle competenze di coping."
+  - "Le risposte A, B o D potrebbero essere corrette, ma A \xE8 la risposta ideale.
+    Considerando prima gli elementi che hai gi\xE0, e quindi decidendo se sono appropriati
+    per l'evento, stai abbattendo la sfida in passaggi pi\xF9 piccoli e pi\xF9 facili"
+  - "Per cominciare, un esempio. Sommare i numeri da 1 a 10, cio\xE8 a X = 10, all'inizio
+    \xE8 facile. 1 + 2 fa solo 3, e 3 + 3 fa 6, ecc. Ma immagina di sommare da 1
+    a 140. Man mano che aggiungi sempre pi\xF9 numeri nella tua mente, \xE8 facile
+    confondersi. Prova a trovare una soluzione generale cambiando il tuo modo di
+    pensare. Aggiungi, ad esempio, non il primo e il secondo numero, ma il primo
+    e l'ultimo. 1 + 10 = 11. La coppia successiva d\xE0 lo stesso risultato: 2 +
+    9 = 11. Hai scomposto i dati in elementi semplici e ripetibili. Nelle coppie
+    successive, anche la somma sar\xE0 11. Quindi hai riconosciuto lo schema della
+    sommatoria facile. Quante coppie avranno la stessa somma? Le coppie successive
+    sono: 1+10, 2+9, 3+8, 4+7 e 5+6. Il numero di coppie \xE8 5, che \xE8 la met\xE0
+    dei numeri da sommare. Puoi scriverlo in modo che con 10 numeri ci sia 10/2 =
+    5 - cinque coppie. Ora puoi astrarre l'idea usando simboli aritmetici e organizzare
+    un algoritmo, descrivendo i passaggi della soluzione per qualsiasi dato. Con
+    X numeri, hai X / 2 coppie e i valori di somma sono 1 + X. Quindi l'algoritmo
+    \xE8 questo: X/2+(1+X). Ora controlla se questo algoritmo fornisce risultati
+    corretti anche per i numeri da 1 a 11, a 20 o per qualsiasi altro numero. Inoltre,
+    prova a generalizzare questo algoritmo a qualsiasi coppia di numeri <X; Y> dove
+    X<Y."
+  - "Il risultato desiderato \xE8 di caricare completamente tre telefoni cellulari
+    usando due caricabatterie nel pi\xF9 breve tempo possibile.  Possiamo prima notare
+    che se proviamo a caricare tutti e 3 i telefoni cellulari contemporaneamente
+    usando 2 caricabatterie, il tempo di ricarica sar\xE0 pi\xF9 lungo di 2 ore per
+    ogni telefono. Questo perch\xE9 la potenza fornita dai caricabatterie sar\xE0
+    divisa tra i 3 telefoni, quindi ogni telefono ricever\xE0 meno della potenza
+    di ricarica completa di cui ha bisogno.  Invece, possiamo caricare 2 dei telefoni
+    cellulari usando entrambi i caricabatterie contemporaneamente, quindi caricare
+    il terzo telefono separatamente una volta che uno dei primi 2 telefoni \xE8 completamente
+    caricato. In questo modo, possiamo far ricaricare due telefoni alla piena potenza
+    di ricarica per 2 ore, il che li caricher\xE0 completamente. Quindi, possiamo
+    usare uno dei caricabatterie per caricare il terzo telefono per 2 ore fino a
+    quando non \xE8 completamente carico.  Quindi, il tempo di ricarica totale per
+    tutti e 3 i telefoni sar\xE0 di 2 ore per i primi due telefoni + 2 ore per il
+    terzo telefono = 4 ore.  Anche il metodo sopra descritto non \xE8 il pi\xF9 veloce.
+    Possiamo confrontare la soluzione presentata e la spiegazione con altre possibili
+    risposte trovate a seguito del pensiero computazionale. Il primo passo del pensiero
+    computazionale \xE8 la decomposizione del problema, uno dei passaggi del pensiero
+    computazionale. La decomposizione del problema preve scomposizione di  un problema
+    complesso in sotto-problemi pi\xF9 piccoli e gestibili che possono essere risolti
+    individualmente e quindi combinati per risolvere il problema pi\xF9 grande. 
+    Possiamo decomporre il problema generale di ricaricare 3 telefoni con 2 caricabatterie
+    in quattro sotto-problemi pi\xF9 semplici: caricare due telefoni per 2 ore con
+    due caricabatterie, caricando un telefono per 2 ore con un caricabatterie, caricando
+    un telefono per 1 ora con un caricabatterie e passareun telefono da un caricabatterie
+    all'altro.  Ora, usando questi sotto-problemi e combinando le varianti estratte
+    in un modo nuovo, possiamo vedere che possiamo iniziare caricando il primo telefono
+    per 2 ore con il primo caricabatterie. Allo stesso tempo, possiamo iniziare a
+    caricare il secondo telefono con il secondo caricabatterie, ma scollegarlo dopo
+    1 ora e collegare il terzo telefono al secondo caricabatterie per 2 ore. Una
+    volta che il primo telefono \xE8 stato completamente addebitato con il primo
+    caricabatterie, possiamo a sua volta collegare il secondo telefono a questo caricabatterie
+    per 1 ora. In questo modo, ci vorranno un totale di 3 ore per caricare completamente
+    tutti e tre i telefoni usando i due caricabatterie.  Questo \xE8 il tempo pi\xF9
+    breve possibile perch\xE9 stiamo usando due caricabatterie contemporaneamente
+    e ottimizzando il tempo di ricarica per ogni telefono. Se dovessimo caricare
+    tutti e tre i telefoni per 2 ore usando un caricabatterie, ci vorrebbero un totale
+    di 6 ore per caricare completamente tutti e tre i telefoni. Pertanto, la soluzione
+    di ricaricare un telefono per 1 ora e quindi passare all'altro caricabatterie
+    durante la ricarica degli altri due telefoni per 2 ore \xE8 l'approccio pi\xF9
+    efficiente, che \xE8 il vantaggio dell'utilizzo del pensiero computazionale."
+  - "L'errore nel programma \xE8 che disegner\xE0 quattro volte i lati del quadrato,
+    ma come una linea di stretta e non completer\xE0 il quadrato collegando l'ultimo
+    lato al primo lato. Invece, il programma finir\xE0 per girare la penna di 90
+    gradi a destra dopo aver disegnato il quarto lato, ma senza spostare la penna
+    sul punto di partenza del quadrato. Pertanto, il disegno finale sar\xE0 una forma
+    \"io\" invece di un quadrato. L'errore \xE8 dovuto al fatto che il comando di
+    rotazione in senso orario a 90 gradi \xE8 al di fuori del ciclo.  Per correggere
+    il programma, il comando di rotazione in senso orario a 90 gradi dovrebbe essere
+    all'interno del ciclo, ci\xF2 che porta la penna sul punto di partenza del quadrato.
+    In particolare, il programma dovrebbe essere modificato per impostare il blocco
+    tra parentesi come [sposta 100px, girare a destra di 90 gradi] prima di ripetere
+    nuovamente il blocco. In questo modo, dopo aver disegnato ogni lato del quadrato,
+    la penna gira a destra e infine si sposter\xE0 nel punto di partenza del quadrato
+    e il disegno sar\xE0 un quadrato completo. Il programma corretto sarebbe:  Ripeti
+    4 volte: [Sposta 100px, girare a destra di 90 gradi]  La correzione dell'errore
+    del programma \xE8 un esempio dell'applicazione dei principi di pensiero computazionale
+    a un'attivit\xE0 di programmazione. In particolare, la correzione prevede l'uso
+    del pensiero algoritmico e del debug per identificare e risolvere un errore logico
+    nel programma.  Il processo di pensiero algoritmico prevede la rompere il programma
+    in una sequenza di passaggi e l'analisi di come tali passaggi produrranno l'output
+    desiderato. In questo modo, diventa chiaro che il programma originale disegner\xE0
+    quattro lati di un quadrato come una singola linea di stretta e non riesce a
+    completare il quadrato collegando l'ultimo lato al primo lato.  Il processo di
+    debug prevede l'identificazione dell'errore nella logica del programma e quindi
+    la modifica del programma per correggere l'errore. In questo caso, l'errore viene
+    identificato come il comando di posizionamento a destra di 90 gradi al di fuori
+    del ciclo non riportando la penna al punto di partenza del quadrato. Il programma
+    corretto viene quindi modificato spostando il comando di giro a destra di 90
+    gradi all'interno del loop per completare il quadrato.  Nel complesso, questa
+    correzione dimostra l'importanza del pensiero algoritmico e del debug nelle attivit\xE0
+    di programmazione. Applicando questi principi di pensiero computazionale, i programmatori
+    possono identificare e risolvere errori nei loro programmi per produrre l'output
+    desiderato."
+  - "Per trovare il minor numero di mosse per un cavaliere per raggiungere uno degli
+    angoli di una scacchiera 5x5 dal campo centrale, possiamo usare un algoritmo
+    di ricerca come la prima ricerca o l'algoritmo di Dijkstra. Tuttavia, poich\xE9
+    lo spazio di ricerca \xE8 relativamente piccolo, possiamo anche risolvere questo
+    problema analizzando le possibili mosse.  Innanzitutto, possiamo osservare che
+    ci sono solo quattro possibili mosse che il cavaliere pu\xF2 fare dalla piazza
+    centrale:  1. Spostare 2 quadrati verso il basso e 1 quadrato a destra 2. Spostare
+    2 quadrati verso il basso e 1 quadrato a sinistra 3. Spostare 2 quadrati in alto
+    e 1 quadrato a destra 4. Spostare 2 quadrati in alto e 1 quadrato a sinistra 
+    Facendo una di queste quattro mosse, il cavaliere sar\xE0 posizionato sullo stesso
+    diagonale di uno degli angoli della tavola. Pertanto, il numero minimo di mosse
+    richieste affinch\xE9 il cavaliere raggiunga uno degli angoli \xE8 tre. Questo
+    perch\xE9 il cavaliere pu\xF2 spostarsi in un quadrato sulla diagonale e quindi
+    fare un'altra mossa per raggiungere l'angolo.  Ad esempio, supponiamo che il
+    cavaliere inizi sul quadrato centrale e voglia raggiungere l'angolo in alto a
+    destra. La sequenza ottimale di mosse sarebbe:  1. Spostare 2 quadrati verso
+    il basso e 1 quadrato a destra. 2. Spostare 2 quadrati a sinistra e 1 quadrato
+    verso l'alto. 3. Spostare 2 quadrati verso l'alto e 1 quadrato a destra. 4. Spostare
+    2 quadrati a destra e 1 quadrato verso l'alto.  Nel complesso, questa sequenza
+    di mosse porta il cavaliere nell'angolo in alto a destra della tavola in sole
+    quattro mosse, che \xE8 il numero minimo di mosse richieste.  Dal punto di vista
+    del pensiero computazionale, risolvere il problema di trovare il minimo numero
+    di mosse per un cavaliere per raggiungere uno degli angoli di una scacchiera
+    5x5 a partire dalla piazza centrale pu\xF2 essere suddivisa in una serie di passaggi: 
+    1. Definire il problema: il problema \xE8 trovare il percorso pi\xF9 corto che
+    un cavaliere pu\xF2 prendere per raggiungere uno degli angoli di una scacchiera
+    5x5 a partire dalla piazza centrale, dato che il cavaliere deve muoversi in un
+    motivo a forma di L.  2. Analizzare il problema: il primo passo nell'analisi
+    del problema \xE8 comprendere i vincoli. In questo caso, il cavaliere deve muoversi
+    in un motivo a forma di L, il che significa che pu\xF2 muovere due quadrati in
+    una direzione e poi un quadrato in una direzione perpendicolare. La scacchiera
+    \xE8 una griglia 5x5, il che significa che ci sono 25 quadrati. La posizione
+    di partenza \xE8 il quadrato centrale, che si trova all'intersezione della terza
+    riga e della terza colonna.  3. Progettare una soluzione: per progettare una
+    soluzione, possiamo utilizzare un algoritmo di ricerca per esplorare tutti i
+    percorsi possibili che il cavaliere pu\xF2 prendere per raggiungere uno degli
+    angoli della scacchiera. Un algoritmo di ricerca comune utilizzato per problemi
+    come questo \xE8 chiamato prima ricerca (BFS). BFS inizia dalla posizione di
+    partenza ed esplora tutte le possibili mosse da quella posizione. Quindi si sposta
+    al livello successivo dell'albero di ricerca ed esplora tutte le possibili mosse
+    da tali posizioni. Questo processo continua fino a quando non viene trovata la
+    soluzione.  4. Implementare la soluzione: l'implementazione della soluzione prevede
+    la scrittura di codice per eseguire una ricerca BFS sulla scacchiera. L'algoritmo
+    dovrebbe tenere traccia del percorso pi\xF9 breve trovato finora e smettere di
+    cercare quando si trova un percorso verso uno degli angoli.  5. Prova la soluzione:
+    per testare la soluzione, possiamo eseguire il codice su diversi casi di test,
+    come a partire da diverse posizioni sulla scacchiera o modificare le dimensioni
+    della scacchiera. Dovremmo anche testare la soluzione sui casi di bordo, come
+    quando la posizione di partenza \xE8 gi\xE0 in un angolo della scacchiera.  Da
+    questo punto di vista, \xE8 chiaro che il numero minimo di mosse richieste affinch\xE9
+    il cavaliere raggiunga uno degli angoli della scacchiera 5x5 a partire dalla
+    piazza centrale \xE8 4. Questo pu\xF2 essere dimostrato analizzando tutte le
+    possibili mosse che il cavaliere pu\xF2 fare e trovare il percorso pi\xF9 breve
+    verso un angolo."
+  - "La visione stereoscopica \xE8 la capacit\xE0 dei nostri occhi di vedere lo stesso
+    oggetto da prospettive leggermente diverse, a causa delle loro posizioni leggermente
+    diverse sul nostro viso. Il nostro cervello combina quindi queste due immagini
+    per creare una percezione tridimensionale dell'oggetto.  Un'immagine stereografica
+    sfrutta questo fenomeno naturale presentando due immagini leggermente diverse
+    fianco a fianco. Se visto correttamente, il nostro cervello combina queste due
+    immagini per creare l'illusione di un'immagine tridimensionale.  I passaggi menzionati
+    nella domanda sono un metodo di allenamento per i nostri occhi e il cervello
+    per vedere l'immagine 3D in stereogramma.  Dal punto di vista del pensiero computazionale,
+    possiamo pensare a questi passaggi come un processo di formazione del nostro
+    sistema di percezione visiva per elaborare un'immagine stereografica. Questo
+    processo prevede una serie di passaggi che ci consentono di superare i pregiudizi
+    cognitivi naturali e adattare il nostro sistema di percezione visiva per creare
+    l'illusione di un'immagine 3D.  Un approccio di pensiero computazionale prevede
+    di scomporre un problema in una serie di passaggi e algoritmi pi\xF9 piccoli
+    che possono essere eseguiti in un ordine logico. Nel caso di visualizzazione
+    di uno stereogramma, i passaggi elencati nella domanda ci aiutano ad addestrare
+    il nostro sistema di percezione visiva.  Il primo passo, rilassando gli occhi,
+    pu\xF2 essere visto come una decomposizione, superando la naturale tendenza a
+    concentrarsi su un punto. Rilassando gli occhi, siamo in grado di vedere immagini
+    in uno stereogramma che non abbiamo mai visto prima, senza concentrarci su nessuno
+    di essi.  Il secondo passo, guardando oltre l'immagine, pu\xF2 essere visto come
+    superare la naturale tendenza cognitiva a concentrarsi sugli oggetti nel nostro
+    campo visivo. Guardando oltre l'immagine, siamo in grado di comprendere entrambe
+    le immagini in uno stereogramma senza concentrarci su nessuno dei due. \xC8 quando
+    guardiamo oltre l'immagine che di solito percepiamo l'immagine nascosta nello
+    stereogramma, che pu\xF2 essere definita riconoscimento del pattern.  Il terzo
+    passo, spostando lo stereogramma/testa, pu\xF2 essere visto come una regolazione
+    del nostro sistema di percezione visiva sulle due immagini nello stereogramma.
+    Spostando lo stereogramma/testa, siamo in grado di regolare la nostra prospettiva
+    visiva in modo che le due immagini siano correttamente allineate. Vedendo l'immagine
+    spaziale appena riconosciuta, percepiamo il suo background tridimensionale e
+    astratto: comprendere il principio generale e la procedura della visione stereoscopica. 
+    Il quarto passo, zoom dentro e fuori dallo stereogramma, pu\xF2 essere visto
+    come un perfezionamento dell'algoritmo per allineare le due immagini per la percezione
+    della profondit\xE0. Ingrandendosi dentro o fuori dallo stereogramma, siamo in
+    grado di regolare la distanza tra i nostri occhi e l'immagine, che influenza
+    la profondit\xE0 percepita.  Nel complesso, i passaggi menzionati nella domanda
+    possono essere considerati come un algoritmo per la formazione del nostro sistema
+    di percezione visiva per elaborare un'immagine stereografica. Seguendo questi
+    passaggi, siamo in grado di superare i pregiudizi cognitivi naturali e adattare
+    il nostro sistema di percezione visiva per creare l'illusione di un'immagine
+    3D."
+  - "Per arrivare a questo numero dobbiamo seguire sistematicamente una procedura
+    in base alle informazioni disponibili. Questo processo deve essere iterativo.
+    Uno dei modi per risolverlo \xE8 suddividere il problema e prima provare a scoprire
+    le cifre e quindi l'ordine corretto.  In termini di pensiero computazionale significa
+    che dobbiamo passare 4 passaggi:  Passaggio 1: decomposizione Per risolvere il
+    problema, dobbiamo scomporlo in parti pi\xF9 piccole. Dobbiamo analizzare ogni
+    ipotesi e la sua risposta per restringere i possibili valori per ciascuna cifra
+    nella password.  Passaggio 2: riconoscimento del modello Dobbiamo cercare modelli
+    nelle ipotesi e nelle risposte. Ad esempio, nella prima ipotesi, una cifra \xE8
+    nella posizione giusta, il che significa che la cifra corrispondente nella password
+    deve essere una delle cifre nell'ipotesi. Sappiamo anche che la password \xE8
+    composta da quattro cifre distinte.  Passaggio 3: astrazione Dobbiamo astrarre
+    le informazioni che abbiamo raccolto e tenere traccia dei possibili valori per
+    ogni cifra nella password in base alle risposte fornite.  Abstraciamo l'idea
+    della soluzione. Le fasi generali di astrazione possono essere annotate come
+    segue: - Il problema pu\xF2 essere astratto come gioco di ipotesi con un feedback
+    limitato. - L'obiettivo \xE8 utilizzare il feedback per eliminare le possibilit\xE0
+    errate e restringere gradualmente lo spazio di ricerca. - Il problema prevede
+    la ricerca di una combinazione di quattro cifre distinte che soddisfano determinate
+    condizioni. - Dobbiamo creare una tabella per tenere traccia dei possibili valori
+    per ciascuna cifra nella password in base alle risposte fornite dal computer.
+    - L'ultimo passo \xE8 iterativo: dobbiamo confrontare le informazioni in ogni
+    riga che trova una combinazione di quattro cifre distinte che soddisfano determinate
+    condizioni.  Passaggio 4: design dell'algoritmo Sulla base delle informazioni
+    nella tabella, possiamo restringere i possibili valori per ciascuna cifra nella
+    password. Possiamo iniziare guardando le cifre che appaiono in pi\xF9 ipotesi
+    e provare a dedurre la loro posizione nella password in un paio di iterazioni. 
+    I passaggi dettagliati dell'algoritmo sul lavoro sono:  Dalla prima riga (indovina
+    pi\xF9 risposta) sappiamo che solo una delle cifre indicate fa parte della password.
+    La seconda e la terza riga forniscono informazioni simili.  La quarta riga aiuta
+    quindi a estrarre pi\xF9 informazioni dalle righe da una a tre: possiamo scartare
+    5 dalla prima ipotesi, 6 dalla seconda ipotesi e 1 e 5 dalla terza ipotesi. Da
+    quest'ultimo passaggio sappiamo che 4 e 8 sono parti della password. Quindi la
+    cifra corretta nella quinta ipotesi \xE8 8; Da ci\xF2 possiamo concludere dalla
+    riga cinque che 1, 2 e 5 non sono parti della password.  Se torniamo alle righe
+    uno e due, i numeri possibilmente corretti sono 7 o 0 nella riga uno e 3 o 0
+    nella riga due. Pertanto, abbiamo 5 possibili numeri 0,3,4,7 e 8. Se 0 fosse
+    nella password, sia 7 che 3 dovrebbero essere scartati dato che solo un numero
+    \xE8 corretto per le righe uno e due. Ci\xF2 lascerebbe solo 0,4,8 come numeri
+    possibili nella password. Dato che la password deve contenere quattro numeri
+    univoci, 0 non pu\xF2 essere corretto. Pertanto, le altre cifre che completano
+    il codice devono essere 3 e 7. Ora consideriamo le informazioni della posizione
+    o dell'ordine. Dalle file tre e cinque, sappiamo che 8 possono essere in posizioni
+    2 o 4: ? -8-?-8 E quel 4 pu\xF2 essere in tutte le posizioni ma 2: 4-?-4-4 Dalla
+    riga uno sappiamo che 7 deve essere in posizione 2; quindi, 8 deve essere nella
+    posizione 4. Dalla seconda riga sappiamo che 3 non pu\xF2 essere in posizione
+    3, quindi deve essere nella posizione 1. Quindi, 4 \xE8 in posizione 3. Questo
+    d\xE0 l'unica opzione possibile per la password che \xE8 : 3-7-4-8"
+  Op1:
+  - 12
+  - "et\xE0"
+  - 2
+  - N, E, E, S, E
+  - B
+  - 'while there are cards in the deck: flip card while the current card is a heart:
+    discard card'
+  - A tu aggiungi acqua, B aggiungi zucchero, C Aggiungi succo di limone o olio d'oliva,
+    D Aggiungi miele o zucchero
+  - "Scrivi alcune abilit\xE0 di coping che aiuteranno le persone a controllare la
+    loro ansia. Queste abilit\xE0 di coping potrebbero essere \"contano fino a 10
+    lentamente\" o \"brevi dentro e fuori\""
+  - "1) Cerca idee di outfit su Internet e trova una che ti piace 2) Considera prima
+    i vestiti che hai nel tuo armadio, puoi replicare il vestito che ti piace con
+    gli oggetti che gi\xE0 hai? 3) Decidi se \xE8 necessario acquistare un nuovo
+    articolo per l'abbigliamento e ricercare l'oggetto migliore da acquistare 4)
+    Acquista i nuovi articoli e abbinali ai tuoi vestiti esistenti per formare il
+    vestito che ti piace"
+  - X/2 * (X+1)
+  - 3
+  - 'ripetere il cicl: si dovrebbe ripetere 2 volte'
+  - 4
+  - Rilassa gli occhi; Guarda oltre; solleva lo stereogramma/testa;avvicinarsi e
+    allontanarsi da esso
+  - 5182
+  Op2:
+  - 24
+  - lezioni
+  - 3
+  - N, E, E, S, E
+  - B
+  - "mentre ci sono carte nel mazzo: capovolgere la carta mentre la carta attuale
+    \xE8 un cuore: carta da scartare"
+  - A tu aggiungi zucchero, B aggiungi zucchero, C Aggiungi succo di limone o olio
+    d'oliva, D Aggiungi miele o zucchero
+  - "Cosa fa sentire le persone ansiose? Scrivi quello che potrebbe essere il fattore
+    scatenante d'ansia. Questi trigger d'ansia potrebbero essere \"mi \xE8 stato
+    chiesto di parlare di fronte a una folla\"."
+  - 1) Cerca un outfit online che puoi acquistare tutti insieme dallo stesso negozio
+    2) Indossa il tuo outfit completamente nuovo per l'evento
+  - X*2 / (X+1)
+  - 4
+  - Il blocco "girare a destra" dovrebbe essere all'interno del ciclo, dopo il blocco
+    "spostamento"
+  - 3
+  - sollevare lo stereogramma/testa; Guarda oltre; avvicinarsi e allontanarsi da
+    esso; Rilassa gli occhi
+  - 3210
+  Op3:
+  - 18
+  - numeri di telefono del tutore
+  - 4
+  - N, N, S, E, N
+  - D
+  - "n = 0 mentre ci sono carte nel mazzo: capovolgere la carta ripetere n volte:
+    carta da scartare se la carta \xE8 un cuore: n = n + 1"
+  - A tu aggiungi acqua, B aggiungi zucchero, C Aggiungi sale, D Aggiungi miele o
+    zucchero
+  - "Un tracker \xE8 un dispositivo che segue e registra i movimenti di qualcuno
+    o qualcosa."
+  - 1) Indossa lo stesso vestito che hai indossato a scuola ieri
+  - (X+1) / X*2
+  - 6
+  - Il blocco "mossa" dovrebbe essere al di fuori del ciclo
+  - 5
+  - avvicinarsi e allontanarsi da esso; rilassa gli occhi; solleva lo stereogramma/testa;
+    Guarda oltre
+  - 2835
+  Op4:
+  - 6
+  - colore degli occhi
+  - 5
+  - N, E, E, S, W
+  - E
+  - "n = 0 mentre ci sono carte nel mazzo: capovolgere la carta mentre la carta attuale
+    \xE8 un cuore: n = n + 1 carta da scartare capovolgere la carta "
+  - A tu aggiungi acqua, B aggiungi zucchero, C Aggiungi sale D Aggiungi miele o
+    zucchero
+  - "Quanto bene le abilit\xE0 di coping hanno funzionato per aiutarti a calmarti?
+    Valutare da 1 (non molto) a 5 (molto)."
+  - 1) Cerca idee di outfit su Internet e trova una che puoi replicare con gli oggetti
+    nell'armadio, anche se non sono fantasiosi 2) Assicurati che tutti i tuoi articoli
+    siano puliti e non danneggiati 3) Indossa i tuoi abiti esistenti per l'evento
+  - 2X * X
+  - 2
+  - Il blocco "Ruota a destra" dovrebbe essere all'interno del ciclo, prima del blocco
+    "spostamento".
+  - Impossibile - Numero infinito
+  - Rilassa gli occhi; solleva lo stereogramma/testa; Guarda oltre; avvicinarsi e
+    allontanarsi da esso
+  - 3748
+  answersIndex: 020000000300000001000000020000000100000000000000000000000200000000000000000000000000000001000000000000000000000003000000

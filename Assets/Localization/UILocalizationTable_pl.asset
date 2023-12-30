@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UILocalizationTable_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 8b4c231037f156342b7f2595af6a3e8d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 32931401728
+    m_Localized: Informacje o grze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 885998309376
+    m_Localized: "W tej grze dowiesz sie wielu rzeczy i b\u0119dziesz mia\u0142 okazj\u0119
+      zdoby\u0107 podstawow\u0105 wiedz\u0119, a tak\u017Ce poprawi\u0107 swoje umiej\u0119tno\u015Bci
+      my\u015Blenia komputacyjnego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 891635453952
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 900024061952
+    m_Localized: "Czym jest my\u015Blenie komputacyjne? My\u015Blenie komputacyjne
+      to nowa umiej\u0119tno\u015B\u0107 czytania i pisania, kt\xF3ra sta\u0142a
+      si\u0119 bardzo wa\u017Cna w naszym spo\u0142ecze\u0144stwie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1993957265408
+    m_Localized: "Jednak umiej\u0119tno\u015Bci my\u015Blenia komputacyjnego s\u0105
+      r\xF3wnie\u017C bardzo przydatne do zrozumienia, jak dzia\u0142aj\u0105 komputery
+      i urz\u0105dzenia technologiczne nowej generacji, co daje tym, kt\xF3rzy to
+      wiedz\u0105, wyra\u017An\u0105 przewag\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2004124258304
+    m_Localized: Personalizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505859485696
+    m_Localized: "Wprowad\u017A nazw\u0119..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508141187072
+    m_Localized: "Wybierz sw\xF3j awatar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2508912939008
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3524962111488
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3526971183104
+    m_Localized: Angielski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3527780683776
+    m_Localized: "W\u0142oski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3935697719296
+    m_Localized: "Pocz\u0105tek\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3939019608064
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591678476288
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4593532358656
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4595537235968
+    m_Localized: "Wybierz j\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5286188109824
+    m_Localized: "Wyj\u015Bcie z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5288029409280
+    m_Localized: "Czy na pewno chcesz wyj\u015B\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6815779475456
+    m_Localized: Wybierz poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6816588976128
+    m_Localized: Poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6817457197056
+    m_Localized: "\u0141adowanie..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7302952079360
+    m_Localized: Gra wstrzymana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304042598400
+    m_Localized: "Strona g\u0142\xF3wna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7823544897536
+    m_Localized: Uruchom ponownie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7825302310912
+    m_Localized: "Wzn\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7826095034368
+    m_Localized: Warkot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8487448694784
+    m_Localized: Projektor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8489390657536
+    m_Localized: "Wyja\u015Bnienie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8825736089600
+    m_Localized: Dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8829594849280
+    m_Localized: "Z\u0142a odpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8832681857024
+    m_Localized: "Prawid\u0142owa odpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9206578892800
+    m_Localized: "Poziom uko\u0144czony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9481217724416
+    m_Localized: "Spr\xF3buj ponownie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9484707385344
+    m_Localized: "Pon\xF3w pr\xF3b\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9769383186432
+    m_Localized: "Gratulacje! Odblokowa\u0142e\u015B nast\u0119pny pok\xF3j."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9950304489472
+    m_Localized: Okulary VR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10332720156672
+    m_Localized: "Przeno\u015Bne urz\u0105dzenie do gier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10335102521344
+    m_Localized: Skaner biometryczny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10340769026048
+    m_Localized: "Gratulacje! Odblokowa\u0142e\u015B wszystkie pokoje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10733288771584
+    m_Localized: "\u0141adowanie zasob\xF3w gry..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10738217078784
+    m_Localized: Tryb wieloosobowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112109805195264
+    m_Localized: "Ustawienie j\u0119zyka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113724196999168
+    m_Localized: Gracz1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113726310928384
+    m_Localized: Gracz1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113733021814784
+    m_Localized: "Tw\xF3j wynik to:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123093571686400
+    m_Localized: Wynik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123098403524608
+    m_Localized: "Twoja seria jest zako\u0144czona, teraz jest to druga seria zawodnika"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123378750803968
+    m_Localized: "Mecz zako\u0144czony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124003765014528
+    m_Localized: "Poprawna odpowied\u017A\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124007485362176
+    m_Localized: "Z\u0142a odpowied\u017A\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128460519198720
+    m_Localized: "Musisz zdobyc minum 50%, aby ukonczy\u0107 poziom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1030807709634560
+    m_Localized: "Kliknij, aby zobaczy\u0107 obraz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11210044051640320
+    m_Localized: "Gratulacje! Odblokowa\u0142e\u015B Wszystkie pokoje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324995361656832
+    m_Localized: "Ca\u0142kowity wynik:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11324999119753216
+    m_Localized: "\rWynik poziomu 1:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325002378727424
+    m_Localized: 'Wynik poziomu 2:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325011568447488
+    m_Localized: 'Wynik poziomu 3:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11325840899788800
+    m_Localized: 'Wynik poziomu 4:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12328732947468288
+    m_Localized: "\rRozpocznij quiz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12681884146159616
+    m_Localized: "Tablica Lider\xF3w\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226368725700608
+    m_Localized: Ranga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226372236333056
+    m_Localized: Nazwa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15226376401276928
+    m_Localized: Wygraj mecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227415170994176
+    m_Localized: Wynik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227650244956160
+    m_Localized: Mecz rozegrany
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15227656448331776
+    m_Localized: "Tworzy\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228516909797376
+    m_Localized: "Tabele lider\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15228521036992512
+    m_Localized: "Utw\xF3rz identyfikator tabeli lider\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229159670108160
+    m_Localized: "Sk\u0142ada\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15229163293986816
+    m_Localized: "Wprowad\u017A identyfikator"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230078142992384
+    m_Localized: "\rWprowad\u017A imi\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15230084618997760
+    m_Localized: "Wprowad\u017A nazw\u0119 tabeli lider\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15897670046273536
+    m_Localized: "\rWyszukaj identyfikator tabeli lider\xF3w powy\u017Cej lub utw\xF3rz
+      nowy poni\u017Cej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898033268805632
+    m_Localized: "Identyfikator tabeli lider\xF3w nie jest dopasowany, utw\xF3rz
+      nowy poni\u017Cej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15898855843123200
+    m_Localized: Nic nie znaleziono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15936062389833728
+    m_Localized: ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15958515434475520
+    m_Localized: "Pokoje kompletne\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

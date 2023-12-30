@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: MathMCQData
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - 'You are thinking of travelling to another country and you want to book the best
+    travelling option in terms of the budget and the duration of the trip. In order
+    to do that, you should follow these steps in the order given: '
+  - ' There are 3 workers working for the same pay rate. The 1st one has worked for
+    2 days in total, the 2nd for 3 days and the 3rd for 5 days. Their employer will
+    provide 900 euros for all of them, depending on the days each one of the workers
+    has worked. How many euros will the 3rd worker get? '
+  - What number should replace the question mark? 14, 16, 28, 32, 42, 48, 56, 64,
+    ?, ?
+  - Mike is posting an online advert on Facebook to promote his band's upcoming tour. 
+    What is the relevant piece of information?
+  - What should you do if you want to be a pilot?
+  - Doctor - Hospital. Which of the following has the same relationship with that?
+  - Why do we need to think computationally?
+  - What does an arrow represent in a FLOWCHART?
+  - A school database has lots of information on students, the data manager needs
+    to use abstraction. What data should she leave out?
+  - ' A wall in the form of a trapezoid has 15 rows of bricks. The first row has
+    5 bricks, the next row has 4 more bricks, the next one has 4 more, etc. Which
+    is the number of bricks in the 15th row?'
+  - 90 students of a summer camp were divided into 3 teams. The A team has 35 students,
+    the B team has 15 students more than the C team. How many students does the B
+    and C teams have, respectively?
+  - Which one of the following is the word that fits the least? September, October,
+    November, December
+  Op1:
+  - Look for your travelling options; Book the best option; Decide on the date you
+    want to travel; Compare and contrast the options;
+  - 180
+  - '70, 80 '
+  - 'Other Bands '
+  - 'Research pilot schools; Complete all the necessary medical tests; Take flight
+    training lessons; Pass pilot exams '
+  - Firefighter - Fire
+  - To help us solve complex problems more easily
+  - Data flow
+  - Age
+  - '65 '
+  - 35, 20
+  - September
+  Op2:
+  - Decide on the date you want to travel; Look for your travelling options; Book
+    the best option; Compare and contrast the options;
+  - 450
+  - 75, 98
+  - 'His age '
+  - ' Take flight training lessons; Complete all the necessary medical tests; Research
+    pilot schools; Pass pilot exams '
+  - Fisherman - Fish
+  - To help us program
+  - Start
+  - Classes
+  - 61
+  - '15, 30 '
+  - October
+  Op3:
+  - Decide on the date you want to travel; Look for your travelling options; Compare
+    and contrast the options; Book the best option
+  - 270
+  - 89, 102
+  - His parents names
+  - ' Pass pilot exams; Take flight training lessons; Complete all the necessary
+    medical tests; Research pilot schools'
+  - 'Police officer - Siren '
+  - To help us to think like a computer
+  - Decision
+  - Guardian's phone numbers
+  - 58
+  - ' 35, 15'
+  - December
+  Op4:
+  - Compare and contrast the options; Decide on the date you want to travel; Look
+    for your travelling options; Book the best option
+  - 'None of the above '
+  - 82, 98
+  - 'Date of tour '
+  - 'Complete all the necessary medical tests; Research pilot schools; Pass pilot
+    exams; Take flight training lessons; '
+  - Farmer - Farm
+  - ' All of the above '
+  - Process
+  - Eye colour
+  - 56
+  - 25, 15
+  - 'None of the above '
+  answersIndex:
+  - 2
+  - 1
+  - 0
+  - 3
+  - 0
+  - 3
+  - 0
+  - 0
+  - 3
+  - 1
+  - 0
+  - 2

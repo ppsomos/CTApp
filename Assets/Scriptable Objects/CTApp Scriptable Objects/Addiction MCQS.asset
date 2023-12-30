@@ -1,0 +1,471 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Addiction MCQS
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 3
+  questions:
+  - 'You are thinking of travelling to another country and you want to book the best
+    travelling option in terms of the budget and the duration of the trip. In order
+    to do that, you should follow these steps in the order given: '
+  - Mike is posting an online advert on Facebook to promote his band's upcoming tour. 
+    What is the relevant piece of information?
+  - What should you do if you want to be a pilot?
+  - Why do we need to think computationally?
+  - A wall in the form of a trapezoid has 15 rows of bricks. The first row has 5
+    bricks, the next row has 4 more bricks, the next one has 4 more, etc. Which is
+    the number of bricks in the 15th row?
+  - 90 students of a summer camp were divided into 3 teams. The A team has 35 students,
+    the B team has 15 students more than the C team. How many students does the B
+    and C teams have, respectively?
+  - Which one of the following is the word that fits the least? September, October,
+    November, December
+  - "What is the practical fraction decomposition of  X-25 = X\u02C62 + 5X \u2013
+    24?"
+  - What is the next word?      A    E    I    M   ?
+  - "Simplify the equation:  S = 6x(x + 3y -1) - 6x\u02C62 - 8xy"
+  - Sara is writing a website for a clothing brand. Which is the correct process
+    for a shopping action of a customer?
+  - What comes next in the sequence?
+  - 'A crane is unloading a cargo from a ship the options available to the driver
+    are: (PU) pick up container (SC) if there are still container on the ship (MF)
+    Move crane over free space (LP) loop to check again (MC) move crane over the
+    container (PD) put down container Which of these will unload the ship?'
+  - There are 10 items with weight of (2, 10, 8, 6, 9, 5, 3, 3, 7, 4).  What is the
+    maximum number of items that we can put in a bag with a maximum weight of 30?
+  - Lunch. Find the most effective way to budget your money.
+  - 'Train fare.  You can buy a discount card to have train fair discounts. The types
+    of discount cards are divided in: - Age range (under 30, 30 to 60, over 60) -
+    Travel status (alone, two people, group) - Long distance travels (outside your
+    region) - Buy the discount fair for a long period or short period (one year promotion
+    or 3 years) Find the most effective way to budget your money. '
+  - 'You are baking. Which kitchen mixer should you use for the following: A - Cookies
+    and cakes B - Meringue, Frosting, Whipped Cream C- Bread and Sweet Rolls'
+  - You are developing a board game. Read the following sentences and choose the
+    sentence that does not help you developing a board game.
+  - You go into a shop and there is some cash on the floor. What should you do? Choose
+    the most suitable moral answer in conisderation of the scenarios.
+  - You want to be hired for a specific job. Read the following sentences and choose
+    the response that would not help you.
+  - Read the following sentences and choose the answer that contains ONLY soft skills.
+    Soft skills are characteristics and traits that you have as an individual, developed
+    over time through general life experience. Hard skills on the other hand focus
+    on your ability to do specific tasks.
+  - Imagine a scenario where you need to prove your survival skills, and pack the
+    bag with items that could help you. Read the following sentences and choose the
+    answer that does not contains only essential modern survival items.
+  - Your train to school is cancelled, and you have an exam in the morning. What
+    can you do to make sure you are not late?
+  - 'To resist unwanted pressure to do the wrong thing, you should follow these steps
+    in the order given:'
+  - 'To teach the robot how to clean a room you should go through the following steps
+    in the order given:'
+  - 'The to-do list for cleaning a room should include the following information:'
+  - 'When writing an online shopping program, you need to choose the right order
+    of the tasks it will perform:'
+  - 'In order to prepare a good cake recipe, follow the steps in the order given:'
+  Question_Explanation:
+  - Computational thinking is all about breaking down decisions into smaller steps
+    in order to be more manageable. This can also be applied to deciding how and
+    when you are going to travel. First, you need to identify when you want to travel,
+    based on your avaliability. After that, you need to search for all the different
+    options that you might have. For example, you might want to consider travelling
+    by car, train, or even plane. You can also search for more affordable options,
+    for example adding a layover flight. The next step is to compare all this information
+    and think of any other possible solution that will fit your requirements, for
+    example travelling to the country by plane but returning by train if you're going
+    to save some time. Since you now have all the information that you need and you
+    have created multiple scenarios, you can choose the one that fits you best!
+  - Between all the information that the advert could have provided, the date of
+    the tour is the most relevant one!
+  - When deciding to do something or solve a problem it is really important to think
+    through the steps! In this example, the first thing that you need to do is to
+    research your pilot training options, then to pass all the necessary medical
+    exams that they will propose, take the piloting lessons and, at last, give your
+    exams to get your certification.
+  - Computational thinking is really valuable and can facilitate us in solving problems,
+    communicating and cooperating with others and managing life better!
+  - 'Let''s simplify this problem! The first row consists of 5 bricks. The second
+    of 5+4=9 bricks, and so on. In order to calculate the 15th row, you can first
+    calculate the 14 rows besides the first one, by just multiplying 14 rows x 4
+    new bricks. Adding the first one as well, the 15th line consists of 5 + (4x14)
+    = 61 bricks. '
+  - Let's think this through! So the A team has 35 students, meaning that 90 - 35
+    = 55 students who belong to either team B or team C. The B team has 15 more students
+    than C team, so from the total of 55 students who belong to one of the two teams,
+    we know that at least 15 belong to team B, so 55 - 15 = 40 students are equally
+    divided into the two teams. Therefore the B team has 40/2 = 20, 20 + 15 = 35
+    students, and the C team has 40/2 = 20 students!
+  - 'If we would like to choose one of the words that fits the least with the others,
+    we would remove the word "December" since September, October and November are
+    all the months of autumn, while December is one of the winter months. '
+  - 'Think about the priority level in math. What should be calculated first? How
+    to find the value of x? Start with the first questions and then continue with
+    including all the x-factors on one side of the equation and the rest on the other
+    side. Then start the decomposition process. '
+  - Think about the pattern and space between the alphabet. It started from A and
+    got to E. How many letters were skipped? Count it. Then, check how many letters
+    were skipped between E to I and how many from I to M? Is the number the same?
+    Now apply the number you figured to answer the ? (quation mark)
+  - Use multiplication to distribute the portion in the brackets and subtract which
+    share the same variables.
+  - Thinking from a customer perspective and keep in mind that the payment step should
+    always be the last.
+  - The big black and white squares switch colors after each tile. The small red
+    and white squares switch colors after each tile. The small stile with red squares
+    moves clockwise from corners to middles of each side.
+  - This question is so simple. If you remember all along the process what you are
+    unloading, you will find the answer. If you don't have it, you can't move on
+    with the whole process. It's so simple. Did you figure it? Yes, indeed. There
+    should be container on the ship be to unloaded before the process starts.
+  - To solve this question, it's better to order the items from the lowest to highest
+    weight. The order will be 2, 3, 3, 4, 5, 6, 7, 8, 9, and 10. Count the numbers
+    with a total of 30. How many scenarios did you have? Since it says the maximum
+    number of items, it means that you should better start with summing items with
+    lower weights and reach 30. 2+3+3+4+5+6+7=30 (7 items) check if you can find
+    another scenario with 8 items.
+  - The correct answer is either C or D, they are both acceptable. However, D is
+    the perfect answer.
+  - 'The correct answer is B. Without knowing the maximum that you can spend to buy
+    the discount card you cannot select anything else. '
+  - 'The perfect answer is B. However, all the other answers are correct for the
+    purpose of baking. '
+  - The correct answer is D as this sentence does not help you developing a board
+    game but rather judge the game. All the other sentences are helping you thinking
+    about th next steps to develop a board game.
+  - 'The corect answer is D. The answer C is not correct because the rude behavior
+    of another person should not impact on your good behaviour and moral choices. 
+    The answer B is not correct because you are not showing altruism and you could
+    have used those money for a different cause. The answer A is not correct because
+    you demonstrate selfshness and judgemental character by knowing who dropped the
+    money and not giving them back.  '
+  - The correct answer is C. Going everywhere, every time, without a speciic purpose
+    might not be the best choice for time management. Also you lack on prioritisation
+    skills (what event is important and what is not), however, is good for networking.
+    All the other answers will help you.
+  - 'The correct answer is B as the skills listed are all soft skills. The other
+    answers cointains at least one hard skills: The answer A contains Electrical
+    work, the answer C  cointains coding, the answer D contains engineering.'
+  - The correct answer is D as board games are not considered as essetial in a survival
+    scenario.  All the other answers cointains items that are essential modern survival
+    items.
+  - The most logical and efficient answer is B. Answer A is suitable, but you will
+    be late for your exam. Answer C is more expensive and possibly dangerous, and
+    does not guarantee you will be on time, as there is no schedule or time you can
+    follow. Answer D will make you miss the exam completely.
+  - 'Computational thinking involves breaking down complex problems into smaller,
+    more manageable parts, and using a logical approach to solve them. This same
+    approach can be applied to resisting unwanted pressure to do the wrong thing. 
+    The steps of naming the elements of the situation, recognizing the risky context,
+    applying assertiveness rights, and leaving the place/situation are based on a
+    systematic approach to problem-solving, and each step builds on the previous
+    one.  Here is how these steps apply to resisting unwanted pressure:      Naming
+    elements of the situation: The first step in resisting unwanted pressure is to
+    identify and understand the different elements of the situation. This includes
+    understanding the motives of the person or people pressuring you, the potential
+    consequences of giving in to their demands, and the ethical implications of your
+    actions.      Recognizing risky context: Once you have identified the different
+    elements of the situation, the next step is to recognize when the context becomes
+    risky. This includes understanding when the pressure being applied is inappropriate
+    or unethical, and when it may lead to harm or negative consequences for you or
+    others.      Applying assertiveness rights: After recognizing that the context
+    has become risky, the next step is to assert your rights and stand up for yourself.
+    This involves clearly communicating your boundaries and expectations to the person
+    or people pressuring you, and refusing to give in to their demands.      Leaving
+    the place/situation: If the pressure continues and you are unable to resolve
+    the situation, the final step is to leave the place or situation. This may involve
+    physically removing yourself from the situation, seeking help from others, or
+    taking other steps to ensure your safety and well-being.  By following these
+    steps in order, you can approach the problem of unwanted pressure in a logical
+    and systematic way, and increase your chances of successfully resisting it. '
+  - 'Computational thinking involves breaking down complex tasks into smaller, more
+    manageable parts, and using a logical approach to solve them. This same approach
+    can be applied to teaching a robot how to clean a room.  The steps of listing
+    all elements of the room, recognizing areas linking elements, defining rules
+    to be applied, and preparing step-by-step instructions are based on a systematic
+    approach to problem-solving, and each step builds on the previous one.  Here''s
+    how these steps apply to teaching a robot how to clean a room:      List all
+    elements of the room: The first step in teaching a robot how to clean a room
+    is to list all the elements of the room that the robot needs to interact with.
+    This includes furniture, walls, floors, and any other objects or features that
+    may be present.      Recognize areas linking elements: Once you have identified
+    all the elements of the room, the next step is to recognize the areas that link
+    these elements together. For example, the area between the walls and the floor,
+    or the area under furniture. By recognizing these areas, you can develop a more
+    efficient cleaning strategy for the robot.      Define rules to be applied: After
+    recognizing the areas linking the elements, the next step is to define the rules
+    that the robot should follow when cleaning the room. For example, the robot may
+    need to avoid bumping into furniture or walls, or it may need to clean certain
+    areas more thoroughly than others.      Prepare step-by-step instructions: Once
+    the rules have been defined, the final step is to prepare step-by-step instructions
+    that the robot can follow to clean the room efficiently. These instructions should
+    take into account the elements of the room, the areas linking them, and the rules
+    that have been defined.  By following these steps in order, you can approach
+    the task of teaching a robot how to clean a room in a logical and systematic
+    way, and increase the chances of the robot performing the task efficiently and
+    effectively.'
+  - 'Computational thinking involves breaking down complex tasks into smaller, more
+    manageable parts and developing a logical approach to solving problems. This
+    same approach can be applied to creating a to-do list for cleaning a room.  Including
+    a list of all items to be cleaned, a rule combining categories of items in the
+    room into groups/types, and general recommendations for the order and thoroughness
+    of cleaning groups/types of items, helps to establish a clear and organized plan
+    for cleaning the room. By breaking down the cleaning process into smaller parts,
+    it becomes easier to manage and complete the task efficiently.  Additionally,
+    providing specific instructions for cleaning groups and items, such as furniture,
+    electronics, and other items in the correct order, ensures that the cleaning
+    process is carried out thoroughly and consistently. This approach also helps
+    to minimize the likelihood of missing any items or areas during the cleaning
+    process. '
+  - 'The computational thinking model involves breaking down a problem into smaller,
+    more manageable parts, and designing solutions that use algorithms and data structures.
+    Applying this model to the process of writing an online shopping program, the
+    following rationale can be provided for the order of the tasks:  Step 1 - Search
+    for an item: The first step in any online shopping program is to allow the user
+    to search for items they want to purchase. This involves providing a search box
+    or a list of categories to browse through, and then using algorithms to search
+    through a database of products to find the ones that match the user''s search
+    criteria.  Step 2 - Add the item to the shopping cart: Once the user has found
+    an item they want to purchase, the next step is to add it to the shopping cart.
+    This involves creating a data structure that can store the item''s details, such
+    as its name, price, and quantity, and then adding it to the user''s cart. The
+    shopping cart can also keep track of the user''s total cost and display it for
+    them. You cannot add the item to the cart not knowing if the product is in the
+    database (step 1).   Step 3 - Enter the delivery address: After the user has
+    added all the items they want to purchase to their shopping cart, the next step
+    is to enter their delivery address. This involves providing a form where the
+    user can enter their name, address, phone number, and other relevant details.
+    This information can be stored in a database or sent to a third-party service
+    for verification. It is necessary to know the number and the size / weight of
+    all items purchased (step 2) to assess the proper form and the price of the delivery.  
+    Step 4 - Pay for the item: Finally, once the user has entered their delivery
+    address, the last step is to allow them to pay for the item. This involves integrating
+    with a payment gateway, such as PayPal or Stripe, to process the user''s payment.
+    The program should also provide a confirmation page that shows the user their
+    order details, the delivery address, and the total cost. It is necessary to know
+    all items ordered and the distance of delivery to know the To calculate the total
+    price you need to know all items selected, the form and the distance of delivery
+    (steps 1 - 3) before asking for payment.  Overall, following this sequence of
+    tasks in the program ensures that the user can search, select, and purchase the
+    items they want in a smooth and logical way, while also providing the necessary
+    data structures and algorithms to make the program function efficiently.'
+  - 'From a computational thinking perspective, following the steps in the order
+    given when preparing a cake recipe is essential to ensuring a good outcome. Here''s
+    why:  1. Decomposition: The first step in preparing a cake recipe is to break
+    down the task into smaller subtasks. This includes listing all the ingredients,
+    describing how they should be combined for each ingredient, explaining possible
+    modifications to the recipe, and describing all the steps needed to make the
+    cake. This decomposition allows us to better understand the problem and focus
+    on each individual task.  2. Pattern recognition: Once we have decomposed the
+    task, we can identify patterns in the recipe. For example, we might notice that
+    the recipe starts with listing the ingredients, then moves on to describing how
+    they should be combined, followed by possible modifications to the recipe, and
+    finally the steps needed to make the cake. Recognizing these patterns helps us
+    to understand the flow of the recipe and the dependencies between the different
+    steps.  3. Abstraction: After identifying the patterns in the recipe, we can
+    abstract away the details of each step and focus on the high-level concepts.
+    This means we can think about the recipe in terms of the overall process rather
+    than getting bogged down in individual ingredients or measurements.  4. Algorithm
+    design: With the high-level concepts in mind, we can design an algorithm for
+    preparing the cake recipe. This algorithm should follow the steps in the order
+    given, starting with listing the ingredients, then describing how they should
+    be combined for each ingredient, followed by explaining possible modifications
+    to the recipe, and finally describing all the steps needed to make the cake.
+    Following the steps in order ensures that we don''t miss any important steps
+    and that the cake turns out as expected.  5. Testing: Finally, we can test the
+    recipe by following the algorithm we''ve designed and making modifications as
+    needed. Testing helps us to identify any errors in the recipe and refine the
+    algorithm for future use.  Overall, following the steps in order when preparing
+    a cake recipe is important because it ensures that all the necessary ingredients
+    are included and that the recipe is executed correctly. By breaking the recipe
+    down into smaller subtasks, recognizing patterns, abstracting away details, designing
+    an algorithm, and testing the recipe, we can ensure that the cake turns out delicious
+    every time.'
+  Op1:
+  - ' Look for your travelling options; Book the best option; Decide on the date
+    you want to travel; Compare and contrast the options;'
+  - Other Bands
+  - 'Research pilot schools; Complete all the necessary medical tests; Take flight
+    training lessons; Pass pilot exams '
+  - To help us solve complex problems more easily
+  - 65
+  - 35, 20
+  - September
+  - 0.2779
+  - N
+  - 10xy + 6x
+  - Put items in the cart Search for the items Fill in the address Payment
+  - B
+  - MC MF LP PD PU SC
+  - 5
+  - '1) PAY at the counter 2) GO to the shop 3)CHECK how much you have in cash or
+    card 4) CHOOSE a meal deal in your price range 5) CHECK the most convinient shop '
+  - '1) SELECT based on your age first 2) CHECK how much you are able to spend for
+    the discount card 3) SELECT based on your travel status 4) SELECT based on the
+    period 5) SELECT based on the distance '
+  - ' You use what you have  regardless of the mixer'
+  - How many players are needed?
+  - 'You are aware of whom dropped the money. You believe that the person does not
+    deserve those money. You were short on money for your lunch, so you use the money
+    found on the floor for it.  '
+  - If you are interested in working in a specific industry it is important showing
+    your knowledge and work.
+  - Professionalism; Empathy; Electrical work.
+  - 'Water; Food; First aid kit; Shelter; Cell phone; Radio; Extra cash   '
+  - Call the school and tell them you are going to be late for your exam. Wait for
+    the next train in an hour.
+  - name elements of situation; recognize risky context; apply assertiveness rights;
+    leave the place/situation
+  - list all elements of the room; recognize areas linking elements; define rules
+    to be applied; prepare step by step instructions
+  - a list of all items to be cleaned; a rule combining categories of items in the
+    room into groups/types; general recommendations for the order and thoroughness
+    of cleaning groups/types of items
+  - pay for item, enter delivery address, search for item, add item to cart
+  - describe all the steps needed to make the cake, describe how to collect the ingredients
+    for each step, list all the ingredients, explain possible modifications to the
+    recipe
+  Op2:
+  - Decide on the date you want to travel; Look for your travelling options; Book
+    the best option; Compare and contrast the options;
+  - 'His age '
+  - Take flight training lessons; Complete all the necessary medical tests; Research
+    pilot schools; Pass pilot exams
+  - To help us program
+  - 61
+  - '15, 30 '
+  - October
+  - 0.3217
+  - O
+  - 10xy - 6x
+  - Search for the items Put items in the cart Delete some items Payment Fill in
+    the address
+  - D
+  - SC MC PU MF PD LP
+  - 6
+  - '1) PAY at the counter 2) CHOOSE a meal deal in your price range 3) GO to the
+    shop 4) CHECK the most convinient shop 5)CHECK how much you have in cash or card '
+  - 1)CHECK how much you are able to spend for the discount card 2) SELECT based
+    on my age first 3) SELECT based on your travel status 4) SELECT based on the
+    period 5) SELECT based on the distance
+  - ' A you should use a paddle mixer B you should use a whisk C you should use a
+    dough hook'
+  - 'What information is usually included on a game box or instructions? '
+  - You are not aware of whom dropped the money. You are happy that you find them.
+    Now you have extra money to buy what you needed from the shop.
+  - Engage with professionals or potential employers.  Impress potential employers
+    with your professionalism, enthusiasm,  influence and knowledge of  the industry.
+  - Critical thinking; Time management; Integrity.
+  - Shelter; Compass; Food; Water; Flashlight; Sanitation products Body warmers
+  - Find another train or a bus that arrives at the same time. If this isn't possible,
+    get a train or a bus that arrives as early as possible. If you are going to be
+    late, call your school and let them know you are going to be late.
+  - leave the place/situation; name elements of situation; recognize risky context;
+    apply assertiveness rights
+  - define rules to be applied; prepare step by step instructions; list all elements
+    of the room; recognize areas linking elements
+  - specific instructions for cleaning groups and items such as furniture (chair,
+    desk, closet, etc.), electronics (TV, computer, soundbar, etc.) in the correct
+    order
+  - add item to cart, pay for item, search for an item, enter delivery address
+  - list all ingredients, explain possible modifications of the receip, describe
+    all steps necessary to do a cake, describe how ingredients should be assembled
+    for each
+  Op3:
+  - Decide on the date you want to travel; Look for your travelling options; Compare
+    and contrast the options; Book the best option
+  - His parents names
+  - Pass pilot exams; Take flight training lessons; Complete all the necessary medical
+    tests; Research pilot schools
+  - To help us to think like a computer
+  - 58
+  - 35, 15
+  - December
+  - '- 0.2139'
+  - P
+  - 12x2 + 10xy
+  - Register/ Login Search for the items Put items in the cart Fill in the address
+    Payment
+  - A
+  - PU LP MC PD SC MF
+  - 7
+  - '1)CHECK how much you have in cash or card 2) GO to the shop 3) CHECK the most
+    convinient shop 4) CHOOSE a meal deal in your price range 5) PAY at the counter '
+  - '1) SELECT based on the distance 2) SELECT based on my age first 3)CHECK how
+    much you are able to spend for the discount card 4) SELECT based on the period
+    5) SELECT based on your travel status '
+  - ' You should use a whisk for A,B,C '
+  - 'What materials and playing pieces are needed? '
+  - You are aware of whom dropped the money.  You return the money but the person
+    believed there were more money on the floor and is accusing you of thieve. You
+    sincerely explain that this is not the case. What you are giving back is what
+    you have found on the floor. The person does not believe you, you leave with
+    the money.
+  - 'Engage with different events in different industry and field of work so that
+    you do not miss out opportunities. '
+  - Coding; Teamwork; Punctuality.
+  - 'Food; Map; Medication; Radio; Matches; Extra clothing; Flashlight '
+  - 'Find a taxi or hitch-hike to get to school on time. '
+  - apply the laws of assertiveness; leave the place/situation; name the elements
+    of the situation; recognize a risky context
+  - list all the elements of the room; identify the rules to be applied; prepare
+    step-by-step instructions; recognize the areas connecting the elements
+  - both of the above
+  - enter delivery address, add item to cart, pay for item, search for item
+  - list all the ingredients, describe all the steps needed to make the dough, describe
+    how the ingredients should be combined for each ingredient, explain possible
+    modifications to the recipe
+  Op4:
+  - Compare and contrast the options; Decide on the date you want to travel; Look
+    for your travelling options; Book the best option
+  - 'Date of tour '
+  - 'Complete all the necessary medical tests; Research pilot schools; Pass pilot
+    exams; Take flight training lessons; '
+  - 'All of the above '
+  - 56
+  - 25, 15
+  - 'None of the above '
+  - '- 0.2679'
+  - Q
+  - 12x2 - 10xy
+  - Search for the items Fill in the address Payment Put items in the cart
+  - C
+  - MC PU MF PD SC LP
+  - 8
+  - '1)CHECK how much you have in cash or card 2) CHECK the most convinient shop
+    2) GO to the shop 4) CHOOSE a meal deal in your price range 5) PAY at the counter '
+  - 1) SELECT based on my age first 2)CHECK how much you are able to spend for the
+    discount card 3) SELECT based on the period 4) SELECT based on your travel status
+    5) SELECT based on the distance
+  - ' You should use a wooden spoon'
+  - 'How good is this game? '
+  - 'You are not aware of whom dropped the money. You ask around but nobody is the
+    owner. You give those money to the next charity that you encounter. '
+  - If you find a role you are interested in, search for it online and read the job
+    description. See what qualifications, skills and experience you will need, this
+    will give you a starting point and highlight the areas you will need to work
+    on.
+  - Problem-solving; Engineering; Creativity.
+  - Water; Medication; Food; Matches; Pocket knife; Board games; Map
+  - Go back home as you will miss the beginning of the exam anyway. Try again tomorrow.
+  - recognize a risky context; leave the place/situation; apply the laws of assertiveness;
+    name the elements of the situation
+  - 'name all the elements of the room; prepare step-by-step instructions; identify
+    the rules to be applied; recognize the areas connecting the elements '
+  - none of the above
+  - search for an item; add the item to the shopping cart; enter the delivery address;
+    pay for the item
+  - list all the ingredients, describe how they should be combined for each ingredient,
+    explain possible modifications to the recipe, describe all the steps needed to
+    make the cake
+  answersIndex: 02000000030000000000000000000000010000000000000002000000030000000300000001000000020000000000000001000000020000000200000001000000010000000300000003000000020000000100000003000000010000000000000000000000020000000300000003000000

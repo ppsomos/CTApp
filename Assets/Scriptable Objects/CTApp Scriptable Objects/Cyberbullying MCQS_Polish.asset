@@ -1,0 +1,508 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Cyberbullying MCQS_Polish
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - "Jaka liczba powinna zast\u0105pi\u0107 znak zapytania?"
+  - " W szkolnej bazie danych znajduje si\u0119 wiele informacji o uczniach, administrator
+    danych musi zastosowa\u0107 abstrakcj\u0119. Jakie dane powinna /powinien pomin\u0105\u0107?"
+  - "Jaka liczb\u0119 nale\u017Cy wstawi\u0107 w miejsce znaku zapytania?"
+  - " W sklepie pracuj\u0105 razem roboty A, B i C. Roboty te poruszaj\u0105 si\u0119
+    r\xF3wnolegle w tym samym kierunku. Post\u0119puj\u0105c zgodnie z podanymi kierunkami,
+    roboty zbieraj\u0105 przedmioty znajduj\u0105ce si\u0119 na powierzchni. Za\u0142\xF3\u017Cmy,
+    \u017Ce robotom podano kierunki \"N, N, S, S, E\", to robot A pobiera sto\u017Cek,
+    robot B pobiera pier\u015Bcie\u0144, a robot C pobiera sto\u017Cek. Pytanie:
+    Kt\xF3ry kierunek nale\u017Cy wybra\u0107, aby roboty A, B i C wzi\u0119\u0142y
+    odpowiednio kul\u0119, pier\u015Bcie\u0144 i sto\u017Cek"
+  - "Co jest nast\u0119pne w kolejno\u015Bci?"
+  - "Przerzucasz tali\u0119 kart, stosuj\u0105c si\u0119 do tej prostej zasady: Odwr\xF3\u0107
+    kart\u0119. Je\u015Bli jest to serce, odrzucasz (bez patrzenia) liczb\u0119 kart
+    r\xF3wn\u0105 ca\u0142kowitej liczbie kart z sercem, kt\xF3re ju\u017C odwr\xF3ci\u0142e\u015B.
+    Powtarzasz ten krok a\u017C do wyczerpania kart. Kt\xF3ry z poni\u017Cszych algorytm\xF3w
+    realizuje Twoj\u0105 regu\u0142\u0119? "
+  - "Gotujesz i twoje jedzenie okazuje si\u0119 by\u0107 albo: A- za s\u0142one B-
+    zbyt pikantne  C- zbyt s\u0142odkie D- zbyt kwa\u015Bne Co robisz w takich przypadkach?"
+  - "Chcesz stworzy\u0107 tracker umiej\u0119tno\u015Bci radzenia sobie z l\u0119kiem
+    i stresem. Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra
+    nie pomaga w stworzeniu takiego trackera."
+  - "Potrzebujesz stroju na udzia\u0142 w wytwornym wydarzeniu. Jaki jest najskuteczniejszy
+    plan, kt\xF3ry pozwoli Ci zdoby\u0107 odpowiedni str\xF3j na czas?"
+  - "Aby zsumowa\u0107 wszystkie liczby ca\u0142kowite od 1 do X w ci\u0105gu 10
+    sekund, wy\u0142\u0105cznie w pami\u0119ci, powiniene\u015B obliczy\u0107:"
+  - "Pe\u0142ne na\u0142adowanie telefonu kom\xF3rkowego trwa 2 godziny. Jaki jest
+    najkr\xF3tszy czas pe\u0142nego na\u0142adowania 3 telefon\xF3w kom\xF3rkowych
+    przy pomocy 2 \u0142adowarek?"
+  - "Jaki jest b\u0142\u0105d w poni\u017Cszym programie, kt\xF3ry powinien narysowa\u0107
+    raz pole o wymiarach 100px x 100px, zaczynaj\u0105c od lewego g\xF3rnego rogu
+    w prawo: powt\xF3rz 4 razy blok w nawiasie [przesu\u0144 100px], obr\xF3\u0107
+    si\u0119 w prawo o 90 stopni."
+  - "Figura szachowa - skoczek znajduje si\u0119 na \u015Brodkowym polu planszy 5x5.
+    Skoczek mo\u017Ce poruszy\u0107 si\u0119 o dwa pola w poziomie i jedno w pionie
+    lub o dwa w pionie i jedno w poziomie. Jaka jest najmniejsza liczba ruch\xF3w,
+    aby dosta\u0107 si\u0119 do jednego z rog\xF3w?"
+  - "Aby zobaczy\u0107 obiekt na obrazie stereograficznym (zobaczy\u0107 dwuwymiarow\u0105
+    grafik\u0119 w trzech wymiarach, jak wida\u0107 z perspektywy) nale\u017Cy wykona\u0107
+    nast\u0119puj\u0105ce czynno\u015Bci w podanej kolejno\u015Bci: "
+  - "Isla gra w Mastermind na swoim komputerze: Komputer wymy\u015Bla has\u0142o
+    z czterech r\xF3\u017Cnych cyfr. Gracz mo\u017Ce poda\u0107 kolejno kilka mo\u017Cliwych
+    odgadni\u0119\u0107 tego has\u0142a. Za ka\u017Cdym razem komputer odpowiada
+    liczb\u0105 poprawnych cyfr, kt\xF3re pojawiaj\u0105 si\u0119 zar\xF3wno w pr\xF3bie
+    odgadni\u0119cia, jak i w ha\u015Ble. Komputer informuje te\u017C gracza, czy
+    umie\u015Bci\u0142 te cyfry w odpowiednich miejscach. Isla dokona\u0142a kilku
+    odgadni\u0119\u0107 (?). Z podanych odpowiedzi uda\u0142o jej si\u0119 odkry\u0107
+    has\u0142o. ? ? ? ? 5 7 2 0 Jedna z cyfr jest poprawna i znajduje si\u0119 we
+    w\u0142a\u015Bciwej pozycji. 6 0 3 1 Jedna z cyfr jest poprawna, ale nie jest
+    na w\u0142a\u015Bciwej pozycji. 1 4 8 5 Dwie cyfry s\u0105 poprawne, ale nie
+    s\u0105 na w\u0142a\u015Bciwych pozycjach. 1 5 9 6 \u017Badna z cyfr nie jest
+    prawid\u0142owa. 8 1 2 5 Jedna z cyfr jest poprawna, ale nie jest na w\u0142a\u015Bciwej
+    pozycji. Pytanie: Jakie jest has\u0142o"
+  Question_Explanation:
+  - "Jest tu pewien wz\xF3r! Spr\xF3buj odj\u0105\u0107 mniejsz\u0105 liczb\u0119
+    od wi\u0119kszej w ka\u017Cdej cz\u0119\u015Bci wi\u0119kszego ko\u0142a. Pomn\xF3\u017C
+    ten wynik przez 3, a otrzymasz liczb\u0119 znajduj\u0105c\u0105 si\u0119 w s\u0105siaduj\u0105cej
+    cz\u0119\u015Bci mniejszego ko\u0142a. Na przyk\u0142ad, dla dw\xF3ch g\xF3rnych
+    cz\u0119\u015Bci wi\u0119kszego ko\u0142a: 12-8=4, 4x3=12 i 14-10=4, 4x3=12"
+  - "Zdecydowanie kolor oczu! Wszystkie inne informacje mog\u0105 by\u0107 w okre\u015Blonych
+    sytuacjach bardzo przydatne dla nauczycieli i dyrektora szko\u0142y. "
+  - "Sp\xF3jrz na kolumny i wiersze. Spr\xF3buj sprawdzi\u0107, czy mo\u017Cesz znale\u017A\u0107
+    jaki\u015B wz\xF3r. Pami\u0119taj, \u017Ce w tego typu pytaniach pole ze znakiem
+    zapytania prawie zawsze b\u0119dzie przedstawia\u0107 wynik matematyczny uwzgl\u0119dniaj\u0105cy
+    warto\u015Bci pozosta\u0142ych kolumn i wierszy. Maj\u0105c to na uwadze, spr\xF3buj
+    zastosowa\u0107 podej\u015Bcie matematyczne. Zacznij od prostej matematyki. Zsumuj
+    1. i 3. kolumn\u0119 i podziel je przez 2. Czy widzisz jaki\u015B wz\xF3r? Czy
+    masz jakie\u015B wyniki? Chodzi o rozpoznanie wzoru i znalezienie odpowiedniego
+    wzoru poprzez matematyk\u0119. Je\u015Bli sumowanie nie dzia\u0142a, kontynuuj
+    poprzez minusowanie, odejmowanie, mno\u017Cenie lub itp. W tym przypadku u\u017Cywamy
+    minus\xF3w. Wz\xF3r, kt\xF3ry nale\u017Cy zastosowa\u0107 w tym konkretnym przypadku
+    jest nast\u0119puj\u0105cy:  (1. kolumna - 3. kolumna) = Y >> Y = 2. kolumna
+    + nadwy\u017Cka. Odpowied\u017A to 3, jak pokazano na poni\u017Cszym rysunku.   "
+  - "To pytanie r\xF3wnie\u017C wymaga zastosowania umiej\u0119tno\u015Bci rozpoznania
+    wzoru. Te trzy roboty pod\u0105\u017Caj\u0105 w tym samym kierunku. Pod\u0105\u017Caj\u0105
+    w tej samej kolejno\u015Bci. Spr\xF3buj upro\u015Bci\u0107 to pytanie uznaj\u0105c,
+    \u017Ce N to ruch w g\xF3r\u0119, S w d\xF3\u0142, E w prawo, a W w lewo. Zatem
+    kolejno\u015B\u0107 N, N, S, S, E to g\xF3ra, g\xF3ra, d\xF3\u0142, d\xF3\u0142,
+    prawo. Rozumiesz? Teraz zobaczmy, zgodnie z pytaniem Robot A powinien wzi\u0105\u0107
+    kul\u0119 na g\xF3rze, Robot B powinien wzi\u0105\u0107 pier\u015Bcie\u0144 na
+    g\xF3rze, a Robot C powinien wzi\u0105\u0107 sto\u017Cek na g\xF3rze, wi\u0119c
+    jaki by\u0142by najlepszy wz\xF3r dla nich wszystkich? Zaznacz najbli\u017Csz\u0105
+    g\xF3rn\u0105 kul\u0119 dla A, najbli\u017Cszy g\xF3rny pier\u015Bcie\u0144 dla
+    B i najbli\u017Cszy g\xF3rny sto\u017Cek dla C. Zapisz wz\xF3r, kt\xF3ry Twoim
+    zdaniem jest najlepszy dla ka\u017Cdego z nich. Pami\u0119taj, \u017Ce wszystkie
+    pod\u0105\u017Caj\u0105 w tej samej kolejno\u015Bci i poruszaj\u0105 si\u0119
+    w tym samym kierunku. Spr\xF3buj przyj\u0105\u0107 swoj\u0105 kolejno\u015B\u0107
+    my\u015Bl\u0105c o tym. Pami\u0119taj te\u017C, \u017Ce nie zawsze da si\u0119
+    dotrze\u0107 do najbli\u017Cszego obiektu. Jeszcze si\u0119 nie zorientowa\u0142e\u015B?
+    Jeszcze jedna rada, sprawd\u017A odpowiedzi. Spr\xF3buj zastosowa\u0107 ka\u017Cd\u0105
+    odpowied\u017A do ka\u017Cdego robota. Zobacz, kt\xF3ra odpowied\u017A mo\u017Ce
+    by\u0107 zastosowana do wszystkich. Poprawna odpowied\u017A to b."
+  - "Spr\xF3buj zrozumie\u0107 wz\xF3r, wed\u0142ug kt\xF3rego dzia\u0142aj\u0105
+    poszczeg\xF3lne elemnety, a nast\u0119pnie sprawd\u017A je razem. Co si\u0119
+    zmienia? Jak si\u0119 zmienia? W jakim kierunku to si\u0119 dzieje? Liczba wskazana
+    na wskaz\xF3wkach zegara w pierwszym polu wskazuje, ile razy niebieskie k\xF3\u0142ko
+    powinno przesun\u0105\u0107 si\u0119 w nast\u0119pnym polu. Kierunek w jakim
+    u\u0142o\u017Cona jest wskaz\xF3wka jest jednocze\u015Bnie kierunkiem przemieszczania
+    si\u0119 kropki. Odpowiedzi\u0105 jest b."
+  - "Poprawna odpowied\u017A to a), poniewa\u017C n to liczba kart serca, kt\xF3re
+    zosta\u0142y odwr\xF3cone, a tak\u017Ce liczba kart, kt\xF3re zostan\u0105 odrzucone.
+    Na pocz\u0105tek jest r\xF3wne 0. -> n = 0 Kiedy karta jest w talii, odwracasz
+    j\u0105 -> gdy w talii s\u0105 karty:   odwr\xF3\u0107 kart\u0119 Je\u015Bli
+    karta jest sercem po raz pierwszy, liczba odwr\xF3conych kart serc wynosi teraz
+    1. Odrzucasz 1 kart\u0119. -> Je\u015Bli karta jest sercem:      n = n + 1 Je\u015Bli
+    karta jest sercem po raz drugi, liczba kart serc b\u0119dzie wynosi\u0107 1+1.
+    Odrzucasz 2 karty. -> powt\xF3rz n razy:     odrzu\u0107 kart\u0119 Powtarzasz
+    proces ponownie, odwracaj\u0105c reszt\u0119 talii. -> odwr\xF3\u0107 kart\u0119"
+  - "Poprawna odpowied\u017A to A.  Odpowiedzi C i D s\u0105 b\u0142\u0119dne, poniewa\u017C
+    NIGDY nie dodaje si\u0119 soli, je\u015Bli jedzenie jest zbyt s\u0142odkie; Odpowied\u017A
+    B jest b\u0142\u0119dna, poniewa\u017C nie dodaje si\u0119 cukru, je\u015Bli
+    jedzenie jest s\u0142one."
+  - "Poprawna odpowied\u017A to C, poniewa\u017C ta odpowied\u017A wyja\u015Bnia,
+    czym jest tracker, ale nie pomaga w stworzeniu trackera umiej\u0119tno\u015Bci
+    radzenia sobie z l\u0119kiem i stresem.  Wszystkie pozosta\u0142e odpowiedzi
+    to zdania, kt\xF3re mo\u017Cna zaimplementowa\u0107 w takim trackerze."
+  - "Odpowied\u017A A jest idealn\u0105 odpowiedzi\u0105, jednak odpowied\u017A D
+    r\xF3wnie\u017C mo\u017Ce by\u0107 poprawna. Odpowied\u017A A jest idealna, poniewa\u017C
+    rozwa\u017Caj\u0105c najpierw przedmioty, kt\xF3re ju\u017C posiadasz, a nast\u0119pnie
+    decyduj\u0105c, czy s\u0105 one odpowiednie na wydarzenie, dzielisz wyzwanie
+    na mniejsze, \u0142atwiejsze kroki. Odpowied\u017A B nie jest poprawna, poniewa\u017C
+    musisz uda\u0107 si\u0119 na wydarzenie. Odpowied\u017A C nie jest poprawna,
+    poniewa\u017C nie odnosi si\u0119 do problemu p\xF3j\u015Bcia na wydarzenie w
+    odpowiednim stroju."
+  - "Na pocz\u0105tek przyk\u0142ad. Dodawanie liczb od 1 do 10, czyli do X = 10,
+    jest na pocz\u0105tku \u0142atwe. 1 + 2, to po prostu 3, a 3 + 3, to 6, itd.
+    Wyobra\u017A sobie jednak dodawanie od 1 do 140. Dodaj\u0105c kolejne, coraz
+    wi\u0119ksze liczby w pami\u0119ci \u0142atwo si\u0119 pomyli\u0107. Spr\xF3buj
+    znale\u017A\u0107 og\xF3lne rozwi\u0105zanie, zmieniaj\u0105c w tym celu tok
+    my\u015Blenia. Dodaj na przyk\u0142ad nie pierwsz\u0105 i drug\u0105 liczb\u0119,
+    ale pierwsz\u0105 i ostatni\u0105. 1 + 10 = 11. Kolejna para daje taki sam wynik:
+    2 + 9 = 11. Zdekomponowa\u0142e\u015B dane na proste, powtarzalne elementy. W
+    kolejnych parach suma tak\u017Ce wyniesie 11.  Rozpozna\u0142e\u015B wi\u0119c
+    wzorzec \u0142atwego sumowania. A ile b\u0119dzie takich par, kt\xF3re daj\u0105
+    identyczne sumy? Kolejne pary, to: 1+10, 2+9, 3+8, 4+7 i 5+6. Liczba par, to
+    5, czyli po\u0142owa liczb, kt\xF3re masz zsumowa\u0107. Mo\u017Cesz to zapisa\u0107
+    tak, \u017Ce przy 10 liczbach jest 10 / 2 = 5 - pi\u0119\u0107 par. Mo\u017Cesz
+    teraz uog\xF3lni\u0107 ide\u0119 rozwi\u0105zania u\u017Cywaj\u0105c symboli
+    arytmetycznych i u\u0142o\u017Cy\u0107 algorytm, opisuj\u0105cy kroki rozwi\u0105zania
+    dla dowolnych danych. Przy X liczb masz X / 2 par, a warto\u015Bci do zsumowania
+    wynosz\u0105 1 + X. Algorytm wygl\u0105da wi\u0119c tak: X/2+(1+X). Sprawd\u017A
+    teraz, czy ten algorytm da poprawne wyniki tak\u017Ce dla liczb od 1 do 11, do
+    20, czy dla dowolnej innej liczby. Spr\xF3buj te\u017C uog\xF3lni\u0107 ten algorytm
+    na dowoln\u0105 par\u0119 liczb z przedzia\u0142u <X; Y>, gdzie X<Y."
+  - "Po\u017C\u0105danym rezultatem jest pe\u0142ne na\u0142adowanie trzech telefon\xF3w
+    kom\xF3rkowych przy u\u017Cyciu dw\xF3ch \u0142adowarek w jak najkr\xF3tszym
+    czasie.  Nale\u017Cy zauwa\u017Cy\u0107, \u017Ce je\u015Bli spr\xF3bujemy na\u0142adowa\u0107
+    wszystkie 3 telefony kom\xF3rkowe jednocze\u015Bnie przy u\u017Cyciu 2 \u0142adowarek,
+    czas \u0142adowania b\u0119dzie d\u0142u\u017Cszy ni\u017C 2 godziny dla ka\u017Cdego
+    telefonu. Dzieje si\u0119 tak dlatego, \u017Ce moc dostarczana przez \u0142adowarki
+    zostanie podzielona pomi\u0119dzy 3 telefony, wi\u0119c ka\u017Cdy telefon otrzyma
+    mniej ni\u017C pe\u0142n\u0105 moc \u0142adowania, kt\xF3rej potrzebuje.   Zamiast
+    tego mo\u017Cemy na\u0142adowa\u0107 2 telefony kom\xF3rkowe za pomoc\u0105 obu
+    \u0142adowarek jednocze\u015Bnie, a nast\u0119pnie na\u0142adowa\u0107 trzeci
+    telefon osobno, gdy jeden z pierwszych 2 telefon\xF3w jest w pe\u0142ni na\u0142adowany.
+    W ten spos\xF3b mo\u017Cemy mie\u0107 dwa telefony \u0142aduj\u0105ce si\u0119
+    z pe\u0142n\u0105 moc\u0105 \u0142adowania przez 2 godziny, co w pe\u0142ni je
+    na\u0142aduje. Nast\u0119pnie mo\u017Cemy u\u017Cy\u0107 jednej z \u0142adowarek
+    do \u0142adowania trzeciego telefonu przez 2 godziny, a\u017C zostanie on w pe\u0142ni
+    na\u0142adowany.  Ca\u0142kowity czas \u0142adowania wszystkich 3 telefon\xF3w
+    wyniesie w\xF3wczas 2 godziny dla dw\xF3ch pierwszych telefon\xF3w + 2 godziny
+    dla trzeciego telefonu = 4 godziny.  Powy\u017Csza metoda r\xF3wnie\u017C nie
+    jest najszybsza. Przedstawione rozwi\u0105zanie i wyja\u015Bnienie mo\u017Cemy
+    por\xF3wna\u0107 z innymi mo\u017Cliwymi odpowiedziami znalezionymi w wyniku
+    my\u015Blenia obliczeniowego. Pierwszym krokiem my\u015Blenia obliczeniowego
+    jest dekompozycja problemu, jeden z etap\xF3w my\u015Blenia obliczeniowego. Dekompozycja
+    problemu polega na rozbiciu z\u0142o\u017Conego problemu na mniejsze, \u0142atwiej
+    rozwi\u0105zywalne i mo\u017Cliwe do wt\xF3rnego przeorganizowania podproblemy,
+    kt\xF3re mo\u017Cna rozwi\u0105za\u0107 indywidualnie, a nast\u0119pnie po\u0142\u0105czy\u0107
+    w celu rozwi\u0105zania wi\u0119kszego problemu.   Og\xF3lny problem \u0142adowania
+    3 telefon\xF3w 2 \u0142adowarkani mo\u017Cemy zdekomponowa\u0107 na cztery prostsze
+    podproblemy: \u0142adowanie dw\xF3ch telefon\xF3w przez 2 godziny za pomoc\u0105
+    dw\xF3ch \u0142adowarek, \u0142adowanie jednego telefonu przez 2 godziny za pomoc\u0105
+    jednej \u0142adowarki, \u0142adowanie jednego telefonu przez 1 godzin\u0119 za
+    pomoc\u0105 jednej \u0142adowarki i prze\u0142\u0105czanie jednego telefonu z
+    jednej \u0142adowarki na drug\u0105.  Teraz, korzystaj\u0105c z tych podproblem\xF3w
+    i \u0142\u0105cz\u0105c wydr\u0119bnione warianty w nowy spos\xF3b, mo\u017Cemy
+    zobaczy\u0107, \u017Ce mo\u017Cemy zacz\u0105\u0107 od \u0142adowania pierwszego
+    telefonu przez 2 godziny pierwsz\u0105 z \u0142adowarek. W tym samym czasie mo\u017Cemy
+    rozpocz\u0105\u0107 \u0142adowanie drugiego telefonu drug\u0105 \u0142adowark\u0105,
+    ale od\u0142\u0105czy\u0107 go po 1 godzinie i pod\u0142\u0105czy\u0107 do drugiej
+    \u0142adowarki trzeci telefon na 2 godziny. Po ca\u0142kowitym na\u0142adowaniu
+    pierwszego telefonu za pomoc\u0105 pierwszej \u0142adowarki, mo\u017Cemy z kolei
+    pod\u0142\u0105czy\u0107 do tej \u0142adowarki drugi telefon na 1 godzin\u0119.
+    W ten spos\xF3b pe\u0142ne na\u0142adowanie wszystkich trzech telefon\xF3w przy
+    u\u017Cyciu dw\xF3ch \u0142adowarek zajmie \u0142\u0105cznie 3 godziny.  Jest
+    to najkr\xF3tszy mo\u017Cliwy czas, poniewa\u017C u\u017Cywamy dw\xF3ch \u0142adowarek
+    jednocze\u015Bnie i optymalizujemy czas \u0142adowania dla ka\u017Cdego telefonu.
+    Gdyby\u015Bmy mieli \u0142adowa\u0107 wszystkie trzy telefony przez 2 godziny
+    przy u\u017Cyciu jednej \u0142adowarki, pe\u0142ne na\u0142adowanie wszystkich
+    trzech telefon\xF3w zaj\u0119\u0142oby \u0142\u0105cznie 6 godzin. Dlatego rozwi\u0105zanie
+    polegaj\u0105ce na \u0142adowaniu jednego telefonu przez 1 godzin\u0119, a nast\u0119pnie
+    prze\u0142\u0105czeniu go na drug\u0105 \u0142adowark\u0119 podczas \u0142adowania
+    pozosta\u0142ych dw\xF3ch telefon\xF3w przez 2 godziny jest najbardziej efektywnym
+    podej\u015Bciem, co jest korzy\u015Bci\u0105 z zastosowania my\u015Blenia komputacyjnego."
+  - "B\u0142\u0105d w programie polega na tym, \u017Ce narysuje on cztery razy boki
+    kwadratu, ale jako jedn\u0105 prost\u0105 lini\u0119 i nie uzupe\u0142ni kwadratu
+    poprzez po\u0142\u0105czenie ostatniego boku z pierwszym. Zamiast tego program
+    zako\u0144czy si\u0119 obr\xF3ceniem pi\xF3ra o 90 stopni w prawo po narysowaniu
+    czwartego boku, ale bez przesuwania pi\xF3ra do punktu pocz\u0105tkowego kwadratu.
+    Dlatego ostateczny rysunek b\u0119dzie mia\u0142 kszta\u0142t litery \"I\" zamiast
+    kwadratu.  B\u0142\u0105d wynika z faktu, \u017Ce polecenie obrotu o 90 stopni
+    w prawo znajduje si\u0119 poza p\u0119tl\u0105.   Aby poprawi\u0107 program,
+    polecenie obrotu o 90 stopni zgodnie z ruchem wskaz\xF3wek zegara powinno znale\u017A\u0107
+    si\u0119 wewn\u0105trz p\u0119tli, co spowoduje, \u017Ce pi\xF3ro znajdzie si\u0119
+    w punkcie pocz\u0105tkowym kwadratu. Konkretnie, program powinien zosta\u0107
+    zmodyfikowany tak, aby ustawi\u0107 blok w nawiasie jako [przesu\u0144 100px,
+    obr\xF3\u0107 w prawo o 90 stopni] przed ponownym powt\xF3rzeniem bloku. W ten
+    spos\xF3b po narysowaniu ka\u017Cdego boku kwadratu pi\xF3ro obr\xF3ci si\u0119
+    w prawo i w ko\u0144cu przejdzie do punktu pocz\u0105tkowego kwadratu, a rysunek
+    b\u0119dzie kompletnym kwadratem. Poprawiony program mia\u0142by tak\u0105 posta\u0107: 
+    powt\xF3rz 4 razy: [przesu\u0144 100px, obr\xF3\u0107 w prawo o 90 stopni]  Korekta
+    b\u0142\u0119du programu jest przyk\u0142adem zastosowania zasad my\u015Blenia
+    komputacyjnego do zadania programistycznego. W szczeg\xF3lno\u015Bci korekta
+    polega na zastosowaniu my\u015Blenia algorytmicznego i debugowania w celu zidentyfikowania
+    i rozwi\u0105zania b\u0142\u0119du logicznego w programie.  Proces my\u015Blenia
+    algorytmicznego polega na rozbiciu programu na sekwencj\u0119 krok\xF3w i przeanalizowaniu,
+    jakie rezultaty daj\u0105 te kroki. W ten spos\xF3b staje si\u0119 jasne, \u017Ce
+    oryginalny program narysuje cztery boki kwadratu jako pojedyncz\u0105, prost\u0105
+    lini\u0119 i nie doko\u0144czy kwadratu poprzez po\u0142\u0105czenie ostatniego
+    boku z pierwszym.  Proces debugowania polega na zidentyfikowaniu b\u0142\u0119du
+    w logice programu, a nast\u0119pnie zmodyfikowaniu programu w celu poprawienia
+    b\u0142\u0119du. W tym przypadku b\u0142\u0105d zosta\u0142 zidentyfikowany jako
+    nieumieszczenie wewn\u0105trz p\u0119tli polecenia obrotu w prawo o 90 stopni,
+    tak, aby pi\xF3ro wr\xF3ci\u0142o do punktu pocz\u0105tkowego kwadratu. Poprawiony
+    program zosta\u0142 zmodyfikowany poprzez przeniesienie polecenia obrotu w prawo
+    o 90 stopni do wewn\u0105trz p\u0119tli w celu uko\u0144czenia kwadratu.  Og\xF3lnie
+    rzecz bior\u0105c, ta korekta pokazuje znaczenie my\u015Blenia algorytmicznego
+    i debugowania w zadaniach programistycznych. Stosuj\u0105c te zasady my\u015Blenia
+    komputacyjnego, programi\u015Bci mog\u0105 zidentyfikowa\u0107 i poprawi\u0107
+    b\u0142\u0119dy w swoich programach, aby uzyska\u0107 po\u017C\u0105dane rezultaty
+    wyj\u015Bciowe."
+  - "Aby znale\u017A\u0107 najmniejsz\u0105 liczb\u0119 ruch\xF3w dla skoczka, kt\xF3ry
+    ma dosta\u0107 si\u0119 do jednego z rog\xF3w szachownicy 5x5 ze \u015Brodkowego
+    pola, mo\u017Cemy u\u017Cy\u0107 algorytmu wyszukiwania, takiego jak breadth-first
+    search lub algorytm Dijkstry. Poniewa\u017C jednak przestrze\u0144 poszukiwa\u0144
+    jest stosunkowo niewielka, mo\u017Cemy r\xF3wnie\u017C rozwi\u0105za\u0107 ten
+    problem r\u0119cznie, analizuj\u0105c mo\u017Cliwe ruchy.  Po pierwsze, mo\u017Cemy
+    zauwa\u017Cy\u0107, \u017Ce istniej\u0105 tylko cztery mo\u017Cliwe ruchy, kt\xF3re
+    skoczek mo\u017Ce wykona\u0107 z centralnego pola:  1. Przesun\u0105\u0107 si\u0119
+    o 2 pola w d\xF3\u0142 i o 1 pole w prawo 2. Przesun\u0105\u0107 si\u0119 o 2
+    pola w d\xF3\u0142 i o 1 pole w lewo 3. Przesun\u0105\u0107 si\u0119 2 pola w
+    g\xF3r\u0119 i 1 pole w prawo 4. Przesun\u0105\u0107 si\u0119 2 pola w g\xF3r\u0119
+    i 1 pole w lewo  Wykonuj\u0105c kt\xF3rykolwiek z tych czterech ruch\xF3w, skoczek
+    znajdzie si\u0119 na tej samej przek\u0105tnej, co jeden z naro\u017Cnik\xF3w
+    planszy. W zwi\u0105zku z tym minimalna liczba ruch\xF3w wymagana do osi\u0105gni\u0119cia
+    przez skoczka jednego z naro\u017Cnik\xF3w wynosi trzy. Dzieje si\u0119 tak,
+    poniewa\u017C skoczek mo\u017Ce przesun\u0105\u0107 si\u0119 na pole na przek\u0105tnej,
+    a nast\u0119pnie wykona\u0107 jeszcze jeden ruch, aby dotrze\u0107 do naro\u017Cnika. 
+    Na przyk\u0142ad za\u0142\xF3\u017Cmy, \u017Ce skoczek zaczyna na \u015Brodkowym
+    polu i chce dotrze\u0107 do prawego g\xF3rnego pola. Optymaln\u0105 sekwencj\u0105
+    ruch\xF3w by\u0142oby:  1. Przesun\u0105\u0107 si\u0119 o 2 pola w d\xF3\u0142
+    i o 1 pole w prawo. 2. Przesun\u0105\u0107 si\u0119 o 2 pola w lewo i 1 pole
+    w g\xF3r\u0119. 3. Przesun\u0105\u0107 si\u0119 o 2 pola w g\xF3r\u0119 i 1 pole
+    w prawo. 4. Przesun\u0105\u0107 si\u0119 o 2 pola w prawo i 1 pole w g\xF3r\u0119. 
+    W sumie ta sekwencja ruch\xF3w doprowadza skoczka do prawego g\xF3rnego rogu
+    planszy w zaledwie czterech ruchach, co jest minimaln\u0105 wymagan\u0105 liczb\u0105
+    ruch\xF3w.     Z punktu widzenia my\u015Blenia obliczeniowego, rozwi\u0105zanie
+    problemu znalezienia najmniejszej liczby ruch\xF3w dla skoczka, aby dosta\u0107
+    si\u0119 do jednego z rog\xF3w szachownicy 5x5, zaczynaj\u0105c od centralnego
+    kwadratu, mo\u017Cna rozbi\u0107 na seri\u0119 krok\xF3w:  1. Zdefiniowanie problemu:
+    Problemem jest znalezienie najkr\xF3tszej drogi, jak\u0105 mo\u017Ce przeby\u0107
+    rycerz, aby dotrze\u0107 do jednego z rog\xF3w szachownicy 5x5 startuj\u0105c
+    z centralnego kwadratu, bior\u0105c pod uwag\u0119, \u017Ce rycerz musi porusza\u0107
+    si\u0119 w kszta\u0142cie litery L.  2. Przeanalizuj problem: Pierwszym krokiem
+    w analizie problemu jest zrozumienie ogranicze\u0144. W tym przypadku rycerz
+    musi porusza\u0107 si\u0119 w kszta\u0142cie litery L, co oznacza, \u017Ce mo\u017Ce
+    poruszy\u0107 si\u0119 o dwa kwadraty w jednym kierunku, a nast\u0119pnie o jeden
+    kwadrat w kierunku prostopad\u0142ym. Szachownica jest siatk\u0105 5x5, co oznacza,
+    \u017Ce jest na niej 25 kwadrat\xF3w. Pozycj\u0105 startow\u0105 jest centralny
+    kwadrat, kt\xF3ry znajduje si\u0119 na przeci\u0119ciu trzeciego rz\u0119du i
+    trzeciej kolumny.  3. Zaprojektuj rozwi\u0105zanie: Aby zaprojektowa\u0107 rozwi\u0105zanie,
+    mo\u017Cemy u\u017Cy\u0107 algorytmu przeszukiwania, aby zbada\u0107 wszystkie
+    mo\u017Cliwe \u015Bcie\u017Cki, kt\xF3re mo\u017Ce przeby\u0107 rycerz, aby dotrze\u0107
+    do jednego z rog\xF3w szachownicy. Powszechnie stosowany algorytm wyszukiwania
+    dla problem\xF3w takich jak ten nazywa si\u0119 breadth-first search (BFS). BFS
+    zaczyna si\u0119 od pozycji startowej i bada wszystkie mo\u017Cliwe ruchy z tej
+    pozycji. Nast\u0119pnie przechodzi do nast\u0119pnego poziomu drzewa wyszukiwania
+    i bada wszystkie mo\u017Cliwe ruchy z tych pozycji. Proces ten trwa do momentu
+    znalezienia rozwi\u0105zania.  4. Implementacja rozwi\u0105zania: Implementacja
+    rozwi\u0105zania polega na napisaniu kodu wykonuj\u0105cego wyszukiwanie BFS
+    na szachownicy. Algorytm powinien \u015Bledzi\u0107 dotychczas znalezione najkr\xF3tsze
+    \u015Bcie\u017Cki i zaprzesta\u0107 przeszukiwania po znalezieniu drogi do jednego
+    z naro\u017Cnik\xF3w.  5. Testowanie rozwi\u0105zania: Aby przetestowa\u0107
+    rozwi\u0105zanie, mo\u017Cemy uruchomi\u0107 kod na r\xF3\u017Cnych przypadkach
+    testowych, takich jak start z r\xF3\u017Cnych pozycji na szachownicy lub zmiana
+    rozmiaru szachownicy. Powinni\u015Bmy r\xF3wnie\u017C przetestowa\u0107 rozwi\u0105zanie
+    na przypadkach brzegowych, takich jak sytuacja, gdy pozycja startowa znajduje
+    si\u0119 ju\u017C w rogu szachownicy.  Z tej perspektywy wida\u0107, \u017Ce
+    minimalna liczba ruch\xF3w wymaganych do tego, aby skoczek dotar\u0142 do jednego
+    z naro\u017Cnik\xF3w szachownicy 5x5, zaczynaj\u0105c od centralnego kwadratu,
+    wynosi 4. Mo\u017Cna to udowodni\u0107, analizuj\u0105c wszystkie mo\u017Cliwe
+    ruchy, jakie mo\u017Ce wykona\u0107 skoczek i znajduj\u0105c najkr\xF3tsz\u0105
+    \u015Bcie\u017Ck\u0119 do naro\u017Cnika."
+  - "Widzenie stereoskopowe to zdolno\u015B\u0107 naszych oczu do ogl\u0105dania
+    tego samego obiektu z nieco r\xF3\u017Cnych perspektyw, ze wzgl\u0119du na ich
+    nieco inne pozycje na naszej twarzy. Nasz m\xF3zg \u0142\u0105czy nast\u0119pnie
+    te dwa obrazy, aby stworzy\u0107 tr\xF3jwymiarowe postrzeganie obiektu.   Obraz
+    stereograficzny wykorzystuje to naturalne zjawisko, prezentuj\u0105c dwa nieco
+    odmienne obrazy obok siebie. Przy prawid\u0142owym ogl\u0105daniu nasz m\xF3zg
+    \u0142\u0105czy te dwa obrazy, tworz\u0105c iluzj\u0119 obrazu tr\xF3jwymiarowego. 
+    Kroki wymienione w pytaniu s\u0105 metod\u0105 treningu dla naszych oczu i m\xF3zgu,
+    aby zobaczy\u0107 obraz 3D w stereogramie.   Z perspektywy my\u015Blenia komputacyjnego,
+    mo\u017Cemy my\u015Ble\u0107 o tych krokach jako o procesie szkolenia naszego
+    systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego. Proces
+    ten obejmuje seri\u0119 dzia\u0142a\u0144, kt\xF3re pozwalaj\u0105 nam przezwyci\u0119\u017Cy\u0107
+    naturalne uprzedzenia poznawcze i dostosowa\u0107 nasz system percepcji wzrokowej
+    do tworzenia iluzji obrazu 3D.  Podej\u015Bcie oparte na my\u015Bleniu komputacyjnym
+    polega na rozbiciu problemu na seri\u0119 mniejszych krok\xF3w i algorytm\xF3w,
+    kt\xF3re mo\u017Cna wykona\u0107 w logicznej kolejno\u015Bci. W przypadku ogl\u0105dania
+    stereogramu, kroki wymienione w pytaniu pomagaj\u0105 nam trenowa\u0107 nasz
+    system percepcji wzrokowej.  Pierwszy krok, rozlu\u017Anienie oczu, mo\u017Ce
+    by\u0107 postrzegany jako dekompozycja, przezwyci\u0119\u017Canie naturalnej
+    tendencji do skupiania si\u0119 na jednym punkcie. Rozlu\u017Aniaj\u0105c oczy,
+    jeste\u015Bmy w stanie zobaczy\u0107 obrazy w stereogramie, kt\xF3rych wcze\u015Bniej
+    nie widzieli\u015Bmy, nie skupiaj\u0105c si\u0119 na \u017Cadnym z nich.  Drugi
+    krok, patrzenie poza obraz, mo\u017Ce by\u0107 postrzegany jako przezwyci\u0119\u017Cania
+    naturalnej poznawczej tendencji do skupiania si\u0119 na obiektach w naszym polu
+    widzenia. Patrz\u0105c poza obraz, jeste\u015Bmy w stanie obj\u0105\u0107 oba
+    obrazy w stereogramie, nie skupiaj\u0105c si\u0119 na \u017Cadnym z nich. To
+    w\u0142a\u015Bnie w chwili patrzenia poza obraz dostrzegamy zwykle obraz ukryty
+    w stereogramie, co mo\u017Cna okre\u015Bli\u0107 mianem rozpoznania struktury.  
+    Trzeci krok, oddalenie stereogramu/g\u0142owy, mo\u017Ce by\u0107 postrzegany
+    jako dostosowanie naszego systemu percepcji wzrokowej do dw\xF3ch obraz\xF3w
+    w stereogramie. Oddalaj\u0105c stereogram/g\u0142ow\u0119, jeste\u015Bmy w stanie
+    dostosowa\u0107 nasz\u0105 perspektyw\u0119 wzrokow\u0105 tak, aby dwa obrazy
+    by\u0142y prawid\u0142owo wyr\xF3wnane. Widz\u0105c nowo rozpoznany obraz przestrzenny,
+    dostrzegamy jego tr\xF3jwymiarowe t\u0142o i rozumiemy og\xF3ln\u0105 zasad\u0119
+    i procedur\u0119 widzenia stereoskopowego.   Czwarty krok, przybli\u017Canie
+    i oddalanie si\u0119 od stereogramu, mo\u017Ce by\u0107 postrzegany jako dopracowanie
+    algorytmu wyr\xF3wnania dw\xF3ch obraz\xF3w dla uzyskania percepcji g\u0142\u0119bi.
+    Poprzez przybli\u017Canie lub oddalanie si\u0119 od stereogramu jeste\u015Bmy
+    w stanie dostosowa\u0107 odleg\u0142o\u015B\u0107 pomi\u0119dzy naszymi oczami
+    a obrazem, co wp\u0142ywa na postrzegan\u0105 g\u0142\u0119bi\u0119.  Og\xF3lnie
+    rzecz bior\u0105c, kroki wymienione w pytaniu mog\u0105 by\u0107 uznane za algorytm
+    szkolenia naszego systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego.
+    Wykonuj\u0105c te kroki, jeste\u015Bmy w stanie przezwyci\u0119\u017Cy\u0107
+    naturalne uprzedzenia poznawcze i dostosowa\u0107 nasz system percepcji wzrokowej
+    do tworzenia iluzji obrazu 3D."
+  - "Aby doj\u015B\u0107 do rozwi\u0105zania, musimy systematycznie post\u0119powa\u0107
+    zgodnie z dost\u0119pnymi informacjami. Proces ten musi by\u0107 iteracyjny.
+    Jednym ze sposob\xF3w jego rozwi\u0105zania jest podzielenie problemu na cz\u0119\u015Bci
+    i najpierw pr\xF3ba odkrycia cyfr, a nast\u0119pnie ich w\u0142a\u015Bciwej kolejno\u015Bci. 
+    Krok 1: Dekompozycja Aby rozwi\u0105za\u0107 problem, musimy rozbi\u0107 go na
+    mniejsze cz\u0119\u015Bci. Musimy przeanalizowa\u0107 ka\u017Cde odgadni\u0119cie
+    i odpowied\u017A komputera, aby zaw\u0119zi\u0107 mo\u017Cliwe warto\u015Bci
+    dla ka\u017Cdej cyfry w ha\u015Ble.  Krok 2: Rozpoznawanie wzorc\xF3w Musimy
+    szuka\u0107 wzorc\xF3w w odgadnieciach i odpowiedziach. Na przyk\u0142ad w pierwszym
+    przypuszczalnym odgadni\u0119ciu jedna cyfra jest na w\u0142a\u015Bciwym miejscu,
+    co oznacza, \u017Ce odpowiadaj\u0105ca cyfra w ha\u015Ble musi by\u0107 jedn\u0105
+    z przypuszczalnych odgadywanych cyfr. Wiemy te\u017C, \u017Ce w ha\u015Ble s\u0105
+    4 niepowtarzaj\u0105ce si\u0119 cyfry.   Krok 3: Abstrakcja Musimy zastosowa\u0107
+    abstrakcj\u0119 dla zebranych informacji i \u015Bledzi\u0107 mo\u017Cliwe warto\u015Bci
+    dla ka\u017Cdej cyfry w ha\u015Ble na podstawie udzielonych odpowiedzi.  Wybstrahujmy
+    pomys\u0142 rozwi\u0105zania. Og\xF3lne kroki abstrakcji mo\u017Cna zapisa\u0107
+    nast\u0119puj\u0105co:      Problem mo\u017Cna uog\xF3lni\u0107 jako gr\u0119
+    w zgadywanie z ograniczon\u0105 informacj\u0105 zwrotn\u0105.     Celem jest
+    wykorzystanie informacji zwrotnej do wyeliminowania niepoprawnych mo\u017Cliwo\u015Bci
+    i stopniowe zaw\u0119\u017Canie przestrzeni poszukiwa\u0144.     Problem polega
+    na znalezieniu kombinacji czterech r\xF3\u017Cnych cyfr, kt\xF3re spe\u0142niaj\u0105
+    okre\u015Blone warunki.     Musimy utworzy\u0107 tabel\u0119, aby \u015Bledzi\u0107
+    mo\u017Cliwe warto\u015Bci dla ka\u017Cdej cyfry w ha\u015Ble na podstawie udzielonych
+    odpowiedzi przez komputer.     Ostatnim krokiem jest iteracja: musimy por\xF3wnywa\u0107
+    informacje w ka\u017Cdym wierszu, szukaj\u0105c kombinacji czterech r\xF3\u017Cnych
+    cyfr, kt\xF3re spe\u0142niaj\u0105 okre\u015Blone warunki.  Krok 4: Projektowanie
+    algorytmu Na podstawie informacji w tabeli mo\u017Cemy zaw\u0119zi\u0107 mo\u017Cliwe
+    warto\u015Bci dla ka\u017Cdej cyfry w ha\u015Ble. Mo\u017Cemy zacz\u0105\u0107
+    od patrzenia na cyfry, kt\xF3re pojawiaj\u0105 si\u0119 w kilku odgadni\u0119ciach
+    i pr\xF3bowa\u0107 wydedukowa\u0107 ich pozycj\u0119 w ha\u015Ble w kilku iteracjach. 
+    Szczeg\xF3\u0142owe kroki dzia\u0142ania algorytmu to:  Z pierwszego rz\u0119du
+    (zgadywanie Isli plus odpowied\u017A komputera) wiemy, \u017Ce tylko jedna z
+    podanych cyfr jest cz\u0119\u015Bci\u0105 has\u0142a. Drugi i trzeci rz\u0105d
+    dostarczaj\u0105 podobnych informacji. Nast\u0119pnie czwarty rz\u0105d pomaga
+    wydoby\u0107 wi\u0119cej informacji z rz\u0119d\xF3w od pierwszego do trzeciego:
+    Mo\u017Cemy odrzuci\u0107 5 z pierwszego odgadni\u0119cia, 6 z drugiego odgadni\u0119cia
+    oraz 1 i 5 z trzeciego odgadni\u0119cia. Z tego ostatniego kroku wiemy \u017Ce
+    4 i 8 s\u0105 cz\u0119\u015Bciami has\u0142a. W takim razie poprawn\u0105 cyfr\u0105
+    w pi\u0105tym odgadni\u0119ciu jest 8 i na tej podstawie mo\u017Cemy mo\u017Cemy
+    wywnioskowa\u0107 z odpowiedzi komputera z rz\u0119du 5, \u017Ce 1, 2 i 5 nie
+    s\u0105 cz\u0119\u015Bciami has\u0142a. Je\u015Bli wr\xF3cimy do rz\u0119d\xF3w
+    pierwszego i drugiego, to mo\u017Cliwe poprawne liczby to 7 lub 0 w rz\u0119dzie
+    pierwszym oraz 3 lub 0 w rz\u0119dzie drugim. Mamy wi\u0119c 5 mo\u017Cliwych
+    liczb 0,3,4,7 i 8. Je\u015Bli 0 by\u0142o w ha\u015Ble, wtedy zar\xF3wno 7 i
+    3 musia\u0142yby by\u0107 odrzucone, bior\u0105c pod uwag\u0119, \u017Ce tylko
+    jedna liczba jest poprawna dla rz\u0119d\xF3w pierwszego i drugiego. Pozostawi\u0142oby
+    to tylko 0,4,8 jako mo\u017Cliwe liczby w ha\u015Ble. Bior\u0105c pod uwag\u0119,
+    \u017Ce has\u0142o musi zawiera\u0107 cztery unikalne liczby, 0 nie mo\u017Ce
+    by\u0107 poprawne. Dlatego pozosta\u0142e cyfry, kt\xF3re uzupe\u0142niaj\u0105
+    kod, to 3 i 7. Teraz rozpatrujemy informacj\u0119 o pozycji lub kolejno\u015Bci.
+    Z rz\u0119d\xF3w trzeciego i pi\u0105tego wiemy, \u017Ce. 8 mo\u017Ce by\u0107
+    na pozycji 2 lub 4:  ?-8-?-8 oraz \u017Ce 4 mo\u017Ce by\u0107 na wszystkich
+    pozycjach opr\xF3cz 2: 4-?-4-4 Z rz\u0119du pierwszego wiemy, \u017Ce 7 musi
+    by\u0107 na pozycji 2; wtedy 8 musi by\u0107 na pozycji 4. Z rz\u0119du drugiego
+    wiemy, \u017Ce 3 nie mo\u017Ce by\u0107 na pozycji 3, wi\u0119c musi by\u0107
+    na pozycji 1. St\u0105d 4 jest na pozycji 3. To daje jedyn\u0105 mo\u017Cliw\u0105
+    opcj\u0119 dla has\u0142a, kt\xF3r\u0105 jest: 3-7-4-8"
+  Op1:
+  - 12
+  - Wiek
+  - 2
+  - N, E, E, E
+  - A
+  - "n = 0 dop\xF3ki w talii s\u0105 karty: odwr\xF3ci\u0107 kart\u0119 je\u015Bli
+    karta jest sercem: n = n + 1 powt\xF3rz n razy: odrzu\u0107 kart\u0119"
+  - "A dodajesz wod\u0119, B dodajesz cukier,  C dodajesz sok z cytryny lub oliw\u0119
+    z oliwek,  D dodajesz mi\xF3d lub cukier"
+  - "Wypisz kilka umiej\u0119tno\u015Bci, kt\xF3re pomagaj\u0105 ludziom kontrolowa\u0107
+    ich l\u0119k np. techniki tj. \"liczenie do 10 powoli\" lub \"kr\xF3tki wdech
+    i wydech\""
+  - "1) Poszukaj pomys\u0142\xF3w na str\xF3j w internecie i znajd\u017A taki, kt\xF3ry
+    ci si\u0119 podoba. 2) Najpier we\u017A pod uwag\u0119 ubrania, kt\xF3re masz
+    w swojej szafie. Czy b\u0119dziesz w stanie odwzorowa\u0107 ten str\xF3j z element\xF3w,
+    kt\xF3re ju\u017C masz?  3) Zdecyduj czy musisz kupi\u0107 co\u015B nowego i
+    znajd\u017C najlepsz\u0105 rzecz. 4) Po zakupieniu nowego przedmiotu/przedmiot\xF3w
+    sparuj je z istniej\u0105cymi ubraniami."
+  - X/2 * (X+1)
+  - 3
+  - "p\u0119tla \"repeat\" powinna powt\xF3rzy\u0107 si\u0119 2 razy"
+  - 4
+  - "rozlu\u017Ani\u0107 oczy; spojrze\u0107 poza stereogram; podnie\u015B\u0107
+    stereogram/g\u0142ow\u0119; zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego"
+  - 5182
+  Op2:
+  - 24
+  - "Zaj\u0119cia"
+  - 3
+  - N, E, E, S, E
+  - B
+  - "gdy w talii znajduj\u0105 si\u0119 karty: odwr\xF3\u0107 kart\u0119 gdy bie\u017C\u0105c\u0105
+    kart\u0105 jest serce: odrzu\u0107 kart\u0119"
+  - "A dodajesz cukier, B dodajesz cukier,  C dodajesz sok z cytryny lub oliw\u0119
+    z oliwek,  D dodajesz mi\xF3d lub cukier"
+  - "Co sprawia, \u017Ce ludzie czuj\u0105 niepok\xF3j? Napisz, co mo\u017Ce by\u0107
+    wyzwalaczem l\u0119ku. Mo\u017Ce to by\u0107 na przyk\u0142ad: \"Poproszono mnie
+    o przem\xF3wienie przed t\u0142umem\". "
+  - Nie idziesz na wydarzenie.
+  - X*2 / (X+1)
+  - 4
+  - "blok \"obr\xF3\u0107 w prawo\" powinien znajdowa\u0107 si\u0119 wewn\u0105trz
+    p\u0119tli, za blokiem \"przesu\u0144\"."
+  - 3
+  - "podnie\u015B\u0107 stereogram/g\u0142ow\u0119; spojrze\u0107 poza stereogram;
+    zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego; rozlu\u017Ani\u0107 oczy"
+  - 3210
+  Op3:
+  - 18
+  - "Numery telefon\xF3w opiekunk\xF3w"
+  - 4
+  - N, N, S, E, N
+  - D
+  - "n = 0 dop\xF3ki w talii s\u0105 karty: odwr\xF3ci\u0107 kart\u0119 powt\xF3rz
+    n razy: odrzu\u0107 kart\u0119 je\u015Bli karta jest sercem: n = n + 1"
+  - "A dodajesz wod\u0119, B dodajesz cukier,  C dodajesz s\xF3l,  D dodajesz mi\xF3d
+    lub cukier"
+  - "Tracker to urz\u0105dzenie, kt\xF3re \u015Bledzi i rejestruje ruchy kogo\u015B
+    lub czego\u015B"
+  - "Wy\u015Blij wiadomo\u015B\u0107 e-mail do organizatora wydarzenia z pytaniem,
+    o kt\xF3rej godzinie wydarzenie si\u0119 rozpocznie. "
+  - (X+1) / X*2
+  - 6
+  - "blok \"move\" powinien znajdowa\u0107 si\u0119 poza p\u0119tl\u0105"
+  - 5
+  - "przybli\u017Ca\u0107 i oddala\u0107 g\u0142ow\u0119 od stereogramu; rozlu\u017Ani\u0107
+    oczy; podnie\u015B\u0107 stereogram/g\u0142ow\u0119; patrze\u0107 poza niego"
+  - 2835
+  Op4:
+  - 6
+  - Kolor oczu
+  - 5
+  - N, E, E, S, W
+  - E
+  - "n = 0 dop\xF3ki w talii s\u0105 karty: odwr\xF3\u0107 kart\u0119 gdy bie\u017C\u0105c\u0105
+    kart\u0105 jest serce: n = n + 1 odrzu\u0107 kart\u0119 odwr\xF3\u0107 kart\u0119"
+  - "A dodajesz wod\u0119, B dodajesz cukier,  C dodajesz s\xF3l D dodajesz mi\xF3d
+    lub cukier"
+  - "Jak dobrze zadzia\u0142a\u0142y umiej\u0119tno\u015Bci radzenia sobie, pomagaj\u0105c
+    Ci si\u0119 uspokoi\u0107? Oce\u0144 od 1 (niewiele) do 5 (bardzo du\u017Co). "
+  - "1) Szukaj pomys\u0142\xF3w na str\xF3j w internecie i znajd\u017A taki, kt\xF3ry
+    mo\u017Cesz odtworzy\u0107 za pomoc\u0105 przedmiot\xF3w w swojej szafie, nawet
+    je\u015Bli nie s\u0105 one fantazyjne. 2) Upewnij si\u0119, \u017Ce wszystkie
+    twoje rzeczy s\u0105 czyste i nie uszkodzone 3) Id\u017A na imprez\u0119 zak\u0142adaj\u0105c
+    ubrania, kt\xF3re masz"
+  - 2X * X
+  - 2
+  - "blok \"obr\xF3\u0107 w prawo\" powinien znajdowa\u0107 si\u0119 wewn\u0105trz
+    p\u0119tli, przed blokiem \"przenie\u015B\"."
+  - "niemo\u017Cliwe - niesko\u0144czenie wiele"
+  - "rozlu\u017Ani\u0107 oczy; podnie\u015B\u0107 stereogram/g\u0142ow\u0119; spojrze\u0107
+    poza niego; zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego"
+  - 3748
+  answersIndex: 020000000300000001000000020000000100000000000000000000000200000000000000000000000000000001000000000000000000000003000000

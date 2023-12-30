@@ -1,0 +1,582 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Addiction MCQS_Polish
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - "My\u015Blisz o podr\xF3\u017Cy do innego kraju i chcesz zarezerwowa\u0107 najlepsz\u0105
+    opcj\u0119 podr\xF3\u017Cy pod wzgl\u0119dem bud\u017Cetu i czasu trwania podr\xF3\u017Cy.
+    Aby to zrobi\u0107, powiniene\u015B wykona\u0107 nast\u0119puj\u0105ce kroki
+    w podanej kolejno\u015Bci:"
+  - "Mike zamieszcza na Facebooku og\u0142oszenie internetowe promuj\u0105ce nadchodz\u0105c\u0105
+    tras\u0119 koncertow\u0105 swojego zespo\u0142u.  Kt\xF3ra informacja jest najbardziej
+    istotna?"
+  - "Co powiniene\u015B zrobi\u0107, je\u015Bli chcesz zosta\u0107 pilotem?"
+  - " Dlaczego musimy my\u015Ble\u0107 obliczeniowo?"
+  - " \u015Aciana w kszta\u0142cie trapezu sk\u0142ada si\u0119 z 15 rz\u0119d\xF3w
+    cegie\u0142. W pierwszym rz\u0119dzie jest 5 cegie\u0142, w nast\u0119pnym o
+    4 ceg\u0142y wi\u0119cej, w kolejnym znowu o 4 ceg\u0142y wi\u0119cej itd. Jaka
+    jest liczba cegie\u0142 w 15 rz\u0119dzie?"
+  - " 90 uczestnik\xF3w pewnego obozu letniego podzielono na 3 dru\u017Cyny. Dru\u017Cyna
+    A sk\u0142ada si\u0119    z 35 uczestnik\xF3w, dru\u017Cyna B ma 15 uczestnik\xF3w
+    wi\u0119cej ni\u017C dru\u017Cyna C. Ile uczni\xF3w maj\u0105 odpowiednio dru\u017Cyny
+    B i C?"
+  - " Kt\xF3ry z poni\u017Cszych wyraz\xF3w pasuje najmniej do pozosta\u0142ych?
+    wrzesie\u0144, pa\u017Adziernik, listopad, grudzie\u0144"
+  - "Ile wynosi x? X-25 = X\u02C62 + 5X - 24"
+  - "Jaka jest nast\u0119pna litera?  A    E    I     M ?"
+  - "Upro\u015B\u0107 r\xF3wnanie:  S = 6x(x + 3y -1) - 6x\u02C62 - 8xy"
+  - "Sara pisze stron\u0119 internetow\u0105 dla pewnej marki odzie\u017Cowej. Kt\xF3ry
+    proces jest prawid\u0142owy dla akcji zakupowej klienta?"
+  - "Co jest nast\u0119pne w kolejno\u015Bci?"
+  - "D\u017Awig roz\u0142adowuje \u0142adunek ze statku. Czynno\u015Bci, kt\xF3re
+    powinien wykona\u0107 operator d\u017Awigu s\u0105 nast\u0119puj\u0105ce: (PU)
+    podnie\u015B\u0107 kontener (SC) je\u015Bli na statku s\u0105 jeszcze kontenery
+    (MF) przesuni\u0119cie d\u017Awigu na woln\u0105 przestrze\u0144 (LP) zap\u0119tli\u0107
+    si\u0119, aby sprawdzi\u0107 ponownie (MC) przesun\u0105\u0107 d\u017Awig nad
+    kontener (PD) od\u0142\xF3\u017Cy\u0107 kontener Kt\xF3re z tych dzia\u0142a\u0144
+    spowoduje roz\u0142adunek statku?"
+  - "Jest 10 przedmiot\xF3w, kt\xF3rych poszczeg\xF3lna waga wynosi: 2, 10, 8, 6,
+    9, 5, 3, 3, 7, 4 kg.  Jaka jest maksymalna liczba przedmiot\xF3w, kt\xF3re mo\u017Cemy
+    w\u0142o\u017Cy\u0107 do worka o maksymalnej wadze 30 kg?"
+  - "Lunch. Znajd\u017A najbardziej efektywny spos\xF3b zarz\u0105dzania pieni\u0119dzmi."
+  - "Op\u0142ata za przejazd poci\u0105giem. Mo\u017Cesz kupi\u0107 kart\u0119 rabatow\u0105,
+    aby korzysta\u0107 ze zni\u017Cek na targach kolejowych. Rodzaje kart rabatowych
+    dziel\u0105 si\u0119 na: - Przedzia\u0142 wiekowy (poni\u017Cej 30, 30 do 60,
+    powy\u017Cej 60 lat) - Status podr\xF3\u017Cy (sam, dwie osoby, grupa) - Podr\xF3\u017Ce
+    na du\u017Ce odleg\u0142o\u015Bci (poza Tw\xF3j region) - Kup targi rabatowe
+    na d\u0142ugi lub kr\xF3tki okres (promocja na rok lub 3 lata) Znajd\u017A najskuteczniejszy
+    spos\xF3b na bud\u017Cetowanie pieni\u0119dzy."
+  - "Pieczesz nast\u0119puj\u0105ce produkty: A - Ciasteczka i ciasta B - Beza, lukier,
+    bita \u015Bmietana C - Chleb i s\u0142odkie bu\u0142ki   Kt\xF3rego narz\u0119dzia
+    kuchennego najlepiej u\u017Cy\u0107? Wskaz\xF3wki: Narz\u0119dziem tym mo\u017Ce
+    by\u0107 np. mikser \u0142opatkowy, trzepaczka, hak do ciasta, \u0142y\u017Cka. 
+    Kt\xF3ra z poni\u017Cszych odpowiedzi jest prawid\u0142owa? "
+  - "Tworzysz gr\u0119 planszow\u0105. Przeczytaj poni\u017Csze pytania i okre\u015Bl,
+    kt\xF3re z nich nie jest istotne przy tworzeniu gry planszowej."
+  - "Wchodzisz do sklepu i na pod\u0142odze le\u017Cy troch\u0119 got\xF3wki. Co
+    powiniene\u015B zrobi\u0107 zgodnie z og\xF3lnie przyj\u0119tymi normami moralnymi? 
+    Wybierz najodpowiedniejsz\u0105 moralnie odpowied\u017A w kontek\u015Bcie opisanych
+    scenariuszy."
+  - "Chcesz zosta\u0107 zatrudniony na konkretnym stanowisku. Przeczytaj poni\u017Csze
+    zdania i wybierz porad\u0119, kt\xF3ra by Ci nie pomog\u0142a."
+  - "Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra zawiera TYLKO
+    umiej\u0119tno\u015Bci mi\u0119kkie. Umiej\u0119tno\u015Bci mi\u0119kkie to cechy
+    i w\u0142a\u015Bciwo\u015Bci, kt\xF3re posiadasz jako jednostka, rozwijane z
+    czasem poprzez og\xF3lne do\u015Bwiadczenie \u017Cyciowe. Z kolei umiej\u0119tno\u015Bci
+    twarde skupiaj\u0105 si\u0119 na zdolno\u015Bci do wykonywania konkretnych zada\u0144."
+  - "Wyobra\u017A sobie scenariusz, w kt\xF3rym musisz udowodni\u0107 swoje umiej\u0119tno\u015Bci
+    przetrwania i spakowa\u0107 torb\u0119 z przedmiotami, kt\xF3re mog\u0105 Ci
+    pom\xF3c. Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra
+    nie zawiera tylko niezb\u0119dnych do przetrwania przedmiot\xF3w? "
+  - "Tw\xF3j poci\u0105g do szko\u0142y zosta\u0142 odwo\u0142any, a rano masz egzamin.  
+    Przeczytaj poni\u017Csze zdania i wybierz odpowied\u017A, kt\xF3ra jest najbardziej
+    efektywna czasowo i kosztowo."
+  - "Aby oprze\u0107 si\u0119 niechcianym naciskom na robienie z\u0142ych rzeczy,
+    powiniene\u015B wykona\u0107 te kroki w podanej kolejno\u015Bci:"
+  - "Aby nauczy\u0107 robota jak sprz\u0105ta\u0107 pok\xF3j powiniene\u015B przej\u015B\u0107
+    nast\u0119puj\u0105ce kroki w podanej kolejno\u015Bci:"
+  - "Lista rzeczy do zrobienia podczas sprz\u0105tania pokoju powinna zawiera\u0107
+    nast\u0119puj\u0105ce informacje: "
+  - "Pisz\u0105c program do robienia zakup\xF3w w Internecie nale\u017Cy wybra\u0107
+    odpowiedni\u0105 kolejno\u015B\u0107 zada\u0144, kt\xF3re b\u0119dzie on wykonywa\u0142:"
+  - "W celu przygotowania dobrego przepisu na ciasto nale\u017Cy wykona\u0107 nast\u0119puj\u0105ce
+    czynno\u015Bci w podanej kolejno\u015Bci:"
+  Question_Explanation:
+  - "My\u015Blenie obliczeniowe polega na dzieleniu decyzji na mniejsze etapy, aby
+    by\u0142y one \u0142atwiejsze w realiuzacji. Mo\u017Cna je r\xF3wnie\u017C zastosowa\u0107
+    przy podejmowaniu decyzji o tym, jak i kiedy zamierzasz podr\xF3\u017Cowa\u0107.
+    Po pierwsze, musisz okre\u015Bli\u0107, kiedy chcesz podr\xF3\u017Cowa\u0107,
+    w oparciu o swoj\u0105 dost\u0119pno\u015B\u0107. Nast\u0119pnie, musisz wyszuka\u0107
+    r\xF3\u017Cne dost\u0119pne opcje. Na przyk\u0142ad, mo\u017Cesz rozwa\u017Cy\u0107
+    podr\xF3\u017Cowanie samochodem, poci\u0105giem lub nawet samolotem. Mo\u017Cesz
+    r\xF3wnie\u017C poszuka\u0107 bardziej przyst\u0119pnych cenowo opcji, na przyk\u0142ad
+    akceptuj\u0105c lot z przesiadk\u0105. Nast\u0119pnym krokiem jest por\xF3wnanie
+    wszystkich tych informacji i pomy\u015Blenie o innych mo\u017Cliwych rozwi\u0105zaniach,
+    kt\xF3re b\u0119d\u0105 pasowa\u0107 do Twoich wymaga\u0144, na przyk\u0142ad
+    podr\xF3\u017Cowanie do kraju samolotem, ale powr\xF3t poci\u0105giem, je\u015Bli
+    zamierzasz zaoszcz\u0119dzi\u0107 troch\u0119 czasu. Poniewa\u017C masz teraz
+    wszystkie informacje, kt\xF3rych potrzebujesz i stworzy\u0142e\u015B wiele scenariuszy,
+    mo\u017Cesz wybra\u0107 ten, kt\xF3ry najbardziej Ci pasuje!"
+  - "Po\u015Br\xF3d wszystkich podanych opcji termin trasy jest jedyn\u0105 istotn\u0105
+    informacj\u0105 w kontek\u015Bcie trasy koncertowej."
+  - "Kiedy zdecydujemy si\u0119 na zrobienie czego\u015B lub chcemy rozwi\u0105za\u0107
+    problem, naprawd\u0119 wa\u017Cne jest, aby przemy\u015Ble\u0107 niezb\u0119dne
+    kroki! Je\u015Bli chcesz zosta\u0107 pilotem, pierwsz\u0105 rzecz\u0105, kt\xF3r\u0105
+    musisz zrobi\u0107, jest zbadanie opcji szkolenia pilot\xF3w, nast\u0119pnie
+    przej\u015B\u0107 wszystkie niezb\u0119dne badania lekarskie, wzi\u0105\u0107
+    udzia\u0142 w lekcjach pilota\u017Cu i wreszcie zda\u0107 egzaminy, aby uzyska\u0107
+    certyfikat."
+  - "My\u015Blenie obliczeniowe jest naprawd\u0119 cenne i mo\u017Ce u\u0142atwi\u0107
+    nam rozwi\u0105zywanie problem\xF3w, komunikacj\u0119 i wsp\xF3\u0142prac\u0119
+    z innymi oraz lepsze zarz\u0105dzanie \u017Cyciem!"
+  - "Upro\u015B\u0107my ten problem! Pierwszy rz\u0105d sk\u0142ada si\u0119 z 5
+    cegie\u0142ek. Drugi z 5+4=9 cegie\u0142, itd. Aby obliczy\u0107  ile cegie\u0142
+    jest w 15 rz\u0119dzie, mo\u017Cna po prostu pomno\u017Cy\u0107 14 rz\u0119d\xF3w
+    x 4 nowe ceg\u0142y i jeszcze doda\u0107 5 ciegie\u0142 z pierwszego rz\u0119du.
+    Matematycznie to dzia\u0142anie mo\u017Cna wyrazi\u0107 w spos\xF3b nast\u0119puj\u0105cy: 
+    5 + (4x14) = 61 cegie\u0142. "
+  - "Zastan\xF3wmy si\u0119 nad tym! Zatem dru\u017Cyna A ma 35 uczni\xF3w, co oznacza,
+    \u017Ce 90 - 35 = 55 uczni\xF3w, kt\xF3rzy nale\u017C\u0105 albo do dru\u017Cyny
+    B albo do dru\u017Cyny C. Dru\u017Cyna B ma o 15 uczni\xF3w wi\u0119cej ni\u017C
+    dru\u017Cyna C, wi\u0119c z ca\u0142kowitej liczby 55 uczni\xF3w, kt\xF3rzy nale\u017C\u0105
+    do jednej z dw\xF3ch dru\u017Cyn. Wiemy, \u017Ce co najmniej 15 uczestnik\xF3w
+    nale\u017Cy do dru\u017Cyny B, wi\u0119c 55 - 15 = 40 uczni\xF3w jest r\xF3wno
+    podzielonych na dwie dru\u017Cyny. Zatem dru\u017Cyna B ma 40/2 = 20, 20 + 15
+    = 35 uczni\xF3w, a dru\u017Cyna C ma 40/2 = 20 uczni\xF3w!"
+  - "Wybieraj\u0105c s\u0142owo, kt\xF3re najmniej pasuje do pozosta\u0142ych, nale\u017Cy
+    usun\u0105\u0107  s\u0142owo \"grudzie\u0144\", poniewa\u017C wrzesie\u0144,
+    pa\u017Adziernik i listopad to miesi\u0105ce jesienne, natomiast grudzie\u0144
+    jest jednym z miesi\u0119cy zimowych. "
+  - "Zastan\xF3w si\u0119 nad kolejno\u015Bci\u0105 dzia\u0142a\u0144 matematycznych.
+    Co powinno by\u0107 obliczone w pierwszej kolejno\u015Bci? Jest to funkcja wielomianu
+    kwadratowego. Mo\u017Cna wi\u0119c post\u0119powa\u0107 zgodnie z zasadami rozwi\u0105zywania
+    tego typu wzor\xF3w (X=[-b+\u221A(b2 - 4ac)]/2a). Poprawn\u0105 odpowiedzi\u0105
+    jest d. Rozwi\u0105zanie: X-25=X^2+5X-24 >> -X^2-4X-1=0 >> Teraz a=-1, b=-4,
+    c=-1 >> X=[+4+\u221A(-16 - 4)]/-2) >> X=4+\u221A12/-2 >> X=2-\u221A3= -0.268"
+  - "Pomy\u015Bl o wzorze i kolejno\u015Bci\u0105 liter w alfabecie. Zacz\u0119\u0142o
+    si\u0119 od A i dotar\u0142o do E. Ile liter zosta\u0142o pomini\u0119tych? Policz
+    to. Nast\u0119pnie sprawd\u017A, ile liter pomini\u0119to mi\u0119dzy E a I,
+    a ile od I do M? Czy liczba jest taka sama? Teraz zastosuj liczb\u0119, kt\xF3r\u0105
+    obliczy\u0142e\u015B, aby odpowiedzie\u0107 na pytanie. Poprawna odpowied\u017A
+    to c."
+  - "U\u017Cyj mno\u017Cenia, aby rozdzieli\u0107 cz\u0119\u015Bci w nawiasach i
+    odj\u0105\u0107 te, kt\xF3re maj\u0105 te same zmienne. Poprawn\u0105 odpowiedzi\u0105
+    jest b. Rozwi\u0105zanie: 6x(x + 3y -1) - 6x\u02C62 - 8xy = 6x\u02C62 + 18xy
+    - 6x - 6x\u02C62 - 8xy = 10xy - 6x"
+  - "My\u015Bl z perspektywy klienta i pami\u0119taj, \u017Ce krok p\u0142atno\u015Bci
+    powinien by\u0107 zawsze ostatni. Poprawna odpowied\u017A to c."
+  - "Du\u017Ce czarno-bia\u0142e kwadraty zmieniaj\u0105 kolory po ka\u017Cdym kamieniu.
+    Ma\u0142e czerwono-bia\u0142e kwadraty zmieniaj\u0105 kolory po ka\u017Cdym kamieniu.
+    Ma\u0142y s\u0142upek z czerwonymi kwadratami porusza si\u0119 zgodnie z ruchem
+    wskaz\xF3wek zegara od naro\u017Cnik\xF3w do \u015Brodka ka\u017Cdego boku. Poprawna
+    sekwencja to A."
+  - "To pytanie jest tak proste. Je\u015Bli przez ca\u0142y proces pami\u0119tasz,
+    co roz\u0142adowujesz, znajdziesz odpowied\u017A. Je\u015Bli jej nie masz, nie
+    mo\u017Cesz ruszy\u0107 z ca\u0142ym procesem. To jest takie proste. Czy uda\u0142o
+    ci si\u0119 to rozgry\u017A\u0107? Tak, w rzeczy samej. Przed rozpocz\u0119ciem
+    procesu na statku powinien znajdowa\u0107 si\u0119 kontener przeznaczony do roz\u0142adunku.
+    Poprawna odpowied\u017A to b."
+  - "Aby odpowiedzie\u0107 na to pytanie, najlepiej uporz\u0105dkowa\u0107 przedmioty
+    od najni\u017Cszej do najwy\u017Cszej wagi (2, 3, 4, 5, 6, 7, 8, 9 i 10). Dodaj
+    do siebie poszczeg\xF3lne liczby, \u017Ceby uzyska\u0107 wynik 30. Ile jest mo\u017Cliwych
+    scenariuszy? Skoro m\xF3wi o maksymalnej liczbie element\xF3w, to znaczy, \u017Ce
+    lepiej zacz\u0105\u0107 od sumowania element\xF3w o ni\u017Cszych wagach i doj\u015B\u0107
+    do 30. 2+3+3+4+5+6+7=30 (7 element\xF3w) sprawd\u017A, czy mo\u017Cesz znale\u017A\u0107
+    inny scenariusz z 8 elementami. Poprawna odpowiex to c."
+  - "Poprawna odpowied\u017A to C lub D, obie s\u0105 dopuszczalne. Jednak D jest
+    idealn\u0105 odpowiedzi\u0105."
+  - "Prawid\u0142owa odpowied\u017A to B. Nie znaj\u0105c kwoty maksymalnej, jak\u0105
+    mo\u017Cesz przeznaczy\u0107 na zakup karty rabatowej, nie mo\u017Cesz wybra\u0107
+    nic innego."
+  - "Idealn\u0105 odpowiedzi\u0105 jest B, poniewa\u017C zawiera profesjonalne wyja\u015Bnienie,
+    jakiego narz\u0119dzia nale\u017Cy u\u017Cy\u0107 do pieczenia danego produktu.  
+    Odpowied\u017A A jest b\u0142\u0119dna, poniewa\u017C nie mo\u017Cna piec nast\u0119puj\u0105cych
+    produkt\xF3w za pomoc\u0105 widelca. Odpowied\u017A C jest r\xF3wnie\u017C cz\u0119\u015Bciowo
+    poprawna dla cel\xF3w pieczenia. Odpowied\u017A D jest b\u0142\u0119dna, poniewa\u017C
+    wszystkie wymienione narz\u0119dzia kuchenne mog\u0105 by\u0107 u\u017Cywane
+    do pieczenia. "
+  - "Poprawn\u0105 odpowiedzi\u0105 jest D, poniewa\u017C to pytanie nie pomo\u017Ce
+    nam w tworzeniu gry planszowej, ale raczej w jej ocenie. Wszystkie pozosta\u0142e
+    pozwol\u0105 Ci zastanowi\u0107 si\u0119 nad kolejnymi krokami w tworzeniu gry
+    planszowej."
+  - "Prawid\u0142owa odpowied\u017A to D. Odpowied\u017A C nie jest poprawna, poniewa\u017C
+    niegrzeczne zachowanie innej osoby nie powinno wp\u0142ywa\u0107 na Twoje dobre
+    zachowanie i moralne wybory.  Odpowied\u017A B nie jest poprawna, poniewa\u017C
+    nie wykazujesz altruizmu i mog\u0142e\u015B przeznaczy\u0107 te pieni\u0105dze
+    na inny cel. Odpowied\u017A A nie jest poprawna, poniewa\u017C demonstrujesz
+    samolubno\u015B\u0107 i os\u0105dzanie charakteru, wiedz\u0105c kto upu\u015Bci\u0142
+    pieni\u0105dze i nie oddaj\u0105c ich. "
+  - "Poprawna odpowied\u017A to C. Chodzenie wsz\u0119dzie, za ka\u017Cdym razem,
+    bez konkretnego celu mo\u017Ce nie by\u0107 najlepszym wyborem je\u015Bli chodzi
+    o zarz\u0105dzanie czasem. Wskazujei r\xF3wnie\u017C na brak umiej\u0119tno\u015Bci
+    ustalania priorytet\xF3w (kt\xF3re wydarzenie jest wa\u017Cne, a kt\xF3re nie),
+    jednak jest to dobre dla networkingu. Wszystkie inne odpowiedzi pomog\u0105 Ci."
+  - "Poprawna odpowied\u017A to B, poniewa\u017C wszystkie wymienione umiej\u0119tno\u015Bci
+    to umiej\u0119tno\u015Bci mi\u0119kkie. Pozosta\u0142e odpowiedzi zawieraj\u0105
+    co najmniej jedn\u0105 umiej\u0119tno\u015B\u0107 tward\u0105: Odpowied\u017A
+    A - prace elektryczne, odpowied\u017A C - programowanie, odpowied\u017A D - konstruowanie
+    maszyn."
+  - "Poprawna odpowied\u017A to D, poniewa\u017C gry planszowe nie s\u0105 uwa\u017Cane
+    za niezb\u0119dne fo przetrwania. "
+  - "Najbardziej logiczn\u0105 i skuteczn\u0105 odpowiedzi\u0105 jest B. Odpowied\u017A
+    A jest akceptowalna, ale sp\xF3\u017Anisz si\u0119 na egzamin. Odpowied\u017A
+    C sugeruje opcj\u0119 dro\u017Cs\u017C\u0105 (taks\xF3wka) lub bardziej niebezpieczn\u0105
+    i bez rozk\u0142adu jazdy (autostop).Odpowied\u017A D spowoduje, \u017Ce nie
+    zd\u0105\u017Cysz na egzamin."
+  - "Komputacyjne my\u015Blenie polega na dzieleniu z\u0142o\u017Conych problem\xF3w
+    na mniejsze, bardziej zarz\u0105dzalne cz\u0119\u015Bci i stosowaniu logicznego
+    podej\u015Bcia do ich rozwi\u0105zywania. To samo podej\u015Bcie mo\u017Cna zastosowa\u0107
+    w celu oporu przeciwko niechcianym naciskom do pope\u0142nienia czego\u015B z\u0142ego. 
+    Kroki polegaj\u0105ce na nazwaniu element\xF3w sytuacji, rozpoznaniu ryzykownego
+    kontekstu, zastosowaniu praw asertywno\u015Bci i opuszczeniu miejsca/sytuacji
+    opieraj\u0105 si\u0119 na systematycznym podej\u015Bciu do rozwi\u0105zywania
+    problem\xF3w, a ka\u017Cdy kolejny krok opiera si\u0119 na poprzednim.  Oto jak
+    te kroki maj\u0105 zastosowanie w oporze przeciwko niechcianym naciskom:     
+    Nazwanie element\xF3w sytuacji: Pierwszym krokiem w oporze przeciwko niechcianym
+    naciskom jest zidentyfikowanie i zrozumienie r\xF3\u017Cnych element\xF3w sytuacji.
+    W tym nale\u017Cy zrozumie\u0107 motywy osoby lub os\xF3b wywieraj\u0105cych
+    naciski, potencjalne konsekwencje ust\u0119pstw dla ich \u017C\u0105da\u0144
+    oraz etyczne implikacje Twoich dzia\u0142a\u0144.      Rozpoznanie ryzykownego
+    kontekstu: Po zidentyfikowaniu r\xF3\u017Cnych element\xF3w sytuacji nast\u0119pnym
+    krokiem jest rozpoznanie, kiedy kontekst staje si\u0119 ryzykowny. W tym nale\u017Cy
+    zrozumie\u0107, kiedy wywierane naciski s\u0105 nieodpowiednie lub nieetyczne,
+    a kiedy mog\u0105 prowadzi\u0107 do szkody dla zdrowia lub innych negatywnych
+    konsekwencji dla Ciebie lub innych os\xF3b.      Zastosowanie praw asertywno\u015Bci:
+    Po rozpoznaniu, \u017Ce kontekst sta\u0142 si\u0119 ryzykowny, kolejnym krokiem
+    jest odwo\u0142anie si\u0119 do swoich praw i obrona swojego stanowiska. Wymaga
+    to jasnego przekazywania swoich granic i oczekiwa\u0144 osobie lub osobom wywieraj\u0105cym
+    naciski oraz odmowy ust\u0119pstw dla ich \u017C\u0105da\u0144.      Opuszczenie
+    miejsca/sytuacji: Je\u015Bli naciski nadal trwaj\u0105 i nie mo\u017Cesz rozwi\u0105za\u0107
+    sytuacji, ostatnim krokiem jest opuszczenie miejsca lub sytuacji. Mo\u017Ce to
+    obejmowa\u0107 fizyczne usuni\u0119cie si\u0119 z sytuacji, szukanie pomocy od
+    innych lub podj\u0119cie innych krok\xF3w, aby zapewni\u0107 swoje bezpiecze\u0144stwo
+    i dobre samopoczucie.  Post\u0119puj\u0105c wed\u0142ug tych krok\xF3w, mo\u017Cesz
+    podej\u015B\u0107 do problemu niechcianych nacisk\xF3w w logiczny i systematyczny
+    spos\xF3b, co zwi\u0119ksza Twoje szanse na skuteczne  przeciwstawienie si\u0119
+    presji."
+  - "My\u015Blenie obliczeniowe polega na rozbijaniu z\u0142o\u017Conych zada\u0144
+    na mniejsze, bardziej przyst\u0119pne cz\u0119\u015Bci oraz na logicznym podej\u015Bciu
+    do ich rozwi\u0105zywania. To samo podej\u015Bcie mo\u017Cna zastosowa\u0107
+    w przypadku nauczania robota, jak sprz\u0105ta\u0107 pok\xF3j.  Kroki polegaj\u0105ce
+    na wymienieniu wszystkich element\xF3w pokoju, rozpoznaniu obszar\xF3w \u0142\u0105cz\u0105cych
+    elementy, zdefiniowaniu zasad, kt\xF3re maj\u0105 by\u0107 zastosowane oraz przygotowaniu
+    instrukcji krok po kroku, opisane s\u0105 na podstawie systematycznego podej\u015Bcia
+    do rozwi\u0105zywania problem\xF3w, gdzie ka\u017Cdy krok buduje na poprzednim. 
+    Oto, jak te kroki mog\u0105 by\u0107 zastosowane w nauczaniu robota, jak sprz\u0105ta\u0107
+    pok\xF3j:      Wymie\u0144 wszystkie elementy pokoju: Pierwszym krokiem w nauczaniu
+    robota, jak sprz\u0105ta\u0107 pok\xF3j, jest wymienienie wszystkich element\xF3w
+    pokoju, z kt\xF3rymi robot musi si\u0119 zetkn\u0105\u0107. Obejmuje to meble,
+    \u015Bciany, pod\u0142ogi i wszelkie inne przedmioty lub funkcje, kt\xF3re mog\u0105
+    by\u0107 obecne.      Rozpoznaj obszary \u0142\u0105cz\u0105ce elementy: Po zidentyfikowaniu
+    wszystkich element\xF3w pokoju, nast\u0119pnym krokiem jest rozpoznanie obszar\xF3w,
+    kt\xF3re \u0142\u0105cz\u0105 te elementy. Na przyk\u0142ad obszar mi\u0119dzy
+    \u015Bcianami a pod\u0142og\u0105 lub obszar pod meblami. Rozpoznaj\u0105c te
+    obszary, mo\u017Cna opracowa\u0107 bardziej efektywn\u0105 strategi\u0119 sprz\u0105tania
+    dla robota.      Zdefiniuj zasady, kt\xF3re maj\u0105 by\u0107 zastosowane: Po
+    rozpoznaniu obszar\xF3w \u0142\u0105cz\u0105cych elementy, kolejnym krokiem jest
+    zdefiniowanie zasad, kt\xF3rych robot powinien przestrzega\u0107 podczas sprz\u0105tania
+    pokoju. Na przyk\u0142ad robot mo\u017Ce musie\u0107 unika\u0107 zderzania si\u0119
+    z meblami lub \u015Bcianami lub mo\u017Ce musie\u0107 dok\u0142adniej czy\u015Bci\u0107
+    niekt\xF3re obszary ni\u017C inne.      Przygotuj instrukcje krok po kroku: Po
+    zdefiniowaniu zasad, ostatnim krokiem jest przygotowanie instrukcji krok po kroku,
+    kt\xF3re robot b\u0119dzie m\xF3g\u0142 stosowa\u0107, aby sprz\u0105ta\u0107
+    pok\xF3j w spos\xF3b wydajny. Instrukcje te powinny uwzgl\u0119dnia\u0107 elementy
+    pokoju, obszary je \u0142\u0105cz\u0105ce oraz zasady, kt\xF3re zosta\u0142y
+    zdefiniowane.  \u015Aledz\u0105c te kroki w okre\u015Blonej kolejno\u015Bci,
+    mo\u017Cna podej\u015B\u0107 do zadania nauczania robota, jak sprz\u0105ta\u0107
+    pok\xF3j, w spos\xF3b logiczny i systematyczny, zwi\u0119kszaj\u0105c szanse
+    na wydajne i skuteczne wykonanie zadania przez robota."
+  - "My\u015Blenie komputacyjne polega na dzieleniu z\u0142o\u017Conych zada\u0144
+    na mniejsze, \u0142atwiejsze do zarz\u0105dzania cz\u0119\u015Bci oraz opracowywaniu
+    logicznego podej\u015Bcia do rozwi\u0105zywania problem\xF3w. Ten sam podej\u015Bcie
+    mo\u017Cna zastosowa\u0107 w celu stworzenia listy zada\u0144 do sprz\u0105tania
+    pokoju.  Zawarcie na li\u015Bcie wszystkich element\xF3w do sprz\u0105tania,
+    kategorie element\xF3w w pokoju \u0142\u0105cz\u0105cych si\u0119 ze sob\u0105
+    oraz og\xF3lne zalecenia dotycz\u0105ce porz\u0105dku i dok\u0142adno\u015Bci
+    sprz\u0105tania grup/typ\xF3w element\xF3w pomaga w ustanowieniu klarownego i
+    zorganizowanego planu sprz\u0105tania pokoju. Dzi\u0119ki podzia\u0142owi procesu
+    sprz\u0105tania na mniejsze cz\u0119\u015Bci, \u0142atwiej jest zarz\u0105dza\u0107
+    i skutecznie wykona\u0107 zadanie.  Dodatkowo, udzielanie szczeg\xF3\u0142owych
+    instrukcji dotycz\u0105cych sprz\u0105tania grup i element\xF3w, takich jak meble,
+    elektronika i inne elementy w odpowiedniej kolejno\u015Bci, zapewnia dok\u0142adne
+    i konsekwentne przeprowadzenie procesu sprz\u0105tania. To podej\u015Bcie r\xF3wnie\u017C
+    pomaga zminimalizowa\u0107 ryzyko przeoczenia jakichkolwiek element\xF3w lub
+    obszar\xF3w podczas procesu sprz\u0105tania."
+  - "Model my\u015Blenia obliczeniowego polega na podzieleniu problemu na mniejsze,
+    bardziej zarz\u0105dzalne cz\u0119\u015Bci i zaprojektowaniu rozwi\u0105za\u0144
+    wykorzystuj\u0105cych algorytmy i struktury danych. Stosuj\u0105c ten model do
+    procesu pisania programu do robienia zakup\xF3w online, mo\u017Cna przedstawi\u0107
+    nast\u0119puj\u0105ce uzasadnienie dla kolejno\u015Bci zada\u0144:  Krok 1 -
+    Wyszukiwanie przedmiotu: Pierwszym krokiem w ka\u017Cdym programie do zakup\xF3w
+    online jest umo\u017Cliwienie u\u017Cytkownikowi wyszukiwania przedmiot\xF3w,
+    kt\xF3re chce kupi\u0107. Polega to na udost\u0119pnieniu pola wyszukiwania lub
+    listy kategorii do przegl\u0105dania, a nast\u0119pnie zastosowaniu algorytm\xF3w
+    do przeszukiwania bazy produkt\xF3w w celu znalezienia tych, kt\xF3re odpowiadaj\u0105
+    kryteriom wyszukiwania u\u017Cytkownika.  Krok 2 - Dodanie przedmiotu do koszyka:
+    Gdy u\u017Cytkownik znajdzie ju\u017C przedmiot, kt\xF3ry chce kupi\u0107, kolejnym
+    krokiem jest dodanie go do koszyka. Wymaga to utworzenia struktury danych, kt\xF3ra
+    mo\u017Ce przechowywa\u0107 szczeg\xF3\u0142y przedmiotu, takie jak jego nazwa,
+    cena i ilo\u015B\u0107, a nast\u0119pnie dodania go do koszyka u\u017Cytkownika.
+    Koszyk mo\u017Ce r\xF3wnie\u017C \u015Bledzi\u0107 ca\u0142kowity koszt u\u017Cytkownika
+    i wy\u015Bwietla\u0107 go dla niego. Nie mo\u017Cna doda\u0107 przedmiotu do
+    koszyka nie wiedz\u0105c, czy produkt znajduje si\u0119 w bazie danych (krok
+    1).   Krok 3 - Wprowadzenie adres dostawy: Po tym jak u\u017Cytkownik doda\u0142
+    do koszyka wszystkie przedmioty, kt\xF3re chce kupi\u0107, kolejnym krokiem jest
+    wprowadzenie adresu dostawy. Wi\u0105\u017Ce si\u0119 to z udost\u0119pnieniem
+    formularza, w kt\xF3rym u\u017Cytkownik mo\u017Ce wprowadzi\u0107 swoje imi\u0119
+    i nazwisko, adres, numer telefonu i inne istotne szczeg\xF3\u0142y. Informacje
+    te mog\u0105 by\u0107 przechowywane w bazie danych lub wysy\u0142ane do us\u0142ugi
+    zewn\u0119trznej w celu weryfikacji. Konieczna jest znajomo\u015B\u0107 liczby
+    i rozmiaru / wagi wszystkich zakupionych przedmiot\xF3w (krok 2), aby oceni\u0107
+    w\u0142a\u015Bciw\u0105 form\u0119 i cen\u0119 dostawy.   Krok 4 - Zap\u0142ata
+    za przedmiot: Ostatecznie, po wprowadzeniu przez u\u017Cytkownika adresu dostawy,
+    ostatnim krokiem jest umo\u017Cliwienie mu zap\u0142aty za przedmiot. Wi\u0105\u017Ce
+    si\u0119 to z integracj\u0105 z bramk\u0105 p\u0142atnicz\u0105, tak\u0105 jak
+    np. PayPal lub Przelewy24, w celu przetworzenia p\u0142atno\u015Bci u\u017Cytkownika.
+    Program powinien r\xF3wnie\u017C zapewni\u0107 stron\u0119 potwierdzaj\u0105c\u0105,
+    kt\xF3ra pokazuje u\u017Cytkownikowi szczeg\xF3\u0142y zam\xF3wienia, adres dostawy
+    i ca\u0142kowity koszt. Konieczne jest poznanie wszystkich zam\xF3wionych przedmiot\xF3w
+    i odleg\u0142o\u015Bci dostawy, aby pozna\u0107 Aby obliczy\u0107 cen\u0119 ca\u0142kowit\u0105,
+    musisz zna\u0107 wszystkie wybrane przedmioty, formularz i odleg\u0142o\u015B\u0107
+    dostawy (kroki 1 - 3), zanim poprosisz o p\u0142atno\u015B\u0107.  Og\xF3lnie
+    rzecz bior\u0105c, przestrzeganie tej sekwencji zada\u0144 w programie zapewnia,
+    \u017Ce u\u017Cytkownik mo\u017Ce wyszukiwa\u0107, wybiera\u0107 i kupowa\u0107
+    \u017C\u0105dane przedmioty w spos\xF3b p\u0142ynny i logiczny, a jednocze\u015Bnie
+    zapewnia niezb\u0119dne struktury danych i algorytmy, dzi\u0119ki kt\xF3rym program
+    dzia\u0142a sprawnie."
+  - "Z perspektywy my\u015Blenia obliczeniowego, wykonywanie krok\xF3w w podanej
+    kolejno\u015Bci podczas przygotowywania przepisu na ciasto jest niezb\u0119dne
+    do zapewnienia dobrego wyniku. Oto dlaczego:  1. Dekompozycja: Pierwszym krokiem
+    w przygotowaniu przepisu na ciasto jest rozbicie zadania na mniejsze podzadania.
+    Obejmuje to wypisanie wszystkich sk\u0142adnik\xF3w, opisanie, jak nale\u017Cy
+    je \u0142\u0105czy\u0107 dla ka\u017Cdego sk\u0142adnika, wyja\u015Bnienie mo\u017Cliwych
+    modyfikacji przepisu oraz opisanie wszystkich krok\xF3w potrzebnych do wykonania
+    ciasta. Taka dekompozycja pozwala nam lepiej zrozumie\u0107 problem i skupi\u0107
+    si\u0119 na ka\u017Cdym pojedynczym zadaniu.  2. Rozpoznawanie wzorc\xF3w: Kiedy
+    ju\u017C zdekomponujemy zadanie, mo\u017Cemy zidentyfikowa\u0107 wzorce w przepisie.
+    Na przyk\u0142ad, mo\u017Cemy zauwa\u017Cy\u0107, \u017Ce przepis zaczyna si\u0119
+    od wymienienia sk\u0142adnik\xF3w, nast\u0119pnie przechodzi do opisu sposobu
+    ich po\u0142\u0105czenia, po czym nast\u0119puj\u0105 mo\u017Cliwe modyfikacje
+    przepisu, a na ko\u0144cu kroki potrzebne do wykonania ciasta. Rozpoznanie tych
+    wzorc\xF3w pomaga nam zrozumie\u0107 przep\u0142yw przepisu i zale\u017Cno\u015Bci
+    pomi\u0119dzy poszczeg\xF3lnymi krokami.  3. Abstrakcja: Po zidentyfikowaniu
+    wzorc\xF3w w przepisie, mo\u017Cemy wyabstrahowa\u0107 szczeg\xF3\u0142y ka\u017Cdego
+    kroku i skupi\u0107 si\u0119 na koncepcjach wysokiego poziomu. Oznacza to, \u017Ce
+    mo\u017Cemy my\u015Ble\u0107 o przepisie w kategoriach og\xF3lnego procesu, a
+    nie grz\u0119zn\u0105\u0107 w poszczeg\xF3lnych sk\u0142adnikach lub pomiarach. 
+    4. Projektowanie algorytmu: Maj\u0105c na uwadze koncepcje wysokopoziomowe, mo\u017Cemy
+    zaprojektowa\u0107 algorytm przygotowania przepisu na ciasto. Algorytm ten powinien
+    wykonywa\u0107 kroki w podanej kolejno\u015Bci, zaczynaj\u0105c od wymienienia
+    sk\u0142adnik\xF3w, nast\u0119pnie opisuj\u0105c, jak nale\u017Cy je \u0142\u0105czy\u0107
+    dla ka\u017Cdego sk\u0142adnika, nast\u0119pnie wyja\u015Bniaj\u0105c mo\u017Cliwe
+    modyfikacje przepisu, a na ko\u0144cu opisuj\u0105c wszystkie kroki potrzebne
+    do wykonania ciasta. Post\u0119powanie zgodnie z kolejno\u015Bci\u0105 gwarantuje,
+    \u017Ce nie pominiemy \u017Cadnych wa\u017Cnych krok\xF3w i \u017Ce ciasto wyjdzie
+    zgodnie z oczekiwaniami.  5. Testowanie: Wreszcie mo\u017Cemy przetestowa\u0107
+    przepis, post\u0119puj\u0105c zgodnie z zaprojektowanym przez nas algorytmem
+    i wprowadzaj\u0105c modyfikacje w razie potrzeby. Testowanie pomaga nam zidentyfikowa\u0107
+    wszelkie b\u0142\u0119dy w przepisie i udoskonali\u0107 algorytm do wykorzystania
+    w przysz\u0142o\u015Bci.  Og\xF3lnie rzecz bior\u0105c, wykonywanie krok\xF3w
+    w kolejno\u015Bci podczas przygotowywania przepisu na ciasto jest wa\u017Cne,
+    poniewa\u017C zapewnia, \u017Ce wszystkie niezb\u0119dne sk\u0142adniki s\u0105
+    zawarte i \u017Ce przepis jest wykonywany prawid\u0142owo. Dziel\u0105c przepis
+    na mniejsze zadania, rozpoznaj\u0105c wzorce, abstrahuj\u0105c od szczeg\xF3\u0142\xF3w,
+    projektuj\u0105c algorytm i testuj\u0105c przepis, mo\u017Cemy mie\u0107 pewno\u015B\u0107,
+    \u017Ce ciasto za ka\u017Cdym razem wyjdzie pyszne."
+  Op1:
+  - " Wyszukaj opcje podr\xF3\u017Cy; Zarezerwuj najlepsz\u0105 opcj\u0119; Zdecyduj
+    o terminie podr\xF3\u017Cy; Por\xF3wnaj i zestaw opcje;"
+  - "Inne zespo\u0142y"
+  - " Sprawd\u017A szko\u0142y dla pilot\xF3w; Wykonaj wszystkie niezb\u0119dne badania
+    medyczne; We\u017A udzia\u0142 w szkoleniach lotniczych; Zdaj egzaminy dla pilot\xF3w"
+  - "Aby pom\xF3c nam \u0142atwiej rozwi\u0105zywa\u0107 z\u0142o\u017Cone problemy"
+  - 65
+  - ' 35, 20'
+  - "wrzesie\u0144"
+  - 0.268
+  - N
+  - 10xy + 6x
+  - "Umie\u015B\u0107 produkty w koszyku Wyszukaj produkty Podaj sw\xF3j adres Dokonaj
+    p\u0142atno\u015Bci"
+  - B
+  - MC MF LP PD PU S.C.
+  - 5
+  - "1) Zap\u0142a\u0107 przy kasie 2) Id\u017A do sklepu 3)Sprawd\u017A ile masz
+    pieni\u0119dzy w got\xF3wce lub na karcie 4) Wybierz ofert\u0119 posi\u0142ku
+    w swoim przedziale cenowym 5) Wybierz najbardziej dogodny sklep "
+  - "1) WYBIERZ najpierw na podstawie swojego wieku 2) SPRAWD\u0179, ile jeste\u015B
+    w stanie przeznaczy\u0107 na kart\u0119 rabatow\u0105 3) WYBIERZ w zale\u017Cno\u015Bci
+    od statusu podr\xF3\u017Cy 4) WYBIERZ na podstawie okresu 5) WYBIERZ na podstawie
+    odleg\u0142o\u015Bci"
+  - "Mo\u017Cesz upiec A, B i C za pomoc\u0105 widelca. "
+  - "Ilu zawodnik\xF3w jest potrzebnych?"
+  - "Wiesz, kto upu\u015Bci\u0142 te pieni\u0105dze. Uwa\u017Casz, \u017Ce ta osoba
+    nie zas\u0142uguje na te pieni\u0105dze. Brakowa\u0142o Ci pieni\u0119dzy na
+    obiad, wi\u0119c u\u017Cywasz do tego pieni\u0119dzy znalezionych na pod\u0142odze."
+  - "Je\u015Bli interesuje Ci\u0119 praca w konkretnej bran\u017Cy wa\u017Cne jest
+    pokazanie swojej wiedzy i do\u015Bwiadczenia?"
+  - Profesjonalizm; Empatia; Prace elektryczne.
+  - "Woda; \u017Bywno\u015B\u0107; Apteczka pierwszej pomocy; Schronienie; Telefon
+    kom\xF3rkowy; Radio; Dodatkowa got\xF3wka"
+  - "Zadzwo\u0144 do szko\u0142y i powiedz, \u017Ce sp\xF3\u017Anisz si\u0119 na
+    egzamin. Poczekaj na nast\u0119pny poci\u0105g za godzin\u0119."
+  - "nazwij elementy sytuacji; rozpoznaj ryzykowny kontekst; zastosuj prawa asertywno\u015Bci;
+    opu\u015B\u0107 miejsce/sytuacj\u0119"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; rozpozna\u0107 obszary \u0142\u0105cz\u0105ce
+    elementy; okre\u015Bli\u0107 zasady, kt\xF3re nale\u017Cy zastosowa\u0107; przygotowa\u0107
+    instrukcj\u0119 krok po kroku"
+  - "list\u0119 wszystkich przedmiot\xF3w do sprz\u0105tania; zasad\u0119 \u0142\u0105cz\u0105c\u0105
+    kategorie przedmiot\xF3w w pokoju w grupy/rodzaje; og\xF3lne zalecenia dotycz\u0105ce
+    kolejno\u015Bci i dok\u0142adno\u015Bci sprz\u0105tania grup/rodzaj\xF3w przedmiot\xF3w"
+  - "zap\u0142a\u0107 za przedmiot, wpisz adres dostawy, wyszukaj przedmiot, dodaj
+    przedmiot do koszyka"
+  - "opisa\u0107 wszystkie kroki potrzebne do wykonania tortu, opisa\u0107, w jaki
+    spos\xF3b nale\u017Cy zebra\u0107 sk\u0142adniki do ka\u017Cdego z nich, wymieni\u0107
+    wszystkie sk\u0142adniki, wyja\u015Bni\u0107 mo\u017Cliwe modyfikacje przepisu"
+  Op2:
+  - " Zdecyduj o terminie podr\xF3\u017Cy; Poszukaj opcji podr\xF3\u017Cy; Zarezerwuj
+    najlepsz\u0105 opcj\u0119; Por\xF3wnaj i zestaw opcje;"
+  - Jego wiek
+  - " We\u017A udzia\u0142 w szkoleniu lotniczym; Wykonaj wszystkie niezb\u0119dne
+    badania lekarskie; Sprawd\u017A szko\u0142y dla pilot\xF3w; Zdaj egzaminy dla
+    pilot\xF3w"
+  - "Aby pom\xF3c nam programowa\u0107"
+  - ' 61'
+  - ' 15, 30 '
+  - " pa\u017Adziernik"
+  - 0.321
+  - O
+  - 10xy - 6x
+  - "Wyszukaj artyku\u0142y Umie\u015B\u0107 produkty w koszyku Usu\u0144 niekt\xF3re
+    produkty dokonaj p\u0142atno\u015Bci Podaj sw\xF3j adres"
+  - D
+  - SC MC PU MF PD LP
+  - 6
+  - "1) Zap\u0142a\u0107 przy kasie 2) Wybierz ofert\u0119 posi\u0142ku w swoim przedziale
+    cenowym 3) Id\u017A do sklepu 4) Wybierz najbardziej dogodny sklep 5)Sprawd\u017A
+    ile masz \u015Brodk\xF3w w got\xF3wce lub na karcie "
+  - "1)SPRAWD\u0179, ile jeste\u015B w stanie przeznaczy\u0107 na kart\u0119 rabatow\u0105
+    2) WYBIERZ najpierw na podstawie mojego wieku 3) WYBIERZ w zale\u017Cno\u015Bci
+    od statusu podr\xF3\u017Cy 4) WYBIERZ na podstawie okresu 5) WYBIERZ na podstawie
+    odleg\u0142o\u015Bci "
+  - "A nale\u017Cy u\u017Cy\u0107 miksera \u0142opatkowego B powiniene\u015B u\u017Cy\u0107
+    trzepaczki C powiniene\u015B u\u017Cy\u0107 miksera z mieszad\u0142em hakowym"
+  - "Jakie informacje s\u0105 zazwyczaj zawarte na pude\u0142ku gry lub instrukcji? "
+  - "Nie wiesz, kto upu\u015Bci\u0142 pieni\u0105dze. Jeste\u015B szcz\u0119\u015Bliwy,
+    \u017Ce je znalaz\u0142e\u015B. Teraz masz dodatkowe pieni\u0105dze, aby kupi\u0107
+    to, czego potrzebowa\u0142e\u015B w sklepie."
+  - "Nawi\u0105\u017C kontakt z profesjonalistami lub potencjalnymi pracodawcami. 
+    Zaimponuj potencjalnym pracodawcom swoim profesjonalizmem, entuzjazmem,  wp\u0142ywami
+    i wiedz\u0105 na temat  bran\u017Cy."
+  - "Krytyczne my\u015Blenie; Zarz\u0105dzanie czasem; Integralno\u015B\u0107."
+  - "Schronienie; Kompas; \u017Bywno\u015B\u0107; Woda; Latarka; \u015Arodki sanitarne
+    Ogrzewacze cia\u0142a"
+  - "Znajd\u017A inny poci\u0105g lub autobus, kt\xF3ry przyjedzie o tej samej godzinie.
+    Je\u015Bli nie jest to mo\u017Cliwe, wybierz poci\u0105g lub autobus, kt\xF3ry
+    przyjedzie jak najwcze\u015Bniej. Je\u015Bli i tak si\u0119 sp\xF3\u017Anisz,
+    zadzwo\u0144 do swojej szko\u0142y i poinformuj o tym."
+  - "opu\u015B\u0107 miejsce/sytuacj\u0119; nazwij elementy sytuacji; rozpoznaj ryzykowny
+    kontekst; zastosuj prawa asertywno\u015Bci"
+  - "okre\u015Bli\u0107 zasady do zastosowania; przygotowa\u0107 instrukcje krok
+    po kroku; wymieni\u0107 wszystkie elementy pomieszczenia; rozpozna\u0107 obszary
+    \u0142\u0105cz\u0105ce elementy"
+  - "konkretne instrukcje dotycz\u0105ce sprz\u0105tania grup i przedmiot\xF3w takich
+    jak meble (krzes\u0142o, biurko, szafa itp.), sprz\u0119t elektroniczny (telewizor,
+    komputer, soundbar itp.) w odpowiedniej kolejno\u015Bci"
+  - "dodaj artyku\u0142 do koszyka, zap\u0142a\u0107 za artyku\u0142, wyszukaj artyku\u0142,
+    wpisz adres dostawy"
+  - "wymie\u0144 wszystkie sk\u0142adniki, wyja\u015Bnij mo\u017Cliwe modyfikacje
+    przepisu, opisz wszystkie kroki potrzebne do wykonania ciasta, opisz jak nale\u017Cy
+    \u0142\u0105czy\u0107 sk\u0142adniki dla ka\u017Cdego z nich"
+  Op3:
+  - "Okre\u015Bl termin podr\xF3\u017Cy; Poszukaj opcji podr\xF3\u017Cy; Por\xF3wnaj
+    i zestaw opcje; Zarezerwuj najlepsz\u0105 opcj\u0119"
+  - "Imiona jego rodzic\xF3w"
+  - " Zdaj egzaminy dla pilot\xF3w; We\u017A udzia\u0142 w szkoleniu lotniczym; Wykonaj
+    wszystkie niezb\u0119dne badania lekarskie;  Sprawd\u017A szko\u0142y dla pilot\xF3w"
+  - "Aby pom\xF3c nam my\u015Ble\u0107 jak komputer"
+  - 58
+  - 35, 15
+  - "grudzie\u0144"
+  - -0.214
+  - P
+  - 12x2 + 10xy
+  - "Zarejestruj si\u0119 / Zaloguj Wyszukaj produkty W\u0142\xF3\u017C produkty
+    do koszyka Podaj sw\xF3j adres Dokonaj p\u0142atno\u015Bci"
+  - A
+  - PU LP MC PD SC MF
+  - 7
+  - "1)Sprawd\u017A ile masz \u015Brodk\xF3w w got\xF3wce lub na karcie 2) Id\u017A
+    do sklepu 3) Wybierz najbardziej dogodny sklep 4) Wybierz ofert\u0119 posi\u0142ku
+    w Twoim przedziale cenowym 5) Zap\u0142a\u0107 przy kasie"
+  - "1) WYBIERZ na podstawie odleg\u0142o\u015Bci 2) WYBIERZ najpierw na podstawie
+    mojego wieku 3)SPRAWD\u0179, ile jeste\u015B w stanie przeznaczy\u0107 na kart\u0119
+    rabatow\u0105 4) WYBIERZ na podstawie okresu 5) WYBIERZ na podstawie statusu
+    podr\xF3\u017Cy"
+  - "Powiniene\u015B u\u017Cy\u0107 trzepaczki do A,B,C "
+  - "Jakie materia\u0142y i elementy gry s\u0105 potrzebne?"
+  - "Wiesz, kto upu\u015Bci\u0142 pieni\u0105dze.  Zwracasz pieni\u0105dze, ale ta
+    osoba uwa\u017Ca, \u017Ce na pod\u0142odze by\u0142o wi\u0119cej pieni\u0119dzy
+    i oskar\u017Ca Ci\u0119 o z\u0142odziejstwo. Szczerze wyja\u015Bniasz, \u017Ce
+    tak nie jest. Oddajesz to, co znalaz\u0142e\u015B na pod\u0142odze. Osoba nie
+    wierzy Ci, odchodzisz wi\u0119c z pieni\u0119dzmi."
+  - "Anga\u017Cuj si\u0119 w r\xF3\u017Cne wydarzenia w innych bran\u017Cach i dziedzinach
+    pracy, aby nie przegapi\u0107 okazji. "
+  - "Programowanie; Praca w zespole; Punktualno\u015B\u0107."
+  - "Wy\u017Cywienie; Mapa; Leki; Radio; Zapa\u0142ki; Dodatkowa odzie\u017C; Latarka "
+  - "Pojd\u017A autostopem lub we\u017A taks\xF3wk\u0119."
+  - "zastosowa\u0107 prawa asertywno\u015Bci; opu\u015Bci\u0107 miejsce/sytuacj\u0119;
+    nazwa\u0107 elementy sytuacji; rozpozna\u0107 ryzykowny kontekst"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; okre\u015Bli\u0107 zasady, kt\xF3re
+    nale\u017Cy zastosowa\u0107; przygotowa\u0107 instrukcj\u0119 krok po kroku;
+    rozpozna\u0107 obszary \u0142\u0105cz\u0105ce elementy"
+  - "oba powy\u017Csze"
+  - "wpisz adres dostawy, dodaj artyku\u0142 do koszyka, zap\u0142a\u0107 za artyku\u0142,
+    wyszukaj artyku\u0142"
+  - "wymie\u0144 wszystkie sk\u0142adniki, opisz wszystkie kroki potrzebne do wykonania
+    ciasta, opisz jak nale\u017Cy \u0142\u0105czy\u0107 sk\u0142adniki dla ka\u017Cdego
+    z nich, wyja\u015Bnij mo\u017Cliwe modyfikacje przepisu"
+  Op4:
+  - "Por\xF3wnaj i zestaw opcje; Zdecyduj o terminie podr\xF3\u017Cy; Poszukaj opcji
+    podr\xF3\u017Cy; Zarezerwuj najlepsz\u0105 opcj\u0119"
+  - Termin trasy
+  - " Wykonaj wszystkie niezb\u0119dne badania lekarskie; Sprawd\u017A szko\u0142y
+    dla pilot\xF3w; Zdaj egzaminy dla pilot\xF3w; We\u017A udzia\u0142 w szkoleniu
+    lotniczym"
+  - "Wszystkie powy\u017Csze"
+  - 56
+  - 25, 15
+  - "\u017Badne z powy\u017Cszych"
+  - -0.268
+  - Q
+  - 12x2 - 10xy
+  - "Wyszukaj produkty Podaj sw\xF3j adres Dokonaj p\u0142atno\u015Bci Umie\u015B\u0107
+    produkty w koszyku"
+  - C
+  - MC PU MF PD SC LP
+  - 8
+  - "1)Sprawd\u017A ile masz \u015Brodk\xF3w w got\xF3wce lub na karcie 2) Wybierz
+    najbardziej dogodny sklep 2) Id\u017A do sklepu 4) Wybierz ofert\u0119 posi\u0142ku
+    w Twoim przedziale cenowym 5) Zap\u0142a\u0107 przy kasie"
+  - "1) WYBIERZ najpierw na podstawie mojego wieku 2)SPRAWD\u0179, ile jeste\u015B
+    w stanie przeznaczy\u0107 na kart\u0119 rabatow\u0105 3) WYBIERZ na podstawie
+    okresu 4) WYBIERZ na podstawie statusu podr\xF3\u017Cy 5) WYBIERZ na podstawie
+    odleg\u0142o\u015Bci"
+  - "\u017Baden z wyminionych sprz\u0119t\xF3w kuchennych nie nadaje si\u0119 do
+    pieczenia."
+  - Jak dobra jest ta gra?
+  - "Nie wiesz, kto upu\u015Bci\u0142 pieni\u0105dze. Pytasz, ale nikt nie jest w\u0142a\u015Bcicielem.
+    Oddajesz te pieni\u0105dze na cele charytatywne lub na rzecz osoby potrzebuj\u0105cej. "
+  - "Je\u015Bli okre\u015Blisz interesuj\u0105c\u0105 Ci\u0119 prac\u0119, poszukaj
+    jej w Internecie i przeczytaj opis stanowiska. Zobacz, jakie kwalifikacje, umiej\u0119tno\u015Bci
+    i do\u015Bwiadczenie b\u0119d\u0105 Ci potrzebne, to da Ci punkt wyj\u015Bcia
+    i poka\u017Ce obszary, nad kt\xF3rymi b\u0119dziesz musia\u0142 popracowa\u0107."
+  - "Rozwi\u0105zywanie problem\xF3w; Konstruwanie maszyn; Kreatywno\u015B\u0107."
+  - "Woda; Leki; \u017Bywno\u015B\u0107; Zapa\u0142ki; N\xF3\u017C kieszonkowy; Gry
+    planszowe; Mapa"
+  - "Wr\xF3\u0107 do domu, bo i tak nie zd\u0105\u017Cysz na pocz\u0105tek egzaminu.
+    Spr\xF3buj jeszcze raz jutro."
+  - "rozpozna\u0107 ryzykowny kontekst; opu\u015Bci\u0107 miejsce/sytuacj\u0119;
+    zastosowa\u0107 prawa asertywno\u015Bci; nazwa\u0107 elementy sytuacji"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; przygotowa\u0107 instrukcj\u0119
+    krok po kroku; okre\u015Bli\u0107 zasady, kt\xF3re nale\u017Cy zastosowa\u0107;
+    rozpozna\u0107 obszary \u0142\u0105cz\u0105ce elementy "
+  - "\u017Cadne z powy\u017Cszych"
+  - "wyszukaj przedmiot, dodaj przedmiot do koszyka, podaj adres dostawy, zap\u0142a\u0107
+    za przedmiot"
+  - "wymie\u0144 wszystkie sk\u0142adniki, opisz jak nale\u017Cy je \u0142\u0105czy\u0107
+    dla ka\u017Cdego z nich, wyja\u015Bnij mo\u017Cliwe modyfikacje przepisu, opisz
+    wszystkie kroki potrzebne do wykonania tortu"
+  answersIndex: 02000000030000000000000000000000010000000000000002000000030000000200000001000000020000000200000001000000020000000300000001000000010000000300000003000000020000000100000003000000010000000000000000000000020000000300000003000000

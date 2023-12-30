@@ -1,0 +1,20 @@
+Converting script [1 / 2]	[\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs]
+	Fragments : 3
+		[ 0] : Line:  133	InputMethod   GetButtonDown       	("Jump")
+		[ 1] : Line:  217	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:  218	InputMethod   GetAxis             	("Vertical")
+
+Converting script [2 / 2]	[\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs]
+	Fragments : 4
+		[ 0] : Line:   40	InputMethod   GetButtonDown       	("Jump")
+		[ 1] : Line:   49	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:   50	InputMethod   GetAxis             	("Vertical")
+		[ 3] : Line:   51	InputMethod   GetKey              	(KeyCode.C)
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [F:/Brain Game Studio/CTApp--Game-Final-CP/CF2-Data/Script-Backups/2023-10-23-16-41\Assets-After/\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs] to [F:/Brain Game Studio/CTApp--Game-Final-CP/Assets/\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs]
+	[1 / 2] from  [F:/Brain Game Studio/CTApp--Game-Final-CP/CF2-Data/Script-Backups/2023-10-23-16-41\Assets-After/\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs] to [F:/Brain Game Studio/CTApp--Game-Final-CP/Assets/\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs]
+
+Overwriting COMPLETED!

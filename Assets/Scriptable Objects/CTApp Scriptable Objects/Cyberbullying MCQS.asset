@@ -1,0 +1,417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Cyberbullying MCQS
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - What number should replace the question mark?
+  - A school database has lots of information on students, the data manager needs
+    to use abstraction. What data should she leave out?
+  - What number should replace the question mark?
+  - "In a store, A, B and C robots work together. These robots move in the same direction
+    concurrently. Following the given directions, the robots are collecting the objects
+    on the surface. For example, when the directions are given as \u201CN, N, S,
+    S, E\u201D, then robot A takes a cone, robot B takes a ring, and robot C takes
+    a cone. Question: Which directions need to be followed in order for robots A,
+    B and C to take sphere, ring and cone respectively? "
+  - What comes next in the sequence?
+  - 'You are flipping through a deck of cards following this simple rule: Flip a
+    card. If the card is a heart, you discard (without looking at) a number of cards
+    that equal to the total number of heart cards you have already flipped. You continue
+    repeating this step until you run out of cards. Which of the following algorithms
+    implements your rule? '
+  - 'You are cooking and your food turn out to be either: A- too salty B- too spicy 
+    C- too sweet D- too sour What do you do in those cases?'
+  - You want to create a coping skills tracker for anxiety and stress. Read the following
+    sentences and choose the response that does not help you create a coping skills
+    tracker.
+  - You need an outfit to attend a fancy event. Which is the most effective plan
+    to take to make sure you have an appropriate outfit in time?
+  - 'To add up all the integers from 1 to X in 10 seconds, using only your memory,
+    you should calculate:'
+  - It takes 2 hours to fully charge a cell phone. What is the shortest time to fully
+    charge 3 cell phones using 2 chargers?
+  - 'What is the error in the following program, which should draw a 100px x 100px
+    square once, starting from the upper left corner to the right: repeat 4 times
+    the block in parentheses [move 100px], turn right 90 degrees.'
+  - The chess figure - the knight is located on the middle field of the 5x5 board.
+    The knight can move two fields horizontally and one vertically or two vertically
+    and one horizontally. What is the least number of moves to get to one of the
+    corners?
+  - 'In order to see an object in a stereographic image (to see a two-dimensional
+    graphic in three dimensions, as seen from a perspective), you need to do the
+    following in the order given: '
+  - 'Isla is playing Mastermind on her computer: The computer makes up a password
+    from four distinct digits. The player can submit several guesses of this password.
+    Each time, the computer responds with the number of correct digits, which appear
+    both in the guess and in the password. Also, it tells the player whether they
+    placed these digits in the right positions. Isla made some guesses (?). From
+    the responses given, she was able to discover the password. ? ? ? ? 5 7 2 0 One
+    of the digits is correct and in the proper position. 6 0 3 1 One of the digits
+    is correct, but not in the proper position. 1 4 8 5 Two digits are correct, but
+    they are not in the proper positions. 1 5 9 6 None of the digits are correct.
+    8 1 2 5 One of the digits is correct, but not in the proper position. Question:
+    What is the password?'
+  Question_Explanation:
+  - 'There is a pattern here! Try to subtract the smaller number from the larger
+    one in each part of the bigger circle. Multiply what you get with 3 and you will
+    find the number in the corresponding part of the smaller circle. For example,
+    for the two upper parts of the bigger circle: 12-8=4, 4x3=12 and 14-10=4, 4x3=12 '
+  - 'Definitely eye colour! All the other information can be quite useful for the
+    teachers and the headmaster at some point. '
+  - 'Look at the columns and rows. Try to see if you can find a pattern. Keep in
+    mind that in these types of questions, the column or row with ? (question mark)
+    will almost always present the result of the other columns and rows. With this
+    in mind, try to use a mathematical approach. Start with simple math. Sum the
+    1st and 3rd columns and divide them by 2nd. Do you see a pattern? Do you have
+    any results? It''s all about pattern recognition and finding the right pattern
+    through math. If the summation doesn''t work, continue by minusing, subtracting,
+    multiplying or etc. For this case, we use minus. This is the pattern it follows:
+    (1st column - 3rd column)/divide by 2nd column = X+ surplus. Surplus increases
+    from 0 to up. Can you figure it out?'
+  - 'This question also needs your attention to the recognition of the pattern. These
+    three robots follow the same direction. They follow the same order. So, as in
+    the example mentioned in the question, try to simplify it by considering, N is
+    up, S is down, E is right and W is left. So the order of N, N, S, S, E is up,
+    up, down, down, right. Got it? Now, let''s see, the question says Robot A should
+    take Sphere, Robot B should take the ring and Robot C should take the cone, so
+    what would be the best pattern for all of them to follow? Check the closest sphere
+    to A, closest ring to B and closest cone to C. Write down the pattern you think
+    is best for each of them. Remember that they all follow the same order and move
+    in the same direction. Try to adopt your order thinking about this. Also, remember
+    that not always possible to get to the closest object. Haven''t figured it out
+    yet? One more tip, check the answers. Try to apply each answer to each robot.
+    See which answer can be applied to all. '
+  - Try to understand the pattern that each elemnets follow and then check them together.
+    What changes? how changes? What is the direction that it goes? The blue circle
+    moves in the direction the clock hand points, the number the hand points to is
+    the number of blocks it moves.
+  - 'n is the number of heart cards you have flipped and also the number of cards
+    will be discarded. It equals to 0 for the start. -> n = 0 When the card is in
+    the deck, you flip it -> while there are cards in the deck:     flip card If
+    the card is a heart for the 1st time, the number of flipped heart cards now is
+    1. You discard 1 card. -> If card is a heart:     n = n + 1 If the card is a
+    heart for the 2nd time, the number of heart cards will be 1+1. You discard 2
+    cards. -> repeat n times:     discard card You repeat the process again by flipping
+    the rest of the deck. -> flip card'
+  - The correct answer is A.  Aswers C and D are wrong because you NEVER add salt
+    if the food is too sweet; Answer B is wrong because you do not add sugar if the
+    food is salty.
+  - The correct answer is C as this answer explain what a tracker is but does not
+    help you create a coping skills tracker for anxiety and stress.  All the other
+    answers are sentences that can be implemented in the coping skills tracker.
+  - Answers A, B ,or D could be correct, but A is the ideal answer. By considering
+    first the items you already have, and then deciding if they are appropriate for
+    the event, you are breaking down the challenge into smaller, easier steps
+  - 'For starters, an example. Adding numbers from 1 to 10, that is, to X = 10, is
+    easy at first. 1 + 2 is just 3, and 3 + 3 is 6, etc. But imagine adding from
+    1 to 140. As you add more and more numbers in your mind, it''s easy to get confused.
+    Try to find a general solution by changing the way you think. Add, for example,
+    not the first and second numbers, but the first and last. 1 + 10 = 11. The next
+    pair gives the same result: 2 + 9 = 11. You have decomposed the data into simple,
+    repeatable elements. In subsequent pairs, the sum will also be 11. So you have
+    recognized the pattern of easy summation. How many pairs will have the same sum?
+    The next pairs are: 1+10, 2+9, 3+8, 4+7 and 5+6. The number of pairs is 5, which
+    is half of the numbers you have to sum. You can write it so that with 10 numbers
+    there is 10 / 2 = 5 - five pairs. You can now abstract the idea using aritmetic
+    symbols and arrange an algorithm, describing steps of the solution for any data.
+    With X numbers, you have X / 2 pairs, and the summing values are 1 + X. So the
+    algorithm looks like this: X/2+(1+X). Now check if this algorithm also gives
+    correct results for numbers from 1 to 11, to 20, or for any other number. Also,
+    try to generalize this algorithm to any pair of numbers <X; Y> where X<Y.'
+  - 'The desired outcome is to fully charge three cell phones using two chargers
+    in the shortest time possible.  We can first note that if we try to charge all
+    3 cell phones simultaneously using 2 chargers, the charging time will be longer
+    than 2 hours for each phone. This is because the power being supplied by the
+    chargers will be divided among the 3 phones, so each phone will receive less
+    than the full charging power it needs.  Instead, we can charge 2 of the cell
+    phones using both chargers simultaneously, and then charge the third phone separately
+    once one of the first 2 phones is fully charged. This way, we can get two phones
+    charging at the full charging power for 2 hours, which will fully charge them.
+    Then, we can use one of the chargers to charge the third phone for 2 hours until
+    it is fully charged.  So, the total charging time for all 3 phones will be 2
+    hours for the first two phones + 2 hours for the third phone = 4 hours.  The
+    above method is also not the fastest one. We can compare the presented solution
+    and explanation to other possible answers found as a result of computational
+    thinking. The first step of computational thinking is the problem decomposition,
+    one of computational thinking steps. The problem decomposition  involves breaking
+    down a complex problem into smaller, more manageable sub-problems that can be
+    solved individually and then combined to solve the larger problem.   We can decompose
+    the general problem of charging 3 phones with 2 chargers into four simpler sub-problems:
+    charging two phones for 2 hours with two chargers, charging one phone for 2 hours
+    with one charger, charging one phone for 1 hour with one charger and switching
+    one phone from one charger to another.  Now, using these sub-problems and combining
+    the extracted variants in a new way, we can see that we can start by charging
+    the first phone for 2 hours with the first charger. At the same time, we can
+    start charging the second phone with the second charger, but disconnect it after
+    1 hour and connect the third phone to the second charger for 2 hours. Once the
+    first phone has been fully charged with the first charger, we can in turn connect
+    the second phone to this charger for 1 hour. In this way, it will take a total
+    of 3 hours to fully charge all three phones using the two chargers.  This is
+    the shortest possible time because we are using two chargers simultaneously and
+    optimising the charging time for each phone. If we were to charge all three phones
+    for 2 hours using one charger, it would take a total of 6 hours to fully charge
+    all three phones. Therefore, the solution of charging one phone for 1 hour and
+    then switching to the other charger while charging the other two phones for 2
+    hours is the most efficient approach, which is the benefit of using computational
+    thinking.'
+  - 'The error in the program is that it will draw four times the sides of the square,
+    but as a one stright line and it will not complete the square by connecting the
+    last side to the first side. Instead, the program will end up turning the pen
+    90 degrees to the right after drawing the fourth side, but without moving the
+    pen to the starting point of the square. Therefore, the final drawing will be
+    a "I" shape instead of a square.  The error is due to the fact that the 90-degree
+    clockwise rotation command is outside the loop.   To correct the program, the
+    90-degree clockwise rotation command should be inside the loop, what takes the
+    pen to the starting point of the square. Specifically, the program should be
+    modified to set the block in parentheses as [move 100px, turn right 90 degrees]
+    before repeating the block again. This way, after drawing each side of the square,
+    the pen turn right and finally will move to the starting point of the square,
+    and the drawing will be a complete square. The corrected program would be:  repeat
+    4 times: [move 100px, turn right 90 degrees]  The correction of the program mistake
+    is an example of applying computational thinking principles to a programming
+    task. Specifically, the correction involves the use of algorithmic thinking and
+    debugging to identify and solve a logical error in the program.  The algorithmic
+    thinking process involves breaking down the program into a sequence of steps
+    and analyzing how those steps will produce the desired output. By doing this,
+    it becomes clear that the original program will draw four sides of a square as
+    a single, stright line and fail to complete the square by connecting the last
+    side to the first side.  The debugging process involves identifying the error
+    in the program''s logic and then modifying the program to correct the error.
+    In this case, the error is identified as the placing turn right 90 degrees command
+    outside the loop not taking the pen back to the starting point of the square.
+    The corrected program is then modified by moving the turn right 90 degrees command
+    inside the loop to complete the square.  Overall, this correction demonstrates
+    the importance of algorithmic thinking and debugging in programming tasks. By
+    applying these computational thinking principles, programmers can identify and
+    solve errors in their programs to produce the desired output.'
+  - 'To find the least number of moves for a knight to get to one of the corners
+    of a 5x5 chessboard from the middle field, we can use a search algorithm such
+    as breadth-first search or Dijkstra''s algorithm. However, because the search
+    space is relatively small, we can also solve this problem manually by analyzing
+    the possible moves.  First, we can observe that there are only eight possible
+    moves that the knight can make from the central square:  1. Move 2 squares down
+    and 1 square right 2. Move 2 squares down and 1 square left 3. Move 2 squares
+    up and 1 square right 4. Move 2 squares up and 1 square left 5. Move 2 squares
+    left and 1 square down 6. Move 2 squares left and 1 square up 7 Move 2 squares
+    right and 1 square down 8. Move 2 squares right and 1 square up  By making any
+    of these eight moves, the knight will be on the field next to one of the corners
+    of the board. Therefore, the minimum number of moves required for the knight
+    to reach one of the corners is four. This is because the knight must make at
+    least three moves in order to reach the field next to which it is located or
+    the mirrored field.  For example, suppose the knight starts on the central square
+    and wants to reach the upper right corner. The optimal sequence of moves would
+    be:  1. Move 2 squares down and 1 square right. 2. Move 2 squares left and 1
+    square up. 3. Move 2 squares up and 1 square right. 4. Move 2 squares right and
+    1 square up. OR 1. Move 2 squares up and 1 square right. 2. Move 2 squares down
+    and 1 square right. 3. Move 2 squares left and 1 square up. 4. Move 2 squares
+    right and 1 square up.  Overall, this sequence of moves takes the knight to the
+    upper right corner of the board in just four moves, which is the minimum number
+    of moves required.  From a computational thinking perspective, solving the problem
+    of finding the least number of moves for a knight to get to one of the corners
+    of a 5x5 chessboard starting from the central square can be broken down into
+    a series of steps:  1. Define the problem: The problem is to find the shortest
+    path that a knight can take to reach one of the corners of a 5x5 chessboard starting
+    from the central square, given that the knight must move in an L-shaped pattern. 
+    2. Analyze the problem: The first step in analyzing the problem is to understand
+    the constraints. In this case, the knight must move in an L-shaped pattern, which
+    means that it can move two squares in one direction and then one square in a
+    perpendicular direction. The chessboard is a 5x5 grid, which means there are
+    25 squares. The starting position is the central square, which is at the intersection
+    of the third row and the third column.  3. Design a solution: To design a solution,
+    we can use a search algorithm to explore all possible paths that the knight can
+    take to reach one of the corners of the chessboard. A common search algorithm
+    used for problems like this is called breadth-first search (BFS). BFS starts
+    at the starting position and explores all possible moves from that position.
+    Then it moves to the next level of the search tree and explores all possible
+    moves from those positions. This process continues until the solution is found. 
+    4. Implement the solution: The implementation of the solution involves writing
+    code to perform a BFS search on the chessboard. The algorithm should keep track
+    of the shortest path found so far and stop searching when a path to one of the
+    corners is found.  5. Test the solution: To test the solution, we can run the
+    code on different test cases, such as starting from different positions on the
+    chessboard or changing the size of the chessboard. We should also test the solution
+    on edge cases, such as when the starting position is already in a corner of the
+    chessboard.  From this perspective, it is clear that the minimum number of moves
+    required for the knight to reach one of the corners of the 5x5 chessboard starting
+    from the central square is 4. This can be proven by analyzing all possible moves
+    the knight can make and finding the shortest path to a corner.'
+  - Stereoscopic vision is the ability of our eyes to see the same object from slightly
+    different perspectives, due to their slightly different positions on our face.
+    Our brain then combines these two images to create a three-dimensional perception
+    of the object.   A stereographic image takes advantage of this natural phenomenon
+    by presenting two slightly different images side by side. When viewed correctly,
+    our brain combines these two images to create the illusion of a three-dimensional
+    image.  The steps mentioned in the question are a training method for our eyes
+    and brain to see the 3D image in stereogram.   From a computational thinking
+    perspective, we can think of these steps as a process of training our visual
+    perception system to process a stereographic image. This process involves a series
+    of steps that allow us to overcome natural cognitive biases and adapt our visual
+    perception system to create the illusion of a 3D image.  A computational thinking
+    approach involves breaking down a problem into a series of smaller steps and
+    algorithms that can be performed in a logical order. In the case of viewing a
+    stereogram, the steps listed in the question help us train our visual perception
+    system.  The first step, relaxing the eyes, can be seen as decomposition, overcoming
+    the natural tendency to focus on one point. By relaxing the eyes, we are able
+    to see images in a stereogram that we did not see before, without focusing on
+    any of them.  The second step, looking beyond the image, can be seen as overcoming
+    the natural cognitive tendency to focus on objects in our field of vision. By
+    looking beyond the image, we are able to encompass both images in a stereogram
+    without focusing on either of them. It is when we look beyond the image that
+    we usually perceive the image hidden in the stereogram, which can be referred
+    to as pattern recognition.   The third step, moving the stereogram/head away,
+    can be seen as an adjustment of our visual perception system to the two images
+    in the stereogram. By moving the stereogram/head away, we are able to adjust
+    our visual perspective so that the two images are correctly aligned. Seeing the
+    newly recognised spatial image, we perceive its three-dimensional background
+    and abstract - understand the general principle and procedure of stereoscopic
+    vision.   The fourth step, zooming in and out of the stereogram, can be seen
+    as a refinement of the algorithm for aligning the two images for depth perception.
+    By zooming in or out from the stereogram, we are able to adjust the distance
+    between our eyes and the image, which affects the perceived depth.  Overall,
+    the steps mentioned in the question can be considered as an algorithm for training
+    our visual perception system to process a stereographic image. By following these
+    steps, we are able to overcome natural cognitive biases and adapt our visual
+    perception system to create the illusion of a 3D image.
+  - 'To arrive at this number we must systematically follow a procedure according
+    to the information available. This process must be iterative. One of the ways
+    to solve it is to subdivide the problem and first try to discover the digits
+    and then the correct order.  In terms of computational thinking it means that
+    we have to pass 4 steps:   Step 1: Decomposition To solve the problem, we need
+    to break it down into smaller parts. We need to analyze each guess and its response
+    to narrow down the possible values for each digit in the password.  Step 2: Pattern
+    Recognition We need to look for patterns in the guesses and responses. For example,
+    in the first guess, one digit is in the right position, which means that the
+    corresponding digit in the password must be one of the digits in the guess. We
+    also know that the password consists of four distinct digits.  Step 3: Abstraction
+    We need to abstract the information we have gathered and keep track of the possible
+    values for each digit in the password based on the responses given.  Let''s abstract
+    the idea of solution. General steps of abstraction can be noted as follows: 
+    - The problem can be abstracted as a guessing game with limited feedback. - The
+    goal is to use the feedback to eliminate incorrect possibilities and gradually
+    narrow down the search space. - The problem involves finding a combination of
+    four distinct digits that satisfy certain conditions. - We need to create a table
+    to keep track of the possible values for each digit in the password based on
+    the responses given by the computer. - The last step is iterative: we need to
+    compare information in each row finding a combination of four distinct digits
+    that satisfy certain conditions.  Step 4: Algorithm design Based on the information
+    in the table, we can narrow down the possible values for each digit in the password.
+    We can start by looking at the digits that appear in multiple guesses and try
+    to deduce their position in the password in a couple of iterations.   Detailed
+    steps of algorithm at work are:   From the first row (guess plus response) we
+    know that only one of the given digits is part of the password. The second and
+    third rows provide similar information.  The fourth row then helps to extract
+    more information from rows one to three: We can discard 5 from the first guess,
+    6 from the second guess, and 1 and 5 from the third guess. From this last step
+    we know that 4 and 8 are parts of the password. Then the correct digit in the
+    fifth guess is 8; from that we can conclude from row five that 1, 2 and 5 are
+    not parts of the password.  If we go back to rows one and two, the possibly correct
+    numbers are 7 or 0 in row one, and 3 or 0 in row two. Thus, we have 5 possible
+    numbers 0,3,4,7 and 8. If 0 was in the password, then both 7 and 3 would need
+    to be discarded given that only one number is correct for rows one and two. This
+    would leave only 0,4,8 as possible numbers in the password. Given that the password
+    must contain four unique numbers, 0 cannot be correct. Therefore, the other digits
+    that complete the code must be 3 and 7. Now we consider the information of the
+    position or order. From rows three and five, we know that 8 can be in positions
+    2 or 4:  ?-8-?-8 and that 4 can be in all positions but 2: 4-?-4-4 From row one
+    we know that 7 must be in position 2; then, 8 must be in position 4. From row
+    two we know that 3 cannot be in position 3, so that it must be in position 1.
+    Hence, 4 is in position 3. This gives the only possible option for the password
+    which is: 3-7-4-8'
+  Op1:
+  - 12
+  - Age
+  - 2
+  - N, E, E, E
+  - A
+  - 'n = 0 while there are cards in the deck: flip card if card is a heart: n = n
+    + 1 repeat n times: discard card'
+  - A you add water, B you add sugar,  C you add lemon juice or olive oil,  D you
+    add honey or sugar
+  - Write down few coping skills that will help people control their anxiety. These
+    coping skills could be "count to 10 slowly" or "brief in and out"
+  - 1) Search for outfit ideas on the internet and find one you like 2) Consider
+    the clothes you have in your closet first, can you replicate the outfit you like
+    with items you already have? 3) Decide if you need to buy a new item for the
+    outfit and research the best item to buy 4) Buy the new items and pair them with
+    your existing clothes to form the outfit you like
+  - X/2 * (X+1)
+  - 3
+  - repeat loop should repeat 2 times
+  - 4
+  - relax your eyes; look beyond it; raise the stereogram/head; move closer and further
+    away from it
+  - 5182
+  Op2:
+  - 24
+  - Classes
+  - 3
+  - N, E, E, S, E
+  - B
+  - 'while there are cards in the deck: flip card while the current card is a heart:
+    discard card'
+  - A you add sugar, B you add sugar,  C you add lemon juice or olive oil,  D you
+    add honey or sugar
+  - 'What make people feel anxious? Write down what could be the anxiety triggers.
+    These anxiety triggers could be "I have been asked to talk in front of a crowd". '
+  - 1) Look online for an outfit you can buy all together from the same store 2)
+    Wear your entirely new outfit to the event
+  - X*2 / (X+1)
+  - 4
+  - "the \u201Cturn right\u201D block should be inside the loop, after the \u201Cmove\u201D
+    block"
+  - 3
+  - raise the stereogram/head; look beyond it; move closer and further away from
+    it; relax your eyes
+  - 3210
+  Op3:
+  - 18
+  - Guardian's phone numbers
+  - 4
+  - N, N, S, E, N
+  - D
+  - 'n = 0 while there are cards in the deck: flip card repeat n times: discard card
+    if card is a heart: n = n + 1'
+  - A you add water, B you add sugar,  C you add salt,  D you add honey or sugar
+  - A tracker is a device that follows and records the movements of someone or something.
+  - 1) Wear the same outfit you wore to school yesterday
+  - (X+1) / X*2
+  - 6
+  - the "move" block should be outside the loop
+  - 5
+  - move the head closer and further away from the stereogram; relax the eyes; raise
+    the stereogram/head; look beyond it
+  - 2835
+  Op4:
+  - 6
+  - Eye colour
+  - 5
+  - N, E, E, S, W
+  - E
+  - 'n = 0 while there are cards in the deck: flip card while the current card is
+    a heart: n = n + 1 discard card flip card'
+  - A you add water, B you add sugar,  C you add salt D you add honey or sugar
+  - 'How well did the coping skills work in helping you calm down? Rate from 1 (not
+    much) to 5 (a lot). '
+  - 1) Search for outfit ideas on the internet and find one you can replicate with
+    items in your closet, even if they are not fancy 2) Make sure all your items
+    are clean and not damaged 3) Wear your existing clothes to the event
+  - 2X * X
+  - 2
+  - the "rotate right" block should be inside the loop, before the "move" block.
+  - impossible - infinite number
+  - relax the eyes; raise the stereogram/head; look beyond it; move closer and further
+    away from it
+  - 3748
+  answersIndex: 020000000300000001000000020000000100000000000000000000000200000000000000000000000000000001000000000000000000000003000000

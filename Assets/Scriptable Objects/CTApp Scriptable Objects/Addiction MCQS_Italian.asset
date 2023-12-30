@@ -1,0 +1,515 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Addiction MCQS_Italian
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 3
+  questions:
+  - "Stai pensando di viaggiare in un altro paese e vuoi prenotare la migliore opzione
+    di viaggio in termini di budget e la durata del viaggio. Per fare ci\xF2, dovresti
+    seguire questi passaggi nell'ordine fornito:"
+  - "Mike sta pubblicando un annuncio online su Facebook per promuovere il prossimo
+    tour della sua band. Qual \xE8 l'informazione pi\xF9 rilevante?"
+  - Cosa dovresti fare se vuoi essere un pilota?
+  - "Perch\xE9 dobbiamo pensare in modo computazionale?"
+  - "Un muro sotto forma di un trapezio ha 15 file di mattoni. La prima riga ha 5
+    mattoni, la riga successiva ha altri 4 mattoni, il prossimo ne ha altri 4, ecc.
+    Qual \xE8 il numero di mattoni nella 15a riga?"
+  - "90 studenti di un campo estivo sono stati divisi in 3 squadre. La squadra A
+    ha 35 studenti, il team B ha 15 studenti in pi\xF9 rispetto al team C. Quanti
+    studenti hanno le squadre B e C, rispettivamente?"
+  - "Quale dei seguenti \xE8 la parola che si adatta al minimo? Settembre ottobre
+    Novembre Dicembre"
+  - "Quale la scomposizione pratica della frazione di X-25 = X2 + 5X \u2013 24?"
+  - "Qual \xE8 la parola successiva? A E I M ?"
+  - "Semplifica l\u2019equazione: S = 6x(x + 3x -1) - 6x2 - 8xy"
+  - "Sara sta scrivendo un sito web per un marchio di abbigliamento. Qual \xE8 il
+    processo corretto per un'azione di acquisto di un cliente?"
+  - Come continua la sequenza?
+  - "Una gru sta scaricando un carico da una nave le opzioni a disposizione del conducente
+    sono: (PU) raccogliere il contenitore (SC) se ci sono ancora container sulla
+    nave (MF) Muovi la gru nello spazio libero (LP) loop per controllare di nuovo
+    (MC) sposta la gru sopra il container (PD) contenitore posato Quale di questi
+    scaricher\xE0 la nave?"
+  - "Ci sono 10 articoli con peso di (2, 10, 8, 6, 9, 5, 3, 3, 7, 4). Qual \xE8 il
+    numero massimo di oggetti che possiamo mettere in una borsa con un peso massimo
+    di 30?"
+  - "Pranzo. Trova il modo pi\xF9 efficace per budget i tuoi soldi."
+  - "Tariffa del treno. Puoi acquistare una scheda sconto per avere sconti in fiera
+    del treno. I tipi di carte di sconto sono divisi in: - fascia di et\xE0 (da meno
+    di 30, 30 a 60, oltre 60) - Stato del viaggio (da solo, due persone, gruppo)
+    - Viaggi a lunga distanza (fuori dalla tua regione) - Acquista la fiera dello
+    sconto per un lungo periodo o breve periodo (promozione di un anno o 3 anni)
+    Trova il modo pi\xF9 efficace per budget i tuoi soldi."
+  - 'Stai cuocendo. Quale mixer da cucina dovresti usare per quanto segue: A - biscotti
+    e torte B - Meringa, glassa, panna montata C- pane e panini dolci'
+  - Stai sviluppando un gioco da tavolo. Leggi le seguenti frasi e scegli la frase
+    che non ti aiuta a sviluppare un gioco da tavolo.
+  - "Entra in un negozio e ci sono dei soldi sul pavimento. Cosa dovresti fare? Scegli
+    la risposta morale pi\xF9 adatta nella conisderazione degli scenari."
+  - Vuoi essere assunto per un lavoro specifico. Leggi le seguenti frasi e scegli
+    la risposta che non ti aiuterebbe.
+  - "Leggi le seguenti frasi e scegli la risposta che contiene solo competenze trasversali.
+    Le competenze trasversali sono caratteristiche e tratti che hai come individuo,
+    sviluppato nel tempo attraverso un'esperienza di vita generale. Le abilit\xE0
+    concrete d'altra parte si concentrano sulla tua capacit\xE0 di svolgere compiti
+    specifici."
+  - "Immagina uno scenario in cui devi dimostrare le tue capacit\xE0 di sopravvivenza
+    e imballare la borsa con oggetti che potrebbero aiutarti. Leggi le seguenti frasi
+    e scegli la risposta che non contiene solo elementi di sopravvivenza moderni
+    essenziali."
+  - Il tuo treno per la scuola viene cancellato e hai un esame al mattino. Cosa puoi
+    fare per assicurarti di non essere in ritardo?
+  - 'Per resistere a pressioni indesiderate per fare la cosa sbagliata, dovresti
+    seguire questi passaggi nell''ordine indicato:'
+  - 'Per insegnare al robot come pulire una stanza dovresti seguire i seguenti passaggi
+    nell''ordine fornito:'
+  - 'L''elenco delle cose da fare per la pulizia di una stanza dovrebbe includere
+    le seguenti informazioni:'
+  - "Quando si scrive un programma di shopping online, \xE8 necessario scegliere
+    l'ordine giusto delle attivit\xE0 che eseguir\xE0:"
+  - 'Per preparare una buona ricetta per la torta, seguire i passaggi nell''ordine
+    fornito:'
+  Question_Explanation:
+  - "Il pensiero computazionale consiste nel rompere le decisioni in passaggi pi\xF9
+    piccoli per essere pi\xF9 gestibili. Questo pu\xF2 anche essere applicato per
+    decidere come e quando hai intenzione di viaggiare. Innanzitutto, devi identificarti
+    quando vuoi viaggiare, in base alla tua disponibilit\xE0. Dopodich\xE9, devi
+    cercare tutte le diverse opzioni che potresti avere. Ad esempio, potresti prendere
+    in considerazione l'idea di viaggiare in auto, treno o persino aereo. Puoi anche
+    cercare opzioni pi\xF9 convenienti, ad esempio aggiungendo un volo di sosta.
+    Il prossimo passo \xE8 confrontare tutte queste informazioni e pensare a qualsiasi
+    altra possibile soluzione adatto alle tue esigenze, ad esempio viaggiando nel
+    paese in aereo ma tornando in treno se hai intenzione di risparmiare un po 'di
+    tempo. Dato che ora hai tutte le informazioni di cui hai bisogno e hai creato
+    pi\xF9 scenari, puoi scegliere quello che si adatta meglio a te!"
+  - "Tra tutte le informazioni che l'annuncio avrebbe potuto fornire, la data del
+    tour \xE8 la pi\xF9 rilevante!"
+  - "Quando decidi di fare qualcosa o risolvere un problema, \xE8 davvero importante
+    pensare attraverso i passi! In questo esempio, la prima cosa che devi fare \xE8
+    ricercare le opzioni di formazione pilota, quindi superare tutti gli esami medici
+    necessari che proporranno, prendere le lezioni di pilotaggio e, infine, dare
+    gli esami per ottenere la certificazione."
+  - "Il pensiero computazionale \xE8 davvero prezioso e pu\xF2 facilitare la risoluzione
+    dei problemi, la comunicazione e la collaborazione con gli altri e la gestione
+    della vita meglio!"
+  - "Semplificiamo questo problema! La prima fila \xE8 composta da 5 mattoni. Il
+    secondo di 5+4 = 9 mattoni e cos\xEC via. Per calcolare la 15a riga, puoi prima
+    calcolare le 14 righe oltre alla prima, moltiplicando solo 14 righe x 4 nuovi
+    mattoni. Aggiungendo anche la prima, la 15a riga \xE8 composta da 5 + (4x14)
+    = 61 mattoni."
+  - "Pensiamo questo! Quindi la squadra A ha 35 studenti, il che significa che 90
+    - 35 = 55 studenti che appartengono alla squadra B o al team C. La squadra B
+    ha 15 studenti in pi\xF9 rispetto alla squadra C, quindi dal totale di 55 studenti
+    che appartengono a uno dei Due squadre, sappiamo che almeno 15 appartengono alla
+    squadra B, quindi 55 - 15 = 40 studenti sono equamente divisi nelle due squadre.
+    Pertanto il team B ha 40/2 = 20, 20 + 15 = 35 studenti e il team C ha 40/2 =
+    20 studenti!"
+  - "Se vorremmo scegliere una delle parole che si adattano al minimo con gli altri,
+    rimuoveremmo la parola \"dicembre\" da settembre, ottobre e novembre sono tutti
+    i mesi di autunno, mentre dicembre \xE8 uno dei mesi invernali."
+  - "Pensa al livello di priorit\xE0 in matematica. Cosa dovrebbe essere calcolato
+    prima? Utilizzando il livello di priorit\xE0, cerca di includere tutti i fattori
+    sul lato sinistro dell'equazione. \xC8 una funzione polinomiale quadratica. Quindi
+    puoi seguire le regole per risolvere questo tipo di formula (X=[-b+\u221A(b2
+    - 4ac)]/2a). La risposta corretta \xE8 d. Soluzione: X-25=X^2+5X-24 >> -X^2-4X-1=0
+    >> Ora, a=-1, b=-4, c=-1 >> X=[+4 +\u221A(-16 - 4)]/-2) >> X=4+\u221A12/-2 >>
+    X=2-\u221A3= -0.268"
+  - "Pensa allo schema e allo spazio tra l'alfabeto. Parte dalla A e arriva alla
+    E. Quante lettere sono state saltate? Contale. Quindi, controlla quante lettere
+    sono state saltate tra la E e la I e quante dalla I alla M? Il numero \xE8 lo
+    stesso? Ora applica il numero che hai calcolato per rispondere. La risposta corretta
+    \xE8 \"c\"."
+  - "Usa la moltiplicazione per distribuire la porzione tra parentesi e sottrarre
+    quelle che condividono le stesse variabili. La risposta corretta \xE8 b. Soluzione:
+    6x(x + 3y -1) - 6x\u02C62 - 8xy = 6x\u02C62 + 18xy - 6x - 6x\u02C62 - 8xy = 10xy
+    - 6x\""
+  - "Pensa dal punto di vista del cliente e tieni presente che la fase di pagamento
+    dovrebbe essere sempre l'ultima. La risposta corretta \xE8 \"c\"."
+  - "I grandi quadrati bianchi e neri cambiano colore dopo ogni tessera. I quadratini
+    rossi e bianchi cambiano colore dopo ogni tessera. Il piccolo montante con quadrati
+    rossi si sposta in senso orario dagli angoli al centro di ciascun lato. La sequenza
+    corretta \xE8 A."
+  - "Questa domanda \xE8 molto semplice. Se durante tutto il processo ricordi cosa
+    stai scaricando, troverai la risposta. Se non ce l'hai, non puoi andare avanti
+    con l'intero processo. \xC8 semplice. L'hai capito? Si Certamente. Dovrebbe anzitutto
+    esserci  un container sulla nave da scaricare prima dell'inizio del processo.
+    La risposta corretta \xE8 b."
+  - "articoli dal peso pi\xF9 basso a quello pi\xF9 alto. L'ordine sar\xE0 2, 3,
+    3, 4, 5, 6, 7, 8, 9 e 10. Conta i numeri per un totale di 30. Quanti scenari
+    avevi? Viene dato  numero massimo di articoli, perci\xF2 significa che dovresti
+    iniziare sommando gli articoli con pesi inferiori e arrivare a 30. 2+3+3+4+5+6+7=30
+    (7 articoli) controlla se riesci a trovare un altro scenario con 8 elementi.
+    La risposta corretta \xE8 \"c\"."
+  - "La risposta corretta \xE8 C o D, sono entrambi accettabili. Tuttavia, D \xE8
+    la risposta perfetta."
+  - "La risposta corretta \xE8 b. Senza conoscere il massimo che puoi spendere per
+    acquistare la carta sconto non puoi selezionare nient'altro."
+  - "La risposta perfetta \xE8 B. Tuttavia, tutte le altre risposte sono corrette
+    ai fini della cottura."
+  - "La risposta corretta \xE8 D in quanto questa frase non ti aiuta a sviluppare
+    un gioco da tavolo ma piuttosto a giudicare il gioco. Tutte le altre frasi ti
+    stanno aiutando a pensare ai prossimi passi per sviluppare un gioco da tavolo."
+  - "La risposta Corect \xE8 D. La risposta C non \xE8 corretta perch\xE9 il comportamento
+    maleducato di un'altra persona non dovrebbe avere un impatto sul tuo buon comportamento
+    e scelte morali. La risposta B non \xE8 corretta perch\xE9 non stai mostrando
+    altruismo e avresti potuto usare quei soldi per una causa diversa. La risposta
+    A non \xE8 corretta perch\xE9 dimostri l'autosufficienza e il carattere giudiziario
+    sapendo chi ha lasciato cadere i soldi e non restituindoli. "
+  - "La risposta corretta \xE8 C. andare ovunque, ogni volta, senza uno scopo specifico
+    potrebbe non essere la scelta migliore per la gestione del tempo. Inoltre ti
+    manca le capacit\xE0 di definizione delle priorit\xE0 (quale evento \xE8 importante
+    e ci\xF2 che non lo \xE8), tuttavia, \xE8 utile per il networking. Tutte le altre
+    risposte ti aiuteranno."
+  - "La risposta corretta \xE8 B in quanto le abilit\xE0 elencate sono tutte competenze
+    trasversali. Le altre risposte si coincide almeno una capacit\xE0 rigida: La
+    risposta A contiene lavori elettrici, la risposta C coincide codifica, la risposta
+    D contiene ingegneria."
+  - "La risposta corretta \xE8 D in quanto i giochi da tavolo non sono considerati
+    ESSETIAL in uno scenario di sopravvivenza. Tutte le altre risposte coincide oggetti
+    di sopravvivenza moderni essenziali."
+  - "La risposta pi\xF9 logica ed efficiente \xE8 B. Risposta A \xE8 adatta, ma sarai
+    in ritardo per l'esame. La risposta C \xE8 pi\xF9 costosa e forse pericolosa
+    e non ti garantisce di essere puntuale, poich\xE9 non c'\xE8 programma o tempo
+    che puoi seguire. La risposta D ti far\xE0 perdere completamente l'esame."
+  - "Il pensiero computazionale prevede la scomposizione di problemi complessi in
+    parti pi\xF9 piccole e pi\xF9 gestibili e l'utilizzo di un approccio logico per
+    risolverli. Questo stesso approccio pu\xF2 essere applicato per resistere alla
+    pressione indesiderata di fare la cosa sbagliata.  I passaggi di denominazione
+    degli elementi della situazione, riconoscendo il contesto rischioso, applicandoapplicare
+    l'assertivit\xE0 nel modo giusto e lasciando il luogo/situazione si basano su
+    un approccio sistematico alla risoluzione dei problemi e ogni fase si basa su
+    quella precedente.  Ecco come si applicano questi passaggi per resistere alla
+    pressione indesiderata:      Elementi di denominazione della situazione: il primo
+    passo per resistere alla pressione indesiderata \xE8 identificare e comprendere
+    i diversi elementi della situazione. Ci\xF2 include la comprensione dei motivi
+    della persona o delle persone che ti premevano, le potenziali conseguenze del
+    cedere alle loro esigenze e le implicazioni etiche delle tue azioni.      Riconoscere
+    il contesto rischioso: una volta identificati i diversi elementi della situazione,
+    il passo successivo \xE8 riconoscere quando il contesto diventa rischioso. Ci\xF2
+    include la comprensione di quando la pressione da applicare \xE8 inappropriata
+    o non etica e quando pu\xF2 portare a danni o conseguenze negative per te o per
+    gli altri.      Applicare  l'assertivit\xE0 nel modo giusto: dopo aver riconosciuto
+    che il contesto \xE8 diventato rischioso, il prossimo passo \xE8 far valere i
+    tuoi diritti e difenderti. Ci\xF2 implica chiaramente comunicare i tuoi confini
+    e le tue aspettative alla persona o alle persone che ti fanno pressioni e di
+    rifiutarti di cedere alle loro richieste.      Lasciare il luogo/situazione:
+    se la pressione continua e non sei in grado di risolvere la situazione, il passo
+    finale \xE8 lasciare il luogo o la situazione. Ci\xF2 pu\xF2 comportare la rimozione
+    fisica dalla situazione, la ricerca di aiuto dagli altri o l'adozione di altri
+    passi per garantire la sicurezza e il benessere.  Seguendo questi passaggi in
+    ordine, \xE8 possibile affrontare il problema della pressione indesiderata in
+    modo logico e sistematico e aumentare le possibilit\xE0 di resistere con successo. "
+  - "Il pensiero computazionale prevede la scomposizione di attivit\xE0 complesse
+    in parti pi\xF9 piccole e pi\xF9 gestibili e l'utilizzo di un approccio logico
+    per risolverle. Questo stesso approccio pu\xF2 essere applicato per insegnare
+    a un robot come pulire una stanza.  I passaggi dell'elenco di tutti gli elementi
+    della stanza, riconoscere le aree che collegano gli elementi, definire le regole
+    da applicare e preparare le istruzioni passo-passo si basano su un approccio
+    sistematico alla risoluzione dei problemi e ogni fase si basa sul precedente. 
+    Ecco come si applicano questi passaggi per insegnare a un robot come pulire una
+    stanza:      Elenca tutti gli elementi della stanza: il primo passo per insegnare
+    a un robot come pulire una stanza \xE8 elencare tutti gli elementi della stanza
+    con cui il robot ha bisogno per interagire. Ci\xF2 include mobili, pareti, pavimenti
+    e qualsiasi altro oggetto o mobili che possono essere presenti.      Riconosci
+    le aree che collegano gli elementi: una volta identificati tutti gli elementi
+    della stanza, il passo successivo \xE8 riconoscere le aree che collegano questi
+    elementi insieme. Ad esempio, l'area tra le pareti e il pavimento o l'area sotto
+    i mobili. Riconoscendo queste aree, \xE8 possibile sviluppare una strategia di
+    pulizia pi\xF9 efficiente per il robot.      Definire le regole da applicare:
+    dopo aver riconosciuto le aree che collegano gli elementi, il passo successivo
+    \xE8 definire le regole che il robot dovrebbe seguire durante la pulizia della
+    stanza. Ad esempio, per il robot potrebbe essere necessario evitare di sbattere
+    in mobili o pareti, oppure potrebbe essere necessario pulire determinate aree
+    in modo pi\xF9 accurato di altre.      Preparare le istruzioni passo-passo: una
+    volta definite le regole, il passaggio finale \xE8 quello di preparare le istruzioni
+    passo-passo che il robot pu\xF2 seguire per pulire la stanza in modo efficiente.
+    Queste istruzioni dovrebbero tenere conto degli elementi della stanza, delle
+    aree che li collegano e delle regole che sono state definite.  Seguendo questi
+    passaggi in ordine, \xE8 possibile avvicinarti al compito di insegnare a un robot
+    come pulire una stanza in modo logico e sistematico ed aumentare le possibilit\xE0
+    che il robot esegua l'attivit\xE0 in modo efficiente ed efficace."
+  - "Il pensiero computazionale prevede la scomposizione di compiti complessi in
+    parti pi\xF9 piccole e pi\xF9 gestibili e lo sviluppo di un approccio logico
+    per risolvere i problemi. Questo stesso approccio pu\xF2 essere applicato alla
+    creazione di un elenco di cose da fare per la pulizia di una stanza.  Includere
+    un elenco di tutti gli articoli da pulire, una regola che combina categorie di
+    articoli nella stanza in gruppi/tipi e raccomandazioni generali per l'ordine
+    e la completezza dei gruppi di pulizia/tipi di articoli, aiuta a stabilire un
+    piano chiaro e organizzato per la pulizia la stanza. Scomponendo il processo
+    di pulizia in parti pi\xF9 piccole, diventa pi\xF9 facile gestire e completare
+    l'attivit\xE0 in modo efficiente.  Inoltre, fornendo istruzioni specifiche per
+    gruppi di pulizia e articoli, come mobili, elettronica e altri articoli nell'ordine
+    corretto, si garantisce che il processo di pulizia venga eseguito accuratamente
+    e coerentemente. Questo approccio aiuta anche a ridurre al minimo la probabilit\xE0
+    di perdere qualsiasi oggetto o aree durante il processo di pulizia. "
+  - "Il modello di pensiero computazionale prevede di scomporre un problema in parti
+    pi\xF9 piccole e gestibili e di progettazione di soluzioni che utilizzano algoritmi
+    e strutture di dati. Applicando questo modello al processo di scrittura di un
+    programma di shopping online, pu\xF2 essere fornita la seguente logica circa
+    l'ordine delle attivit\xE0:  Passaggio 1 - Cerca un articolo: il primo passo
+    in qualsiasi programma di acquisto online \xE8 consentire all'utente di cercare
+    gli articoli che desiderano acquistare. Ci\xF2 comporta la fornitura di una casella
+    di ricerca o un elenco di categorie da sfogliare e quindi utilizzare algoritmi
+    per cercare attraverso un database di prodotti per trovare quelli che corrispondono
+    ai criteri di ricerca dell'utente.  Passaggio 2 - Aggiungi l'articolo al carrello:
+    una volta che l'utente ha trovato un articolo che desidera acquistare, il passo
+    successivo \xE8 aggiungerlo al carrello. Ci\xF2 comporta la creazione di una
+    struttura di dati in grado di archiviare i dettagli dell'articolo, come il suo
+    nome, il prezzo e la quantit\xE0, e quindi aggiungerla al carrello dell'utente.
+    Il carrello della spesa pu\xF2 anche tenere traccia del costo totale dell'utente
+    e visualizzarlo per loro. Non \xE8 possibile aggiungere l'articolo al carrello
+    senza sapere se il prodotto \xE8 nel database (passaggio 1).  Passaggio 3 - Immettere
+    l'indirizzo di consegna: dopo che l'utente ha aggiunto tutti gli articoli che
+    desidera acquistare al carrello, il passo successivo \xE8 inserire il proprio
+    indirizzo di consegna. Ci\xF2 comporta la fornitura di un modulo in cui l'utente
+    pu\xF2 inserire il proprio nome, indirizzo, numero di telefono e altri dettagli
+    pertinenti. Queste informazioni possono essere archiviate in un database o inviate
+    a un servizio di terze parti per la verifica. \xC8 necessario conoscere il numero
+    e la dimensione / peso di tutti gli articoli acquistati (passaggio 2) per valutare
+    la forma corretta e il prezzo della consegna.  Passaggio 4 - Pagare l'articolo:
+    infine, una volta che l'utente ha inserito il proprio indirizzo di consegna,
+    l'ultimo passo \xE8 consentire di pagare l'articolo. Ci\xF2 comporta l'integrazione
+    con un sistema di pagamento, come PayPal o Stripe, per elaborare il pagamento
+    dell'utente. Il programma dovrebbe inoltre fornire una pagina di conferma che
+    mostra all'utente i dettagli dell'ordine, l'indirizzo di consegna e il costo
+    totale. \xC8 necessario conoscere tutti gli articoli ordinati e la distanza di
+    consegna per conoscere il prezzo totale necessario per conoscere tutti gli articoli
+    selezionati, il modulo e la distanza di consegna (passaggi 1 - 3) prima di chiedere
+    il pagamento.  Nel complesso, seguendo questa sequenza di attivit\xE0 nel programma
+    assicura che l'utente possa cercare, selezionare e acquistare gli articoli che
+    desiderano in modo regolare e logico, fornendo al contempo le strutture di dati
+    e gli algoritmi necessari per rendere il programma in modo efficiente il programma."
+  - "Dal punto di vista del pensiero computazionale, seguire i passaggi nell'ordine
+    indicato durante la preparazione di una ricetta di torta \xE8 essenziale per
+    garantire un buon risultato. Ecco perch\xE9:  1. Decomposizione: il primo passo
+    nella preparazione di una ricetta per la torta \xE8 quello di scomporre l'attivit\xE0
+    in altre secondarie. Ci\xF2 include l'elenco di tutti gli ingredienti, la descrizione
+    di come dovrebbero essere combinati per ciascun ingrediente, spiegare le possibili
+    modifiche alla ricetta e descrivere tutti i passaggi necessari per fare la torta.
+    Questa decomposizione ci consente di comprendere meglio il problema e concentrarci
+    su ogni singolo compito.  2. Riconoscimento dei modelli: una volta scomposta
+    l'attivit\xE0, possiamo identificare i modelli nella ricetta. Ad esempio, potremmo
+    notare che la ricetta inizia con l'elenco degli ingredienti, quindi passa a descrivere
+    come dovrebbero essere combinati, seguito da possibili modifiche alla ricetta
+    e infine i passaggi necessari per fare la torta. Riconoscere questi schemi ci
+    aiuta a comprendere il flusso della ricetta e le dipendenze tra i diversi passaggi. 
+    3. Astrazione: dopo aver identificato i modelli nella ricetta, possiamo astrarre
+    i dettagli di ogni passo e concentrarci sui concetti di alto livello. Ci\xF2
+    significa che possiamo pensare alla ricetta in termini di processo complessivo
+    piuttosto che impantanarsi in singoli ingredienti o misurazioni.  4.Progettazione
+    dell'algoritmo: tenendo presente i concetti di alto livello, possiamo progettare
+    un algoritmo per preparare la ricetta della torta. Questo algoritmo dovrebbe
+    seguire i passaggi nell'ordine fornito, a partire dall'elenco degli ingredienti,
+    quindi descrivendo come dovrebbero essere combinati per ciascun ingrediente,
+    seguito dalla spiegazione di possibili modifiche alla ricetta e infine descrivendo
+    tutti i passaggi necessari per fare la torta. Seguire i passaggi in ordine assicura
+    che non ci perdiamo alcun passaggio importante e che la torta risulti come previsto. 
+    5. Test: infine, possiamo testare la ricetta seguendo l'algoritmo che abbiamo
+    progettato e apportando modifiche secondo necessit\xE0. I test ci aiutano a identificare
+    eventuali errori nella ricetta e perfezionare l'algoritmo per uso futuro.  Nel
+    complesso, seguendo i passaggi in ordine quando si prepara una ricetta di torta
+    \xE8 importante perch\xE9 garantisce che tutti gli ingredienti necessari siano
+    inclusi e che la ricetta venga eseguita correttamente. Scomporre la ricetta in
+    passaggi pi\xF9 piccoli, riconoscendo i modelli, estraendo i dettagli, progettando
+    un algoritmo e testando la ricetta, possiamo garantire che la torta risulti deliziosa
+    ogni volta."
+  Op1:
+  - Cerca le tue opzioni di viaggio; Prenota l'opzione migliore; Decidi la data in
+    cui vuoi viaggiare; Confrontare e confrontare le opzioni;
+  - altre band
+  - scuole pilota di ricerca; Completare tutti i test medici necessari; Prendere
+    lezioni di allenamento di volo; Passare gli esami pilota
+  - " per aiutarci a risolvere pi\xF9 problemi complessi"
+  - 65
+  - 35, 20
+  - ' settembre'
+  - 0.2679
+  - N
+  - 10xy + 6x
+  - Metti gli articoli nel carrello Cerca gli articoli Inserisci l'indirizzo Pagamento
+  - B
+  - MC MF LP PD PU SC
+  - 5
+  - "1) Paga al bancone 2) Vai al negozio 3) Controlla quanto hai in contanti o in
+    carta 4) Scegli un affare di pasto nella tua fascia di prezzo 5) Controlla il
+    negozio pi\xF9 convincente "
+  - "1) Seleziona prima sulla tua et\xE0 2) Controlla quanto sei in grado di spendere
+    per la carta di sconto 3) Seleziona in base allo stato di viaggio 4) Seleziona
+    in base al periodo 5) Selezionare in base alla distanza "
+  - "Rispondi a) Usi ci\xF2 che hai indipendentemente dal mixer"
+  - Quanti giocatori sono necessari?
+  - Sei a conoscenza di chi ha lasciato cadere i soldi. Credi che la persona non
+    meriti quei soldi. Eri a corto di soldi per il tuo pranzo, quindi usi i soldi
+    trovati sul pavimento per questo.
+  - "Se sei interessato a lavorare in un settore specifico, \xE8 importante mostrare
+    le tue conoscenze e il tuo lavoro."
+  - "Professionalit\xE0; Empatia; Lavoro elettrico."
+  - 'Acqua; Cibo; Kit di pronto soccorso; Riparo; Cellulare; Radio; Contanti extra   '
+  - "Chiama la scuola e d\xEC loro che andrai in ritardo per il tuo esame. Aspetta
+    il prossimo treno in un'ora."
+  - "nominare elementi della situazione; riconoscere il contesto rischioso; applicare
+    applicare l'assertivit\xE0 nel modo giusto; lasciare il luogo/situazione"
+  - Elenca tutti gli elementi della stanza; riconoscei le aree che collegano gli
+    elementi; definisci le regole da applicare; Prepara le istruzioni passo passo
+  - un elenco di tutti gli articoli da pulire; una regola che combina categorie di
+    oggetti nella stanza in gruppi/tipi; Raccomandazioni generali per l'ordine e
+    la completezza dei gruppi di pulizia/tipi di articoli
+  - Paga per l'articolo, inserisci l'indirizzo di consegna, cerca l'articolo, aggiungi
+    l'articolo al carrello
+  - Descrivi tutti i passaggi necessari per fare la torta, descrivi come raccogliere
+    gli ingredienti per ogni passaggio, elenca tutti gli ingredienti, spiega le possibili
+    modifiche alla ricetta
+  Op2:
+  - decidere alla data in cui vuoi viaggiare; Cerca le tue opzioni di viaggio; Prenota
+    l'opzione migliore; Confrontare e confrontare le opzioni;
+  - "la sua et\xE0"
+  - prendere lezioni di allenamento di volo; Completare tutti i test medici necessari;
+    Scuole pilota di ricerca; Passare gli esami pilota
+  - per aiutarci a programmare
+  - 61
+  - '15, 30 '
+  - ' ottobre'
+  - 0.3217
+  - O
+  - 10xy - 6x
+  - "Cerca gli articoli Metti gli articoli nel carrello Elimina alcuni elementi Pagamento
+    Inserisci l\u2019indirizzo"
+  - D
+  - SC MC PU MF PD LP
+  - 6
+  - "1) Paga al bancone 2) Scegli un affare di pasto nella tua fascia di prezzo 3)
+    Vai al negozio 4) Controlla il negozio pi\xF9 convincente 5) Controlla quanto
+    hai in contanti o in carta "
+  - "1) Controlla quanto sei in grado di spendere per la carta di sconto 2) Seleziona
+    in base alla mia et\xE0 prima 3) Seleziona in base allo stato di viaggio 4) Seleziona
+    in base al periodo 5) Selezionare in base alla distanza"
+  - A dovresti usare un mixer a paletta B dovresti usare una frusta C Dovresti usare
+    un gancio per l'impasto
+  - Quali informazioni sono generalmente incluse in una casella di gioco o in istruzioni?
+  - "Non sei a conoscenza di chi ha lasciato cadere i soldi. Sei felice di trovarli.
+    Ora hai soldi extra per acquistare ci\xF2 di cui hai bisogno dal negozio."
+  - "Interagire con professionisti o potenziali datori di lavoro. Immagina potenziali
+    datori di lavoro con la tua professionalit\xE0, entusiasmo, influenza e conoscenza
+    di l'industria."
+  - "Pensiero critico; Gestione del tempo; Integrit\xE0."
+  - Riparo; Bussola; Cibo; Acqua; Torcia elettrica; Prodotti igienico -sanitari Scaldini
+  - "Trova un altro treno o un autobus che arriva allo stesso tempo. Se questo non
+    \xE8 possibile, prendi un treno o un autobus che arriva il pi\xF9 presto possibile.
+    Se vuoi arrivare in ritardo, chiama la tua scuola e fai sapere loro che andrai
+    in ritardo."
+  - "abbandonare il luogo/situazione; nominare elementi della situazione; riconoscere
+    il contesto rischioso; applicare l'assertivit\xE0 nel modo giusto"
+  - definisci le regole da applicare; Prepara le istruzioni passo passo; Elenca tutti
+    gli elementi della stanza; riconosci le aree che collegano gli elementi
+  - Istruzioni specifiche per gruppi di pulizia e articoli come mobili (sedia, scrivania,
+    armadio, ecc.), Elettronica (TV, computer, soundbar, ecc.) nell'ordine corretto
+  - Aggiungi l'articolo al carrello, paga per l'articolo, cerca un articolo, inserisci
+    l'indirizzo di consegna
+  - Elenca tutti gli ingredienti, spiega le possibili modifiche alla ricetta, descrivi
+    tutti i passaggi necessari per fare una torta,  descrivi come raccogliere gli
+    ingredienti per ogni passaggio
+  Op3:
+  - decidere alla data in cui vuoi viaggiare; Cerca le tue opzioni di viaggio; Confrontare
+    e confrontare le opzioni; Prenota l'opzione migliore
+  - i nomi dei suoi genitori
+  - esami pilota passa; Prendere lezioni di allenamento di volo; Completare tutti
+    i test medici necessari; Scuole pilota di ricerca
+  - per aiutarci a pensare come un computer
+  - 58
+  - 35, 15
+  - dicembre
+  - -0.2139
+  - P
+  - 12x2 + 10xy
+  - Registrati/Accedi Cerca gli articoli Metti gli articoli nel carrello Inserisci
+    l'indirizzo Pagamento
+  - A
+  - PU LP MC PD SC MF
+  - 7
+  - "1) Controlla quanto hai in contanti o in carta 2) Vai al negozio 3) Controlla
+    il negozio pi\xF9 convincente 4) Scegli un affare di pasto nella tua fascia di
+    prezzo 5) Paga al bancone "
+  - "1) Selezionare in base alla distanza 2) Seleziona in base alla mia et\xE0 prima
+    3) Controlla quanto sei in grado di spendere per la carta di sconto 4) Seleziona
+    in base al periodo 5) Seleziona in base allo stato di viaggio "
+  - Dovresti usare una frusta per A, B, C
+  - Quali materiali e pezzi di gioco sono necessari?
+  - "Sei a conoscenza di chi ha lasciato cadere i soldi. Restituisci i soldi, ma
+    la persona credeva che ci fossero pi\xF9 soldi sul pavimento e ti accusano di
+    ladro. Spiegi sinceramente che non \xE8 cos\xEC. Quello che stai restituendo
+    \xE8 quello che hai trovato sul pavimento. La persona non ti crede, parti con
+    i soldi."
+  - "Intende con eventi diversi in diversi industria e campo di lavoro in modo da
+    non perdere opportunit\xE0."
+  - "Codifica; Lavoro di squadra; Puntualit\xE0."
+  - 'Cibo; Carta geografica; Farmaco; Radio; Corrispondenze; Abbigliamento extra;
+    Torcia elettrica '
+  - 'Trova un taxi o un attacco per arrivare a scuola in tempo. '
+  - "applicare applicare l'assertivit\xE0 nel modo giusto; abbandonare il luogo/situazione;
+    nominare gli elementi della situazione; riconoscere il contesto rischioso"
+  - lenca tutti gli elementi della stanza; identifica le regole da applicare; Prepara
+    le istruzioni passo-passo; riconosci le aree che collegano gli elementi
+  - Tutte
+  - Inserisci l'indirizzo di consegna, aggiungi l'articolo al carrello, paga l'articolo,
+    cercal'articolo
+  - Elenca tutti gli ingredienti, descrivi tutti i passaggi necessari per creare
+    l'impasto, descrivi come gli ingredienti dovrebbero essere combinati per ciascun
+    ingrediente, spiega possibili modifiche alla ricetta
+  Op4:
+  - ' confrontare e confrontare le opzioni; Decidi la data in cui vuoi viaggiare;
+    Cerca le tue opzioni di viaggio; Prenota l''opzione migliore'
+  - ' Data del tour'
+  - d) completare tutti i test medici necessari; Scuole pilota di ricerca; Passare
+    gli esami pilota; Prendere lezioni di allenamento di volo;
+  - ' tutto quanto sopra'
+  - 56
+  - 25, 15
+  - Nessuno dei precedenti
+  - -0.2679
+  - Q
+  - 12x2 - 10xy
+  - Cerca gli articoli Inserisci l'indirizzo Pagamento Metti gli articoli nel carrello
+  - C
+  - MC PU MF PD SC LP
+  - 8
+  - "1) Controlla quanto hai in contanti o in carta 2) Controlla il negozio pi\xF9
+    convincente 2) Vai al negozio 4) Scegli un affare di pasto nella tua fascia di
+    prezzo 5) Paga al bancone "
+  - "1) Seleziona in base alla mia et\xE0 prima 2) Controlla quanto sei in grado
+    di spendere per la carta di sconto 3) Seleziona in base al periodo 4) Seleziona
+    in base allo stato di viaggio 5) Selezionare in base alla distanza"
+  - Dovresti usare un cucchiaio di legno
+  - "Quanto \xE8 buono questo gioco?"
+  - "Non sei a conoscenza di chi ha lasciato cadere i soldi. Chiedi in giro ma nessuno
+    \xE8 il proprietario. Dai quei soldi alla prossima organizzazione benefica che
+    incontri."
+  - "Se trovi un ruolo che ti interessa, cercalo online e leggi la descrizione del
+    lavoro. Scopri quali qualifiche, abilit\xE0 ed esperienza di cui avrai bisogno,
+    questo ti dar\xE0 un punto di partenza ed evidenzia le aree su cui dovrai lavorare."
+  - "Risoluzione dei problemi; Ingegneria; Creativit\xE0."
+  - Acqua; Farmaco; Cibo; Corrispondenze; Coltello tascabile; Giochi da tavolo; Carta
+    geografica
+  - "Torna a casa perch\xE9 ti mancher\xE0 comunque l'inizio dell'esame. Riprova
+    domani."
+  - "riconoscere il contesto rischioso; abbandonare il luogo/situazione; applicarel'assertivit\xE0
+    nel modo giusto; nominare gli elementi della situazione"
+  - Nomina tutti gli elementi della stanza; Prepara le istruzioni passo-passo; identifica
+    le regole da applicare; riconosci le aree che collegano gli elementi
+  - 'nessuna '
+  - Cerca l'articolo; Aggiungi l'oggetto al carrello della spesa; Inserisci l'indirizzo
+    di consegna; Paga l'articolo
+  - Elenca tutti gli ingredienti, descrivi come dovrebbero essere combinati per ciascun
+    ingrediente, spiega possibili modifiche alla ricetta, descrivi tutti i passaggi
+    necessari per fare la torta
+  answersIndex: 02000000030000000000000000000000010000000000000002000000030000000200000001000000020000000000000001000000020000000200000001000000010000000300000003000000020000000100000003000000010000000000000000000000020000000300000003000000

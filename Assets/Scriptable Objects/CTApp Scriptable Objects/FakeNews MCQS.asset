@@ -1,0 +1,678 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: FakeNews MCQS
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 2
+  questions:
+  - What is computational thinking?
+  - Why is it important to cultivate your computational thinking skills?
+  - "Which of the below isn\u2019t a technique of computational thinking?"
+  - Which of the below is an example of computational thinking?
+  - 'Which of these is an example of decomposition? '
+  - Which of these is not an example of algorithmic thinking?
+  - 'Pattern recognition helps you recognize a pattern, or similar characteristics
+    helps break down the problem. What number comes after the following: 30, 35, '
+  - Which ability is to break down a complex problem or system into smaller, more
+    manageable parts?
+  - Which ability is the process of identifying similarities and contrasts between
+    parts of a problem?
+  - Which ability is focusing on the important information only, ignoring irrelevant
+    detail?
+  - Which ability is developing a step-by-step solution to solve a problem?
+  - Which is the ability to propose a solution in general terms to adapt it multiple
+    problem?
+  - Which ability is placing actions in the right order?
+  - Which is the ability of recognise, delete and correcting mistakes?
+  - Which are the core features of computational thinking?
+  - Which is not a Computational Thinking skill?
+  - Computational Thinking skills can be used in every day life, for example the
+    construction of a furniture it is part of the following skill.
+  - 'When starting to learn to form sentences in a foreign language, you should:'
+  - 'The fastest correct method to add up all the integers from 1 to 10 in your head
+    is:'
+  - 'To add up all the integers from 1 to 20 in 10 seconds, in memory only, you should:'
+  - 'To add up all the integers from 1 to X in 10 seconds, using only your memory,
+    you should calculate:'
+  - 'To resist unwanted pressure to do the wrong thing, you should follow these steps
+    in the order given:'
+  - 'To teach the robot how to clean a room you should go through the following steps
+    in the order given:'
+  - 'The to-do list for cleaning a room should include the following information:'
+  - It takes 2 hours to fully charge a cell phone. What is the shortest time to fully
+    charge 3 cell phones using 2 chargers?
+  - 'When writing an online shopping program, you need to choose the right order
+    of the tasks it will perform:'
+  - 'To draw a green square 150px x 150px the program must go through the following
+    steps in the order given:'
+  - 'What is the error in the following program, which should draw a 100px x 100px
+    square once, starting from the upper left corner to the right: repeat 4 times
+    the block in parentheses [move 100px], turn right 90 degrees.'
+  - How should the knight (a chess figure that can move two fields horizontally and
+    one vertically, or two vertically and one horizontally) move from the middle
+    field of the 5x5 board to the top right corner of the board?
+  - The chess figure - the knight is located on the middle field of the 5x5 board.
+    The knight can move two fields horizontally and one vertically or two vertically
+    and one horizontally. What is the least number of moves to get to one of the
+    corners?
+  - 'In order to prepare a good cake recipe, follow the steps in the order given:'
+  - 'In order to see an object in a stereographic image (to see a two-dimensional
+    graphic in three dimensions, as seen from a perspective), you need to do the
+    following in the order given: '
+  Question_Explanation:
+  - 'Computational Thinking is a scientific area with many definitions. A common
+    part that we can find in the most definitions  is the link with problem solving
+    techniques. '
+  - 'Computation Thinking support us in problem solving process, understand a problem
+    and try to solve it by developing solutions. '
+  - 'Computational thinking and coding are related concepts. Coding is the translation
+    of logic or rationales into a programming language. '
+  - 'A detailed design is part of Algorithmic Thinking, a Computational Thinking
+    skill. '
+  - 'Decomposition is breaking a problem into smaller parts. '
+  - Algorithmic Thinking is the definition of steps to reach a solution.
+  - Because the pattern requires the addition of 5, the next number is 40.
+  - 'Decomposition is breaking a complex problem into smaller parts. '
+  - Through Pattern recognition, we can identify similarities or contrasts during
+    a problem solving process and also build a construct as a path for the solution.
+  - Abstraction is the process of filtering out characteristics of patterns tha are
+    not important  in order to solve a problem.
+  - 'Algorithmic thinking is a way of getting to a solution through the definition
+    of  steps.For example: the instructions of a cooking recipe. '
+  - "Generalisation\_is solving new problems based on previous problems we have solved.\_"
+  - 'Sequence is the order in which the statements are executed. For example: In
+    programming, statements are executed one after another.'
+  - Debugging is the process  that  involves finding and fixing errors if  steps
+    don't lead to the desired solution
+  - "The core features of computational thinking are the following: \u0391bstraction,
+    Algorithmic Thinking, Pattern Recognition, Decomposition"
+  - "The core features of computational thinking are the following: \u0391bstraction,
+    Algorithmic Thinking, Pattern Recognition, Decomposition. Creativity is a 21st
+    Century Skill. "
+  - As Algorithmic Thinking is the definition of steps to reach a solution, constructing
+    a furniture is a procss that requires follow step by step instructions.
+  - Learning languages is like brewing tea. In order to write/say something according
+    to the grammar, you need to know the language guide. Grammar can be compared
+    to a cooking recipe, explaining all the steps needed to prepare a dish. But first
+    of all, we need to know the ingredients!  The ingredients in language grammar
+    are, for example, the subject and the verb.  Dividing sentences into ingredients
+    will improve your learning - try it! The same goes for learning how to build
+    structures
+  - 'If you were to add ten tens, it would be easy. The sum would be 100. This looks
+    interesting, so try to start the addition with the last number, that is, 10.
+    Add to it the sum of the first and the second-to-last, that is, 1 + 9 and proceed
+    like this. The addition would then look like this:  10 + 1 + 9 + 2 + 8 + 3 +
+    7 + 4 + 6.  You have five rows and in each the sum is 10. You have thus decomposed
+    a complex arithmetic operation into a series of simple components. Five tens,
+    is 50, and 50, is half of 100. That is, 100 / 2. You are left with 5 more to
+    add. All together, it is 100 / 2 + 5, or 55. Can you see the pattern now that
+    will simplify the calculations? Now check if 55 is a good result by adding all
+    the numbers from 1 to 10 one by one. '
+  - If you add up the first and last number you have to add, which is 1 + 20, you
+    get 21. You have 10 such pairs. These are the building blocks you discovered
+    by decomposing a complex computation. So 10 x 21 = 210. This is the pattern for
+    such calculations. Now check if 210 is a good result by adding all the numbers
+    from 1 to 20 one by one on a piece of paper, in a calculator or on a computer.
+    You can also try in memory :)
+  - 'For starters, an example. Adding numbers from 1 to 10, that is, to X = 10, is
+    easy at first. 1 + 2 is just 3, and 3 + 3 is 6, etc. But imagine adding from
+    1 to 140. As you add more and more numbers in your mind, it''s easy to get confused.
+    Try to find a general solution by changing the way you think. Add, for example,
+    not the first and second numbers, but the first and last. 1 + 10 = 11. The next
+    pair gives the same result: 2 + 9 = 11. You have decomposed the data into simple,
+    repeatable elements. In subsequent pairs, the sum will also be 11. So you have
+    recognized the pattern of easy summation. How many pairs will have the same sum?
+    The next pairs are: 1+10, 2+9, 3+8, 4+7 and 5+6. The number of pairs is 5, which
+    is half of the numbers you have to sum. You can write it so that with 10 numbers
+    there is 10 / 2 = 5 - five pairs. You can now abstract the idea using aritmetic
+    symbols and arrange an algorithm, describing steps of the solution for any data.
+    With X numbers, you have X / 2 pairs, and the summing values are 1 + X. So the
+    algorithm looks like this: X/2+(1+X). Now check if this algorithm also gives
+    correct results for numbers from 1 to 11, to 20, or for any other number. Also,
+    try to generalize this algorithm to any pair of numbers <X; Y> where X<Y.'
+  - 'Computational thinking involves breaking down complex problems into smaller,
+    more manageable parts, and using a logical approach to solve them. This same
+    approach can be applied to resisting unwanted pressure to do the wrong thing. 
+    The steps of naming the elements of the situation, recognizing the risky context,
+    applying assertiveness rights, and leaving the place/situation are based on a
+    systematic approach to problem-solving, and each step builds on the previous
+    one.  Here is how these steps apply to resisting unwanted pressure:      Naming
+    elements of the situation: The first step in resisting unwanted pressure is to
+    identify and understand the different elements of the situation. This includes
+    understanding the motives of the person or people pressuring you, the potential
+    consequences of giving in to their demands, and the ethical implications of your
+    actions.      Recognizing risky context: Once you have identified the different
+    elements of the situation, the next step is to recognize when the context becomes
+    risky. This includes understanding when the pressure being applied is inappropriate
+    or unethical, and when it may lead to harm or negative consequences for you or
+    others.      Applying assertiveness rights: After recognizing that the context
+    has become risky, the next step is to assert your rights and stand up for yourself.
+    This involves clearly communicating your boundaries and expectations to the person
+    or people pressuring you, and refusing to give in to their demands.      Leaving
+    the place/situation: If the pressure continues and you are unable to resolve
+    the situation, the final step is to leave the place or situation. This may involve
+    physically removing yourself from the situation, seeking help from others, or
+    taking other steps to ensure your safety and well-being.  By following these
+    steps in order, you can approach the problem of unwanted pressure in a logical
+    and systematic way, and increase your chances of successfully resisting it.'
+  - 'Computational thinking involves breaking down complex tasks into smaller, more
+    manageable parts, and using a logical approach to solve them. This same approach
+    can be applied to teaching a robot how to clean a room.  The steps of listing
+    all elements of the room, recognizing areas linking elements, defining rules
+    to be applied, and preparing step-by-step instructions are based on a systematic
+    approach to problem-solving, and each step builds on the previous one.  Here''s
+    how these steps apply to teaching a robot how to clean a room:      List all
+    elements of the room: The first step in teaching a robot how to clean a room
+    is to list all the elements of the room that the robot needs to interact with.
+    This includes furniture, walls, floors, and any other objects or features that
+    may be present.      Recognize areas linking elements: Once you have identified
+    all the elements of the room, the next step is to recognize the areas that link
+    these elements together. For example, the area between the walls and the floor,
+    or the area under furniture. By recognizing these areas, you can develop a more
+    efficient cleaning strategy for the robot.      Define rules to be applied: After
+    recognizing the areas linking the elements, the next step is to define the rules
+    that the robot should follow when cleaning the room. For example, the robot may
+    need to avoid bumping into furniture or walls, or it may need to clean certain
+    areas more thoroughly than others.      Prepare step-by-step instructions: Once
+    the rules have been defined, the final step is to prepare step-by-step instructions
+    that the robot can follow to clean the room efficiently. These instructions should
+    take into account the elements of the room, the areas linking them, and the rules
+    that have been defined.  By following these steps in order, you can approach
+    the task of teaching a robot how to clean a room in a logical and systematic
+    way, and increase the chances of the robot performing the task efficiently and
+    effectively.'
+  - 'Computational thinking involves breaking down complex tasks into smaller, more
+    manageable parts and developing a logical approach to solving problems. This
+    same approach can be applied to creating a to-do list for cleaning a room.  Including
+    a list of all items to be cleaned, a rule combining categories of items in the
+    room into groups/types, and general recommendations for the order and thoroughness
+    of cleaning groups/types of items, helps to establish a clear and organized plan
+    for cleaning the room. By breaking down the cleaning process into smaller parts,
+    it becomes easier to manage and complete the task efficiently.  Additionally,
+    providing specific instructions for cleaning groups and items, such as furniture,
+    electronics, and other items in the correct order, ensures that the cleaning
+    process is carried out thoroughly and consistently. This approach also helps
+    to minimize the likelihood of missing any items or areas during the cleaning
+    process. '
+  - 'The desired outcome is to fully charge three cell phones using two chargers
+    in the shortest time possible.  We can first note that if we try to charge all
+    3 cell phones simultaneously using 2 chargers, the charging time will be longer
+    than 2 hours for each phone. This is because the power being supplied by the
+    chargers will be divided among the 3 phones, so each phone will receive less
+    than the full charging power it needs.  Instead, we can charge 2 of the cell
+    phones using both chargers simultaneously, and then charge the third phone separately
+    once one of the first 2 phones is fully charged. This way, we can get two phones
+    charging at the full charging power for 2 hours, which will fully charge them.
+    Then, we can use one of the chargers to charge the third phone for 2 hours until
+    it is fully charged.  So, the total charging time for all 3 phones will be 2
+    hours for the first two phones + 2 hours for the third phone = 4 hours.  The
+    above method is also not the fastest one. We can compare the presented solution
+    and explanation to other possible answers found as a result of computational
+    thinking. The first step of computational thinking is the problem decomposition,
+    one of computational thinking steps. The problem decomposition  involves breaking
+    down a complex problem into smaller, more manageable sub-problems that can be
+    solved individually and then combined to solve the larger problem.   We can decompose
+    the general problem of charging 3 phones with 2 chargers into four simpler sub-problems:
+    charging two phones for 2 hours with two chargers, charging one phone for 2 hours
+    with one charger, charging one phone for 1 hour with one charger and switching
+    one phone from one charger to another.  Now, using these sub-problems and combining
+    the extracted variants in a new way, we can see that we can start by charging
+    the first phone for 2 hours with the first charger. At the same time, we can
+    start charging the second phone with the second charger, but disconnect it after
+    1 hour and connect the third phone to the second charger for 2 hours. Once the
+    first phone has been fully charged with the first charger, we can in turn connect
+    the second phone to this charger for 1 hour. In this way, it will take a total
+    of 3 hours to fully charge all three phones using the two chargers.  This is
+    the shortest possible time because we are using two chargers simultaneously and
+    optimising the charging time for each phone. If we were to charge all three phones
+    for 2 hours using one charger, it would take a total of 6 hours to fully charge
+    all three phones. Therefore, the solution of charging one phone for 1 hour and
+    then switching to the other charger while charging the other two phones for 2
+    hours is the most efficient approach, which is the benefit of using computational
+    thinking.'
+  - 'The computational thinking model involves breaking down a problem into smaller,
+    more manageable parts, and designing solutions that use algorithms and data structures.
+    Applying this model to the process of writing an online shopping program, the
+    following rationale can be provided for the order of the tasks:  Step 1 - Search
+    for an item: The first step in any online shopping program is to allow the user
+    to search for items they want to purchase. This involves providing a search box
+    or a list of categories to browse through, and then using algorithms to search
+    through a database of products to find the ones that match the user''s search
+    criteria.  Step 2 - Add the item to the shopping cart: Once the user has found
+    an item they want to purchase, the next step is to add it to the shopping cart.
+    This involves creating a data structure that can store the item''s details, such
+    as its name, price, and quantity, and then adding it to the user''s cart. The
+    shopping cart can also keep track of the user''s total cost and display it for
+    them. You cannot add the item to the cart not knowing if the product is in the
+    database (step 1).   Step 3 - Enter the delivery address: After the user has
+    added all the items they want to purchase to their shopping cart, the next step
+    is to enter their delivery address. This involves providing a form where the
+    user can enter their name, address, phone number, and other relevant details.
+    This information can be stored in a database or sent to a third-party service
+    for verification. It is necessary to know the number and the size / weight of
+    all items purchased (step 2) to assess the proper form and the price of the delivery.  
+    Step 4 - Pay for the item: Finally, once the user has entered their delivery
+    address, the last step is to allow them to pay for the item. This involves integrating
+    with a payment gateway, such as PayPal or Stripe, to process the user''s payment.
+    The program should also provide a confirmation page that shows the user their
+    order details, the delivery address, and the total cost. It is necessary to know
+    all items ordered and the distance of delivery to know the To calculate the total
+    price you need to know all items selected, the form and the distance of delivery
+    (steps 1 - 3) before asking for payment.  Overall, following this sequence of
+    tasks in the program ensures that the user can search, select, and purchase the
+    items they want in a smooth and logical way, while also providing the necessary
+    data structures and algorithms to make the program function efficiently.'
+  - 'The rationale behind the given sequence of steps to draw a green square 150px
+    x 150px is based on the principles of computational thinking.   Computational
+    thinking is a problem-solving approach that involves breaking down a complex
+    problem into smaller, more manageable parts, and then systematically analyzing
+    and solving each part. It involves a series of steps, such as problem decomposition,
+    pattern recognition, abstraction, algorithm design, and evaluation.   In this
+    case, the problem is to draw a green square of size 150px x 150px. To solve this
+    problem using computational thinking, we can break it down into smaller steps
+    and design an algorithm to perform those steps in a specific order.   The given
+    sequence of steps follows the following rationale:  a) Go to the starting place:
+    This step ensures that the program starts drawing the square from the desired
+    position on the canvas. Without this step, the square may be drawn in an unintended
+    location on the canvas.  b) Set the color of the pen to green: This step sets
+    the color of the pen to green, which will be used to draw the square. Without
+    this step, the pen may use a different color, which will not result in a green
+    square.  c) Move 150px: This step moves the pen 150px in a straight line, which
+    will form one side of the square. This step is repeated three times in total
+    to draw all four sides of the square.  d) Rotate clockwise 90 degrees: This step
+    rotates the pen 90 degrees clockwise, which will orient the pen to draw the next
+    side of the square at a right angle to the previous side. Without this step,
+    the pen would draw the next side in the same direction as the previous side,
+    resulting in a rectangle instead of a square.  e) Repeat the above two steps
+    3 times: This step repeats the previous two steps (move 150px and rotate 90 degrees)
+    three times to draw all four sides of the square. Without this step, the program
+    would only draw one side of the square, leaving it incomplete.  Therefore, the
+    given sequence of steps is essential to draw a green square of size 150px x 150px
+    in the intended location and orientation.'
+  - 'The error in the program is that it will draw four times the sides of the square,
+    but as a one stright line and it will not complete the square by connecting the
+    last side to the first side. Instead, the program will end up turning the pen
+    90 degrees to the right after drawing the fourth side, but without moving the
+    pen to the starting point of the square. Therefore, the final drawing will be
+    a "I" shape instead of a square.  The error is due to the fact that the 90-degree
+    clockwise rotation command is outside the loop.   To correct the program, the
+    90-degree clockwise rotation command should be inside the loop, what takes the
+    pen to the starting point of the square. Specifically, the program should be
+    modified to set the block in parentheses as [move 100px, turn right 90 degrees]
+    before repeating the block again. This way, after drawing each side of the square,
+    the pen turn right and finally will move to the starting point of the square,
+    and the drawing will be a complete square. The corrected program would be:  repeat
+    4 times: [move 100px, turn right 90 degrees]  The correction of the program mistake
+    is an example of applying computational thinking principles to a programming
+    task. Specifically, the correction involves the use of algorithmic thinking and
+    debugging to identify and solve a logical error in the program.  The algorithmic
+    thinking process involves breaking down the program into a sequence of steps
+    and analyzing how those steps will produce the desired output. By doing this,
+    it becomes clear that the original program will draw four sides of a square as
+    a single, stright line and fail to complete the square by connecting the last
+    side to the first side.  The debugging process involves identifying the error
+    in the program''s logic and then modifying the program to correct the error.
+    In this case, the error is identified as the placing turn right 90 degrees command
+    outside the loop not taking the pen back to the starting point of the square.
+    The corrected program is then modified by moving the turn right 90 degrees command
+    inside the loop to complete the square.  Overall, this correction demonstrates
+    the importance of algorithmic thinking and debugging in programming tasks. By
+    applying these computational thinking principles, programmers can identify and
+    solve errors in their programs to produce the desired output.'
+  - 'To reach the upper right corner on a 5x5 board starting from the central square
+    position, the knight should move in a particular sequence of moves. The optimal
+    moves to take are:  1. Move 2 squares down and 1 square right. 2. Move 2 squares
+    left and 1 square up. 3. Move 2 squares up and 1 square right. 4. Move 2 squares
+    right and 1 square up. OR 1. Move 2 squares up and 1 square right. 2. Move 2
+    squares down and 1 square right. 3. Move 2 squares left and 1 square up. 4. Move
+    2 squares right and 1 square up.  There are a couple of reasons why these moves
+    are the optimal solution to reach the upper right corner from the central square
+    position.  First, the initial move of 2 squares down and 1 square right (or 2
+    squares up and 1 square right) is the most efficient move to get the knight closer
+    to the corner. It moves the knight 2 squares towards the corner while maintaining
+    its position on the board.  Next, the sequence of moves that follow are designed
+    to get the knight as close to the upper right corner as possible. By moving 2
+    squares left and 1 square up, the knight moves closer to the upper edge of the
+    board. The subsequent move of 2 squares up and 1 square right moves the knight
+    closer to the corner once again. Finally, the move of 2 squares right and 1 square
+    up gets the knight to the upper right corner.  This sequence of moves ensures
+    that the knight always moves towards the corner while remaining on the board.
+    By using these optimal moves, the knight can reach the upper right corner in
+    the shortest number of moves possible from the central square position.  Overall,
+    the optimal sequence of moves to reach the upper right corner on a 5x5 board
+    starting from the central square position involves careful planning and consideration
+    of the knight''s movement rules. By analyzing the possible moves and evaluating
+    their efficiency, we can determine the optimal solution to the problem.  This
+    sequence of moves ensures that the knight always moves towards the corner while
+    remaining on the board. By using these optimal moves, the knight can reach the
+    upper right corner in the shortest number of moves possible from the central
+    square position.  Overall, the optimal sequence of moves to reach the upper right
+    corner on a 5x5 board starting from the central square position involves careful
+    planning and consideration of the knight''s movement rules. By analyzing the
+    possible moves and evaluating their efficiency, we can determine the optimal
+    solution to the problem.  From a computational thinking perspective, finding
+    the optimal sequence of moves for a knight to reach the upper right corner of
+    a 5x5 board starting from the central square position involves several important
+    computational thinking concepts:      Decomposition: To solve the problem, we
+    need to decompose it into smaller sub-problems. Specifically, we need to identify
+    the possible moves that a knight can make and evaluate each move''s efficiency
+    in terms of getting the knight closer to the target location.      Pattern recognition:
+    We can apply pattern recognition skills to identify the moves that are most efficient
+    for the knight to reach the upper right corner. Specifically, we can recognize
+    that the moves that involve moving 2 squares down and 1 square right or 2 squares
+    up and 1 square right are the most efficient because they move the knight towards
+    the target location while also maintaining the knight''s position on the board.     
+    Abstraction: We can abstract the problem by treating the chessboard as a 5x5
+    grid of cells and the knight''s moves as a set of rules that dictate how the
+    knight can move between cells. This abstraction allows us to simplify the problem
+    and focus on the essential elements necessary to solve it.      Algorithmic thinking:
+    To find the optimal sequence of moves for the knight to reach the upper right
+    corner, we need to develop a systematic and repeatable approach. Specifically,
+    we need to evaluate each of the eight possible moves the knight can make and
+    choose the moves that move the knight towards the target location while also
+    keeping the knight on the board.      Evaluation: Finally, we need to apply logical
+    reasoning skills to evaluate each move''s efficiency and choose the best moves
+    for the knight to make. This involves understanding the rules for how the knight
+    can move on the board, identifying the goal of the problem, and using evaluation
+    to determine the optimal solution.  Overall, the problem of finding the optimal
+    sequence of moves for a knight to reach the upper right corner of a 5x5 board
+    starting from the central square position involves applying several key computational
+    thinking concepts and skills, including decomposition, pattern recognition, abstraction,
+    algorithmic thinking, and evaluation. By applying these skills, we can determine
+    the most efficient sequence of moves for the knight to reach its destination.'
+  - 'To find the least number of moves for a knight to get to one of the corners
+    of a 5x5 chessboard from the middle field, we can use a search algorithm such
+    as breadth-first search or Dijkstra''s algorithm. However, because the search
+    space is relatively small, we can also solve this problem manually by analyzing
+    the possible moves.  First, we can observe that there are only four possible
+    moves that the knight can make from the central square:  1. Move 2 squares down
+    and 1 square right 2. Move 2 squares down and 1 square left 3. Move 2 squares
+    up and 1 square right 4. Move 2 squares up and 1 square left  By making any of
+    these four moves, the knight will be positioned on the same diagonal as one of
+    the corners of the board. Therefore, the minimum number of moves required for
+    the knight to reach one of the corners is three. This is because the knight can
+    move to a square on the diagonal and then make one more move to reach the corner. 
+    For example, suppose the knight starts on the central square and wants to reach
+    the upper right corner. The optimal sequence of moves would be:  1. Move 2 squares
+    down and 1 square right. 2. Move 2 squares left and 1 square up. 3. Move 2 squares
+    up and 1 square right. 4. Move 2 squares right and 1 square up.  Overall, this
+    sequence of moves takes the knight to the upper right corner of the board in
+    just four moves, which is the minimum number of moves required.  From a computational
+    thinking perspective, solving the problem of finding the least number of moves
+    for a knight to get to one of the corners of a 5x5 chessboard starting from the
+    central square can be broken down into a series of steps:  1. Define the problem:
+    The problem is to find the shortest path that a knight can take to reach one
+    of the corners of a 5x5 chessboard starting from the central square, given that
+    the knight must move in an L-shaped pattern.  2. Analyze the problem: The first
+    step in analyzing the problem is to understand the constraints. In this case,
+    the knight must move in an L-shaped pattern, which means that it can move two
+    squares in one direction and then one square in a perpendicular direction. The
+    chessboard is a 5x5 grid, which means there are 25 squares. The starting position
+    is the central square, which is at the intersection of the third row and the
+    third column.  3. Design a solution: To design a solution, we can use a search
+    algorithm to explore all possible paths that the knight can take to reach one
+    of the corners of the chessboard. A common search algorithm used for problems
+    like this is called breadth-first search (BFS). BFS starts at the starting position
+    and explores all possible moves from that position. Then it moves to the next
+    level of the search tree and explores all possible moves from those positions.
+    This process continues until the solution is found.  4. Implement the solution:
+    The implementation of the solution involves writing code to perform a BFS search
+    on the chessboard. The algorithm should keep track of the shortest path found
+    so far and stop searching when a path to one of the corners is found.  5. Test
+    the solution: To test the solution, we can run the code on different test cases,
+    such as starting from different positions on the chessboard or changing the size
+    of the chessboard. We should also test the solution on edge cases, such as when
+    the starting position is already in a corner of the chessboard.  From this perspective,
+    it is clear that the minimum number of moves required for the knight to reach
+    one of the corners of the 5x5 chessboard starting from the central square is
+    4. This can be proven by analyzing all possible moves the knight can make and
+    finding the shortest path to a corner.'
+  - 'From a computational thinking perspective, following the steps in the order
+    given when preparing a cake recipe is essential to ensuring a good outcome. Here''s
+    why:  1. Decomposition: The first step in preparing a cake recipe is to break
+    down the task into smaller subtasks. This includes listing all the ingredients,
+    describing how they should be combined for each ingredient, explaining possible
+    modifications to the recipe, and describing all the steps needed to make the
+    cake. This decomposition allows us to better understand the problem and focus
+    on each individual task.  2. Pattern recognition: Once we have decomposed the
+    task, we can identify patterns in the recipe. For example, we might notice that
+    the recipe starts with listing the ingredients, then moves on to describing how
+    they should be combined, followed by possible modifications to the recipe, and
+    finally the steps needed to make the cake. Recognizing these patterns helps us
+    to understand the flow of the recipe and the dependencies between the different
+    steps.  3. Abstraction: After identifying the patterns in the recipe, we can
+    abstract away the details of each step and focus on the high-level concepts.
+    This means we can think about the recipe in terms of the overall process rather
+    than getting bogged down in individual ingredients or measurements.  4. Algorithm
+    design: With the high-level concepts in mind, we can design an algorithm for
+    preparing the cake recipe. This algorithm should follow the steps in the order
+    given, starting with listing the ingredients, then describing how they should
+    be combined for each ingredient, followed by explaining possible modifications
+    to the recipe, and finally describing all the steps needed to make the cake.
+    Following the steps in order ensures that we don''t miss any important steps
+    and that the cake turns out as expected.  5. Testing: Finally, we can test the
+    recipe by following the algorithm we''ve designed and making modifications as
+    needed. Testing helps us to identify any errors in the recipe and refine the
+    algorithm for future use.  Overall, following the steps in order when preparing
+    a cake recipe is important because it ensures that all the necessary ingredients
+    are included and that the recipe is executed correctly. By breaking the recipe
+    down into smaller subtasks, recognizing patterns, abstracting away details, designing
+    an algorithm, and testing the recipe, we can ensure that the cake turns out delicious
+    every time.'
+  - Stereoscopic vision is the ability of our eyes to see the same object from slightly
+    different perspectives, due to their slightly different positions on our face.
+    Our brain then combines these two images to create a three-dimensional perception
+    of the object.   A stereographic image takes advantage of this natural phenomenon
+    by presenting two slightly different images side by side. When viewed correctly,
+    our brain combines these two images to create the illusion of a three-dimensional
+    image.  The steps mentioned in the question are a training method for our eyes
+    and brain to see the 3D image in stereogram.   From a computational thinking
+    perspective, we can think of these steps as a process of training our visual
+    perception system to process a stereographic image. This process involves a series
+    of steps that allow us to overcome natural cognitive biases and adapt our visual
+    perception system to create the illusion of a 3D image.  A computational thinking
+    approach involves breaking down a problem into a series of smaller steps and
+    algorithms that can be performed in a logical order. In the case of viewing a
+    stereogram, the steps listed in the question help us train our visual perception
+    system.  The first step, relaxing the eyes, can be seen as decomposition, overcoming
+    the natural tendency to focus on one point. By relaxing the eyes, we are able
+    to see images in a stereogram that we did not see before, without focusing on
+    any of them.  The second step, looking beyond the image, can be seen as overcoming
+    the natural cognitive tendency to focus on objects in our field of vision. By
+    looking beyond the image, we are able to encompass both images in a stereogram
+    without focusing on either of them. It is when we look beyond the image that
+    we usually perceive the image hidden in the stereogram, which can be referred
+    to as pattern recognition.   The third step, moving the stereogram/head away,
+    can be seen as an adjustment of our visual perception system to the two images
+    in the stereogram. By moving the stereogram/head away, we are able to adjust
+    our visual perspective so that the two images are correctly aligned. Seeing the
+    newly recognised spatial image, we perceive its three-dimensional background
+    and abstract - understand the general principle and procedure of stereoscopic
+    vision.   The fourth step, zooming in and out of the stereogram, can be seen
+    as a refinement of the algorithm for aligning the two images for depth perception.
+    By zooming in or out from the stereogram, we are able to adjust the distance
+    between our eyes and the image, which affects the perceived depth.  Overall,
+    the steps mentioned in the question can be considered as an algorithm for training
+    our visual perception system to process a stereographic image. By following these
+    steps, we are able to overcome natural cognitive biases and adapt our visual
+    perception system to create the illusion of a 3D image.
+  Op1:
+  - Instructing with the use of a computer to follow some steps
+  - Computational thinking supports us to programming
+  - Pattern recognition
+  - ' Route planning before going to meet someone in a place'
+  - Breaking down the problem of organising an event into smaller and manageable
+    parts, such as  who is responsible for the registration process, the name tags,
+    the leaflets, the microphones, the  presentations etc.
+  - In a mathematical problem, students think a step-by-step procedure of how they
+    solved the  problem that can afterwards be applied to comparable problems.
+  - 32
+  - Decomposition
+  - Pattern recognition
+  - ' Abstraction'
+  - ' Abstraction'
+  - Pattern recognition
+  - Decomposition
+  - Generalization
+  - Abstraction, Algorithmic Thinking, Pattern Recognition
+  - Creativity
+  - Generalization
+  - break the sentence down into subparts like subject, verb, etc.
+  - add 1, 2, 3, 4, etc., up to 10
+  - multiply 10 by 21
+  - X/2 * (X+1)
+  - name elements of situation; recognize risky context; apply assertiveness rights;
+    leave the place/situation
+  - list all elements of the room; recognize areas linking elements; define rules
+    to be applied; prepare step by step instructions
+  - a list of all items to be cleaned; a rule combining categories of items in the
+    room into groups/types; general recommendations for the order and thoroughness
+    of cleaning groups/types of items
+  - 3
+  - pay for item, enter delivery address, search for item, add item to cart
+  - go to the starting place, set the color of the pen to green, move 150 px, rotate
+    clockwise 90 degrees, repeat the above two steps 3 times
+  - repeat loop should repeat 2 times
+  - go 2 steps up and 1 step right, 2 down 1 right, 2 left 1 up, 2 right, 1 up
+  - 4
+  - describe all the steps needed to make the cake, describe how to collect the ingredients
+    for each step, list all the ingredients, explain possible modifications to the
+    recipe
+  - relax your eyes; look beyond it; raise the stereogram/head; move closer and further
+    away from it
+  Op2:
+  - Learning to think like a computer
+  - Computational thinking supports us to deal with difficult problems in order to
+    find a solution
+  - Coding
+  - Wandering around until you find the place
+  - Taking the problem of organising an event and wondering of how we can organise
+    it the best event possible.
+  - Students write guidelines for solving a mathematical problem that another student
+    then has to  follow to solve the same problem.
+  - '38 '
+  - Algorithmic Thinking
+  - Decomposition
+  - Pattern recognition
+  - Decomposition
+  - Decomposition
+  - Generalization
+  - Decomposition
+  - Debugging, Flow of control, Abstraction, Sequencing
+  - Decomposition
+  - Decomposition
+  - place subparts like subject, verb, etc. in the right order
+  - multiply 10 by 5 and add 1
+  - add 1, 2, 3, 4, and so on, but really fast
+  - X*2 / (X+1)
+  - leave the place/situation; name elements of situation; recognize risky context;
+    apply assertiveness rights
+  - define rules to be applied; prepare step by step instructions; list all elements
+    of the room; recognize areas linking elements
+  - specific instructions for cleaning groups and items such as furniture (chair,
+    desk, closet, etc.), electronics (TV, computer, soundbar, etc.) in the correct
+    order
+  - 4
+  - add item to cart, pay for item, search for an item, enter delivery address
+  - go to the start location; turn right 90 degrees; set pen color to green; move
+    150 px; repeat two above steps 3 times
+  - "the \u201Cturn right\u201D block should be inside the loop, after the \u201Cmove\u201D
+    block"
+  - 'move: 2 steps down and 1 step right, 2 left 1 up, 2 up 1 right, 2 right 1 up'
+  - 3
+  - list all ingredients, explain possible modifications of the receip, describe
+    all steps necessary to do a cake, describe how ingredients should be assembled
+    for each
+  - raise the stereogram/head; look beyond it; move closer and further away from
+    it; relax your eyes
+  Op3:
+  - ' Solving a problem using techniques to support you'
+  - Computational thinking helps us to learn to think like a computer
+  - Algorithmic Thinking
+  - Asking a friend or a family member to plan your route for you
+  - Thinking of different ways to organise the event.
+  - Students explain a series of smaller historical events that led to a much larger
+    event.
+  - 40
+  - Abstraction
+  - Algorithmic Thinking
+  - Decomposition
+  - Generalization
+  - Generalization
+  - Sequencing
+  - Debbuging
+  - "\u0391bstraction, Algorithmic Thinking, Pattern Recognition, Decomposition"
+  - Sequencing
+  - Debbuging
+  - name the components like subject, verb etc.
+  - divide 100 by 2 and add 5
+  - add 20, 19, 18, 17 and so on, but very quickly
+  - (X+1) / X*2
+  - apply the laws of assertiveness; leave the place/situation; name the elements
+    of the situation; recognize a risky context
+  - list all the elements of the room; identify the rules to be applied; prepare
+    step-by-step instructions; recognize the areas connecting the elements
+  - both of the above
+  - 6
+  - enter delivery address, add item to cart, pay for item, search for item
+  - set the color of the pen to green; move 150 px; rotate clockwise by 90 degrees;
+    go to the starting place; repeat the above two steps 3 times
+  - the "move" block should be outside the loop
+  - both of the above steps are correct
+  - 5
+  - list all the ingredients, describe all the steps needed to make the dough, describe
+    how the ingredients should be combined for each ingredient, explain possible
+    modifications to the recipe
+  - move the head closer and further away from the stereogram; relax the eyes; raise
+    the stereogram/head; look beyond it
+  Op4:
+  - Programming a computer
+  - Computational thinking help us to learn coding
+  - Abstraction
+  - None of the above
+  - None of the above.
+  - Thinking of different ways to solve a problem.
+  - 42
+  - Generalization
+  - Abstraction
+  - Algorithmic Thinking
+  - Algorithmic Thinking
+  - Abstraction
+  - None of the above
+  - None of the above
+  - None of the above
+  - Abstraction
+  - Algorithmic Thinking
+  - mix the components such as subject, verb etc. in any order and check comprehension
+  - 'calculate: ((1 + 10 ) x 10) / 2'
+  - add 20, 1, 19, 2, 18, 3, and so on, but really fast
+  - 2X * X
+  - recognize a risky context; leave the place/situation; apply the laws of assertiveness;
+    name the elements of the situation
+  - 'name all the elements of the room; prepare step-by-step instructions; identify
+    the rules to be applied; recognize the areas connecting the elements '
+  - none of the above
+  - 2
+  - search for an item; add the item to the shopping cart; enter the delivery address;
+    pay for the item
+  - go to the starting place; set the color of the pen to green; ; repeat the above
+    two steps 3 times; move 150 px; rotate right 90 degrees
+  - the "rotate right" block should be inside the loop, before the "move" block.
+  - none of the above solutions is correct
+  - impossible - infinite number
+  - list all the ingredients, describe how they should be combined for each ingredient,
+    explain possible modifications to the recipe, describe all the steps needed to
+    make the cake
+  - relax the eyes; raise the stereogram/head; look beyond it; move closer and further
+    away from it
+  answersIndex: 0200000001000000010000000000000000000000030000000200000000000000000000000000000003000000020000000200000002000000020000000000000003000000000000000200000000000000000000000000000000000000020000000000000003000000000000000100000002000000000000000300000000000000

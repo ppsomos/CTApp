@@ -1,0 +1,829 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cf3df9fa5a5bfe4ea1989223db3d4e3, type: 3}
+  m_Name: FakeNews MCQS_polish
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - "Czym jest my\u015Blenie komputacyjne? "
+  - " Dlaczego wa\u017Cne jest \u0107wiczenie umiej\u0119tno\u015Bci my\u015Blenia
+    obliczeniowego?"
+  - "Kt\xF3re z poni\u017Cszych nie jest technik\u0105 my\u015Blenia obliczeniowego?"
+  - "Kt\xF3re z poni\u017Cszych nie jest przyk\u0142adem my\u015Blenia obliczeniowego?"
+  - " Kt\xF3re z poni\u017Cszych jest przyk\u0142adem dekompozycji?"
+  - "Kt\xF3re z poni\u017Cszych nie jest przyk\u0142adem my\u015Blenia algorytmicznego?"
+  - "Rozpoznawanie wzorc\xF3w pomaga rozpozna\u0107 wz\xF3r lub podobne cechy, co
+    pomaga rozwi\u0105za\u0107 problem. Jaka liczba wyst\u0119puje po nast\u0119puj\u0105cych:
+    30, 35, 40 \u2026. ?"
+  - " Kt\xF3ra umiej\u0119tno\u015B\u0107 polega na roz\u0142o\u017Ceniu z\u0142o\u017Conego
+    problemu lub systemu na mniejsze, \u0142atwiejsze w zarz\u0105dzaniu cz\u0119\u015Bci?"
+  - "Kt\xF3ra umiej\u0119tno\u015B\u0107 polega na identyfikowaniu podobie\u0144stw
+    i kontrast\xF3w mi\u0119dzy elementami problemu?"
+  - "Kt\xF3ra umiej\u0119tno\u015B\u0107 pozwala nam skupi\u0107 si\u0119 tylko na
+    wa\u017Cnych informacjach i zignorowa\u0107 nieistotne szczeg\xF3\u0142y?"
+  - "Kt\xF3ra umiej\u0119tno\u015B\u0107 pomaga opracowa\u0107 krok po kroku rozwi\u0105zanie
+    problemu?"
+  - " Kt\xF3ra umiej\u0119tno\u015B\u0107 pomaga opracowa\u0107 rozwi\u0105zanie
+    w spos\xF3b og\xF3lny, pasuj\u0105cy do r\xF3\u017Cnych problem\xF3w?"
+  - "Kt\xF3ra umiej\u0119tno\u015B\u0107 pozwala nam wykona\u0107 czynno\u015Bci
+    we w\u0142a\u015Bciwej kolejno\u015Bci?"
+  - "Kt\xF3ra umiej\u0119tno\u015B\u0107 pomaga w rozpoznawaniu, usuwaniu i poprawianiu
+    b\u0142\u0119d\xF3w ?"
+  - "Jakie s\u0105 podstawowe umiej\u0119tno\u015Bci my\u015Blenia obliczeniowego?"
+  - "Kt\xF3re z poni\u017Cszych nie jest umiej\u0119tno\u015Bci\u0105 my\u015Blenia
+    obliczeniowego?"
+  - " Umiej\u0119tno\u015Bci my\u015Blenia obliczeniowego mo\u017Cna wykorzysta\u0107
+    w \u017Cyciu codziennym, na przyk\u0142ad przy sk\u0142adaniu mebla. Jest to
+    przyk\u0142ad nast\u0119puj\u0105cej umiej\u0119tno\u015Bci:"
+  - "Rozpoczynaj\u0105c nauk\u0119 tworzenia zda\u0144 w j\u0119zyku obcym nale\u017Cy:"
+  - "Najszybsz\u0105 poprawn\u0105 metod\u0105 zsumowania w pami\u0119ci wszystkich
+    liczb ca\u0142kowitych od 1 do 10 jest:"
+  - "Aby zsumowa\u0107 wszystkie liczby ca\u0142kowite od 1 do 20 w ci\u0105gu 10
+    sekund, tylko w pami\u0119ci nale\u017Cy:"
+  - "Aby zsumowa\u0107 wszystkie liczby ca\u0142kowite od 1 do X w ci\u0105gu 10
+    sekund, wy\u0142\u0105cznie w pami\u0119ci, powiniene\u015B obliczy\u0107:"
+  - "Aby oprze\u0107 si\u0119 niechcianym naciskom na robienie z\u0142ych rzeczy,
+    powiniene\u015B wykona\u0107 te kroki w podanej kolejno\u015Bci:"
+  - "Aby nauczy\u0107 robota jak sprz\u0105ta\u0107 pok\xF3j powiniene\u015B przej\u015B\u0107
+    nast\u0119puj\u0105ce kroki w podanej kolejno\u015Bci:"
+  - "Lista rzeczy do zrobienia podczas sprz\u0105tania pokoju powinna zawiera\u0107
+    nast\u0119puj\u0105ce informacje: "
+  - "Pe\u0142ne na\u0142adowanie telefonu kom\xF3rkowego trwa 2 godziny. Jaki jest
+    najkr\xF3tszy czas pe\u0142nego na\u0142adowania 3 telefon\xF3w kom\xF3rkowych
+    przy pomocy 2 \u0142adowarek?"
+  - "Pisz\u0105c program do robienia zakup\xF3w w Internecie nale\u017Cy wybra\u0107
+    odpowiedni\u0105 kolejno\u015B\u0107 zada\u0144, kt\xF3re b\u0119dzie on wykonywa\u0142:"
+  - "\u017Beby narysowa\u0107 zielony pole 150px x 150px program musi przej\u015B\u0107
+    nast\u0119puj\u0105ce kroki w podanej kolejno\u015Bci:"
+  - "Jaki jest b\u0142\u0105d w poni\u017Cszym programie, kt\xF3ry powinien narysowa\u0107
+    raz pole o wymiarach 100px x 100px, zaczynaj\u0105c od lewego g\xF3rnego rogu
+    w prawo: powt\xF3rz 4 razy blok w nawiasie [przesu\u0144 100px], obr\xF3\u0107
+    si\u0119 w prawo o 90 stopni."
+  - "W jaki spos\xF3b skoczek (figura szachowa, kt\xF3ra mo\u017Ce porusza\u0107
+    si\u0119 o dwa pola w poziomie i jedno w pionie lub dwa w pionie i jedno w poziomie)
+    powinien przej\u015B\u0107 ze \u015Brodkowego pola planszy 5x5 do prawego g\xF3rnego
+    rogu planszy?"
+  - "Figura szachowa - skoczek znajduje si\u0119 na \u015Brodkowym polu planszy 5x5.
+    Skoczek mo\u017Ce poruszy\u0107 si\u0119 o dwa pola w poziomie i jedno w pionie
+    lub o dwa w pionie i jedno w poziomie. Jaka jest najmniejsza liczba ruch\xF3w, "
+  - "W celu przygotowania dobrego przepisu na ciasto nale\u017Cy wykona\u0107 nast\u0119puj\u0105ce
+    czynno\u015Bci w podanej kolejno\u015Bci:"
+  - "Aby zobaczy\u0107 obiekt na obrazie stereograficznym (zobaczy\u0107 dwuwymiarow\u0105
+    grafik\u0119 w trzech wymiarach, jak wida\u0107 z perspektywy) nale\u017Cy wykona\u0107
+    nast\u0119puj\u0105ce czynno\u015Bci w podanej kolejno\u015Bci: "
+  Question_Explanation:
+  - "My\u015Blenie obliczeniowe to dziedzina nauki posiadaj\u0105ca wiele definicji.
+    Cz\u0119\u015Bci\u0105 wsp\xF3ln\u0105, kt\xF3r\u0105 mo\u017Cemy znale\u017A\u0107
+    w wi\u0119kszo\u015Bci definicji jest zwi\u0105zek z technikami rozwi\u0105zywania
+    problem\xF3w. "
+  - "My\u015Blenie obliczeniowe wspiera nas w procesie rozumeinia i rozwi\u0105zywania
+    problem\xF3w. "
+  - "My\u015Blenie obliczeniowe i kodowanie to poj\u0119cia pokrewne, ale kodowanie
+    nie jest technik\u0105 my\u015Blenia obliczeniowego. Kodowanie to przek\u0142adanie
+    logiki lub racjonalnych przes\u0142anek na j\u0119zyk programowania."
+  - "Opracowanie szczeg\xF3\u0142owego plany trasy jest przyk\u0142adem my\u015Blenia
+    algorytmicznego, umiej\u0119tno\u015Bci my\u015Blenia obliczeniowego. "
+  - "Rozbicie problemu na mniejsze cz\u0119\u015Bci jest przyk\u0142adem dekompozycji. "
+  - "My\u015Blenie algorytmiczne to termin opisuj\u0105cy poszczeg\xF3lne kroki,
+    kt\xF3re maj\u0105 doprowadzi\u0107 do rozwi\u0105zania problemu."
+  - "Poniewa\u017C wz\xF3r wymaga dodania 5, kolejn\u0105 liczb\u0105 jest 45."
+  - "Dekompozycja to rozbicie z\u0142o\u017Conego problemu na mniejsze cz\u0119\u015Bci. "
+  - "Dzi\u0119ki rozpoznawaniu wzorc\xF3w mo\u017Cemy zidentyfikowa\u0107 podobie\u0144stwa
+    lub kontrasty podczas procesu rozwi\u0105zywania problemu, a tak\u017Ce opisa\u0107
+    powtarzaln\u0105 \u015Bcie\u017Ck\u0119 rozwi\u0105zania problemu. "
+  - "Abstrakcja to proces odfiltrowania kwestii, kt\xF3re nie s\u0105 istotne dla
+    rozwi\u0105zania problemu."
+  - "My\u015Blenie algorytmiczne to spos\xF3b dochodzenia do rozwi\u0105zania poprzez
+    okre\u015Blenie krok\xF3w, tak jak np. w przepisie kulinarnym."
+  - "Generalizacja to rozwi\u0105zywanie nowych problem\xF3w na podstawie wcze\u015Bniejszych
+    problem\xF3w, kt\xF3re rozwi\u0105zali\u015Bmy. "
+  - "Sekwencja to kolejno\u015B\u0107, w jakiej wykonywane s\u0105 czynno\u015Bci.
+    Na przyk\u0142ad: w programowaniu czynno\u015Bci s\u0105 wykonywane jedna po
+    drugiej."
+  - "Debugowanie to proces, kt\xF3ry polega na znalezieniu i naprawieniu b\u0142\u0119d\xF3w,
+    je\u015Bli podj\u0119te kroki nie prowadz\u0105 do po\u017C\u0105danego rozwi\u0105zania."
+  - "Do podstawowych umiej\u0119tno\u015Bci my\u015Blenia obliczeniowego zaliczamy:
+    \u0391bstrakcj\u0119, My\u015Blenie algorytmiczne, Rozpoznawanie wzorc\xF3w,
+    Dekompozycj\u0119."
+  - "Do podstawowych umiej\u0119tno\u015Bci my\u015Blenia obliczeniowego zaliczamy:
+    \u0391bstrakcj\u0119, My\u015Blenie algorytmiczne, Rozpoznawanie wzorc\xF3w,
+    Dekompozycj\u0119. Kreatywno\u015B\u0107 jest umiej\u0119tno\u015Bci\u0105 XXI
+    wieku. "
+  - "My\u015Blenie algorytmiczne jest terminem opisuj\u0105cym kroki potrzebne do
+    osi\u0105gni\u0119cia rozwi\u0105zania. Sk\u0142adanie mebla to proces, kt\xF3ry
+    wymaga pod\u0105\u017Cania za instrukcj\u0105 krok po kroku."
+  - "Z nauk\u0105 j\u0119zyk\xF3w obcych jest jak z parzeniem herbaty. Aby napisa\u0107/m\xF3wi\u0107
+    co\u015B zgodnie z gramatyk\u0105 nale\u017Cy pozna\u0107 poradnik j\u0119zykowy.
+    Gramatyk\u0119 mo\u017Cna por\xF3wna\u0107 do przepisu kulinarnego, wyja\u015Bniaj\u0105cego
+    wszystkie kroki niezb\u0119dne do przygotowania dania. Ale przede wszystkim musimy
+    zna\u0107 sk\u0142adniki!   Sk\u0142adniki w gramatyce j\u0119zykowej to na przyk\u0142ad
+    podmiot i czasownik.  Dzielenie zda\u0144 na cz\u0119\u015Bci sk\u0142adowe usprawni
+    Twoj\u0105 nauk\u0119 - spr\xF3buj!"
+  - "Gdyby\u015B mia\u0142 doda\u0107 dziesi\u0119\u0107 dziesi\u0105tek, by\u0142oby
+    \u0142atwo. Suma wynios\u0142aby 100. To wygl\u0105da ciekawie, spr\xF3buj wi\u0119c
+    zacz\u0105\u0107 dodawanie od ostatniej liczby, czyli od 10. Dodaj do niej sum\u0119
+    pierwszej i przedostatniej, czyli 1 + 9 i tak dalej. Dodawane b\u0119dzie wi\u0119c
+    wygl\u0105da\u0142o tak:  10 + 1 + 9 + 2 + 8  + 3 + 7  + 4 + 6.  Masz pi\u0119\u0107
+    wierszy i w ka\u017Cdym suma wynosi 10. Zdekomponowa\u0142e\u015B w ten spos\xF3b
+    z\u0142o\u017Con\u0105 operacj\u0119 arytmetyczna na szereg prostych element\xF3w
+    sk\u0142adowych. Pi\u0119\u0107 dziesi\u0105tek, to 50, a 50, to po\u0142owa
+    100. Czyli 100 / 2. Zosta\u0142o ci do dodania jeszcze 5. Wszystko razem, to
+    100 / 2 + 5, czyli 55. Widzisz teraz wzorzec, kt\xF3ra upro\u015Bci obliczenia?
+    Sprawd\u017A teraz, czy 55 to dobry wynik, dodaj\u0105c po kolei wszystkie liczby
+    od 1 do 10. "
+  - "Je\u017Celi zsumujesz pierwsz\u0105 i ostatnia liczb\u0119 kt\xF3r\u0105 masz
+    doda\u0107, czyli 1 + 20, to uzyskasz 21. Masz 10 takich par. To s\u0105 elementy
+    sk\u0142adowe, kt\xF3re odkry\u0142e\u015B, dekomponuj\u0105c z\u0142o\u017Cone
+    obliczenie. Czyli 10 x 21 = 210. To wzorzec dla takich oblicze\u0144. Sprawd\u017A
+    teraz, czy 210 to dobry wynik, dodaj\u0105c po kolei wszystkie liczby od 1 do
+    20 na kartce, w kalkulatorze lub w komputerze. Mo\u017Cesz te\u017C spr\xF3bowa\u0107
+    w pami\u0119ci :) "
+  - "Na pocz\u0105tek przyk\u0142ad. Dodawanie liczb od 1 do 10, czyli do X = 10,
+    jest na pocz\u0105tku \u0142atwe. 1 + 2, to po prostu 3, a 3 + 3, to 6, itd.
+    Wyobra\u017A sobie jednak dodawanie od 1 do 140. Dodaj\u0105c kolejne, coraz
+    wi\u0119ksze liczby w pami\u0119ci \u0142atwo si\u0119 pomyli\u0107. Spr\xF3buj
+    znale\u017A\u0107 og\xF3lne rozwi\u0105zanie, zmieniaj\u0105c w tym celu tok
+    my\u015Blenia. Dodaj na przyk\u0142ad nie pierwsz\u0105 i drug\u0105 liczb\u0119,
+    ale pierwsz\u0105 i ostatni\u0105. 1 + 10 = 11. Kolejna para daje taki sam wynik:
+    2 + 9 = 11. Zdekomponowa\u0142e\u015B dane na proste, powtarzalne elementy. W
+    kolejnych parach suma tak\u017Ce wyniesie 11.  Rozpozna\u0142e\u015B wi\u0119c
+    wzorzec \u0142atwego sumowania. A ile b\u0119dzie takich par, kt\xF3re daj\u0105
+    identyczne sumy? Kolejne pary, to: 1+10, 2+9, 3+8, 4+7 i 5+6. Liczba par, to
+    5, czyli po\u0142owa liczb, kt\xF3re masz zsumowa\u0107. Mo\u017Cesz to zapisa\u0107
+    tak, \u017Ce przy 10 liczbach jest 10 / 2 = 5 - pi\u0119\u0107 par. Mo\u017Cesz
+    teraz uog\xF3lni\u0107 ide\u0119 rozwi\u0105zania u\u017Cywaj\u0105c symboli
+    arytmetycznych i u\u0142o\u017Cy\u0107 algorytm, opisuj\u0105cy kroki rozwi\u0105zania
+    dla dowolnych danych. Przy X liczb masz X / 2 par, a warto\u015Bci do zsumowania
+    wynosz\u0105 1 + X. Algorytm wygl\u0105da wi\u0119c tak: X/2+(1+X). Sprawd\u017A
+    teraz, czy ten algorytm da poprawne wyniki tak\u017Ce dla liczb od 1 do 11, do
+    20, czy dla dowolnej innej liczby. Spr\xF3buj te\u017C uog\xF3lni\u0107 ten algorytm
+    na dowoln\u0105 par\u0119 liczb z przedzia\u0142u <X; Y>, gdzie X<Y."
+  - "Komputacyjne my\u015Blenie polega na dzieleniu z\u0142o\u017Conych problem\xF3w
+    na mniejsze, bardziej zarz\u0105dzalne cz\u0119\u015Bci i stosowaniu logicznego
+    podej\u015Bcia do ich rozwi\u0105zywania. To samo podej\u015Bcie mo\u017Cna zastosowa\u0107
+    w celu oporu przeciwko niechcianym naciskom do pope\u0142nienia czego\u015B z\u0142ego. 
+    Kroki polegaj\u0105ce na nazwaniu element\xF3w sytuacji, rozpoznaniu ryzykownego
+    kontekstu, zastosowaniu praw asertywno\u015Bci i opuszczeniu miejsca/sytuacji
+    opieraj\u0105 si\u0119 na systematycznym podej\u015Bciu do rozwi\u0105zywania
+    problem\xF3w, a ka\u017Cdy kolejny krok opiera si\u0119 na poprzednim.  Oto jak
+    te kroki maj\u0105 zastosowanie w oporze przeciwko niechcianym naciskom:     
+    Nazwanie element\xF3w sytuacji: Pierwszym krokiem w oporze przeciwko niechcianym
+    naciskom jest zidentyfikowanie i zrozumienie r\xF3\u017Cnych element\xF3w sytuacji.
+    W tym nale\u017Cy zrozumie\u0107 motywy osoby lub os\xF3b wywieraj\u0105cych
+    naciski, potencjalne konsekwencje ust\u0119pstw dla ich \u017C\u0105da\u0144
+    oraz etyczne implikacje Twoich dzia\u0142a\u0144.      Rozpoznanie ryzykownego
+    kontekstu: Po zidentyfikowaniu r\xF3\u017Cnych element\xF3w sytuacji nast\u0119pnym
+    krokiem jest rozpoznanie, kiedy kontekst staje si\u0119 ryzykowny. W tym nale\u017Cy
+    zrozumie\u0107, kiedy wywierane naciski s\u0105 nieodpowiednie lub nieetyczne,
+    a kiedy mog\u0105 prowadzi\u0107 do szkody dla zdrowia lub innych negatywnych
+    konsekwencji dla Ciebie lub innych os\xF3b.      Zastosowanie praw asertywno\u015Bci:
+    Po rozpoznaniu, \u017Ce kontekst sta\u0142 si\u0119 ryzykowny, kolejnym krokiem
+    jest odwo\u0142anie si\u0119 do swoich praw i obrona swojego stanowiska. Wymaga
+    to jasnego przekazywania swoich granic i oczekiwa\u0144 osobie lub osobom wywieraj\u0105cym
+    naciski oraz odmowy ust\u0119pstw dla ich \u017C\u0105da\u0144.      Opuszczenie
+    miejsca/sytuacji: Je\u015Bli naciski nadal trwaj\u0105 i nie mo\u017Cesz rozwi\u0105za\u0107
+    sytuacji, ostatnim krokiem jest opuszczenie miejsca lub sytuacji. Mo\u017Ce to
+    obejmowa\u0107 fizyczne usuni\u0119cie si\u0119 z sytuacji, szukanie pomocy od
+    innych lub podj\u0119cie innych krok\xF3w, aby zapewni\u0107 swoje bezpiecze\u0144stwo
+    i dobre samopoczucie.  Post\u0119puj\u0105c wed\u0142ug tych krok\xF3w, mo\u017Cesz
+    podej\u015B\u0107 do problemu niechcianych nacisk\xF3w w logiczny i systematyczny
+    spos\xF3b, co zwi\u0119ksza Twoje szanse na skuteczne  przeciwstawienie si\u0119
+    presji."
+  - "My\u015Blenie obliczeniowe polega na rozbijaniu z\u0142o\u017Conych zada\u0144
+    na mniejsze, bardziej przyst\u0119pne cz\u0119\u015Bci oraz na logicznym podej\u015Bciu
+    do ich rozwi\u0105zywania. To samo podej\u015Bcie mo\u017Cna zastosowa\u0107
+    w przypadku nauczania robota, jak sprz\u0105ta\u0107 pok\xF3j.  Kroki polegaj\u0105ce
+    na wymienieniu wszystkich element\xF3w pokoju, rozpoznaniu obszar\xF3w \u0142\u0105cz\u0105cych
+    elementy, zdefiniowaniu zasad, kt\xF3re maj\u0105 by\u0107 zastosowane oraz przygotowaniu
+    instrukcji krok po kroku, opisane s\u0105 na podstawie systematycznego podej\u015Bcia
+    do rozwi\u0105zywania problem\xF3w, gdzie ka\u017Cdy krok buduje na poprzednim. 
+    Oto, jak te kroki mog\u0105 by\u0107 zastosowane w nauczaniu robota, jak sprz\u0105ta\u0107
+    pok\xF3j:      Wymie\u0144 wszystkie elementy pokoju: Pierwszym krokiem w nauczaniu
+    robota, jak sprz\u0105ta\u0107 pok\xF3j, jest wymienienie wszystkich element\xF3w
+    pokoju, z kt\xF3rymi robot musi si\u0119 zetkn\u0105\u0107. Obejmuje to meble,
+    \u015Bciany, pod\u0142ogi i wszelkie inne przedmioty lub funkcje, kt\xF3re mog\u0105
+    by\u0107 obecne.      Rozpoznaj obszary \u0142\u0105cz\u0105ce elementy: Po zidentyfikowaniu
+    wszystkich element\xF3w pokoju, nast\u0119pnym krokiem jest rozpoznanie obszar\xF3w,
+    kt\xF3re \u0142\u0105cz\u0105 te elementy. Na przyk\u0142ad obszar mi\u0119dzy
+    \u015Bcianami a pod\u0142og\u0105 lub obszar pod meblami. Rozpoznaj\u0105c te
+    obszary, mo\u017Cna opracowa\u0107 bardziej efektywn\u0105 strategi\u0119 sprz\u0105tania
+    dla robota.      Zdefiniuj zasady, kt\xF3re maj\u0105 by\u0107 zastosowane: Po
+    rozpoznaniu obszar\xF3w \u0142\u0105cz\u0105cych elementy, kolejnym krokiem jest
+    zdefiniowanie zasad, kt\xF3rych robot powinien przestrzega\u0107 podczas sprz\u0105tania
+    pokoju. Na przyk\u0142ad robot mo\u017Ce musie\u0107 unika\u0107 zderzania si\u0119
+    z meblami lub \u015Bcianami lub mo\u017Ce musie\u0107 dok\u0142adniej czy\u015Bci\u0107
+    niekt\xF3re obszary ni\u017C inne.      Przygotuj instrukcje krok po kroku: Po
+    zdefiniowaniu zasad, ostatnim krokiem jest przygotowanie instrukcji krok po kroku,
+    kt\xF3re robot b\u0119dzie m\xF3g\u0142 stosowa\u0107, aby sprz\u0105ta\u0107
+    pok\xF3j w spos\xF3b wydajny. Instrukcje te powinny uwzgl\u0119dnia\u0107 elementy
+    pokoju, obszary je \u0142\u0105cz\u0105ce oraz zasady, kt\xF3re zosta\u0142y
+    zdefiniowane.  \u015Aledz\u0105c te kroki w okre\u015Blonej kolejno\u015Bci,
+    mo\u017Cna podej\u015B\u0107 do zadania nauczania robota, jak sprz\u0105ta\u0107
+    pok\xF3j, w spos\xF3b logiczny i systematyczny, zwi\u0119kszaj\u0105c szanse
+    na wydajne i skuteczne wykonanie zadania przez robota."
+  - "My\u015Blenie komputacyjne polega na dzieleniu z\u0142o\u017Conych zada\u0144
+    na mniejsze, \u0142atwiejsze do zarz\u0105dzania cz\u0119\u015Bci oraz opracowywaniu
+    logicznego podej\u015Bcia do rozwi\u0105zywania problem\xF3w. Ten sam podej\u015Bcie
+    mo\u017Cna zastosowa\u0107 w celu stworzenia listy zada\u0144 do sprz\u0105tania
+    pokoju.  Zawarcie na li\u015Bcie wszystkich element\xF3w do sprz\u0105tania,
+    kategorie element\xF3w w pokoju \u0142\u0105cz\u0105cych si\u0119 ze sob\u0105
+    oraz og\xF3lne zalecenia dotycz\u0105ce porz\u0105dku i dok\u0142adno\u015Bci
+    sprz\u0105tania grup/typ\xF3w element\xF3w pomaga w ustanowieniu klarownego i
+    zorganizowanego planu sprz\u0105tania pokoju. Dzi\u0119ki podzia\u0142owi procesu
+    sprz\u0105tania na mniejsze cz\u0119\u015Bci, \u0142atwiej jest zarz\u0105dza\u0107
+    i skutecznie wykona\u0107 zadanie.  Dodatkowo, udzielanie szczeg\xF3\u0142owych
+    instrukcji dotycz\u0105cych sprz\u0105tania grup i element\xF3w, takich jak meble,
+    elektronika i inne elementy w odpowiedniej kolejno\u015Bci, zapewnia dok\u0142adne
+    i konsekwentne przeprowadzenie procesu sprz\u0105tania. To podej\u015Bcie r\xF3wnie\u017C
+    pomaga zminimalizowa\u0107 ryzyko przeoczenia jakichkolwiek element\xF3w lub
+    obszar\xF3w podczas procesu sprz\u0105tania."
+  - "Po\u017C\u0105danym rezultatem jest pe\u0142ne na\u0142adowanie trzech telefon\xF3w
+    kom\xF3rkowych przy u\u017Cyciu dw\xF3ch \u0142adowarek w jak najkr\xF3tszym
+    czasie.  Nale\u017Cy zauwa\u017Cy\u0107, \u017Ce je\u015Bli spr\xF3bujemy na\u0142adowa\u0107
+    wszystkie 3 telefony kom\xF3rkowe jednocze\u015Bnie przy u\u017Cyciu 2 \u0142adowarek,
+    czas \u0142adowania b\u0119dzie d\u0142u\u017Cszy ni\u017C 2 godziny dla ka\u017Cdego
+    telefonu. Dzieje si\u0119 tak dlatego, \u017Ce moc dostarczana przez \u0142adowarki
+    zostanie podzielona pomi\u0119dzy 3 telefony, wi\u0119c ka\u017Cdy telefon otrzyma
+    mniej ni\u017C pe\u0142n\u0105 moc \u0142adowania, kt\xF3rej potrzebuje.   Zamiast
+    tego mo\u017Cemy na\u0142adowa\u0107 2 telefony kom\xF3rkowe za pomoc\u0105 obu
+    \u0142adowarek jednocze\u015Bnie, a nast\u0119pnie na\u0142adowa\u0107 trzeci
+    telefon osobno, gdy jeden z pierwszych 2 telefon\xF3w jest w pe\u0142ni na\u0142adowany.
+    W ten spos\xF3b mo\u017Cemy mie\u0107 dwa telefony \u0142aduj\u0105ce si\u0119
+    z pe\u0142n\u0105 moc\u0105 \u0142adowania przez 2 godziny, co w pe\u0142ni je
+    na\u0142aduje. Nast\u0119pnie mo\u017Cemy u\u017Cy\u0107 jednej z \u0142adowarek
+    do \u0142adowania trzeciego telefonu przez 2 godziny, a\u017C zostanie on w pe\u0142ni
+    na\u0142adowany.  Ca\u0142kowity czas \u0142adowania wszystkich 3 telefon\xF3w
+    wyniesie w\xF3wczas 2 godziny dla dw\xF3ch pierwszych telefon\xF3w + 2 godziny
+    dla trzeciego telefonu = 4 godziny.  Powy\u017Csza metoda r\xF3wnie\u017C nie
+    jest najszybsza. Przedstawione rozwi\u0105zanie i wyja\u015Bnienie mo\u017Cemy
+    por\xF3wna\u0107 z innymi mo\u017Cliwymi odpowiedziami znalezionymi w wyniku
+    my\u015Blenia obliczeniowego. Pierwszym krokiem my\u015Blenia obliczeniowego
+    jest dekompozycja problemu, jeden z etap\xF3w my\u015Blenia obliczeniowego. Dekompozycja
+    problemu polega na rozbiciu z\u0142o\u017Conego problemu na mniejsze, \u0142atwiej
+    rozwi\u0105zywalne i mo\u017Cliwe do wt\xF3rnego przeorganizowania podproblemy,
+    kt\xF3re mo\u017Cna rozwi\u0105za\u0107 indywidualnie, a nast\u0119pnie po\u0142\u0105czy\u0107
+    w celu rozwi\u0105zania wi\u0119kszego problemu.   Og\xF3lny problem \u0142adowania
+    3 telefon\xF3w 2 \u0142adowarkani mo\u017Cemy zdekomponowa\u0107 na cztery prostsze
+    podproblemy: \u0142adowanie dw\xF3ch telefon\xF3w przez 2 godziny za pomoc\u0105
+    dw\xF3ch \u0142adowarek, \u0142adowanie jednego telefonu przez 2 godziny za pomoc\u0105
+    jednej \u0142adowarki, \u0142adowanie jednego telefonu przez 1 godzin\u0119 za
+    pomoc\u0105 jednej \u0142adowarki i prze\u0142\u0105czanie jednego telefonu z
+    jednej \u0142adowarki na drug\u0105.  Teraz, korzystaj\u0105c z tych podproblem\xF3w
+    i \u0142\u0105cz\u0105c wydr\u0119bnione warianty w nowy spos\xF3b, mo\u017Cemy
+    zobaczy\u0107, \u017Ce mo\u017Cemy zacz\u0105\u0107 od \u0142adowania pierwszego
+    telefonu przez 2 godziny pierwsz\u0105 z \u0142adowarek. W tym samym czasie mo\u017Cemy
+    rozpocz\u0105\u0107 \u0142adowanie drugiego telefonu drug\u0105 \u0142adowark\u0105,
+    ale od\u0142\u0105czy\u0107 go po 1 godzinie i pod\u0142\u0105czy\u0107 do drugiej
+    \u0142adowarki trzeci telefon na 2 godziny. Po ca\u0142kowitym na\u0142adowaniu
+    pierwszego telefonu za pomoc\u0105 pierwszej \u0142adowarki, mo\u017Cemy z kolei
+    pod\u0142\u0105czy\u0107 do tej \u0142adowarki drugi telefon na 1 godzin\u0119.
+    W ten spos\xF3b pe\u0142ne na\u0142adowanie wszystkich trzech telefon\xF3w przy
+    u\u017Cyciu dw\xF3ch \u0142adowarek zajmie \u0142\u0105cznie 3 godziny.  Jest
+    to najkr\xF3tszy mo\u017Cliwy czas, poniewa\u017C u\u017Cywamy dw\xF3ch \u0142adowarek
+    jednocze\u015Bnie i optymalizujemy czas \u0142adowania dla ka\u017Cdego telefonu.
+    Gdyby\u015Bmy mieli \u0142adowa\u0107 wszystkie trzy telefony przez 2 godziny
+    przy u\u017Cyciu jednej \u0142adowarki, pe\u0142ne na\u0142adowanie wszystkich
+    trzech telefon\xF3w zaj\u0119\u0142oby \u0142\u0105cznie 6 godzin. Dlatego rozwi\u0105zanie
+    polegaj\u0105ce na \u0142adowaniu jednego telefonu przez 1 godzin\u0119, a nast\u0119pnie
+    prze\u0142\u0105czeniu go na drug\u0105 \u0142adowark\u0119 podczas \u0142adowania
+    pozosta\u0142ych dw\xF3ch telefon\xF3w przez 2 godziny jest najbardziej efektywnym
+    podej\u015Bciem, co jest korzy\u015Bci\u0105 z zastosowania my\u015Blenia komputacyjnego."
+  - "Model my\u015Blenia obliczeniowego polega na podzieleniu problemu na mniejsze,
+    bardziej zarz\u0105dzalne cz\u0119\u015Bci i zaprojektowaniu rozwi\u0105za\u0144
+    wykorzystuj\u0105cych algorytmy i struktury danych. Stosuj\u0105c ten model do
+    procesu pisania programu do robienia zakup\xF3w online, mo\u017Cna przedstawi\u0107
+    nast\u0119puj\u0105ce uzasadnienie dla kolejno\u015Bci zada\u0144:  Krok 1 -
+    Wyszukiwanie przedmiotu: Pierwszym krokiem w ka\u017Cdym programie do zakup\xF3w
+    online jest umo\u017Cliwienie u\u017Cytkownikowi wyszukiwania przedmiot\xF3w,
+    kt\xF3re chce kupi\u0107. Polega to na udost\u0119pnieniu pola wyszukiwania lub
+    listy kategorii do przegl\u0105dania, a nast\u0119pnie zastosowaniu algorytm\xF3w
+    do przeszukiwania bazy produkt\xF3w w celu znalezienia tych, kt\xF3re odpowiadaj\u0105
+    kryteriom wyszukiwania u\u017Cytkownika.  Krok 2 - Dodanie przedmiotu do koszyka:
+    Gdy u\u017Cytkownik znajdzie ju\u017C przedmiot, kt\xF3ry chce kupi\u0107, kolejnym
+    krokiem jest dodanie go do koszyka. Wymaga to utworzenia struktury danych, kt\xF3ra
+    mo\u017Ce przechowywa\u0107 szczeg\xF3\u0142y przedmiotu, takie jak jego nazwa,
+    cena i ilo\u015B\u0107, a nast\u0119pnie dodania go do koszyka u\u017Cytkownika.
+    Koszyk mo\u017Ce r\xF3wnie\u017C \u015Bledzi\u0107 ca\u0142kowity koszt u\u017Cytkownika
+    i wy\u015Bwietla\u0107 go dla niego. Nie mo\u017Cna doda\u0107 przedmiotu do
+    koszyka nie wiedz\u0105c, czy produkt znajduje si\u0119 w bazie danych (krok
+    1).   Krok 3 - Wprowadzenie adres dostawy: Po tym jak u\u017Cytkownik doda\u0142
+    do koszyka wszystkie przedmioty, kt\xF3re chce kupi\u0107, kolejnym krokiem jest
+    wprowadzenie adresu dostawy. Wi\u0105\u017Ce si\u0119 to z udost\u0119pnieniem
+    formularza, w kt\xF3rym u\u017Cytkownik mo\u017Ce wprowadzi\u0107 swoje imi\u0119
+    i nazwisko, adres, numer telefonu i inne istotne szczeg\xF3\u0142y. Informacje
+    te mog\u0105 by\u0107 przechowywane w bazie danych lub wysy\u0142ane do us\u0142ugi
+    zewn\u0119trznej w celu weryfikacji. Konieczna jest znajomo\u015B\u0107 liczby
+    i rozmiaru / wagi wszystkich zakupionych przedmiot\xF3w (krok 2), aby oceni\u0107
+    w\u0142a\u015Bciw\u0105 form\u0119 i cen\u0119 dostawy.   Krok 4 - Zap\u0142ata
+    za przedmiot: Ostatecznie, po wprowadzeniu przez u\u017Cytkownika adresu dostawy,
+    ostatnim krokiem jest umo\u017Cliwienie mu zap\u0142aty za przedmiot. Wi\u0105\u017Ce
+    si\u0119 to z integracj\u0105 z bramk\u0105 p\u0142atnicz\u0105, tak\u0105 jak
+    np. PayPal lub Przelewy24, w celu przetworzenia p\u0142atno\u015Bci u\u017Cytkownika.
+    Program powinien r\xF3wnie\u017C zapewni\u0107 stron\u0119 potwierdzaj\u0105c\u0105,
+    kt\xF3ra pokazuje u\u017Cytkownikowi szczeg\xF3\u0142y zam\xF3wienia, adres dostawy
+    i ca\u0142kowity koszt. Konieczne jest poznanie wszystkich zam\xF3wionych przedmiot\xF3w
+    i odleg\u0142o\u015Bci dostawy, aby pozna\u0107 Aby obliczy\u0107 cen\u0119 ca\u0142kowit\u0105,
+    musisz zna\u0107 wszystkie wybrane przedmioty, formularz i odleg\u0142o\u015B\u0107
+    dostawy (kroki 1 - 3), zanim poprosisz o p\u0142atno\u015B\u0107.  Og\xF3lnie
+    rzecz bior\u0105c, przestrzeganie tej sekwencji zada\u0144 w programie zapewnia,
+    \u017Ce u\u017Cytkownik mo\u017Ce wyszukiwa\u0107, wybiera\u0107 i kupowa\u0107
+    \u017C\u0105dane przedmioty w spos\xF3b p\u0142ynny i logiczny, a jednocze\u015Bnie
+    zapewnia niezb\u0119dne struktury danych i algorytmy, dzi\u0119ki kt\xF3rym program
+    dzia\u0142a sprawnie."
+  - "Uzasadnienie podanej sekwencji krok\xF3w do narysowania zielonego kwadratu o
+    wymiarach 150px x 150px opiera si\u0119 na zasadach my\u015Blenia komputacyjnego.  
+    My\u015Blenie komputacyjne jest podej\u015Bciem do rozwi\u0105zywania problem\xF3w,
+    kt\xF3re polega na rozbiciu z\u0142o\u017Conego problemu na mniejsze, bardziej
+    wykonalne cz\u0119\u015Bci, a nast\u0119pnie systematycznym analizowaniu i rozwi\u0105zywaniu
+    ka\u017Cdej z nich. Obejmuje ono szereg krok\xF3w, takich jak dekompozycja problemu,
+    rozpoznawanie wzorc\xF3w, abstrakcja, projektowanie algorytm\xF3w i ocena.  
+    W tym przypadku problemem jest narysowanie zielonego kwadratu o wymiarach 150px
+    x 150px. Aby rozwi\u0105za\u0107 ten problem za pomoc\u0105 my\u015Blenia komputacyjnego,
+    mo\u017Cemy podzieli\u0107 go na mniejsze kroki i zaprojektowa\u0107 algorytm,
+    kt\xF3ry wykona te kroki w okre\u015Blonej kolejno\u015Bci.   Podana kolejno\u015B\u0107
+    krok\xF3w wynika z nast\u0119puj\u0105cego rozumowania:  a) Przejd\u017A do miejsca
+    startu: Ten krok zapewnia, \u017Ce program rozpoczyna rysowanie kwadratu od \u017C\u0105danej
+    pozycji na p\u0142\xF3tnie. Bez tego kroku pole mo\u017Ce zosta\u0107 narysowany
+    w niezamierzonym miejscu na p\u0142\xF3tnie.  b) Ustaw kolor pi\xF3ra na zielony:
+    Ten krok ustawia kolor pi\xF3ra na zielony, kt\xF3ry b\u0119dzie u\u017Cywany
+    do rysowania kwadratu. Bez tego kroku pi\xF3ro mo\u017Ce u\u017Cywa\u0107 innego
+    koloru, co nie spowoduje narysowania zielonego kwadratu.  c) Przesu\u0144 o 150px:
+    Ten krok przesuwa pi\xF3ro o 150px w linii prostej, kt\xF3ra utworzy jeden bok
+    kwadratu. Ten krok jest powtarzany w sumie trzy razy, aby narysowa\u0107 wszystkie
+    cztery boki kwadratu.  d) Obr\xF3\u0107 zgodnie z ruchem wskaz\xF3wek zegara
+    o 90 stopni: Ten krok obraca pi\xF3ro o 90 stopni zgodnie z ruchem wskaz\xF3wek
+    zegara, co ukierunkuje pi\xF3ro na rysowanie kolejnego boku kwadratu pod k\u0105tem
+    prostym do poprzedniego boku. Bez tego kroku pi\xF3ro rysowa\u0142oby nast\u0119pny
+    bok w tym samym kierunku co poprzedni, co skutkowa\u0142oby prostok\u0105tem
+    zamiast kwadratu.  e) Powt\xF3rz powy\u017Csze dwa kroki 3 razy: Ten krok powtarza
+    poprzednie dwa kroki (przesu\u0144 o 150px i obr\xF3\u0107 o 90 stopni) trzy
+    razy, aby narysowa\u0107 wszystkie cztery boki kwadratu. Bez tego kroku program
+    narysowa\u0142by tylko jeden bok kwadratu, pozostawiaj\u0105c go niekompletnym. 
+    Podana sekwencja krok\xF3w jest niezb\u0119dna do narysowania zielonego kwadratu
+    o wymiarach 150px x 150px w zamierzonym miejscu i orientacji."
+  - "B\u0142\u0105d w programie polega na tym, \u017Ce narysuje on cztery razy boki
+    kwadratu, ale jako jedn\u0105 prost\u0105 lini\u0119 i nie uzupe\u0142ni kwadratu
+    poprzez po\u0142\u0105czenie ostatniego boku z pierwszym. Zamiast tego program
+    zako\u0144czy si\u0119 obr\xF3ceniem pi\xF3ra o 90 stopni w prawo po narysowaniu
+    czwartego boku, ale bez przesuwania pi\xF3ra do punktu pocz\u0105tkowego kwadratu.
+    Dlatego ostateczny rysunek b\u0119dzie mia\u0142 kszta\u0142t litery \"I\" zamiast
+    kwadratu.  B\u0142\u0105d wynika z faktu, \u017Ce polecenie obrotu o 90 stopni
+    w prawo znajduje si\u0119 poza p\u0119tl\u0105.   Aby poprawi\u0107 program,
+    polecenie obrotu o 90 stopni zgodnie z ruchem wskaz\xF3wek zegara powinno znale\u017A\u0107
+    si\u0119 wewn\u0105trz p\u0119tli, co spowoduje, \u017Ce pi\xF3ro znajdzie si\u0119
+    w punkcie pocz\u0105tkowym kwadratu. Konkretnie, program powinien zosta\u0107
+    zmodyfikowany tak, aby ustawi\u0107 blok w nawiasie jako [przesu\u0144 100px,
+    obr\xF3\u0107 w prawo o 90 stopni] przed ponownym powt\xF3rzeniem bloku. W ten
+    spos\xF3b po narysowaniu ka\u017Cdego boku kwadratu pi\xF3ro obr\xF3ci si\u0119
+    w prawo i w ko\u0144cu przejdzie do punktu pocz\u0105tkowego kwadratu, a rysunek
+    b\u0119dzie kompletnym kwadratem. Poprawiony program mia\u0142by tak\u0105 posta\u0107: 
+    powt\xF3rz 4 razy: [przesu\u0144 100px, obr\xF3\u0107 w prawo o 90 stopni]  Korekta
+    b\u0142\u0119du programu jest przyk\u0142adem zastosowania zasad my\u015Blenia
+    komputacyjnego do zadania programistycznego. W szczeg\xF3lno\u015Bci korekta
+    polega na zastosowaniu my\u015Blenia algorytmicznego i debugowania w celu zidentyfikowania
+    i rozwi\u0105zania b\u0142\u0119du logicznego w programie.  Proces my\u015Blenia
+    algorytmicznego polega na rozbiciu programu na sekwencj\u0119 krok\xF3w i przeanalizowaniu,
+    jakie rezultaty daj\u0105 te kroki. W ten spos\xF3b staje si\u0119 jasne, \u017Ce
+    oryginalny program narysuje cztery boki kwadratu jako pojedyncz\u0105, prost\u0105
+    lini\u0119 i nie doko\u0144czy kwadratu poprzez po\u0142\u0105czenie ostatniego
+    boku z pierwszym.  Proces debugowania polega na zidentyfikowaniu b\u0142\u0119du
+    w logice programu, a nast\u0119pnie zmodyfikowaniu programu w celu poprawienia
+    b\u0142\u0119du. W tym przypadku b\u0142\u0105d zosta\u0142 zidentyfikowany jako
+    nieumieszczenie wewn\u0105trz p\u0119tli polecenia obrotu w prawo o 90 stopni,
+    tak, aby pi\xF3ro wr\xF3ci\u0142o do punktu pocz\u0105tkowego kwadratu. Poprawiony
+    program zosta\u0142 zmodyfikowany poprzez przeniesienie polecenia obrotu w prawo
+    o 90 stopni do wewn\u0105trz p\u0119tli w celu uko\u0144czenia kwadratu.  Og\xF3lnie
+    rzecz bior\u0105c, ta korekta pokazuje znaczenie my\u015Blenia algorytmicznego
+    i debugowania w zadaniach programistycznych. Stosuj\u0105c te zasady my\u015Blenia
+    komputacyjnego, programi\u015Bci mog\u0105 zidentyfikowa\u0107 i poprawi\u0107
+    b\u0142\u0119dy w swoich programach, aby uzyska\u0107 po\u017C\u0105dane rezultaty
+    wyj\u015Bciowe."
+  - "Aby osi\u0105gn\u0105\u0107 prawy g\xF3rny r\xF3g na planszy 5x5 startuj\u0105c
+    z pozycji centralnej kwadratu, skoczek powinien porusza\u0107 si\u0119 w okre\u015Blonej
+    sekwencji ruch\xF3w. Optymalne ruchy, kt\xF3re nale\u017Cy wykona\u0107 to: 
+    1. Przesun\u0105\u0107 si\u0119 o 2 pola w d\xF3\u0142 i o 1 pole w prawo. 2.
+    Przesun\u0105\u0107 si\u0119 o 2 pola w lewo i 1 pole w g\xF3r\u0119. 3. Przesun\u0105\u0107
+    si\u0119 o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 4. Przesun\u0105\u0107 si\u0119
+    o 2 pola w prawo i 1 pole w g\xF3r\u0119. LUB 1. Przesun\u0105\u0107 si\u0119
+    o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 2. Przesun\u0105\u0107 si\u0119 o 2
+    pola w d\xF3\u0142 i 1 pole w prawo. 3. Przesun\u0105\u0107 si\u0119 o 2 pola
+    w lewo i 1 pole w g\xF3r\u0119. 4. Przesun\u0105\u0107 si\u0119 o 2 pola w prawo
+    i 1 pole w g\xF3r\u0119.  Istnieje kilka powod\xF3w, dla kt\xF3rych te ruchy
+    s\u0105 optymalnym rozwi\u0105zaniem, aby osi\u0105gn\u0105\u0107 prawy g\xF3rny
+    r\xF3g z pozycji centralnego pola.  Po pierwsze, pocz\u0105tkowy ruch o 2 pola
+    w d\xF3\u0142 i 1 pole w prawo (lub 2 pola w g\xF3r\u0119 i 1 pole w prawo) jest
+    najbardziej efektywnym ruchem przybli\u017Caj\u0105cym skoczka do naro\u017Cnika.
+    Przesuwa on skoczka o 2 pola w kierunku rogu, zachowuj\u0105c jego pozycj\u0119
+    na planszy.  Kolejne ruchy maj\u0105 na celu zbli\u017Cenie skoczka do prawego
+    g\xF3rnego rogu. Przesuwaj\u0105c si\u0119 o 2 pola w lewo i 1 pole w g\xF3r\u0119,
+    skoczek zbli\u017Ca si\u0119 do g\xF3rnej kraw\u0119dzi planszy. Kolejny ruch
+    o 2 pola w g\xF3r\u0119 i 1 pole w prawo ponownie przybli\u017Ca skoczka do naro\u017Cnika.
+    Wreszcie ruch o 2 pola w prawo i 1 pole w g\xF3r\u0119 doprowadza skoczka do
+    prawego g\xF3rnego rogu.  Taka sekwencja ruch\xF3w sprawia, \u017Ce skoczek zawsze
+    zbli\u017Ca si\u0119 do naro\u017Cnika, pozostaj\u0105c na planszy. Dzi\u0119ki
+    tym optymalnym ruchom skoczek mo\u017Ce dotrze\u0107 do prawego g\xF3rnego rogu
+    w najkr\xF3tszym mo\u017Cliwym czasie z pozycji \u015Brodkowego pola.  Og\xF3lnie
+    rzecz bior\u0105c, optymalna sekwencja ruch\xF3w w celu osi\u0105gni\u0119cia
+    prawego g\xF3rnego rogu na planszy 5x5, zaczynaj\u0105c od pozycji centralnego
+    pola, wymaga starannego planowania i rozwa\u017Cenia zasad ruchu skoczka. Analizuj\u0105c
+    mo\u017Cliwe ruchy i oceniaj\u0105c ich efektywno\u015B\u0107, mo\u017Cemy wyznaczy\u0107
+    optymalne rozwi\u0105zanie problemu.  Ta sekwencja ruch\xF3w zapewnia, \u017Ce
+    skoczka zawsze porusza si\u0119 w kierunku naro\u017Cnika, pozostaj\u0105c na
+    planszy. Dzi\u0119ki tym optymalnym ruchom skoczek mo\u017Ce dotrze\u0107 do
+    prawego g\xF3rnego rogu w najkr\xF3tszym mo\u017Cliwym czasie z pozycji centralnego
+    pola.  Og\xF3lnie rzecz bior\u0105c, optymalna sekwencja ruch\xF3w w celu osi\u0105gni\u0119cia
+    prawego g\xF3rnego rogu na planszy 5x5, zaczynaj\u0105c od pozycji centralnego
+    pola, wymaga starannego planowania i rozwa\u017Cenia zasad ruchu skoczka. Analizuj\u0105c
+    mo\u017Cliwe ruchy i oceniaj\u0105c ich efektywno\u015B\u0107, mo\u017Cemy wyznaczy\u0107
+    optymalne rozwi\u0105zanie problemu.  Z punktu widzenia my\u015Blenia komputacyjnego,
+    znalezienie optymalnej sekwencji ruch\xF3w dla skoczka, aby osi\u0105gn\u0105\u0107
+    prawy g\xF3rny r\xF3g planszy 5x5, zaczynaj\u0105c od pozycji centralnego pola,
+    obejmuje kilka wa\u017Cnych koncepcji tego procesu my\u015Blenia:      Dekompozycja:
+    Aby rozwi\u0105za\u0107 problem, musimy go zdekomponowa\u0107 na mniejsze podproblemy.
+    W szczeg\xF3lno\u015Bci musimy zidentyfikowa\u0107 mo\u017Cliwe ruchy, kt\xF3re
+    mo\u017Ce wykona\u0107 skoczek i oceni\u0107 efektywno\u015B\u0107 ka\u017Cdego
+    z nich pod wzgl\u0119dem przybli\u017Cenia skoczka do miejsca docelowego.     
+    Rozpoznawanie wzorc\xF3w: Mo\u017Cemy zastosowa\u0107 umiej\u0119tno\u015Bci
+    rozpoznawania wzorc\xF3w, aby zidentyfikowa\u0107 ruchy, kt\xF3re s\u0105 najbardziej
+    efektywne dla skoczka, aby osi\u0105gn\u0105\u0107 prawy g\xF3rny r\xF3g. W szczeg\xF3lno\u015Bci
+    mo\u017Cemy rozpozna\u0107, \u017Ce ruchy polegaj\u0105ce na przesuni\u0119ciu
+    si\u0119 o 2 kwadraty w d\xF3\u0142 i 1 kwadrat w prawo lub 2 kwadraty w g\xF3r\u0119
+    i 1 kwadrat w prawo s\u0105 najbardziej efektywne, poniewa\u017C przybli\u017Caj\u0105
+    skoczka do miejsca docelowego, a jednocze\u015Bnie utrzymuj\u0105 jego pozycj\u0119
+    na planszy.      Abstrakcja: Mo\u017Cemy wyabstrahowa\u0107 problem, traktuj\u0105c
+    szachownic\u0119 jako siatk\u0119 kom\xF3rek o wymiarach 5x5, a ruchy skoczka
+    jako zbi\xF3r regu\u0142, kt\xF3re dyktuj\u0105, jak skoczek mo\u017Ce porusza\u0107
+    si\u0119 mi\u0119dzy kom\xF3rkami. Taka abstrakcja pozwala nam upro\u015Bci\u0107
+    problem i skupi\u0107 si\u0119 na istotnych elementach niezb\u0119dnych do jego
+    rozwi\u0105zania.      My\u015Blenie algorytmiczne: Aby znale\u017A\u0107 optymaln\u0105
+    sekwencj\u0119 ruch\xF3w dla skoczka w celu dotarcia do prawego g\xF3rnego rogu,
+    musimy opracowa\u0107 systematyczne i powtarzalne podej\u015Bcie. W szczeg\xF3lno\u015Bci
+    musimy oceni\u0107 ka\u017Cdy z o\u015Bmiu mo\u017Cliwych ruch\xF3w, kt\xF3re
+    mo\u017Ce wykona\u0107 skoczek i wybra\u0107 te ruchy, kt\xF3re przesuwaj\u0105
+    t\u0119 figur\u0119 w kierunku docelowego miejsca, a jednocze\u015Bnie utrzymuj\u0105
+    j\u0105 na planszy.      Ocena: Na koniec musimy zastosowa\u0107 umiej\u0119tno\u015Bci
+    logicznego rozumowania, aby oceni\u0107 efektywno\u015B\u0107 ka\u017Cdego ruchu
+    i wybra\u0107 najlepsze ruchy dla skoczka. Wi\u0105\u017Ce si\u0119 to ze zrozumieniem
+    zasad dotycz\u0105cych tego, jak skoczek mo\u017Ce porusza\u0107 si\u0119 po
+    planszy, okre\u015Bleniem celu problemu i zastosowaniem logicznego rozumowania
+    w celu oceny optymalnego rozwi\u0105zania.  Og\xF3lnie rzecz bior\u0105c, problem
+    znalezienia optymalnej sekwencji ruch\xF3w dla skoczka, aby dotrze\u0107 do prawego
+    g\xF3rnego rogu planszy 5x5, zaczynaj\u0105c od pozycji centralnego kwadratu,
+    wymaga zastosowania kilku kluczowych koncepcji i umiej\u0119tno\u015Bci my\u015Blenia
+    komputacyjnego, w tym dekompozycji, rozpoznawania wzorc\xF3w, abstrakcji, algorytmizacji
+    i dodatkowo ewaluacji. Stosuj\u0105c te umiej\u0119tno\u015Bci, mo\u017Cemy okre\u015Bli\u0107
+    najbardziej efektywn\u0105 sekwencj\u0119 ruch\xF3w dla skoczka, aby dotrze\u0107
+    do celu."
+  - "Aby znale\u017A\u0107 najmniejsz\u0105 liczb\u0119 ruch\xF3w dla skoczka, kt\xF3ry
+    ma dosta\u0107 si\u0119 do jednego z rog\xF3w szachownicy 5x5 ze \u015Brodkowego
+    pola, mo\u017Cemy u\u017Cy\u0107 algorytmu wyszukiwania, takiego jak breadth-first
+    search lub algorytm Dijkstry. Poniewa\u017C jednak przestrze\u0144 poszukiwa\u0144
+    jest stosunkowo niewielka, mo\u017Cemy r\xF3wnie\u017C rozwi\u0105za\u0107 ten
+    problem r\u0119cznie, analizuj\u0105c mo\u017Cliwe ruchy.  Po pierwsze, mo\u017Cemy
+    zauwa\u017Cy\u0107, \u017Ce istnieje tylko osiem mo\u017Cliwych ruch\xF3w, kt\xF3re
+    skoczek mo\u017Ce wykona\u0107 z centralnego pola:  1. Przesun\u0105\u0107 si\u0119
+    2 pola w d\xF3\u0142 i 1 pole w prawo 2. Przesun\u0105\u0107 si\u0119 2 pola
+    w d\xF3\u0142 i 1 pole w lewo 3. Przesun\u0105\u0107 si\u0119 2 pola w g\xF3r\u0119
+    i 1 pole w prawo 4. Przesun\u0105\u0107 si\u0119 2 pola w g\xF3r\u0119 i 1 pole
+    w lewo 5. Przesun\u0105\u0107 si\u0119 2 pola w lewo i 1 pole w d\xF3\u0142 6.
+    Przesun\u0105\u0107 si\u0119 2 pola w lewo i 1 pole w g\xF3r\u0119 7. Przesun\u0105\u0107
+    si\u0119 2 pola w prawo i 1 pole w d\xF3\u0142 8. Przesun\u0105\u0107 si\u0119
+    2 pola w prawo i 1 pole w g\xF3r\u0119  Wykonuj\u0105c kt\xF3rykolwiek z tych
+    o\u015Bmiu ruch\xF3w, skoczek znajdzie si\u0119 na polu obok jednego z naro\u017Cnik\xF3w
+    planszy. W zwi\u0105zku z tym, minimalna liczba ruch\xF3w wymagana do osi\u0105gni\u0119cia
+    przez skoczka jednego z naro\u017Cnik\xF3w wynosi cztery. Dzieje si\u0119 tak,
+    poniewa\u017C skoczek musi wykona\u0107 co najmniej trzy ruchy, aby dotrze\u0107
+    do pola obok kt\xF3rego sie znajduje lub do pola lustrzanego.  Na przyk\u0142ad
+    za\u0142\xF3\u017Cmy, \u017Ce skoczek zaczyna na \u015Brodkowym polu i chce dotrze\u0107
+    do prawego g\xF3rnego pola. Optymaln\u0105 sekwencj\u0105 ruch\xF3w by\u0142oby: 
+    1. Przesun\u0105\u0107 si\u0119 o 2 pola w d\xF3\u0142 i o 1 pole w prawo. 2.
+    Przesun\u0105\u0107 si\u0119 o 2 pola w lewo i 1 pole w g\xF3r\u0119. 3. Przesun\u0105\u0107
+    si\u0119 o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 4. Przesun\u0105\u0107 si\u0119
+    o 2 pola w prawo i 1 pole w g\xF3r\u0119.  LUB 1. Przesun\u0105\u0107 si\u0119
+    o 2 pola w g\xF3r\u0119 i 1 pole w prawo. 2. Przesun\u0105\u0107 si\u0119 o 2
+    pola w d\xF3\u0142 i 1 pole w prawo. 3. Przesun\u0105\u0107 si\u0119 o 2 pola
+    w lewo i 1 pole w g\xF3r\u0119. 4. Przesun\u0105\u0107 si\u0119 o 2 pola w prawo
+    i 1 pole w g\xF3r\u0119.  W sumie ta sekwencja ruch\xF3w doprowadza skoczka do
+    prawego g\xF3rnego rogu planszy w zaledwie czterech ruchach, co jest minimaln\u0105
+    wymagan\u0105 liczb\u0105 ruch\xF3w.   Z punktu widzenia my\u015Blenia obliczeniowego,
+    rozwi\u0105zanie problemu znalezienia najmniejszej liczby ruch\xF3w dla skoczka,
+    aby dosta\u0107 si\u0119 do jednego z rog\xF3w szachownicy 5x5, zaczynaj\u0105c
+    od centralnego kwadratu, mo\u017Cna rozbi\u0107 na seri\u0119 krok\xF3w:  1.
+    Zdefiniowanie problemu: Problemem jest znalezienie najkr\xF3tszej drogi, jak\u0105
+    mo\u017Ce przeby\u0107 rycerz, aby dotrze\u0107 do jednego z rog\xF3w szachownicy
+    5x5 startuj\u0105c z centralnego kwadratu, bior\u0105c pod uwag\u0119, \u017Ce
+    skoczek musi porusza\u0107 si\u0119 w uk\u0142adzie litery L.  2. Przeanalizuj
+    problem: Pierwszym krokiem w analizie problemu jest zrozumienie ogranicze\u0144.
+    W tym przypadku skoczek musi porusza\u0107 si\u0119 w kszta\u0142cie litery L,
+    co oznacza, \u017Ce mo\u017Ce poruszy\u0107 si\u0119 o dwa kwadraty w jednym
+    kierunku, a nast\u0119pnie o jeden kwadrat w kierunku prostopad\u0142ym. Szachownica
+    jest siatk\u0105 5x5, co oznacza, \u017Ce jest na niej 25 kwadrat\xF3w. Pozycj\u0105
+    startow\u0105 jest centralny kwadrat, kt\xF3ry znajduje si\u0119 na przeci\u0119ciu
+    trzeciego rz\u0119du i trzeciej kolumny.  3. Zaprojektuj rozwi\u0105zanie: Aby
+    zaprojektowa\u0107 rozwi\u0105zanie, mo\u017Cemy u\u017Cy\u0107 algorytmu przeszukiwania,
+    aby zbada\u0107 wszystkie mo\u017Cliwe \u015Bcie\u017Cki, kt\xF3re mo\u017Ce
+    przeby\u0107 skoczek, aby dotrze\u0107 do jednego z rog\xF3w szachownicy. Powszechnie
+    stosowany algorytm wyszukiwania dla problem\xF3w takich jak ten nazywa si\u0119
+    breadth-first search (BFS). BFS zaczyna si\u0119 od pozycji startowej i bada
+    wszystkie mo\u017Cliwe ruchy z tej pozycji. Nast\u0119pnie przechodzi do nast\u0119pnego
+    poziomu drzewa wyszukiwania i bada wszystkie mo\u017Cliwe ruchy z tych pozycji.
+    Proces ten trwa do momentu znalezienia rozwi\u0105zania.  4. Implementacja rozwi\u0105zania:
+    Implementacja rozwi\u0105zania polega na napisaniu kodu wykonuj\u0105cego wyszukiwanie
+    BFS na szachownicy. Algorytm powinien \u015Bledzi\u0107 dotychczas znalezione
+    najkr\xF3tsze \u015Bcie\u017Cki i zaprzesta\u0107 przeszukiwania po znalezieniu
+    drogi do jednego z naro\u017Cnik\xF3w.  5. Testowanie rozwi\u0105zania: Aby przetestowa\u0107
+    rozwi\u0105zanie, mo\u017Cemy uruchomi\u0107 kod na r\xF3\u017Cnych przypadkach
+    testowych, takich jak start z r\xF3\u017Cnych pozycji na szachownicy lub zmiana
+    rozmiaru szachownicy. Powinni\u015Bmy r\xF3wnie\u017C przetestowa\u0107 rozwi\u0105zanie
+    na przypadkach brzegowych, takich jak sytuacja, gdy pozycja startowa znajduje
+    si\u0119 ju\u017C w rogu szachownicy.  Z tej perspektywy wida\u0107, \u017Ce
+    minimalna liczba ruch\xF3w wymaganych do tego, aby skoczek dotar\u0142 do jednego
+    z naro\u017Cnik\xF3w szachownicy 5x5, zaczynaj\u0105c od centralnego kwadratu,
+    wynosi 4. Mo\u017Cna to udowodni\u0107, analizuj\u0105c wszystkie mo\u017Cliwe
+    ruchy, jakie mo\u017Ce wykona\u0107 skoczek i znajduj\u0105c najkr\xF3tsz\u0105
+    \u015Bcie\u017Ck\u0119 do naro\u017Cnika."
+  - "Z perspektywy my\u015Blenia obliczeniowego, wykonywanie krok\xF3w w podanej
+    kolejno\u015Bci podczas przygotowywania przepisu na ciasto jest niezb\u0119dne
+    do zapewnienia dobrego wyniku. Oto dlaczego:  1. Dekompozycja: Pierwszym krokiem
+    w przygotowaniu przepisu na ciasto jest rozbicie zadania na mniejsze podzadania.
+    Obejmuje to wypisanie wszystkich sk\u0142adnik\xF3w, opisanie, jak nale\u017Cy
+    je \u0142\u0105czy\u0107 dla ka\u017Cdego sk\u0142adnika, wyja\u015Bnienie mo\u017Cliwych
+    modyfikacji przepisu oraz opisanie wszystkich krok\xF3w potrzebnych do wykonania
+    ciasta. Taka dekompozycja pozwala nam lepiej zrozumie\u0107 problem i skupi\u0107
+    si\u0119 na ka\u017Cdym pojedynczym zadaniu.  2. Rozpoznawanie wzorc\xF3w: Kiedy
+    ju\u017C zdekomponujemy zadanie, mo\u017Cemy zidentyfikowa\u0107 wzorce w przepisie.
+    Na przyk\u0142ad, mo\u017Cemy zauwa\u017Cy\u0107, \u017Ce przepis zaczyna si\u0119
+    od wymienienia sk\u0142adnik\xF3w, nast\u0119pnie przechodzi do opisu sposobu
+    ich po\u0142\u0105czenia, po czym nast\u0119puj\u0105 mo\u017Cliwe modyfikacje
+    przepisu, a na ko\u0144cu kroki potrzebne do wykonania ciasta. Rozpoznanie tych
+    wzorc\xF3w pomaga nam zrozumie\u0107 przep\u0142yw przepisu i zale\u017Cno\u015Bci
+    pomi\u0119dzy poszczeg\xF3lnymi krokami.  3. Abstrakcja: Po zidentyfikowaniu
+    wzorc\xF3w w przepisie, mo\u017Cemy wyabstrahowa\u0107 szczeg\xF3\u0142y ka\u017Cdego
+    kroku i skupi\u0107 si\u0119 na koncepcjach wysokiego poziomu. Oznacza to, \u017Ce
+    mo\u017Cemy my\u015Ble\u0107 o przepisie w kategoriach og\xF3lnego procesu, a
+    nie grz\u0119zn\u0105\u0107 w poszczeg\xF3lnych sk\u0142adnikach lub pomiarach. 
+    4. Projektowanie algorytmu: Maj\u0105c na uwadze koncepcje wysokopoziomowe, mo\u017Cemy
+    zaprojektowa\u0107 algorytm przygotowania przepisu na ciasto. Algorytm ten powinien
+    wykonywa\u0107 kroki w podanej kolejno\u015Bci, zaczynaj\u0105c od wymienienia
+    sk\u0142adnik\xF3w, nast\u0119pnie opisuj\u0105c, jak nale\u017Cy je \u0142\u0105czy\u0107
+    dla ka\u017Cdego sk\u0142adnika, nast\u0119pnie wyja\u015Bniaj\u0105c mo\u017Cliwe
+    modyfikacje przepisu, a na ko\u0144cu opisuj\u0105c wszystkie kroki potrzebne
+    do wykonania ciasta. Post\u0119powanie zgodnie z kolejno\u015Bci\u0105 gwarantuje,
+    \u017Ce nie pominiemy \u017Cadnych wa\u017Cnych krok\xF3w i \u017Ce ciasto wyjdzie
+    zgodnie z oczekiwaniami.  5. Testowanie: Wreszcie mo\u017Cemy przetestowa\u0107
+    przepis, post\u0119puj\u0105c zgodnie z zaprojektowanym przez nas algorytmem
+    i wprowadzaj\u0105c modyfikacje w razie potrzeby. Testowanie pomaga nam zidentyfikowa\u0107
+    wszelkie b\u0142\u0119dy w przepisie i udoskonali\u0107 algorytm do wykorzystania
+    w przysz\u0142o\u015Bci.  Og\xF3lnie rzecz bior\u0105c, wykonywanie krok\xF3w
+    w kolejno\u015Bci podczas przygotowywania przepisu na ciasto jest wa\u017Cne,
+    poniewa\u017C zapewnia, \u017Ce wszystkie niezb\u0119dne sk\u0142adniki s\u0105
+    zawarte i \u017Ce przepis jest wykonywany prawid\u0142owo. Dziel\u0105c przepis
+    na mniejsze zadania, rozpoznaj\u0105c wzorce, abstrahuj\u0105c od szczeg\xF3\u0142\xF3w,
+    projektuj\u0105c algorytm i testuj\u0105c przepis, mo\u017Cemy mie\u0107 pewno\u015B\u0107,
+    \u017Ce ciasto za ka\u017Cdym razem wyjdzie pyszne."
+  - "Widzenie stereoskopowe to zdolno\u015B\u0107 naszych oczu do ogl\u0105dania
+    tego samego obiektu z nieco r\xF3\u017Cnych perspektyw, ze wzgl\u0119du na ich
+    nieco inne pozycje na naszej twarzy. Nasz m\xF3zg \u0142\u0105czy nast\u0119pnie
+    te dwa obrazy, aby stworzy\u0107 tr\xF3jwymiarowe postrzeganie obiektu.   Obraz
+    stereograficzny wykorzystuje to naturalne zjawisko, prezentuj\u0105c dwa nieco
+    odmienne obrazy obok siebie. Przy prawid\u0142owym ogl\u0105daniu nasz m\xF3zg
+    \u0142\u0105czy te dwa obrazy, tworz\u0105c iluzj\u0119 obrazu tr\xF3jwymiarowego. 
+    Kroki wymienione w pytaniu s\u0105 metod\u0105 treningu dla naszych oczu i m\xF3zgu,
+    aby zobaczy\u0107 obraz 3D w stereogramie.   Z perspektywy my\u015Blenia komputacyjnego,
+    mo\u017Cemy my\u015Ble\u0107 o tych krokach jako o procesie szkolenia naszego
+    systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego. Proces
+    ten obejmuje seri\u0119 dzia\u0142a\u0144, kt\xF3re pozwalaj\u0105 nam przezwyci\u0119\u017Cy\u0107
+    naturalne uprzedzenia poznawcze i dostosowa\u0107 nasz system percepcji wzrokowej
+    do tworzenia iluzji obrazu 3D.  Podej\u015Bcie oparte na my\u015Bleniu komputacyjnym
+    polega na rozbiciu problemu na seri\u0119 mniejszych krok\xF3w i algorytm\xF3w,
+    kt\xF3re mo\u017Cna wykona\u0107 w logicznej kolejno\u015Bci. W przypadku ogl\u0105dania
+    stereogramu, kroki wymienione w pytaniu pomagaj\u0105 nam trenowa\u0107 nasz
+    system percepcji wzrokowej.  Pierwszy krok, rozlu\u017Anienie oczu, mo\u017Ce
+    by\u0107 postrzegany jako dekompozycja, przezwyci\u0119\u017Canie naturalnej
+    tendencji do skupiania si\u0119 na jednym punkcie. Rozlu\u017Aniaj\u0105c oczy,
+    jeste\u015Bmy w stanie zobaczy\u0107 obrazy w stereogramie, kt\xF3rych wcze\u015Bniej
+    nie widzieli\u015Bmy, nie skupiaj\u0105c si\u0119 na \u017Cadnym z nich.  Drugi
+    krok, patrzenie poza obraz, mo\u017Ce by\u0107 postrzegany jako przezwyci\u0119\u017Cania
+    naturalnej poznawczej tendencji do skupiania si\u0119 na obiektach w naszym polu
+    widzenia. Patrz\u0105c poza obraz, jeste\u015Bmy w stanie obj\u0105\u0107 oba
+    obrazy w stereogramie, nie skupiaj\u0105c si\u0119 na \u017Cadnym z nich. To
+    w\u0142a\u015Bnie w chwili patrzenia poza obraz dostrzegamy zwykle obraz ukryty
+    w stereogramie, co mo\u017Cna okre\u015Bli\u0107 mianem rozpoznania struktury.  
+    Trzeci krok, oddalenie stereogramu/g\u0142owy, mo\u017Ce by\u0107 postrzegany
+    jako dostosowanie naszego systemu percepcji wzrokowej do dw\xF3ch obraz\xF3w
+    w stereogramie. Oddalaj\u0105c stereogram/g\u0142ow\u0119, jeste\u015Bmy w stanie
+    dostosowa\u0107 nasz\u0105 perspektyw\u0119 wzrokow\u0105 tak, aby dwa obrazy
+    by\u0142y prawid\u0142owo wyr\xF3wnane. Widz\u0105c nowo rozpoznany obraz przestrzenny,
+    dostrzegamy jego tr\xF3jwymiarowe t\u0142o i rozumiemy og\xF3ln\u0105 zasad\u0119
+    i procedur\u0119 widzenia stereoskopowego.   Czwarty krok, przybli\u017Canie
+    i oddalanie si\u0119 od stereogramu, mo\u017Ce by\u0107 postrzegany jako dopracowanie
+    algorytmu wyr\xF3wnania dw\xF3ch obraz\xF3w dla uzyskania percepcji g\u0142\u0119bi.
+    Poprzez przybli\u017Canie lub oddalanie si\u0119 od stereogramu jeste\u015Bmy
+    w stanie dostosowa\u0107 odleg\u0142o\u015B\u0107 pomi\u0119dzy naszymi oczami
+    a obrazem, co wp\u0142ywa na postrzegan\u0105 g\u0142\u0119bi\u0119.  Og\xF3lnie
+    rzecz bior\u0105c, kroki wymienione w pytaniu mog\u0105 by\u0107 uznane za algorytm
+    szkolenia naszego systemu percepcji wzrokowej do przetwarzania obrazu stereograficznego.
+    Wykonuj\u0105c te kroki, jeste\u015Bmy w stanie przezwyci\u0119\u017Cy\u0107
+    naturalne uprzedzenia poznawcze i dostosowa\u0107 nasz system percepcji wzrokowej
+    do tworzenia iluzji obrazu 3D."
+  Op1:
+  - "Jest to instruowanie za pomoc\u0105 komputera jak wykona\u0107 pewne czynno\u015Bci."
+  - "My\u015Blenie obliczeniowe wspiera nas w programowaniu."
+  - " Rozpoznawanie wzor\xF3w"
+  - "Planowanie trasy przed udaniem si\u0119 na spotkanie z kim\u015B w okre\u015Blonym
+    miejscu"
+  - "Roz\u0142o\u017Cenie kwestii organizacji wydarzenia na mniejsze i mo\u017Cliwe
+    do opanowania cz\u0119\u015Bci, np.  kto jest odpowiedzialny za proces rejestracji,
+    identyfikatory, ulotki, mikrofony, prezentacje itp. "
+  - " Podczas rozwi\u0105zywania problemu matematycznego uczniowie staraj\u0105 si\u0119
+    wypracowa\u0107 krok po kroku procedur\u0119, kt\xF3r\u0105 mo\u017Cna potem
+    zastosowa\u0107 do por\xF3wnywalnych problem\xF3w."
+  - 32
+  - ' Dekompozycja'
+  - " Rozpoznawanie wzor\xF3w"
+  - ' Abstrakcja'
+  - ' Abstrakcja'
+  - " Rozpoznawanie wzor\xF3w"
+  - Dekompozycja
+  - ' Generalizacja'
+  - "Abstrakcja, My\u015Blenie algorytmiczne, Rozpoznawanie wzor\xF3w."
+  - "Kreatywno\u015B\u0107"
+  - ' Generalizacja'
+  - "podzieli\u0107 zdanie na cz\u0119\u015Bci podrz\u0119dne typu podmiot, czasownik
+    itp."
+  - dodajemy 1, 2, 3, 4, itd. do 10
+  - "pomno\u017Cy\u0107 10 przez 21"
+  - X/2 * (X+1)
+  - "nazwij elementy sytuacji; rozpoznaj ryzykowny kontekst; zastosuj prawa asertywno\u015Bci;
+    opu\u015B\u0107 miejsce/sytuacj\u0119"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; rozpozna\u0107 obszary \u0142\u0105cz\u0105ce
+    elementy; okre\u015Bli\u0107 zasady, kt\xF3re nale\u017Cy zastosowa\u0107; przygotowa\u0107
+    instrukcj\u0119 krok po kroku"
+  - "list\u0119 wszystkich przedmiot\xF3w do sprz\u0105tania; zasad\u0119 \u0142\u0105cz\u0105c\u0105
+    kategorie przedmiot\xF3w w pokoju w grupy/rodzaje; og\xF3lne zalecenia dotycz\u0105ce
+    kolejno\u015Bci i dok\u0142adno\u015Bci sprz\u0105tania grup/rodzaj\xF3w przedmiot\xF3w"
+  - 3
+  - "zap\u0142a\u0107 za przedmiot, wpisz adres dostawy, wyszukaj przedmiot, dodaj
+    przedmiot do koszyka"
+  - "przejd\u017A do miejsca startu, ustaw kolor pisaka na zielony, przesu\u0144
+    o 150 px, obr\xF3\u0107 w prawo o 90 stopni, powt\xF3rz dwie powy\u017Csze czynno\u015Bci
+    3 razy"
+  - "p\u0119tla \"repeat\" powinna powt\xF3rzy\u0107 si\u0119 2 razy"
+  - "przejd\u017A 2 pola w g\xF3r\u0119 i 1 pole w prawo, 2 w d\xF3\u0142 1 w prawo,
+    2 w lewo 1 w g\xF3r\u0119, 2 w prawo, 1 w g\xF3r\u0119"
+  - 4
+  - "opisa\u0107 wszystkie kroki potrzebne do wykonania tortu, opisa\u0107, w jaki
+    spos\xF3b nale\u017Cy zebra\u0107 sk\u0142adniki do ka\u017Cdego z nich, wymieni\u0107
+    wszystkie sk\u0142adniki, wyja\u015Bni\u0107 mo\u017Cliwe modyfikacje przepisu"
+  - "rozlu\u017Ani\u0107 oczy; spojrze\u0107 poza stereogram; podnie\u015B\u0107
+    stereogram/g\u0142ow\u0119; zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego"
+  Op2:
+  - "Jest to nauka my\u015Blenia jak komputer."
+  - " My\u015Blenie obliczeniowe wspiera nas w zmaganiach z trudnymi problemami w
+    celu znalezienia rozwi\u0105zania."
+  - Kodowanie
+  - "B\u0142\u0105dzenie po okolicy, a\u017C znajdziemy poszukiwane miejsce"
+  - "Organizowanie imprezy i zastanawianie si\u0119, jak mo\u017Cemy to zrobi\u0107
+    w jak najlepszy mo\u017Cliwy spos\xF3b. "
+  - " Uczniowie pisz\u0105 wskaz\xF3wki do rozwi\u0105zania problemu matematycznego,
+    kt\xF3re nast\u0119pnie inny ucze\u0144 musi wykorzysta\u0107 do rozwi\u0105zania
+    tego samego zadania."
+  - '38 '
+  - "My\u015Blenie algorytmiczne"
+  - Dekompozycja
+  - "Ropoznawanie wzor\xF3w"
+  - Dekompozycja
+  - Dekompozycja
+  - Generalizacja
+  - Dekompozycja
+  - "Debugowanie, Przep\u0142yw kontroli, Abstrakcja, Sekwencjonowanie"
+  - Dekompozycja
+  - Dekompozycja
+  - "umie\u015Bci\u0107 we w\u0142a\u015Bciwej kolejno\u015Bci cz\u0119\u015Bci sk\u0142adowe,
+    takie jak podmiot, czasownik itp."
+  - "pomno\u017Cy\u0107 10 przez 5 i doda\u0107 1"
+  - dodaj 1, 2, 3, 4 i tak dalej, ale bardzo szybko
+  - X*2 / (X+1)
+  - "opu\u015B\u0107 miejsce/sytuacj\u0119; nazwij elementy sytuacji; rozpoznaj ryzykowny
+    kontekst; zastosuj prawa asertywno\u015Bci"
+  - "okre\u015Bli\u0107 zasady do zastosowania; przygotowa\u0107 instrukcje krok
+    po kroku; wymieni\u0107 wszystkie elementy pomieszczenia; rozpozna\u0107 obszary
+    \u0142\u0105cz\u0105ce elementy"
+  - "konkretne instrukcje dotycz\u0105ce sprz\u0105tania grup i przedmiot\xF3w takich
+    jak meble (krzes\u0142o, biurko, szafa itp.), sprz\u0119t elektroniczny (telewizor,
+    komputer, soundbar itp.) w odpowiedniej kolejno\u015Bci"
+  - 4
+  - "dodaj artyku\u0142 do koszyka, zap\u0142a\u0107 za artyku\u0142, wyszukaj artyku\u0142,
+    wpisz adres dostawy"
+  - "przejd\u017A do miejsca startu; obr\xF3\u0107 si\u0119 w prawo o 90 stopni;
+    ustaw kolor pisaka na zielony; przesu\u0144 o 150 px; powt\xF3rz dwie powy\u017Csze
+    czynno\u015Bci 3 razy"
+  - "blok \"obr\xF3\u0107 w prawo\" powinien znajdowa\u0107 si\u0119 wewn\u0105trz
+    p\u0119tli, za blokiem \"przesu\u0144\"."
+  - "id\u017A: 2 pola w d\xF3\u0142 i 1 pole w prawo, 2 w lewo 1 w g\xF3r\u0119,
+    2 w g\xF3r\u0119 1 w prawo, 2 w prawo 1 w g\xF3r\u0119"
+  - 3
+  - "wymie\u0144 wszystkie sk\u0142adniki, wyja\u015Bnij mo\u017Cliwe modyfikacje
+    przepisu, opisz wszystkie kroki potrzebne do wykonania ciasta, opisz jak nale\u017Cy
+    \u0142\u0105czy\u0107 sk\u0142adniki dla ka\u017Cdego z nich"
+  - "podnie\u015B\u0107 stereogram/g\u0142ow\u0119; spojrze\u0107 poza stereogram;
+    zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego; rozlu\u017Ani\u0107 oczy"
+  Op3:
+  - " Jest to rozwi\u0105zywanie problemu z wykorzystaniem technik wspomagaj\u0105cych."
+  - " My\u015Blenie obliczeniowe pomaga nam nauczy\u0107 si\u0119 my\u015Ble\u0107
+    jak komputer."
+  - "My\u015Blenie algorytmiczne"
+  - "Poproszenie przyjaciela lub cz\u0142onka rodziny o zaplanowanie dla nas trasy "
+  - "Zastanawianie si\u0119 nad r\xF3\u017Cnymi sposobami organizacji imprezy."
+  - "Ucze\u0144 opisuje seri\u0119 mniejszych wydarze\u0144 historycznych, kt\xF3re
+    doprowadzi\u0142y do znacznie wi\u0119kszego wydarzenia."
+  - 45
+  - Abstrakcja
+  - "My\u015Blenie algorytmiczne"
+  - 'Dekompozycja '
+  - Generalizacja
+  - Generalizacja
+  - Sekwencjonowanie
+  - Debugowanie
+  - " Abstrakcja, My\u015Blenie algorytmiczne, Rozpoznawanie wzor\xF3w, Dekompozycja"
+  - Sekwencjonowanie
+  - Debugowanie
+  - "nazwa\u0107 cz\u0119\u015Bci sk\u0142adowe jak podmiot, czasownik itp."
+  - "podzieli\u0107 100 przez 2 i doda\u0107 5"
+  - "doda\u0107 20, 19, 18, 17 i tak dalej, ale bardzo szybko"
+  - (X+1) / X*2
+  - "zastosowa\u0107 prawa asertywno\u015Bci; opu\u015Bci\u0107 miejsce/sytuacj\u0119;
+    nazwa\u0107 elementy sytuacji; rozpozna\u0107 ryzykowny kontekst"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; okre\u015Bli\u0107 zasady, kt\xF3re
+    nale\u017Cy zastosowa\u0107; przygotowa\u0107 instrukcj\u0119 krok po kroku;
+    rozpozna\u0107 obszary \u0142\u0105cz\u0105ce elementy"
+  - "oba powy\u017Csze"
+  - 6
+  - "wpisz adres dostawy, dodaj artyku\u0142 do koszyka, zap\u0142a\u0107 za artyku\u0142,
+    wyszukaj artyku\u0142"
+  - "ustaw kolor pisaka na zielony; przesu\u0144 150 px; obr\xF3\u0107 w prawo o
+    90 stopni; przejd\u017A do miejsca startu; powt\xF3rz dwa powy\u017Csze kroki
+    3 razy"
+  - "blok \"move\" powinien znajdowa\u0107 si\u0119 poza p\u0119tl\u0105"
+  - "obie powy\u017Csze czynno\u015Bci s\u0105 prawid\u0142owe"
+  - 5
+  - "wymie\u0144 wszystkie sk\u0142adniki, opisz wszystkie kroki potrzebne do wykonania
+    ciasta, opisz jak nale\u017Cy \u0142\u0105czy\u0107 sk\u0142adniki dla ka\u017Cdego
+    z nich, wyja\u015Bnij mo\u017Cliwe modyfikacje przepisu"
+  - "przybli\u017Ca\u0107 i oddala\u0107 g\u0142ow\u0119 od stereogramu; rozlu\u017Ani\u0107
+    oczy; podnie\u015B\u0107 stereogram/g\u0142ow\u0119; patrze\u0107 poza niego"
+  Op4:
+  - ' Jest to programowanie komputera'
+  - " My\u015Blenie obliczeniowe pomaga nam w nauce kodowania."
+  - Abstrakcja
+  - "\u017Badne z powy\u017Cszych"
+  - "\u017Badne z powy\u017Cszych"
+  - "Uczniowie my\u015Bl\u0105 o r\xF3\u017Cnych sposobach rozwi\u0105zania problemu."
+  - 42
+  - Generalizacja
+  - Abstrakcja
+  - "My\u015Blenie algorytmiczne"
+  - "My\u015Blenie algorytmiczne"
+  - Abstrakcja
+  - "\u017Badne z powy\u017Cszych"
+  - "\u017Badne z powy\u017Cszych"
+  - "\u017Badne z powy\u017Cszych"
+  - Abstrakcja
+  - "My\u015Blenie algorytmiczne"
+  - "wymiesza\u0107 cz\u0119\u015Bci sk\u0142adowe takie jak podmiot, czasownik itp.
+    w dowolnej kolejno\u015Bci i sprawdzi\u0107 zrozumienie"
+  - "obliczy\u0107: ((1 + 10 ) x 10) / 2"
+  - "doda\u0107 20, 1, 19, 2, 18, 3, i tak dalej, ale naprawd\u0119 szybko"
+  - 2X * X
+  - "rozpozna\u0107 ryzykowny kontekst; opu\u015Bci\u0107 miejsce/sytuacj\u0119;
+    zastosowa\u0107 prawa asertywno\u015Bci; nazwa\u0107 elementy sytuacji"
+  - "wymieni\u0107 wszystkie elementy pomieszczenia; przygotowa\u0107 instrukcj\u0119
+    krok po kroku; okre\u015Bli\u0107 zasady, kt\xF3re nale\u017Cy zastosowa\u0107;
+    rozpozna\u0107 obszary \u0142\u0105cz\u0105ce elementy "
+  - "\u017Cadne z powy\u017Cszych"
+  - 2
+  - "wyszukaj przedmiot, dodaj przedmiot do koszyka, podaj adres dostawy, zap\u0142a\u0107
+    za przedmiot"
+  - "przejd\u017A do miejsca startu; ustaw kolor pisaka na zielony; ; powt\xF3rz
+    dwa powy\u017Csze kroki 3 razy; przesu\u0144 o 150 px; obr\xF3t w prawo o 90
+    stopni"
+  - "blok \"obr\xF3\u0107 w prawo\" powinien znajdowa\u0107 si\u0119 wewn\u0105trz
+    p\u0119tli, przed blokiem \"przenie\u015B\"."
+  - "\u017Cadne z powy\u017Cszych rozwi\u0105za\u0144 nie jest poprawne"
+  - "niemo\u017Cliwe - niesko\u0144czenie wiele"
+  - "wymie\u0144 wszystkie sk\u0142adniki, opisz jak nale\u017Cy je \u0142\u0105czy\u0107
+    dla ka\u017Cdego z nich, wyja\u015Bnij mo\u017Cliwe modyfikacje przepisu, opisz
+    wszystkie kroki potrzebne do wykonania tortu"
+  - "rozlu\u017Ani\u0107 oczy; podnie\u015B\u0107 stereogram/g\u0142ow\u0119; spojrze\u0107
+    poza niego; zbli\u017Cy\u0107 si\u0119 i oddali\u0107 od niego"
+  answersIndex: 0200000001000000010000000000000000000000030000000200000000000000000000000000000003000000020000000200000002000000020000000000000003000000000000000200000000000000000000000000000000000000020000000000000003000000000000000100000002000000000000000300000000000000

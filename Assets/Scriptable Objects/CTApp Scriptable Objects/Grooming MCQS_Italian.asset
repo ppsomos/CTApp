@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1b1f8d4a0d9534b852669dce885af9, type: 3}
+  m_Name: Grooming MCQS_Italian
+  m_EditorClassIdentifier: 
+  quizType: 0
+  questionIndex: 0
+  questions:
+  - "Ci sono 3 lavoratori che lavorano per lo stesso tasso di pagamento. Il primo
+    ha funzionato per 2 giorni in totale, il 2 \xB0 per 3 giorni e il 3 per 5 giorni.
+    Il loro datore di lavoro fornir\xE0 900 euro per tutti loro, a seconda dei giorni
+    in cui ciascuno dei lavoratori ha lavorato. Quanti euro ricever\xE0 il terzo
+    lavoratore?"
+  - Quali numeri dovrebbero sostituire i punti interrogativi? 14, 16, 28, 32, 42,
+    48, 56, 64,? ,?
+  - Quale numero manca?
+  - Dottore - Ospedale. Quale dei seguenti ha la stessa relazione con questo?
+  - "Qual \xE8 la risposta pi\xF9 adatta?"
+  - "Qual \xE8 la risposta pi\xF9 adatta?"
+  - Quale numero manca?
+  - osa rappresenta una freccia in un diagramma di flusso?
+  - "Una scimmia sta cercando di arrampicarsi su un muro di 20 di altezza. In un
+    salto sale di 3 piedi ma scivola gi\xF9 di 2 piedi. In quanti salti arriver\xE0
+    in cima."
+  - Come continua la sequenza?
+  - Cosa sostituisce il punto interrogativo?
+  - "Questa \xE8 la mappa della stazione della metropolitana di Londra. Quante fermate
+    ci sono da Dido Elizabeth Belle a Katherine Auker utilizzando la linea verde
+    e la linea nera?"
+  - "La retribuzione settimanale di un dipendente dipende dalla retribuzione e dal
+    numero di ore lavorate settimanali. L'orario minimo di lavoro \xE8 di un'ora
+    alla settimana e il massimo \xE8 di 60. Un dipendente che lavora pi\xF9 di 40
+    ore viene pagato 1,5 volte la retribuzione normale per tutte le ore lavorate
+    oltre le 40. La retribuzione normale \xE8 di $ 10/ora. Di seguito \xE8 riportato
+    un diagramma di flusso per calcolare ed emettere la paga settimanale per qualsiasi
+    dipendente. Qual \xE8 l'output se l'input \xE8 di 45 ore?"
+  - "Dieci articoli con prezzi (5, 1, 1, 10, 8, 10, 5, 3, 2, 8) sono disponibili
+    in un'asta. C'\xE8 un'offerta speciale in questa asta: acquista 3 dispositivi
+    e ottieni gratuitamente il dispositivo con il prezzo pi\xF9 basso tra questi
+    3 dispositivi. Qual \xE8 il costo totale minimo per acquistare tutti e 10 i dispositivi
+    in questa asta?"
+  - Vuoi risolvere un puzzle. Da dove inizi?
+  - 'Leggi le seguenti frasi e scegli la risposta che si adatta meglio a una conversazione
+    alabile: "Ho appena avuto un brutto voto sul mio quiz di pensiero computazionale"'
+  - "Leggi le seguenti frasi e scegli la risposta che non \xE8 un'abilit\xE0 di critica
+    costruttiva."
+  - "Leggi le seguenti frasi e scegli la risposta che non contiene SOLO il supporto
+    vitale di base.  Suggerimenti: la spiegazione del supporto vitale di base pu\xF2
+    essere semplificata dicendo che \xE8 \"un insieme di tecniche che aiutano a rispondere
+    rapidamente a situazioni di emergenza che mettono in pericolo la vita\""
+  - Sei in una riunione aziendale e il leader sta parlando di modi per raggiungere
+    i loro obiettivi. Cosa farebbe un leader autocratico? Cosa farebbe un leader
+    democratico? Cosa farebbe un leader di laissez-faire?  Scegli la risposta errata
+    e sbagliata per questo scenario.
+  - 'Quando inizi a imparare a formare frasi in una lingua straniera, dovresti:'
+  - "Il metodo corretto pi\xF9 veloce per sommare tutti i numeri interi da 1 a 10
+    nella tua testa \xE8:"
+  - 'Per sommare tutti i numeri interi da 1 a 20 in 10 secondi, solo usando la tua
+    memoria, dovresti:'
+  - 'Per disegnare un quadrato verde 150px x 150px, il programma deve passare attraverso
+    i seguenti passaggi nell''ordine fornito:'
+  - "Come dovrebbe il cavaliere (una figura degli scacchi che si pu\xF2 spostare
+    due campi in orizzontale e uno verticalmente o due in verticale e uno orizzontalmente)
+    dal campo centrale della scheda 5x5 nell'angolo in alto a destra della tavola?"
+  - "Una colonia di castori sta camminando attraverso una foresta oscura. Il sentiero
+    \xE8 stretto, quindi camminano in fila. A volte c'\xE8 una buca nel percorso.
+    La buca viene superata nel modo seguente: \u2022 Per prima cosa saltano nella
+    buca tanti castori quanti ne entrano. \u2022 L'intera colonia passer\xE0 quindi
+    attraverso la buca. \u2022 I castori che sono saltati dentro salteranno fuori.
+    Domanda: Una colonia di 7 castori \xE8 passata attraverso la foresta. Passano
+    sopra 3 buche. la prima buca si adatta a 4 castori, la seconda a 2 e l'ultima
+    buca a 3 castori. In che ordine si trovano i castori dopo aver superato la terza
+    buca?"
+  Question_Explanation:
+  - "Pensiamo a questo problema in modo pi\xF9 semplificato. Quindi, il datore di
+    lavoro vuole offrire 900 euro per tutti i lavoratori e ognuno di essi verr\xE0
+    pagato in base al numero di giorni in cui hanno lavorato (hanno in mente che
+    tutti lavorano per lo stesso tasso di pagamento). Quindi, in totale, tutti hanno
+    completato 10 giorni di lavoro (2+3+5 = 10 giorni lavorativi). Se vogliamo trovare
+    quanto coster\xE0 ogni giorno lavorativo, divideremo l'importo totale da pagare
+    con il numero di giorni lavorativi. Ci\xF2 significa che ogni giorno costa 90
+    euro (900 euro/10 giorni = 90 euro). Pertanto, il 3 \xB0 lavoratore, che ha lavorato
+    per 5 giorni, otterr\xE0 90x5 = 450 euro!"
+  - "Si tratta di trovare il modello! Ci sono 2 sequenze qui, che sono intrecciate.
+    Il primo sta aggiungendo 14 (14, 28, 42, 56, 70,\u2026,) e il secondo aggiunge
+    16 (16, 32, 48, 64, 80, ...,)"
+  - "Troviamo il modello qui! Il modello \xE8 che ogni numero \xE8 costituito dalle
+    ultime tre cifre di quella precedente (in primo ordine) pi\xF9 le prime due cifre
+    di quella precedente (nell'ultimo ordine). Pertanto, poich\xE9 il numero precedente
+    \xE8 67428, il numero mancante sar\xE0 42867"
+  - In che modo le parole sono legate al medico e all'ospedale? Il medico lavora
+    in ospedale. Nello stesso senso, l'agricoltore lavora nella fattoria.
+  - In questo esempio, la prima parola fa parte della seconda parola in una determinata
+    riga. Proprio come l'albero fa parte dell'intera foresta, il fiore fa parte del
+    bouquet!
+  - "I verbi che corrono e parlano indicano un ritmo veloce, mentre i verbi camminano
+    e si scrivono un ritmo pi\xF9 lento."
+  - "Il numero corretto \xE8 6! Questo perch\xE9 ogni numero della riga superiore
+    viene moltiplicato con il suo numero intero precedente e la seconda riga \xE8
+    la somma, ad esempio 7x6 = 42"
+  - "Una freccia pu\xF2 guidarci lungo il percorso del diagramma di flusso."
+  - "Cominciamo semplificando la domanda: la scimmia con un salto di 3 metri arriva
+    in alto ma scivola in basso di 2 metri. Quindi con un salto arriva in realt\xE0
+    ad un metro. Contiamo ora quanti salti gli serviranno per raggiungere la cima
+    del muro. Contato? Finito? Quando raggiunge i 17 metri e quando fa il 18\xB0
+    salto di 3 metri, raggiunger\xE0 la sommit\xE0 del muro e non scivoler\xE0 gi\xF9. 
+    La risposta corretta \xE8 \"c\"."
+  - "Cerca di capire lo schema seguito da ogni elemento e poi controllali insieme.
+    Cosa cambia? come cambia? I cerchi all'interno e all'esterno della scatola cambiano
+    colore dopo ogni turno. Il movimento della linea segue la direzione tra i due
+    cerchi, con il punto puntato nella direzione del cerchio esterno. Considerando
+    gli schemi menzionati, dopo l'ultima casella, il cerchio bianco dovrebbe trovarsi
+    all'interno della casella grigia e il punto dovrebbe seguire sempre la stessa
+    direzione. Quindi, l'unica risposta corretta che segue la sequenza \xE8 la casella
+    E. La risposta alla domanda \xE8 d."
+  - "La somma dei lati di tutte le forme aumenta dopo ogni tessera, un cerchio conta
+    come un lato. La terza forma dall'esterno cambia colore dopo ogni tessera. La
+    forma corretta da includere come punto interrogativo \xE8 F."
+  - "Innanzitutto, trova le due fermate menzionate nella domanda. Una volta trovate,
+    continua a seguire la linea blu scuro. Un consiglio \xE8 quello di non perdere
+    le fermate senza il punto. La risposta corretta \xE8 b."
+  - "La retribuzione settimanale \xE8 pari alla moltiplicazione tra le retribuzioni
+    e il totale delle ore lavorate. Tieni presente che la tariffa oraria \xE8 diversa
+    dopo 40 ore. La risposta corretta \xE8 a. Come risolvere >> Per 1 ora ricevono
+    10\u20AC. Per pi\xF9 di 40 ore, \xE8 10\u20AC* 1,5 = 15\u20AC. Quindi, il dipendente
+    che lavora 45 ore a settimana ottiene >> 40h*10\u20AC=400\u20AC + (5h*15) = 475\u20AC"
+  - "Per risolvere questo problema, \xE8 meglio ordinare gli articoli dal prezzo
+    pi\xF9 alto a quello pi\xF9 basso. L'ordine sar\xE0 10, 10, 8, 8, 5, 5, 3, 2,
+    1, 1. Quindi, in questa asta, puoi acquistare tre dispositivi e ottenere gratuitamente
+    quello con il prezzo pi\xF9 basso. Prova a scrivere scenari. Inizia dai primi
+    3, 10 + 10 + 8 (saranno gratuiti) = 20, 8 + 5 + 5 (saranno gratuiti) = 13, ...
+    scrivi il resto e somma tutto. La risposta corretta \xE8 \"a\"."
+  - "La risposta corretta \xE8 A o C, sono entrambi accettabili. Tuttavia, C \xE8
+    la risposta perfetta e sta considerando tutti i possibili problemi e soluzioni."
+  - "La risposta corretta \xE8 d. Rispondi a \xE8 empatico ma non segue. La risposta
+    B sta suscitando il motivo dietro il problema, ma niente di pi\xF9. La risposta
+    C \xE8 ispiratrice ma non empatica. La risposta D \xE8 empatica, ispiratrice,
+    apologetica e alla ricerca del motivo"
+  - "La risposta corretta \xE8 B in quanto si tratta di critiche distruttive. Tutte
+    le altre risposte stanno promuovendo le capacit\xE0 costruttive di critica."
+  - "La risposta corretta \xE8 D perch\xE9 non contiene un piano d'azione di supporto
+    vitale di base. La defibrillazione \xE8 il supporto vitale di base, tuttavia,
+    allontanarsi \xE8 esattamente l'opposto. In effetti, non puoi andartene perch\xE9
+    \xE8 un'omissione di soccorso."
+  - "La risposta da scegliere \xE8 C in quanto questa \xE8 l'unica risposta errata
+    e sbagliata per lo scenario.  Tutte le altre risposte sono corrette."
+  - "Imparare le lingue \xE8 come preparare il t\xE8. Per scrivere/dire qualcosa
+    secondo la grammatica, \xE8 necessario conoscere la guida linguistica. La grammatica
+    pu\xF2 essere paragonata a una ricetta di cucina, che spiega tutti i passaggi
+    necessari per preparare un piatto. Ma prima di tutto, dobbiamo conoscere gli
+    ingredienti! Gli ingredienti della grammatica linguistica sono, ad esempio, il
+    soggetto e il verbo. Dividere le frasi in \"ingredienti\" migliorer\xE0 il tuo
+    apprendimento - prova! Lo stesso vale per imparare a costruire strutture"
+  - "Se dovessi aggiungere dieci decine, sarebbe facile. La somma sarebbe 100. Sembra
+    interessante, quindi prova a iniziare l'addizione con l'ultimo numero, cio\xE8
+    10. Aggiungi ad esso la somma del primo e del penultimo, cio\xE8 1 + 9 e procedi
+    in questo modo.L'addizione sar\xE0 quindi cos\xEC: 10 + 1+9+ 2+8+ 3+7+ 4 + 6.
+    Hai cinque righe e in ognuna la somma \xE8 10. Hai cos\xEC scomposto un'operazione
+    aritmetica complessa in una serie di componenti semplici. Cinque decine, \xE8
+    50, e 50, \xE8 la met\xE0 di 100. Cio\xE8, 100 / 2. Ti rimangono altri 5 da aggiungere.
+    Tutti insieme, \xE8 100 / 2 + 5, o 55. Riesci a vedere lo schema ora che semplificher\xE0
+    i calcoli? Ora controlla se 55 \xE8 un buon risultato sommando tutti i numeri
+    da 1 a 10 uno per uno. "
+  - "Se sommi il primo e l'ultimo numero che devi sommare, che \xE8 1 + 20, ottieni
+    21. Hai 10 di queste coppie. Questi sono gli elementi costitutivi che hai scoperto
+    scomponendo un calcolo complesso. Quindi 10 x 21 = 210. Questo \xE8 lo schema
+    per tali calcoli. Ora controlla se 210 \xE8 un buon risultato sommando tutti
+    i numeri da 1 a 20 uno per uno su un pezzo di carta, in una calcolatrice o su
+    un computer. Puoi anche provare a memoria :)"
+  - "La logica dietro la sequenza data di passaggi per disegnare un quadrato verde
+    150px x 150px si basa sui principi del pensiero computazionale.  Il pensiero
+    computazionale \xE8 un approccio di risoluzione dei problemi che prevede la scomposizione
+    di un problema complesso in parti pi\xF9 piccole e gestibili e quindi analizzando
+    e risolvendo sistematicamente ogni parte. Implica una serie di passaggi, come
+    la decomposizione dei problemi, il riconoscimento dei pattern, l'astrazione,
+    la progettazione di algoritmo e la valutazione.  In questo caso, il problema
+    \xE8 disegnare un quadrato verde di dimensioni 150px x 150px. Per risolvere questo
+    problema usando il pensiero computazionale, possiamo scomporlo in passaggi pi\xF9
+    piccoli e progettare un algoritmo per eseguire quei passaggi in un ordine specifico. 
+    La sequenza dei passaggi indicata segue la seguente logica:  A) Vai al luogo
+    di partenza: questo passaggio garantisce che il programma inizi a disegnare il
+    quadrato dalla posizione desiderata sulla tela. Senza questo passaggio, il quadrato
+    pu\xF2 essere disegnato in una posizione non intenzionale sulla tela.  b) Impostare
+    il colore della penna su verde: questo passaggio imposta il colore della penna
+    su verde, che verr\xE0 utilizzato per disegnare il quadrato. Senza questo passaggio,
+    la penna pu\xF2 usare un colore diverso, che non si tradurr\xE0 in un quadrato
+    verde.  c) Sposta 150px: questo passaggio sposta la penna 150px in linea retta,
+    che former\xE0 un lato del quadrato. Questo passaggio si ripete tre volte in
+    totale per disegnare tutti e quattro i lati della piazza.  d) Ruotare in senso
+    orario di 90 gradi: questo passaggio ruota la penna di 90 gradi in senso orario,
+    che orienta la penna per disegnare il lato successivo del quadrato ad angolo
+    retto rispetto al lato precedente. Senza questo passaggio, la penna disegnerebbe
+    il lato successivo nella stessa direzione del lato precedente, risultando in
+    un rettangolo anzich\xE9 in un quadrato.  e) Ripetere i due passaggi precedenti
+    3 volte: questo passaggio ripete i due passaggi precedenti (spostare 150px e
+    ruotare di 90 gradi) tre volte per disegnare tutti e quattro i lati del quadrato.
+    Senza questo passaggio, il programma disegnerebbe solo un lato della piazza,
+    lasciandolo incompleto.  Pertanto, la sequenza data di passaggi \xE8 essenziale
+    per disegnare un quadrato verde di dimensioni 150px x 150px nella posizione e
+    nell'orientamento previsti."
+  - "Per raggiungere l'angolo in alto a destra su una tavola 5x5 a partire dalla
+    posizione quadrata centrale, il cavaliere dovrebbe muoversi in una particolare
+    sequenza di mosse. Le mosse ottimali da prendere sono:  1. Spostare 2 quadrati
+    verso il basso e 1 quadrato a destra. 2. Spostare 2 quadrati a sinistra e 1 quadrato
+    verso l'alto. 3. Spostare 2 quadrati verso l'alto e 1 quadrato a destra. 4. Spostare
+    2 quadrati a destra e 1 quadrato verso l'alto. O 1. Spostare 2 quadrati verso
+    l'alto e 1 quadrato a destra. 2. Spostare 2 quadrati verso il basso e 1 quadrato
+    a destra. 3. Spostare 2 quadrati a sinistra e 1 quadrato verso l'alto. 4. Spostare
+    2 quadrati a destra e 1 quadrato verso l'alto.  Ci sono un paio di ragioni per
+    cui queste mosse sono la soluzione ottimale per raggiungere l'angolo in alto
+    a destra dalla posizione quadrata centrale.  Innanzitutto, la mossa iniziale
+    di 2 quadrati verso il basso e 1 quadrata a destra (o 2 quadrati verso l'alto
+    e 1 quadrato a destra) \xE8 la mossa pi\xF9 efficiente per avvicinare il cavaliere
+    all'angolo. Sposta i quadrati di Knight 2 verso l'angolo mantenendo la sua posizione
+    sul tabellone.  Successivamente, la sequenza di mosse che seguono sono progettate
+    per avvicinare il cavaliere all'angolo in alto a destra possibile. Spostando
+    2 quadrati a sinistra e 1 quadrato verso l'alto, il cavaliere si avvicina al
+    bordo superiore della tavola. La successiva mossa di 2 quadrati in su e 1 quadrato
+    a destra si avvicina di nuovo al cavaliere all'angolo. Infine, la mossa di 2
+    quadrati a destra e 1 quadrata porta il cavaliere nell'angolo in alto a destra. 
+    Questa sequenza di mosse assicura che il cavaliere si muova sempre verso l'angolo
+    pur rimanendo sul tabellone. Usando queste mosse ottimali, il cavaliere pu\xF2
+    raggiungere l'angolo in alto a destra nel numero pi\xF9 breve di mosse possibili
+    dalla posizione quadrata centrale.  Nel complesso, la sequenza ottimale di mosse
+    per raggiungere l'angolo in alto a destra su una tavola 5x5 a partire dalla posizione
+    quadrata centrale comporta un'attenta pianificazione e considerazione delle regole
+    di movimento del cavaliere. Analizzando le possibili mosse e valutando la loro
+    efficienza, possiamo determinare la soluzione ottimale al problema.  Questa sequenza
+    di mosse assicura che il cavaliere si muova sempre verso l'angolo pur rimanendo
+    sul tabellone. Usando queste mosse ottimali, il cavaliere pu\xF2 raggiungere
+    l'angolo in alto a destra nel numero pi\xF9 breve di mosse possibili dalla posizione
+    quadrata centrale.  Nel complesso, la sequenza ottimale di mosse per raggiungere
+    l'angolo in alto a destra su una tavola 5x5 a partire dalla posizione quadrata
+    centrale comporta un'attenta pianificazione e considerazione delle regole di
+    movimento del cavaliere. Analizzando le possibili mosse e valutando la loro efficienza,
+    possiamo determinare la soluzione ottimale al problema.  Dal punto di vista del
+    pensiero computazionale, trovare la sequenza ottimale di mosse per un cavaliere
+    per raggiungere l'angolo in alto a destra di una tavola 5x5 a partire dalla posizione
+    quadrata centrale comporta diversi importanti concetti di pensiero computazionale:     
+    Decomposizione: per risolvere il problema, dobbiamo decomporsi in sotto-problemi
+    pi\xF9 piccoli. In particolare, dobbiamo identificare le possibili mosse che
+    un cavaliere pu\xF2 fare e valutare l'efficienza di ogni mossa in termini di
+    avvicinare il cavaliere alla posizione target.      Riconoscimento dei pattern:
+    possiamo applicare le capacit\xE0 di riconoscimento dei pattern per identificare
+    le mosse pi\xF9 efficienti per il cavaliere per raggiungere l'angolo in alto
+    a destra. In particolare, possiamo riconoscere che le mosse che prevedono lo
+    spostamento di 2 quadrati verso il basso e 1 quadrata a destra o 2 quadrati verso
+    l'alto e 1 quadrato a destra sono le pi\xF9 efficienti perch\xE9 spostano il
+    cavaliere verso la posizione target mantenendo anche la posizione del cavaliere
+    sulla tavola.      Astrazione: possiamo astrarre il problema trattando la scacchiera
+    come una griglia 5x5 di cellule e le mosse del cavaliere come un insieme di regole
+    che determinano il modo in cui il cavaliere pu\xF2 muoversi tra le cellule. Questa
+    astrazione ci consente di semplificare il problema e concentrarci sugli elementi
+    essenziali necessari per risolverlo.      Pensiero algoritmico: per trovare la
+    sequenza ottimale di mosse per il cavaliere per raggiungere l'angolo in alto
+    a destra, dobbiamo sviluppare un approccio sistematico e ripetibile. In particolare,
+    dobbiamo valutare ciascuna delle otto possibili mosse che il cavaliere pu\xF2
+    fare e scegliere le mosse che muovono il cavaliere verso la posizione target
+    mantenendo anche il cavaliere sul tabellone.      Valutazione: infine, dobbiamo
+    applicare le capacit\xE0 di ragionamento logico per valutare l'efficienza di
+    ogni mossa e scegliere le mosse migliori che il cavaliere da fare. Ci\xF2 comporta
+    la comprensione delle regole su come il cavaliere pu\xF2 muoversi sul consiglio,
+    identificare l'obiettivo del problema e utilizzare la valutazione per determinare
+    la soluzione ottimale.  Nel complesso, il problema di trovare la sequenza ottimale
+    di mosse per un cavaliere per raggiungere l'angolo in alto a destra di una scheda
+    5x5 a partire dalla posizione quadrata centrale comporta l'applicazione di diversi
+    concetti e abilit\xE0 di pensiero computazionale chiave, tra cui decomposizione,
+    riconoscimento dei pattern, astrazione algoritmica e valutazione. Applicando
+    queste abilit\xE0, possiamo determinare la sequenza di mosse pi\xF9 efficiente
+    affinch\xE9 il cavaliere raggiunga la sua destinazione."
+  - "Passaggio 1: decomposizione Per risolvere il problema, dobbiamo scomporlo in
+    parti pi\xF9 piccole. Dobbiamo determinare l'ordine in cui i castori usciranno
+    dalla terza buca. Per fare ci\xF2, dobbiamo analizzare ogni buca e capire come
+    influisce sull'ordine dei castori.  Passaggio 2: riconoscimento del modello Dobbiamo
+    cercare schemi nel modo in cui i castori superano le buchei. Per ogni buca, i
+    castori che saltano fuori usciranno per ultimi. I castori che superano la buca
+    prima di quelli che saltano dentro usciranno per primi, seguiti da quelli che
+    saltano dentro. I castori che passano la buca dopo quelli che saltano dentro
+    saranno i primi.  Passaggio 3: astrazione Dobbiamo astrarre le informazioni che
+    abbiamo raccolto e tenere traccia dell'ordine dei castori dopo aver superato
+    ogni buca in base al numero di castori che saltano dentro e all'ordine dei castori
+    prima e dopo ogni buca.  Astraiamo l'idea della soluzione. Le fasi generali di
+    astrazione possono essere annotate come segue:      Dobbiamo tenere traccia dell'ordine
+    dei castori dopo aver superato ogni buca.     Per ogni buca, dobbiamo determinare 
+    quali castori saltano dentro e quali superano la buca.     Dobbiamo determinare
+    l'ordine dei castori che passano la buca prima e dopo quelli che saltano dentro. 
+    Passaggio 4: progettazione dell'algoritmo Sulla base delle informazioni contenute
+    nel problema, possiamo determinare l'ordine dei castori dopo aver superato la
+    terza buca. Possiamo iniziare osservando l'ordine dei castori prima di superare
+    la prima buca. Poich\xE9 4 castori saltano nella prima buca, i primi quattro
+    castori nell'ordine originale saranno gli ultimi a uscire dalla prima buca. Dobbiamo
+    anche ricordare di invertire l'orgia di castori che escono dalla buca. Ripetere
+    questi passaggi per ogni foro fornir\xE0 la soluzione.  Controlliamo l'algoritmo: 
+    Inizialmente la linea \xE8 1 2 3 4 5 6 7 Quindi dopo la prima buca di profondit\xE0
+    4 abbiamo: 5 6 7 4 3 2 1 Dopo la seconda buca (profondit\xE0 2) abbiamo: 7 4
+    3 2 1 6 5 Dopo la terza buca(profondit\xE0 3) otteniamo: 2 1 6 5 3 4 7 Organizzare
+    i dati in modo strutturato \xE8 importante nell'informatica e ci sono molte diverse
+    strutture di dati che possono essere utilizzate per questo scopo. Questa attivit\xE0
+    mostra un esempio di una struttura chiamata pila, che funziona in modo simile
+    all'impilamento dei piatti uno sopra l'altro. Aggiungi sempre nuovi piatti in
+    cima alla pila e devi rimuoverli dall'alto uno alla volta. Questo tipo di struttura
+    \xE8 comunemente chiamata struttura LIFO: gli oggetti che sono stati aggiunti
+    per ultimi sono i primi ad essere rimossi. (LIFO = Last In First Out)."
+  Op1:
+  - 180
+  - '70, 80 '
+  - 67428
+  - ' Pompiere - Fire'
+  - ' Fioristi'
+  - Babblette
+  - 8
+  - ' Flusso di dati'
+  - 17
+  - B
+  - C
+  - 6
+  - 475
+  - 39
+  - 1 Prova un pezzo 2 Il pezzo si adatta, passa al pezzo successivo
+  - Mi dispiace davvero sentirlo
+  - That was a good try, but you are not quite there yet. Try this and see if it
+    works.
+  - D - Controlla il pericolo R - Controlla una risposta
+  - L'autocratico non consulterebbe il resto del team e avrebbe fissato i propri
+    obiettivi e presumeva che i membri del gruppo li avrebbero raggiunti alle loro
+    aspettative.
+  - suddividere la frase in sottoparti come soggetto, verbo, ecc.
+  - aggiungi 1, 2, 3, 4, ecc., fino a 10
+  - moltiplicare 10 per 21
+  - Vai al punto di partenza, imposta il colore della penna su verde, sposta 150
+    px, ruota in senso orario di 90 gradi, ripeti i due passaggi sopra 3 volte
+  - "Sposta 2 quadrati in alto e 1 quadrato a destra, 2 gi\xF9 1 a destra, 2 sinistra
+    1 su, 2 destra, 1 su"
+  - 4756123
+  Op2:
+  - ' 450'
+  - 75, 98
+  - 42768
+  - pescatore - pesce
+  - ' bouquet'
+  - ' canto'
+  - 9
+  - Inizia
+  - 16
+  - C
+  - D
+  - 8
+  - 415
+  - 41
+  - 1 Prova un pezzo 2 Ritorna il pezzo in pila e cerca un pezzo diverso da provare
+    3 Il pezzo si adatta al pezzo successivo
+  - "Perch\xE9 pensi di avere un cattivo voto?"
+  - "Hai ancora molta strada da fare, \xE8 come se non volessi nemmeno migliorare."
+  - S - Invia per aiuto A- Aprire le vie aeree
+  - Il Laissez-Faire non avrebbe fissato obiettivi a lungo termine per raggiungere
+    il gruppo e consentire ai membri di lavorare al proprio ritmo e indipendentemente.
+  - suddividere la frase in sottoparti come soggetto, verbo, ecc.
+  - moltiplica 10 per 5 e aggiungi 1
+  - "aggiungere 1, 2, 3, 4 e cos\xEC via, ma molto velocemente"
+  - Vai alla posizione iniziale; ruota in senso orario di 90 gradi; Imposta il colore
+    della penna sul verde; sposta 150 px; Ripeti due passaggi sopra 3 volte
+  - 'Sposta: 2 quadrati verso il basso e 1 quadrato a destra, 2 sinistra 1 su, 2
+    su 1 destra, 2 destra 1 su'
+  - 6574321
+  Op3:
+  - 270
+  - 89, 102
+  - 28647
+  - agente di polizia - sirena
+  - petali
+  - ' ortografia'
+  - 6
+  - decisione
+  - 18
+  - D
+  - E
+  - 9
+  - 450
+  - 49
+  - 1 Prova un pezzo 2 Il pezzo non si adatta, ruota e prova tutti gli orientamenti
+    3 Restituisci il pezzo alla pila e cerca un pezzo diverso da provare 4 Il pezzo
+    si adatta, passa al pezzo successivo
+  - "Non \xE8 stato un quiz duro. Sono sicuro che la prossima volta farai meglio."
+  - Anche se non ce l'hai fatta, eri vicino!
+  - B - Controlla la respirazione C - RCP (rianimazione cardiopolmonare)
+  - L'autocratico consulterebbe il resto del team e avrebbe fissato i propri obiettivi
+    e supponiamo che i membri del gruppo li raggiungessero alle loro aspettative.
+  - dare un nome ai componenti come soggetto, verbo ecc.
+  - dividi 100 per 2 e aggiungi 5
+  - "aggiungi 20, 19, 18, 17 e cos\xEC via, ma molto velocemente"
+  - Imposta il colore della penna su verde; sposta 150 px; ruotare in senso orario
+    di 90 gradi; vai al luogo di partenza; Ripeti i due passaggi sopra 3 volte
+  - Entrambi i passaggi precedenti sono corretti
+  - 2165347
+  Op4:
+  - Nessuno dei precedenti
+  - 82, 98
+  - 42867
+  - agricoltore - fattoria
+  - ' rami'
+  - silenzio
+  - 5
+  - processo
+  - 19
+  - E
+  - F
+  - 10
+  - 425
+  - 53
+  - 1 Prova un pezzo 2 Il pezzo non si adatta, ruota e prova tutti gli orientamenti
+    3 Il pezzo si adatta, passa al pezzo successivo
+  - "Mi dispiace davvero sentirlo, sono sicuro che farai meglio la prossima volta,
+    ma perch\xE9 pensi che tu abbia un brutto voto?"
+  - Ci sono alcune cose che puoi iniziare a fare diversamente. Fammi sapere se desideri
+    che ti aiuti.
+  - D - Collegare un defibrillatore W - Andarsene
+  - "Un leader democratico discuterebbe con i membri del gruppo gli obiettivi che
+    sarebbero ottenibili. Ad esempio, uscir\xE0 gli obiettivi intelligenti (specifici,
+    misurabili, raggiungibili, pertinenti, tempestivi)"
+  - mescolare i componenti come soggetto, verbo ecc. in qualsiasi ordine e verificare
+    la comprensione
+  - 'calcola: ((1 + 10 ) x 10) / 2'
+  - "aggiungi 20, 1, 19, 2, 18, 3 e cos\xEC via, ma molto velocemente"
+  - vai al luogo di partenza; Imposta il colore della penna su verde;  ripetere i
+    due passaggi precedenti 3 volte; sposta 150 px;ruota in senso orario di 90 gradi
+  - "Nessuna delle soluzioni di cui sopra \xE8 corretta"
+  - 5761432
+  answersIndex: 01000000000000000300000003000000010000000200000002000000000000000200000003000000030000000100000000000000000000000100000003000000010000000300000002000000000000000200000000000000000000000200000002000000
