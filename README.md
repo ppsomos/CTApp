@@ -1,29 +1,11 @@
 # CTApp
 
-An Escape room style game about Computational Thinking. Main features are listed below.
+Δημιουργήθηκε στο πλαίσιο του ερευνητικού Erasmus+ KA201 με τίτλο «CTApp: Teaching Students Computational Thinking Through a Mobile Application»  (2020-1-PL01-KA201-081924) δημιουργώντας το ψηφιακό παιχνίδι σοβαρού σκοπού (mobile serious game) CTApp για την εξ αποστάσεως διδασκαλία της Υπολογιστικής Σκέψης (Computational Thinking).
+https://play.google.com/store/apps/details?id=com.bgs.ctapp
+Σχετική Δημοσιεύση:
+Psomos, P. (2023) Design, Development & Evaluation of a Serious Game on Compu-tational Thinking, In Proceedings of 17th International Technology, Education and Development Conference (INTED2023), 6-8 March 2023, Valencia, Spain, p. 7441.
+https://library.iated.org/view/PSOMOS2023DES
 
-- MultiPlayer
-	- Players can choose to play the game solo or cooperatively with friends. 
-- Leaderboard
-	- Create leaderboard
-	- Search leaderboard By using ID
-	- Fetch Leaderboard
-     
--  Create Leaderboard
- 	 In this panel user put the name and id of leaderboard and create leaderboard by giving information
-- Search Leaderboard
-	When open the panel message displayed “Search the leaderboard ID above or create a new one below”
-- Fetch Leadeerboard
- 	After Select the leaderboard when click the leaderboard button selected leaderboard open and Show the player data
-
-- Localization(Language Selection)
-	In Ctapp Having 4 languages
-·   	English
-·   	Polish
-·   	Greek
-·   	Italian
-
-- Unity Version:     Unity 2022.1.1f1
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
